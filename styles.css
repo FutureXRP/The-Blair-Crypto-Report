@@ -35,3 +35,9 @@ li .meta { display: block; font-size: 12px; color: var(--muted); margin-top: 2px
 @media (min-width: 900px) {
   .frontpage { grid-template-columns: 1fr 1fr; }
 }
+/* Markets table */
+#markets { width: 100%; border-collapse: collapse; font-size: 14px; }
+#markets th, #markets td { padding: 8px; border-bottom: 1px solid #222; text-align: left; }
+#markets th { border-bottom: 1px solid var(--fg); }
+#markets .positive { color: #0f0; }
+#markets .negative { color: #f00; }
