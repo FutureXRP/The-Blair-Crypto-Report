@@ -1,0 +1,31 @@
+name: Aggregate news
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install --no-cache-dir feedparser requests pyyaml tweepy
+      - name: Aggregate feeds
+        run: python scripts/build.py
+        continue-on-error: true
+        env:
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+      - name: Commit JSON
+        run: |
+          git config user.name "blair-bot"
+          git config user.email "blairbot@example.com"
+          git add data/*.json || true
+          git commit -m "chore: aggregate $(date -u +'%Y-%m-%dT%H:%M:%SZ')" || echo "No changes"
+          git push
