@@ -228,4 +228,178 @@ sources:
     url: https://www.marketwatch.com/rss/crypto
     category: markets
   - name: Nasdaq Digital Assets
-    url: https://www.nasdaq.com/feed/rss
+    url: https://www.nasdaq.com/feed/rssoutbound
+    category: markets
+  - name: CoinMarketCap Blog
+    url: https://blog.coinmarketcap.com/feed/
+    category: markets
+  - name: CoinGecko Blog
+    url: https://blog.coingecko.com/rss/
+    category: markets
+x_accounts:
+  - name: CoinDesk
+    handle: CoinDesk
+  - name: Cointelegraph
+    handle: Cointelegraph
+  - name: TheBlock
+    handle: TheBlock__
+  - name: Decrypt
+    handle: decryptmedia
+  - name: Bankless
+    handle: BanklessHQ
+  - name: DefiantNews
+    handle: DefiantNews
+  - name: Chainlink
+    handle: chainlink
+  - name: OndoFinance
+    handle: OndoFinance
+  - name: RWA_xyz
+    handle: RWA_xyz
+  - name: DanTapiero
+    handle: DTAPCAP
+  - name: CamilaRusso
+    handle: CamiRusso
+  - name: CathieWood
+    handle: CathieDWood
+  - name: CZBinance
+    handle: cz_binance
+  - name: VitalikButerin
+    handle: VitalikButerin
+  - name: Ripple
+    handle: Ripple
+  - name: Hedera
+    handle: hedera
+  - name: StellarOrg
+    handle: StellarOrg
+  - name: RealVisionCrypto
+    handle: RealVisionCrypto
+  - name: MessariCrypto
+    handle: MessariCrypto
+  - name: Centrifuge
+    handle: centrifuge_io
+  - name: BlackRock
+    handle: BlackRock
+  - name: GaryGensler
+    handle: GaryGensler
+  - name: CryptoLawUS
+    handle: CryptoLawUS
+  - name: TokenizedHQ
+    handle: TokenizedHQ
+  - name: MichaelSaylor
+    handle: saylor
+  - name: AnthonyPompliano
+    handle: APompliano
+  - name: LarkDavis
+    handle: TheCryptoLark
+  - name: BitBoyCrypto
+    handle: BitBoy_Crypto
+  - name: CharlieLee
+    handle: SatoshiLite
+  - name: BalajiSrinivasan
+    handle: balajis
+  - name: ElonMusk
+    handle: elonmusk
+  - name: ErikVoorhees
+    handle: ErikVoorhees
+  - name: RogerVer
+    handle: rogerkver
+  - name: ChrisDixon
+    handle: cdixon
+  - name: MarcAndreessen
+    handle: pmarca
+  - name: JustinSun
+    handle: justinsuntron
+  - name: MuradMahmudov
+    handle: MustStopMurad
+  - name: CarlRunefelt
+    handle: TheMoonCarl
+  - name: AndreasAntonopoulos
+    handle: aantonop
+  - name: RanNeuner
+    handle: cryptomanran
+  - name: NatalieBrunell
+    handle: natbrunell
+  - name: AlexGladstein
+    handle: gladstein
+  - name: NicCarter
+    handle: nic__carter
+  - name: PeterMcCormack
+    handle: PeterMcCormack
+  - name: CoinMarketCap
+    handle: CoinMarketCap
+  - name: Binance
+    handle: binance
+  - name: Ethereum
+    handle: ethereum
+  - name: BitcoinMagazine
+    handle: BitcoinMagazine
+  - name: Solana
+    handle: solana
+  - name: Cardano
+    handle: Cardano
+  - name: Polkadot
+    handle: Polkadot
+  - name: Avalanche
+    handle: avax
+  - name: RWAInc
+    handle: RWA_Inc_
+  - name: RWAWatchlist
+    handle: RWAwatchlist_
+  - name: Securitize
+    handle: Securitize
+  - name: DaanCrypto
+    handle: DaanCrypto
+  - name: CryptoRover
+    handle: rovercrc
+  - name: AshCrypto
+    handle: Ashcryptoreal
+  - name: IlCapoOfCrypto
+    handle: CryptoCapo_
+  - name: MichaelVanDePoppe
+    handle: CryptoMichNL
+  - name: CryptoSlate
+    handle: CryptoSlate
+  - name: CoinBureau
+    handle: CoinBureau
+  - name: Glassnode
+    handle: glassnode
+  - name: Chainalysis
+    handle: chainalysis
+  - name: KaikoData
+    handle: KaikoData
+  - name: ArkhamIntel
+    handle: arkhamintel
+  - name: NansenAI
+    handle: nansen_ai
+  - name: DuneAnalytics
+    handle: dune
+  - name: Coinbase
+    handle: coinbase
+  - name: KrakenFX
+    handle: krakenfx
+  - name: FlareNetwork
+    handle: FlareNetworks
+  - name: XinFin_Official
+    handle: XinFin_Official
+  - name: HederaHashgraph
+    handle: hedera
+  - name: ZebecProtocol
+    handle: Zebec_HQ
+  - name: SongbirdSGB
+    handle: SongbirdSGB
+  - name: BradGarlinghouse
+    handle: bgarlinghouse
+  - name: DavidSchwartz
+    handle: JoelKatz
+  - name: CharlesHoskinson
+    handle: IOHK_Charles
+  - name: GavinWood
+    handle: gavofyork
+  - name: AnatolyYakovenko
+    handle: aeyakovenko
+  - name: SergeyNazarov
+    handle: SergeyNazarov
+  - name: JedMcCaleb
+    handle: JedMcCaleb
+  - name: LeemonBaird
+    handle: leemonbaird
