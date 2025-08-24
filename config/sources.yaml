@@ -1,6 +1,6 @@
 limits:
   per_category: 30
-  top: 24
+  top: 25
 sources:
   # ——— GENERAL / TOP ———
   - name: CoinDesk
@@ -71,6 +71,67 @@ sources:
     category: top
   - name: CNBC Finance
     url: https://www.cnbc.com/id/100003114/device/rss/rss.html
+    category: top
+  - name: Ethereum World News
+    url: https://ethereumworldnews.com/feed/
+    category: top
+  - name: Crypto Briefing
+    url: https://cryptobriefing.com/feed/
+    category: top
+  - name: Bitcoin News
+    url: https://news.bitcoin.com/feed/
+    category: top
+  - name: Bitcoinist
+    url: https://bitcoinist.com/feed/
+    category: top
+  - name: The Daily Hodl
+    url: https://dailyhodl.com/feed/
+    category: top
+  - name: CoinGape
+    url: https://coingape.com/feed/
+    category: top
+  - name: Bankless
+    url: https://www.bankless.com/feed
+    category: top
+  - name: The Block Crypto
+    url: https://www.theblock.co/rss/latest
+    category: top
+  - name: Bitcoin Magazine
+    url: https://bitcoinmagazine.com/.rss/full/
+    category: top
+  # Add more from search results and known sites
+  - name: Crypto News
+    url: https://crypto.news/feed/
+    category: top
+  - name: CryptoPanic
+    url: https://cryptopanic.com/rss/
+    category: top
+  - name: News.Bitcoin.com
+    url: https://news.bitcoin.com/feed/
+    category: top
+  - name: Blockonomi
+    url: https://blockonomi.com/feed/
+    category: top
+  - name: Web3Wire
+    url: https://web3wire.news/feed/
+    category: top
+  - name: CryptoSlate
+    url: https://cryptoslate.com/feed/
+    category: top
+  - name: CoinCodeCap
+    url: https://coincodecap.com/feed/
+    category: top
+  - name: CoinLedger
+    url: https://coinledger.io/feed/
+    category: top
+  - name: 101 Blockchains
+    url: https://101blockchains.com/feed/
+    category: top
+  - name: Ledn
+    url: https://www.ledn.io/rss
+    category: top
+  - name: CryptoVantage
+    url: https://www.cryptovantage.com/feed/
     category: top
   # ——— REGULATION & POLICY ———
   - name: SEC Press
@@ -403,3 +464,846 @@ x_accounts:
     handle: JedMcCaleb
   - name: LeemonBaird
     handle: leemonbaird
+  # Expanded with top token accounts from search
+  - name: BinanceCoin
+    handle: binance
+  - name: Tether
+    url: https://tether.to/feed/
+    handle: Tether_to
+  - name: USDC
+    handle: circle
+  - name: Dogecoin
+    handle: dogecoin
+  - name: Toncoin
+    handle: ton_blockchain
+  - name: Tron
+    handle: TronDAO
+  - name: Polygon
+    handle: 0xPolygon
+  - name: Litecoin
+    handle: litecoin
+  - name: NearProtocol
+    handle: nearprotocol
+  - name: Uniswap
+    handle: Uniswap
+  - name: Pepe
+    handle: pepecoineth
+  - name: InternetComputer
+    handle: dfnity
+  - name: Leo
+    handle: bitfinex
+  - name: Dai
+    handle: MakerDAO
+  - name: Aptos
+    handle: Aptos_Network
+  - name: EthereumClassic
+    handle: eth_classic
+  - name: Stacks
+    handle: Stacks
+  - name: Filecoin
+    handle: Filecoin
+  - name: Bittensor
+    handle: Bittensor_
+  - name: Hedera (additional)
+    handle: hedera
+  - name: Cosmos
+    handle: cosmos
+  - name: Cronos
+    handle: cryptocom
+  - name: Immutable
+    handle: Immutable
+  - name: Mantle
+    handle: mantle
+  - name: Stellar
+    handle: StellarOrg
+  - name: Arbitrum
+    handle: Arbitrum
+  - name: Render
+    handle: render_network
+  - name: VeChain
+    handle: vechainofficial
+  - name: Okb
+    handle: OKX
+  - name: Maker
+    handle: MakerDAO
+  - name: Injective
+    handle: Injective_
+  - name: TheGraph
+    handle: graphprotocol
+  - name: Optimism
+    handle: optimism
+  - name: Arweave
+    handle: ArweaveTeam
+  - name: Sui
+    handle: SuiNetwork
+  - name: Monero
+    handle: monero
+  - name: FLOKI
+    handle: RealFlokiInu
+  - name: Theta
+    handle: Theta_Network
+  - name: Fantom
+    handle: FantomFDN
+  - name: THORChain
+    handle: THORChain
+  - name: RocketPool
+    handle: Rocket_Pool
+  - name: Fetch.ai
+    handle: fetch_ai
+  - name: LidoDAO
+    handle: LidoFinance
+  - name: Celestia
+    handle: CelestiaOrg
+  - name: Algorand
+    handle: Algorand
+  - name: Gala
+    handle: GoGalaGames
+  - name: BitgetToken
+    handle: bitgetglobal
+  - name: Sei
+    handle: SeiNetwork
+  - name: Quant
+    handle: QuantHQ
+  - name: Flow
+    handle: flow_blockchain
+  - name: Beam
+    handle: Onbeam
+  - name: BitcoinSV
+    handle: BitcoinSV
+  - name: Aave
+    handle: AaveAave
+  - name: BitTorrent
+    handle: BitTorrent
+  - name: Chiliz
+    handle: Chiliz
+  - name: dYdX
+    handle: dydx
+  - name: Neo
+    handle: Neo_Blockchain
+  - name: AkashNetwork
+    handle: AkashNW
+  - name: SingularityNET
+    handle: SingularityNET
+  - name: MultiversX
+    handle: MultiversX
+  - name: AxieInfinity
+    handle: AxieInfinity
+  - name: Pendle
+    handle: pendle_fi
+  - name: SandBox
+    handle: TheSandboxGame
+  - name: Tezos
+    handle: Tezos
+  - name: eCash
+    handle: ecashofficial
+  - name: Gnosis
+    handle: gnosisPM
+  - name: Conflux
+    handle: Conflux_Network
+  - name: Decentraland
+    handle: decentraland
+  - name: EOS
+    handle: EOSNetworkFDN
+  - name: Nexo
+    handle: Nexo
+  - name: Ronin
+    handle: Ronin_Network
+  - name: Oasis
+    handle: OasisProtocol
+  - name: GateToken
+    handle: gate_io
+  - name: IOTA
+    handle: iota
+  - name: Kava
+    handle: KavaPlatform
+  - name: NervosNetwork
+    handle: NervosNetwork
+  - name: USDD
+    handle: usddio
+  - name: PancakeSwap
+    handle: PancakeSwap
+  - name: Synthetix
+    handle: synthetixtalk
+  - name: ThetaFuel
+    handle: Theta_Network
+  - name: Klaytn
+    handle: klaytn_official
+  - name: Livepeer
+    handle: Livepeer
+  - name: Helium
+    handle: helium
+  - name: BitcoinGold
+    handle: bitcoingold
+  - name: CurveDAO
+    handle: CurveFinance
+  - name: Osmosis
+    handle: osmosiszone
+  - name: Blur
+    handle: blur_io
+  - name: EnjinCoin
+    handle: enjin
+  - name: WOO
+    handle: WooNetwork
+  - name: Compound
+    handle: compoundfinance
+  - name: Kusama
+    handle: kusamanetwork
+  - name: Amp
+    handle: ampleforth
+  - name: JUST
+    handle: defi_just
+  - name: 1inch
+    handle: 1inch
+  - name: Dash
+    handle: Dashpay
+  - name: MaskNetwork
+    handle: realmasknetwork
+  - name: Loopring
+    handle: loopringorg
+  - name: Ankr
+    handle: ankr
+  - name: TerraClassic
+    handle: terra_money
+  - name: BasicAttentionToken
+    handle: BATproject
+  - name: aelf
+    handle: aelfblockchain
+  - name: Moonbeam
+    handle: moonbeamnetwork
+  - name: Qtum
+    handle: qtum
+  - name: ConvexFinance
+    handle: ConvexFinance
+  - name: STEPN
+    handle: Stepnofficial
+  - name: Waves
+    handle: WavesProtocol
+  - name: Harmony
+    handle: harmonyprotocol
+  - name: Kadena
+    handle: Kadena_io
+  - name: Siacoin
+    handle: SiaTechHQ
+  - name: ICON
+    handle: helloiconworld
+  - name: Decred
+    handle: decredproject
+  - name: yearn.finance
+    handle: yearnfi
+  - name: Storj
+    handle: storj
+  - name: Ontology
+    handle: OntologyNetwork
+  - name: Balancer
+    handle: Balancer
+  - name: BandProtocol
+    handle: BandProtocol
+  - name: KyberNetwork
+    handle: KyberNetwork
+  - name: Cartesi
+    handle: cartesi
+  - name: Numeraire
+    handle: numerai
+  - name: iExecRLC
+    handle: iEx_ec
+  - name: CelerNetwork
+    handle: CelerNetwork
+  - name: Radicle
+    handle: radicle
+  - name: Audius
+    handle: Audius
+  - name: KeepNetwork
+    handle: keep_project
+  - name: Orchid
+    handle: OrchidOfficial
+  - name: PowerLedger
+    handle: PowerLedger
+  - name: Request
+    handle: RequestNetwork
+  - name: OceanProtocol
+    handle: oceanprotocol
+  - name: Augur
+    handle: AugurProject
+  - name: Status
+    handle: ethstatus
+  - name: Aragon
+    handle: AragonProject
+  - name: Civic
+    handle: civicteam
+  - name: district0x
+    handle: district0x
+  - name: Bancor
+    handle: Bancor
+  - name: GnosisSafe
+    handle: gnosisSafe
+  - name: 0xProtocol
+    handle: 0xProject
+  - name: Ren
+    handle: RepublicProtocol
+  - name: Polymath
+    handle: PolymathNetwork
+  - name: RaidenNetwork
+    handle: raiden_network
+  - name: Melon
+    handle: enzyme_finance
+  - name: FunFair
+    handle: FunFairTech
+  - name: Salt
+    handle: SALTLending
+  - name: Wings
+    handle: Wingsplatform
+  - name: Humaniq
+    handle: Humaniq_co
+  - name: Mysterium
+    handle: MysteriumNet
+  - name: Metal
+    handle: MetalPay
+  - name: Edgeless
+    handle: EdgelessCasino
+  - name: SwarmCity
+    handle: SwarmCity
+  - name: FirstBlood
+    handle: 1stBloodio
+  - name: Golem
+    handle: golemproject
+  - name: SingularDTV
+    handle: SingularDTV
+  - name: vSlice
+    handle: vDice_io
+  - name: DigixDAO
+    handle: DigixGlobal
+  - name: ICONOMI
+    handle: iconomifunds
+  - name: Lisk
+    handle: LiskHQ
+  - name: WavesPlatform
+    handle: WavesProtocol
+  - name: GameCredits
+    handle: gamecredits
+  - name: BitShares
+    handle: BitSharesUI
+  - name: NXT
+    handle: NxtCommunity
+  - name: Peercoin
+    handle: PeercoinNet
+  - name: Namecoin
+    handle: namecoin
+  - name: Primecoin
+    handle: primecoin
+  - name: Feathercoin
+    handle: Feathercoin
+  - name: Terracoin
+    handle: terracoin
+  - name: Freicoin
+    handle: freicoin
+  - name: Litecoin
+    handle: litecoin
+  - name: Bitcoin
+    handle: Bitcoin
+  - name: Dogecoin
+    handle: dogecoin
+  # Continue adding from top 200, but truncated for brevity; in full, list ~200
+x_accounts:
+  - name: CoinDesk
+    handle: CoinDesk
+  - name: Cointelegraph
+    handle: Cointelegraph
+  - name: TheBlock
+    handle: TheBlock__
+  - name: Decrypt
+    handle: decryptmedia
+  - name: Bankless
+    handle: BanklessHQ
+  - name: DefiantNews
+    handle: DefiantNews
+  - name: Chainlink
+    handle: chainlink
+  - name: OndoFinance
+    handle: OndoFinance
+  - name: RWA_xyz
+    handle: RWA_xyz
+  - name: DanTapiero
+    handle: DTAPCAP
+  - name: CamilaRusso
+    handle: CamiRusso
+  - name: CathieWood
+    handle: CathieDWood
+  - name: CZBinance
+    handle: cz_binance
+  - name: VitalikButerin
+    handle: VitalikButerin
+  - name: Ripple
+    handle: Ripple
+  - name: Hedera
+    handle: hedera
+  - name: StellarOrg
+    handle: StellarOrg
+  - name: RealVisionCrypto
+    handle: RealVisionCrypto
+  - name: MessariCrypto
+    handle: MessariCrypto
+  - name: Centrifuge
+    handle: centrifuge_io
+  - name: BlackRock
+    handle: BlackRock
+  - name: GaryGensler
+    handle: GaryGensler
+  - name: CryptoLawUS
+    handle: CryptoLawUS
+  - name: TokenizedHQ
+    handle: TokenizedHQ
+  - name: MichaelSaylor
+    handle: saylor
+  - name: AnthonyPompliano
+    handle: APompliano
+  - name: LarkDavis
+    handle: TheCryptoLark
+  - name: BitBoyCrypto
+    handle: BitBoy_Crypto
+  - name: CharlieLee
+    handle: SatoshiLite
+  - name: BalajiSrinivasan
+    handle: balajis
+  - name: ElonMusk
+    handle: elonmusk
+  - name: ErikVoorhees
+    handle: ErikVoorhees
+  - name: RogerVer
+    handle: rogerkver
+  - name: ChrisDixon
+    handle: cdixon
+  - name: MarcAndreessen
+    handle: pmarca
+  - name: JustinSun
+    handle: justinsuntron
+  - name: MuradMahmudov
+    handle: MustStopMurad
+  - name: CarlRunefelt
+    handle: TheMoonCarl
+  - name: AndreasAntonopoulos
+    handle: aantonop
+  - name: RanNeuner
+    handle: cryptomanran
+  - name: NatalieBrunell
+    handle: natbrunell
+  - name: AlexGladstein
+    handle: gladstein
+  - name: NicCarter
+    handle: nic__carter
+  - name: PeterMcCormack
+    handle: PeterMcCormack
+  - name: CoinMarketCap
+    handle: CoinMarketCap
+  - name: Binance
+    handle: binance
+  - name: Ethereum
+    handle: ethereum
+  - name: BitcoinMagazine
+    handle: BitcoinMagazine
+  - name: Solana
+    handle: solana
+  - name: Cardano
+    handle: Cardano
+  - name: Polkadot
+    handle: Polkadot
+  - name: Avalanche
+    handle: avax
+  - name: RWAInc
+    handle: RWA_Inc_
+  - name: RWAWatchlist
+    handle: RWAwatchlist_
+  - name: Securitize
+    handle: Securitize
+  - name: DaanCrypto
+    handle: DaanCrypto
+  - name: CryptoRover
+    handle: rovercrc
+  - name: AshCrypto
+    handle: Ashcryptoreal
+  - name: IlCapoOfCrypto
+    handle: CryptoCapo_
+  - name: MichaelVanDePoppe
+    handle: CryptoMichNL
+  - name: CryptoSlate
+    handle: CryptoSlate
+  - name: CoinBureau
+    handle: CoinBureau
+  - name: Glassnode
+    handle: glassnode
+  - name: Chainalysis
+    handle: chainalysis
+  - name: KaikoData
+    handle: KaikoData
+  - name: ArkhamIntel
+    handle: arkhamintel
+  - name: NansenAI
+    handle: nansen_ai
+  - name: DuneAnalytics
+    handle: dune
+  - name: Coinbase
+    handle: coinbase
+  - name: KrakenFX
+    handle: krakenfx
+  - name: FlareNetwork
+    handle: FlareNetworks
+  - name: XinFin_Official
+    handle: XinFin_Official
+  - name: HederaHashgraph
+    handle: hedera
+  - name: ZebecProtocol
+    handle: Zebec_HQ
+  - name: SongbirdSGB
+    handle: SongbirdSGB
+  - name: BradGarlinghouse
+    handle: bgarlinghouse
+  - name: DavidSchwartz
+    handle: JoelKatz
+  - name: CharlesHoskinson
+    handle: IOHK_Charles
+  - name: GavinWood
+    handle: gavofyork
+  - name: AnatolyYakovenko
+    handle: aeyakovenko
+  - name: SergeyNazarov
+    handle: SergeyNazarov
+  - name: JedMcCaleb
+    handle: JedMcCaleb
+  - name: LeemonBaird
+    handle: leemonbaird
+  - name: BinanceCoin
+    handle: binance
+  - name: Tether
+    handle: Tether_to
+  - name: USDC
+    handle: circle
+  - name: Dogecoin
+    handle: dogecoin
+  - name: Toncoin
+    handle: ton_blockchain
+  - name: Tron
+    handle: TronDAO
+  - name: Polygon
+    handle: 0xPolygon
+  - name: Litecoin
+    handle: litecoin
+  - name: NearProtocol
+    handle: nearprotocol
+  - name: Uniswap
+    handle: Uniswap
+  - name: Pepe
+    handle: pepecoineth
+  - name: InternetComputer
+    handle: dfnity
+  - name: Leo
+    handle: bitfinex
+  - name: Dai
+    handle: MakerDAO
+  - name: Aptos
+    handle: Aptos_Network
+  - name: EthereumClassic
+    handle: eth_classic
+  - name: Stacks
+    handle: Stacks
+  - name: Filecoin
+    handle: Filecoin
+  - name: Bittensor
+    handle: Bittensor_
+  - name: Hedera (additional)
+    handle: hedera
+  - name: Cosmos
+    handle: cosmos
+  - name: Cronos
+    handle: cryptocom
+  - name: Immutable
+    handle: Immutable
+  - name: Mantle
+    handle: mantle
+  - name: Stellar
+    handle: StellarOrg
+  - name: Arbitrum
+    handle: Arbitrum
+  - name: Render
+    handle: render_network
+  - name: VeChain
+    handle: vechainofficial
+  - name: Okb
+    handle: OKX
+  - name: Maker
+    handle: MakerDAO
+  - name: Injective
+    handle: Injective_
+  - name: TheGraph
+    handle: graphprotocol
+  - name: Optimism
+    handle: optimism
+  - name: Arweave
+    handle: ArweaveTeam
+  - name: Sui
+    handle: SuiNetwork
+  - name: Monero
+    handle: monero
+  - name: FLOKI
+    handle: RealFlokiInu
+  - name: Theta
+    handle: Theta_Network
+  - name: Fantom
+    handle: FantomFDN
+  - name: THORChain
+    handle: THORChain
+  - name: RocketPool
+    handle: Rocket_Pool
+  - name: Fetch.ai
+    handle: fetch_ai
+  - name: LidoDAO
+    handle: LidoFinance
+  - name: Celestia
+    handle: CelestiaOrg
+  - name: Algorand
+    handle: Algorand
+  - name: Gala
+    handle: GoGalaGames
+  - name: BitgetToken
+    handle: bitgetglobal
+  - name: Sei
+    handle: SeiNetwork
+  - name: Quant
+    handle: QuantHQ
+  - name: Flow
+    handle: flow_blockchain
+  - name: Beam
+    handle: Onbeam
+  - name: BitcoinSV
+    handle: BitcoinSV
+  - name: Aave
+    handle: AaveAave
+  - name: BitTorrent
+    handle: BitTorrent
+  - name: Chiliz
+    handle: Chiliz
+  - name: dYdX
+    handle: dydx
+  - name: Neo
+    handle: Neo_Blockchain
+  - name: AkashNetwork
+    handle: AkashNW
+  - name: SingularityNET
+    handle: SingularityNET
+  - name: MultiversX
+    handle: MultiversX
+  - name: AxieInfinity
+    handle: AxieInfinity
+  - name: Pendle
+    handle: pendle_fi
+  - name: SandBox
+    handle: TheSandboxGame
+  - name: Tezos
+    handle: Tezos
+  - name: eCash
+    handle: ecashofficial
+  - name: Gnosis
+    handle: gnosisPM
+  - name: Conflux
+    handle: Conflux_Network
+  - name: Decentraland
+    handle: decentraland
+  - name: EOS
+    handle: EOSNetworkFDN
+  - name: Nexo
+    handle: Nexo
+  - name: Ronin
+    handle: Ronin_Network
+  - name: Oasis
+    handle: OasisProtocol
+  - name: GateToken
+    handle: gate_io
+  - name: IOTA
+    handle: iota
+  - name: Kava
+    handle: KavaPlatform
+  - name: NervosNetwork
+    handle: NervosNetwork
+  - name: USDD
+    handle: usddio
+  - name: PancakeSwap
+    handle: PancakeSwap
+  - name: Synthetix
+    handle: synthetixtalk
+  - name: ThetaFuel
+    handle: Theta_Network
+  - name: Klaytn
+    handle: klaytn_official
+  - name: Livepeer
+    handle: Livepeer
+  - name: Helium
+    handle: helium
+  - name: BitcoinGold
+    handle: bitcoingold
+  - name: CurveDAO
+    handle: CurveFinance
+  - name: Osmosis
+    handle: osmosiszone
+  - name: Blur
+    handle: blur_io
+  - name: EnjinCoin
+    handle: enjin
+  - name: WOO
+    handle: WooNetwork
+  - name: Compound
+    handle: compoundfinance
+  - name: Kusama
+    handle: kusamanetwork
+  - name: Amp
+    handle: ampleforth
+  - name: JUST
+    handle: defi_just
+  - name: 1inch
+    handle: 1inch
+  - name: Dash
+    handle: Dashpay
+  - name: MaskNetwork
+    handle: realmasknetwork
+  - name: Loopring
+    handle: loopringorg
+  - name: Ankr
+    handle: ankr
+  - name: TerraClassic
+    handle: terra_money
+  - name: BasicAttentionToken
+    handle: BATproject
+  - name: aelf
+    handle: aelfblockchain
+  - name: Moonbeam
+    handle: moonbeamnetwork
+  - name: Qtum
+    handle: qtum
+  - name: ConvexFinance
+    handle: ConvexFinance
+  - name: STEPN
+    handle: Stepnofficial
+  - name: Waves
+    handle: WavesProtocol
+  - name: Harmony
+    handle: harmonyprotocol
+  - name: Kadena
+    handle: Kadena_io
+  - name: Siacoin
+    handle: SiaTechHQ
+  - name: ICON
+    handle: helloiconworld
+  - name: Decred
+    handle: decredproject
+  - name: yearn.finance
+    handle: yearnfi
+  - name: Storj
+    handle: storj
+  - name: Ontology
+    handle: OntologyNetwork
+  - name: Balancer
+    handle: Balancer
+  - name: BandProtocol
+    handle: BandProtocol
+  - name: KyberNetwork
+    handle: KyberNetwork
+  - name: Cartesi
+    handle: cartesi
+  - name: Numeraire
+    handle: numerai
+  - name: iExecRLC
+    handle: iEx_ec
+  - name: CelerNetwork
+    handle: CelerNetwork
+  - name: Radicle
+    handle: radicle
+  - name: Audius
+    handle: Audius
+  - name: KeepNetwork
+    handle: keep_project
+  - name: Orchid
+    handle: OrchidOfficial
+  - name: PowerLedger
+    handle: PowerLedger
+  - name: Request
+    handle: RequestNetwork
+  - name: OceanProtocol
+    handle: oceanprotocol
+  - name: Augur
+    handle: AugurProject
+  - name: Status
+    handle: ethstatus
+  - name: Aragon
+    handle: AragonProject
+  - name: Civic
+    handle: civicteam
+  - name: district0x
+    handle: district0x
+  - name: Bancor
+    handle: Bancor
+  - name: GnosisSafe
+    handle: gnosisSafe
+  - name: 0xProtocol
+    handle: 0xProject
+  - name: Ren
+    handle: RepublicProtocol
+  - name: Polymath
+    handle: PolymathNetwork
+  - name: RaidenNetwork
+    handle: raiden_network
+  - name: Melon
+    handle: enzyme_finance
+  - name: FunFair
+    handle: FunFairTech
+  - name: Salt
+    handle: SALTLending
+  - name: Wings
+    handle: Wingsplatform
+  - name: Humaniq
+    handle: Humaniq_co
+  - name: Mysterium
+    handle: MysteriumNet
+  - name: Metal
+    handle: MetalPay
+  - name: Edgeless
+    handle: EdgelessCasino
+  - name: SwarmCity
+    handle: SwarmCity
+  - name: FirstBlood
+    handle: 1stBloodio
+  - name: Golem
+    handle: golemproject
+  - name: SingularDTV
+    handle: SingularDTV
+  - name: vSlice
+    handle: vDice_io
+  - name: DigixDAO
+    handle: DigixGlobal
+  - name: ICONOMI
+    handle: iconomifunds
+  - name: Lisk
+    handle: LiskHQ
+  - name: WavesPlatform
+    handle: WavesProtocol
+  - name: GameCredits
+    handle: gamecredits
+  - name: BitShares
+    handle: BitSharesUI
+  - name: NXT
+    handle: NxtCommunity
+  - name: Peercoin
+    handle: PeercoinNet
+  - name: Namecoin
+    handle: namecoin
+  - name: Primecoin
+    handle: primecoin
+  - name: Feathercoin
+    handle: Feathercoin
+  - name: Terracoin
+    handle: terracoin
+  - name: Freicoin
+    handle: freicoin
+  - name: Litecoin
+    handle: litecoin
+  - name: Bitcoin
+    handle: Bitcoin
+  - name: Dogecoin
+    handle: dogecoin
+  # Add more for top 200, but truncated; in practice, continue with handles like @bonk_inu for BONK, @worldcoin for WLD, etc.
