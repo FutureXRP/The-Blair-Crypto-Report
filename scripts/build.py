@@ -289,8 +289,8 @@ for acc in cfg.get('x_accounts', []):
 prices_api = 'https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=125&page=1&sparkline=false&price_change_percentage=24h'
 prices = get_json(prices_api)
 # Compute gainers and losers
-gainers = sorted([p for p in prices if p['price_change_percentage_24h'] > 0], key=lambda p: p['price_change_percentage_24h'], reverse=True)[:15]
-losers = sorted([p for p in prices if p['price_change_percentage_24h'] < 0], key=lambda p: p['price_change_percentage_24h'])[:15]
+gainers = sorted([p for p in prices if p['price_change_percentage_24h'] is not None and p['price_change_percentage_24h'] > 0], key=lambda p: p['price_change_percentage_24h'], reverse=True)[:15]
+losers = sorted([p for p in prices if p['price_change_percentage_24h'] is not None and p['price_change_percentage_24h'] < 0], key=lambda p: p['price_change_percentage_24h'])[:15]
 prices_data = {
     "prices": [{"rank": i+1, "symbol": p['symbol'], "price": p['current_price'], "change24h": p['price_change_percentage_24h']} for i,p in enumerate(prices)],
     "gainers": [{"symbol": p['symbol'], "price": p['current_price'], "change24h": p['price_change_percentage_24h']} for p in gainers],
