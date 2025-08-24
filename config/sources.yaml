@@ -1,0 +1,267 @@
+limits:
+  per_category: 18
+  top: 24
+sources:
+  # ——— GENERAL / TOP ———
+  - name: CoinDesk
+    url: https://www.coindesk.com/arc/outboundfeeds/rss/?outputType=xml
+    category: top
+  - name: Cointelegraph
+    url: https://cointelegraph.com/rss
+    category: top
+  - name: CryptoSlate
+    url: https://cryptoslate.com/feed/
+    category: top
+  - name: Decrypt
+    url: https://decrypt.co/feed
+    category: top
+  - name: The Block
+    url: https://www.theblock.co/rss/latest
+    category: top
+  - name: Bitcoin Magazine
+    url: https://bitcoinmagazine.com/.rss/full/
+    category: top
+  - name: AMBCrypto
+    url: https://ambcrypto.com/feed/
+    category: top
+  - name: BeInCrypto
+    url: https://beincrypto.com/feed/
+    category: top
+  - name: Daily Hodl
+    url: https://dailyhodl.com/feed/
+    category: top
+  - name: U.Today
+    url: https://u.today/rss
+    category: top
+  - name: NewsBTC
+    url: https://www.newsbtc.com/feed/
+    category: top
+  - name: CryptoPotato
+    url: https://cryptopotato.com/feed/
+    category: top
+  - name: Blockworks
+    url: https://blockworks.co/feed
+    category: top
+  - name: Protos
+    url: https://protos.com/feed/
+    category: top
+  - name: CoinJournal
+    url: https://coinjournal.net/feed/
+    category: top
+  - name: Finextra
+    url: https://www.finextra.com/rss/news.aspx
+    category: top
+  - name: Reuters Technology
+    url: https://feeds.reuters.com/reuters/technologyNews
+    category: top
+  - name: Reuters Markets
+    url: https://feeds.reuters.com/reuters/businessNews
+    category: top
+  - name: Yahoo Finance Crypto
+    url: https://finance.yahoo.com/topic/crypto/rssindex
+    category: top
+  - name: Bloomberg Crypto
+    url: https://www.bloomberg.com/feed/topics/crypto.xml
+    category: top
+  - name: Fortune Crypto
+    url: https://fortune.com/crypto/feed
+    category: top
+  - name: Forbes Crypto
+    url: https://www.forbes.com/crypto-blockchain/feed/
+    category: top
+  - name: CNBC Finance
+    url: https://www.cnbc.com/id/100003114/device/rss/rss.html
+    category: top
+  # ——— REGULATION & POLICY ———
+  - name: SEC Press
+    url: https://www.sec.gov/news/pressreleases.rss
+    category: regulation
+  - name: CFTC Press
+    url: https://www.cftc.gov/PressRoom/PressReleases/rss
+    category: regulation
+  - name: US Treasury
+    url: https://home.treasury.gov/news/press-releases/feed
+    category: regulation
+  - name: Federal Reserve
+    url: https://www.federalreserve.gov/feeds/press_all.xml
+    category: regulation
+  - name: IMF Blog
+    url: https://blogs.imf.org/feed/
+    category: regulation
+  - name: BIS Press
+    url: https://www.bis.org/list/press_releases.rss
+    category: regulation
+  - name: World Bank Blogs
+    url: https://blogs.worldbank.org/feed
+    category: regulation
+  - name: Reuters Financial Regulation
+    url: https://feeds.reuters.com/reuters/financialRegulatory
+    category: regulation
+  - name: Politico Finance
+    url: https://www.politico.com/rss/politics08.xml
+    category: regulation
+  - name: FT Alphaville
+    url: https://ftalphaville.ft.com/feed/
+    category: regulation
+  - name: CoinDesk Regulation
+    url: https://www.coindesk.com/policy/rss/
+    category: regulation
+  - name: The Block Regulation
+    url: https://www.theblock.co/rss/regulation
+    category: regulation
+  - name: Decrypt Regulation
+    url: https://decrypt.co/feed
+    category: regulation
+  # ——— TOKENIZATION / RWAs ———
+  - name: R3 Blog
+    url: https://www.r3.com/feed/
+    category: tokenization
+  - name: DTCC News
+    url: https://www.dtcc.com/news/atom
+    category: tokenization
+  - name: Securitize
+    url: https://securitize.io/blog/rss.xml
+    category: tokenization
+  - name: Tokeny
+    url: https://blog.tokeny.com/rss.xml
+    category: tokenization
+  - name: Ondo Finance
+    url: https://blog.ondo.finance/feed
+    category: tokenization
+  - name: Franklin Templeton Digital Assets
+    url: https://digitalassets.franklintempleton.com/feed/
+    category: tokenization
+  - name: Hamilton Lane
+    url: https://www.hamiltonlane.com/en-US/rss
+    category: tokenization
+  - name: Deloitte FS
+    url: https://www2.deloitte.com/global/en/insights/industry/financial-services.rss.html
+    category: tokenization
+  - name: PwC
+    url: https://www.pwc.com/gx/en/industries/financial-services/assets.rss
+    category: tokenization
+  - name: EY Global Finance
+    url: https://www.ey.com/en_gl/rss
+    category: tokenization
+  - name: BCG Insights
+    url: https://www.bcg.com/insights/rss
+    category: tokenization
+  - name: Accenture Blockchain
+    url: https://www.accenture.com/us-en/insights/blockchain/_jcr_content/root/responsivegrid/feed.xml
+    category: tokenization
+  # ——— RESEARCH / DATA ———
+  - name: Messari Research
+    url: https://messari.io/rss
+    category: research
+  - name: Glassnode Insights
+    url: https://insights.glassnode.com/rss/
+    category: research
+  - name: Coin Metrics
+    url: https://coinmetrics.io/feed/
+    category: research
+  - name: Nansen Blog
+    url: https://www.nansen.ai/blog/rss.xml
+    category: research
+  - name: Kaiko Research
+    url: https://www.kaiko.com/feed
+    category: research
+  - name: Chainalysis Blog
+    url: https://blog.chainalysis.com/feed/
+    category: research
+  - name: IntoTheBlock
+    url: https://blog.intotheblock.com/feed
+    category: research
+  - name: TokenTerminal
+    url: https://tokenterminal.com/feed
+    category: research
+  - name: Santiment Insights
+    url: https://insights.santiment.net/feed
+    category: research
+  - name: CryptoQuant Blog
+    url: https://cryptoquant.com/blog/feed
+    category: research
+  - name: Ark Invest
+    url: https://ark-invest.com/feed/
+    category: research
+  # ——— CULTURE / COMMENTARY ———
+  - name: Bankless
+    url: https://www.bankless.com/feed
+    category: culture
+  - name: The Defiant
+    url: https://thedefiant.io/feed
+    category: culture
+  - name: Unchained
+    url: https://unchainedcrypto.com/feed/
+    category: culture
+  - name: Blockworks
+    url: https://blockworks.co/feed
+    category: culture
+  - name: Protos
+    url: https://protos.com/feed/
+    category: culture
+  - name: Coin Bureau
+    url: https://www.coinbureau.com/feed/
+    category: culture
+  - name: CoinDesk Opinion
+    url: https://www.coindesk.com/opinion/rss
+    category: culture
+  - name: Bitcoinist
+    url: https://bitcoinist.com/feed/
+    category: culture
+  - name: BTC Times
+    url: https://www.btctimes.com/rss
+    category: culture
+  # ——— MARKETS ———
+  - name: CoinDesk Markets
+    url: https://www.coindesk.com/markets/rss/
+    category: markets
+  - name: Cointelegraph Markets
+    url: https://cointelegraph.com/tags/markets/rss
+    category: markets
+  - name: Investing.com Crypto
+    url: https://www.investing.com/rss/news_301.rss
+    category: markets
+  - name: FXStreet Crypto
+    url: https://www.fxstreet.com/rss/cryptocurrencies
+    category: markets
+  - name: MarketWatch Crypto
+    url: https://www.marketwatch.com/rss/crypto
+    category: markets
+  - name: Nasdaq Digital Assets
+    url: https://www.nasdaq.com/feed/rssoutbound
+    category: markets
+  - name: CoinMarketCap Blog
+    url: https://blog.coinmarketcap.com/feed/
+    category: markets
+  - name: CoinGecko Blog
+    url: https://blog.coingecko.com/rss/
+    category: markets
+x_accounts:
+  - name: CoinDesk
+    handle: CoinDesk
+  - name: Cointelegraph
+    handle: Cointelegraph
+  - name: TheBlock__
+    handle: TheBlock__
+  - name: decryptmedia
+    handle: decryptmedia
+  - name: BanklessHQ
+    handle: BanklessHQ
+  - name: DefiantNews
+    handle: DefiantNews
+  - name: chainlink
+    handle: chainlink
+  - name: OndoFinance
+    handle: OndoFinance
+  - name: RWA_xyz
+    handle: RWA_xyz
+  - name: DTAPCAP
+    handle: DTAPCAP
+  - name: CamiRusso
+    handle: CamiRusso
+  - name: CathieDWood
+    handle: CathieDWood
+  - name: cz_binance
+    handle: cz_binance
+  - name: VitalikButerin
+    handle: VitalikButerin
