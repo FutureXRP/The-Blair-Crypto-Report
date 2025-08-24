@@ -112,9 +112,10 @@
 
     // Sentiment indicator
     if (sentimentEl) {
-      const avgChange = prices.reduce((sum, p) => sum + (p.change24h || 0), 0) / prices.length;
+      const avgChange = prices.prices.reduce((sum, p) => sum + (p.change24h || 0), 0) / prices.prices.length;
       const sentiment = avgChange > 0 ? 'Bullish' : 'Bearish';
       sentimentEl.textContent = `Market Sentiment: ${sentiment} (Avg 24h Change: ${avgChange.toFixed(2)}%)`;
+      sentimentEl.classList.add(avgChange > 0 ? 'positive' : 'negative');
     }
   }
   function setLastUpdated(iso) {
@@ -135,7 +136,7 @@
       renderList('day', headlines.day || []);
       renderList('week', headlines.week || []);
       renderList('month', headlines.month || []);
-      setupTicker(Array.isArray(prices) ? prices : []);
+      setupTicker(prices.prices || []);  // Ensure ticker uses the prices array
       renderGainersLosers(prices);
       setLastUpdated(headlines.generated_at);
     } catch (e) {
@@ -151,7 +152,7 @@
   window.addEventListener('resize', async () => {
     try {
       const prices = await loadJSON('data/prices.json');
-      setupTicker(Array.isArray(prices) ? prices : []);
+      setupTicker(prices.prices || []);
     } catch {}
   });
 })();
