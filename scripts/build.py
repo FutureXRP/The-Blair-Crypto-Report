@@ -3,7 +3,7 @@
 # Always writes:
 # data/headlines.json {breaking, day, week, month, generated_at}
 # data/prices.json [ {rank,symbol,price,change24h}, ... ]
-import os, json, time, hashlib, sys, re, random
+import os, json, time, hashlib, sys, re
 from datetime import datetime, timezone
 from urllib.parse import urlparse
 from collections import defaultdict, deque
@@ -286,9 +286,16 @@ for acc in cfg.get('x_accounts', []):
     except Exception as ex:
         log(f"WARN: X fetch error for {acc.get('name')}: {ex}")
 # ---------- prices ----------
-prices_api = 'https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&sparkline=false&price_change_percentage=24h'  # Increased per_page to 100 for top 50
+prices_api = 'https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=200&page=1&sparkline=false&price_change_percentage=24h'  # Fetch top 200
 prices = get_json(prices_api)
-prices_list = [{"rank": i+1, "symbol": p['symbol'], "price": p['current_price'], "change24h": p['price_change_percentage_24h'], "market_cap": p['market_cap']} for i,p in enumerate(prices)]
+# Compute gainers and losers
+gainers = sorted([p for p in prices if p['price_change_percentage_24h'] > 0], key=lambda p: p['price_change_percentage_24h'], reverse=True)[:15]
+losers = sorted([p for p in prices if p['price_change_percentage_24h'] < 0], key=lambda p: p['price_change_percentage_24h'])[:15]
+prices_data = {
+    "prices": [{"rank": i+1, "symbol": p['symbol'], "price": p['current_price'], "change24h": p['price_change_percentage_24h']} for i,p in enumerate(prices)],
+    "gainers": [{"symbol": p['symbol'], "price": p['current_price'], "change24h": p['price_change_percentage_24h']} for p in gainers],
+    "losers": [{"symbol": p['symbol'], "price": p['current_price'], "change24h": p['price_change_percentage_24h']} for p in losers]
+}
 # ---------- write ----------
 headlines = {
     "x_breaking": diverse_pick(sorted(x_posts, key=lambda x: x['published_at'], reverse=True), PER_BUCKET),
@@ -299,4 +306,4 @@ headlines = {
     "generated_at": now.isoformat()
 }
 safe_write_json(os.path.join(DATA_DIR, "headlines.json"), headlines)
-safe_write_json(os.path.join(DATA_DIR, "prices.json"), prices_list)
+safe_write_json(os.path.join(DATA_DIR, "prices.json"), prices_data)  # Updated to dict with gainers/losers
