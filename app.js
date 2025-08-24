@@ -64,11 +64,15 @@
     const duration = Math.max(20, Math.round((totalW / speed)));
     tick.style.setProperty('--ticker-duration', duration + 's');
   }
-  function renderMarkets(prices) {
-    const tbody = document.getElementById('market-body');
-    if (!tbody) return;
-    tbody.innerHTML = '';
-    for (const c of (prices || []).slice(0, 50)) {
+  function renderGainersLosers(prices) {
+    const gainersBody = document.getElementById('gainers-body');
+    const losersBody = document.getElementById('losers-body');
+    const sentimentEl = document.getElementById('sentiment-indicator');
+    if (!gainersBody || !losersBody) return;
+
+    // Render gainers
+    gainersBody.innerHTML = '';
+    for (const c of (prices.gainers || []).slice(0, 15)) {
       const tr = document.createElement('tr');
       const nameTd = document.createElement('td');
       nameTd.textContent = `${(c.symbol || '').toUpperCase()}`;
@@ -78,12 +82,39 @@
       const change = c.change24h;
       if (typeof change === 'number') {
         changeTd.textContent = `${change.toFixed(2)}%`;
-        changeTd.classList.add(change >= 0 ? 'positive' : 'negative');
+        changeTd.classList.add('positive');
       } else {
         changeTd.textContent = '—';
       }
       tr.append(nameTd, priceTd, changeTd);
-      tbody.appendChild(tr);
+      gainersBody.appendChild(tr);
+    }
+
+    // Render losers
+    losersBody.innerHTML = '';
+    for (const c of (prices.losers || []).slice(0, 15)) {
+      const tr = document.createElement('tr');
+      const nameTd = document.createElement('td');
+      nameTd.textContent = `${(c.symbol || '').toUpperCase()}`;
+      const priceTd = document.createElement('td');
+      priceTd.textContent = (c.price !== undefined) ? `$${Number(c.price).toLocaleString()}` : '';
+      const changeTd = document.createElement('td');
+      const change = c.change24h;
+      if (typeof change === 'number') {
+        changeTd.textContent = `${change.toFixed(2)}%`;
+        changeTd.classList.add('negative');
+      } else {
+        changeTd.textContent = '—';
+      }
+      tr.append(nameTd, priceTd, changeTd);
+      losersBody.appendChild(tr);
+    }
+
+    // Sentiment indicator
+    if (sentimentEl) {
+      const avgChange = prices.prices.reduce((sum, p) => sum + (p.change24h || 0), 0) / prices.prices.length;
+      const sentiment = avgChange > 0 ? 'Bullish' : 'Bearish';
+      sentimentEl.textContent = `Market Sentiment: ${sentiment} (Avg 24h Change: ${avgChange.toFixed(2)}%)`;
     }
   }
   function setLastUpdated(iso) {
@@ -104,14 +135,14 @@
       renderList('day', headlines.day || []);
       renderList('week', headlines.week || []);
       renderList('month', headlines.month || []);
-      setupTicker(Array.isArray(prices) ? prices : []);
-      renderMarkets(Array.isArray(prices) ? prices : []);
+      setupTicker(prices.prices || []);  // Restored ticker
+      renderGainersLosers(prices);
       setLastUpdated(headlines.generated_at);
     } catch (e) {
       console.error('Refresh failed:', e);
     }
   }
-  // Initial load and ticker setup
+  // Initial load
   await refreshAll();
   // Auto-refresh every 2 minutes
   const REFRESH_MS = 120000;
@@ -120,14 +151,7 @@
   window.addEventListener('resize', async () => {
     try {
       const prices = await loadJSON('data/prices.json');
-      setupTicker(Array.isArray(prices) ? prices : []);
-    } catch {}
-  });
-  // Force ticker recalc on load for mobile
-  window.addEventListener('load', async () => {
-    try {
-      const prices = await loadJSON('data/prices.json');
-      setupTicker(Array.isArray(prices) ? prices : []);
+      setupTicker(prices.prices || []);
     } catch {}
   });
 })();
