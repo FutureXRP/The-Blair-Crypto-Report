@@ -143,7 +143,7 @@ GOOD_WORDS = [
 ]
 BAD_WORDS = ['to the moon','lambo','giveaway','airdrop scam','rug','pump and dump','100x','1000x','thousandx','rocket','buy now','guaranteed profits',
              'fomo','fud','shill','degen','rekt','wagmi','rug pull']
-SCORE_DROP_THRESHOLD = -3
+SCORE_DROP_THRESHOLD = -5
 def score_text(title, summary):
     try:
         t = (title or '').lower()
@@ -197,110 +197,4 @@ def diverse_pick(items, total_limit, per_source_cap=2):
 # ---------- ingest (never aborts on a bad source) ----------
 raw = []
 seen_links = set()
-log(f"INFO: ingesting {len(SOURCES)} sources")
-for i, src in enumerate(SOURCES, start=1):
-    name = src.get("name","source")
-    url = src.get("url","")
-    if not url:
-        log(f"WARN: source {i} missing url; skipping"); continue
-    log(f"INFO: [{i}/{len(SOURCES)}] {name} -> {url}")
-    try:
-        resp = requests.get(url, headers=HEADERS, timeout=20)
-        resp.raise_for_status()
-        d = feedparser.parse(resp.content)
-    except Exception as ex:
-        log(f"WARN: fetch/parse error for {name}: {ex}")
-        continue
-    entries = getattr(d, "entries", []) or []
-    for e in entries[:150]:
-        try:
-            title = (e.get("title") or "").strip()
-            link = (e.get("link") or "").strip()
-            if not title or not link: continue
-            summary = (getattr(e, "summary", "") or "")
-            if not is_crypto_relevant(title, summary, link): continue
-            sc = score_text(title, summary)
-            if sc < SCORE_DROP_THRESHOLD: continue
-            h = hashlib.sha1(link.encode("utf-8")).hexdigest()
-            if h in seen_links: continue
-            seen_links.add(h)
-            published_dt = None
-            for k in ("published_parsed","updated_parsed","created_parsed"):
-                val = getattr(e, k, None)
-                if val:
-                    try:
-                        published_dt = datetime.fromtimestamp(time.mktime(val), tz=timezone.utc)
-                        break
-                    except Exception:
-                        pass
-            if not published_dt: published_dt = now_utc()
-            raw.append({
-                "title": title,
-                "link": link,
-                "published_at": published_dt.isoformat(),
-                "source": canonical_source(link, name),
-                "score": sc,
-                "ntitle": normalize_title(title),
-            })
-        except Exception as ex:
-            log(f"WARN: entry error ({name}): {ex}")
-log(f"INFO: ingest complete. pre-dedupe count = {len(raw)}")
-# ---------- dedupe ----------
-seen = set()
-deduped = []
-for it in sorted(raw, key=lambda x:(x["score"], x["published_at"]), reverse=True):
-    key = (it["ntitle"], it["source"])
-    if key in seen: continue
-    seen.add(key)
-    deduped.append(it)
-# ---------- buckets ----------
-now = now_utc()
-def age_minutes(iso):
-    try: return (now - datetime.fromisoformat(iso)).total_seconds() / 60.0
-    except: return 1e9
-buckets = {"breaking": [], "day": [], "week": [], "month": []}
-for it in deduped:
-    mins = age_minutes(it["published_at"])
-    if mins < 60:
-        buckets["breaking"].append(it)
-    elif mins < 1440:
-        buckets["day"].append(it)
-    elif mins < 10080:
-        buckets["week"].append(it)
-    elif mins < 43200:
-        buckets["month"].append(it)
-# ---------- X posts integration ----------
-x_posts = []
-client = tweepy.Client(bearer_token=os.getenv('X_BEARER_TOKEN'))
-for acc in cfg.get('x_accounts', []):
-    try:
-        user = client.get_user(username=acc['handle'])
-        if user.data:
-            tweets = client.get_users_tweets(user.data.id, max_results=5, tweet_fields=['created_at', 'text', 'entities', 'public_metrics'])
-            for t in tweets.data or []:
-                if t.public_metrics['like_count'] > 50 and is_crypto_relevant(t.text, '', ''):
-                    x_posts.append({
-                        "title": t.text[:100] + '...' if len(t.text) > 100 else t.text,
-                        "link": f"https://x.com/{acc['handle']}/status/{t.id}",
-                        "published_at": t.created_at.isoformat(),
-                        "source": acc['name'],
-                        "score": score_text(t.text, ''),
-                        "ntitle": normalize_title(t.text),
-                    })
-    except Exception as ex:
-        log(f"WARN: X fetch error for {acc.get('name')}: {ex}")
-# ---------- prices ----------
-prices_api = 'https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=50&page=1&sparkline=false&price_change_percentage=24h'
-prices = get_json(prices_api)
-prices_list = [{"rank": i+1, "symbol": p['symbol'], "price": p['current_price'], "change24h": p['price_change_percentage_24h']} for i,p in enumerate(prices)]
-# ---------- write ----------
-headlines = {
-    "x_breaking": diverse_pick(sorted(x_posts, key=lambda x: x['published_at'], reverse=True), PER_BUCKET),
-    "breaking": diverse_pick(sorted(buckets["breaking"], key=lambda x: x['published_at'], reverse=True), PER_BUCKET),
-    "day": diverse_pick(sorted(buckets["day"], key=lambda x: x['published_at'], reverse=True), PER_BUCKET),
-    "week": diverse_pick(sorted(buckets["week"], key=lambda x: x['published_at'], reverse=True), PER_BUCKET),
-    "month": diverse_pick(sorted(buckets["month"], key=lambda x: x['published_at'], reverse=True), PER_BUCKET),
-    "generated_at": now.isoformat()
-}
-safe_write_json(os.path.join(DATA_DIR, "headlines.json"), headlines)
-safe_write_json(os.path.join(DATA_DIR, "prices.json"), prices_list)
+log(f"INFO: ingesting {len(SOURCES
