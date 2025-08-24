@@ -143,7 +143,7 @@ GOOD_WORDS = [
 ]
 BAD_WORDS = ['to the moon','lambo','giveaway','airdrop scam','rug','pump and dump','100x','1000x','thousandx','rocket','buy now','guaranteed profits',
              'fomo','fud','shill','degen','rekt','wagmi','rug pull']
-SCORE_DROP_THRESHOLD = -5
+SCORE_DROP_THRESHOLD = -7
 def score_text(title, summary):
     try:
         t = (title or '').lower()
@@ -278,7 +278,7 @@ for acc in cfg.get('x_accounts', []):
         if user.data:
             tweets = client.get_users_tweets(user.data.id, max_results=5, tweet_fields=['created_at', 'text', 'entities', 'public_metrics'])
             for t in tweets.data or []:
-                if t.public_metrics['like_count'] > 10 and is_crypto_relevant(t.text, '', ''):
+                if t.public_metrics['like_count'] > 0 and is_crypto_relevant(t.text, '', ''):
                     x_posts.append({
                         "title": t.text[:100] + '...' if len(t.text) > 100 else t.text,
                         "link": f"https://x.com/{acc['handle']}/status/{t.id}",
