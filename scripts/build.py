@@ -100,7 +100,8 @@ WHITELIST_DOMAINS = {
     "xrpl.org","ripple.com","xinfin.org","xdc.org","zebec.io","hedera.com",
     "chain.link","rwa.xyz","swift.com","dtcc.com","euroclear.com","clearstream.com",
     "coindesk.com","cointelegraph.com","decrypt.co","theblock.co","r3.com","bis.org",
-    "imf.org","worldbank.org","ecb.europa.eu","federalreserve.gov","sec.gov"
+    "imf.org","worldbank.org","ecb.europa.eu","federalreserve.gov","sec.gov",
+    "binance.com","coinbase.com"
 }
 def host_of(u: str) -> str:
     try: return (urlparse(u).hostname or "").lower().replace("www.","")
@@ -136,10 +137,13 @@ GOOD_WORDS = [
     'swift','iso 20022','dtcc','euroclear','clearstream','nostro','vostro','rtgs','securities depository',
     'tokenization','tokenized','tokenised','rwa','real-world asset','pilot','production','integration',
     'partnership','institution','bank','approval','listing','launch','upgrade','framework','compliance','settlement','custody','treasury',
-    'testnet','mainnet','etf','spot etf','onchain','defi','interoperability','regulation','ruling'
+    'testnet','mainnet','etf','spot etf','onchain','defi','interoperability','regulation','ruling',
+    'halving','adoption','partnership announcement','exchange listing','etf approval','bull run','institutional investment',
+    'mainnet launch','airdrop','nft drop','defi yield','hodl','blockchain','wallet','altcoin','nft','mass adoption'
 ]
-BAD_WORDS = ['to the moon','lambo','giveaway','airdrop scam','rug','pump and dump','100x','1000x','thousandx','rocket','buy now','guaranteed profits']
-SCORE_DROP_THRESHOLD = -1
+BAD_WORDS = ['to the moon','lambo','giveaway','airdrop scam','rug','pump and dump','100x','1000x','thousandx','rocket','buy now','guaranteed profits',
+             'fomo','fud','shill','degen','rekt','wagmi','rug pull']
+SCORE_DROP_THRESHOLD = -3
 def score_text(title, summary):
     try:
         t = (title or '').lower()
@@ -272,9 +276,9 @@ for acc in cfg.get('x_accounts', []):
     try:
         user = client.get_user(username=acc['handle'])
         if user.data:
-            tweets = client.get_users_tweets(user.data.id, max_results=10, tweet_fields=['created_at', 'text', 'entities'])
+            tweets = client.get_users_tweets(user.data.id, max_results=5, tweet_fields=['created_at', 'text', 'entities', 'public_metrics'])
             for t in tweets.data or []:
-                if is_crypto_relevant(t.text, '', ''):
+                if t.public_metrics['like_count'] > 50 and is_crypto_relevant(t.text, '', ''):
                     x_posts.append({
                         "title": t.text[:100] + '...' if len(t.text) > 100 else t.text,
                         "link": f"https://x.com/{acc['handle']}/status/{t.id}",
