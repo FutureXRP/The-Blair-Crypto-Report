@@ -100,8 +100,7 @@ WHITELIST_DOMAINS = {
     "xrpl.org","ripple.com","xinfin.org","xdc.org","zebec.io","hedera.com",
     "chain.link","rwa.xyz","swift.com","dtcc.com","euroclear.com","clearstream.com",
     "coindesk.com","cointelegraph.com","decrypt.co","theblock.co","r3.com","bis.org",
-    "imf.org","worldbank.org","ecb.europa.eu","federalreserve.gov","sec.gov",
-    "binance.com","coinbase.com"
+    "imf.org","worldbank.org","ecb.europa.eu","federalreserve.gov","sec.gov"
 }
 def host_of(u: str) -> str:
     try: return (urlparse(u).hostname or "").lower().replace("www.","")
@@ -137,13 +136,10 @@ GOOD_WORDS = [
     'swift','iso 20022','dtcc','euroclear','clearstream','nostro','vostro','rtgs','securities depository',
     'tokenization','tokenized','tokenised','rwa','real-world asset','pilot','production','integration',
     'partnership','institution','bank','approval','listing','launch','upgrade','framework','compliance','settlement','custody','treasury',
-    'testnet','mainnet','etf','spot etf','onchain','defi','interoperability','regulation','ruling',
-    'halving','adoption','partnership announcement','exchange listing','etf approval','bull run','institutional investment',
-    'mainnet launch','airdrop','nft drop','defi yield','hodl','blockchain','wallet','altcoin','nft','mass adoption'
+    'testnet','mainnet','etf','spot etf','onchain','defi','interoperability','regulation','ruling'
 ]
-BAD_WORDS = ['to the moon','lambo','giveaway','airdrop scam','rug','pump and dump','100x','1000x','thousandx','rocket','buy now','guaranteed profits',
-             'fomo','fud','shill','degen','rekt','wagmi','rug pull']
-SCORE_DROP_THRESHOLD = -7
+BAD_WORDS = ['to the moon','lambo','giveaway','airdrop scam','rug','pump and dump','100x','1000x','thousandx','rocket','buy now','guaranteed profits']
+SCORE_DROP_THRESHOLD = -1
 def score_text(title, summary):
     try:
         t = (title or '').lower()
@@ -276,7 +272,7 @@ for acc in cfg.get('x_accounts', []):
     try:
         user = client.get_user(username=acc['handle'])
         if user.data:
-            tweets = client.get_users_tweets(user.data.id, max_results=5, tweet_fields=['created_at', 'text', 'entities', 'public_metrics'])
+            tweets = client.get_users_tweets(user.data.id, max_results=3, tweet_fields=['created_at', 'text', 'entities', 'public_metrics'])
             for t in tweets.data or []:
                 if t.public_metrics['like_count'] > 0 and is_crypto_relevant(t.text, '', ''):
                     x_posts.append({
@@ -292,7 +288,7 @@ for acc in cfg.get('x_accounts', []):
 # ---------- prices ----------
 prices_api = 'https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=50&page=1&sparkline=false&price_change_percentage=24h'
 prices = get_json(prices_api)
-prices_list = [{"rank": i+1, "symbol": p['symbol'], "price": p['current_price'], "change24h": p['price_change_percentage_24h']} for i,p in enumerate(prices)]
+prices_list = [{"rank": i+1, "symbol": p['symbol'], "price": p['current_price'], "change24h": p['price_change_percentage_24h'], "market_cap": p['market_cap']} for i,p in enumerate(prices)]
 # ---------- write ----------
 headlines = {
     "x_breaking": diverse_pick(sorted(x_posts, key=lambda x: x['published_at'], reverse=True), PER_BUCKET),
