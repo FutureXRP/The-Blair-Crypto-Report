@@ -3,7 +3,7 @@
 # Always writes:
 # data/headlines.json {breaking, day, week, month, generated_at}
 # data/prices.json [ {rank,symbol,price,change24h}, ... ]
-import os, json, time, hashlib, sys, re
+import os, json, time, hashlib, sys, re, random
 from datetime import datetime, timezone
 from urllib.parse import urlparse
 from collections import defaultdict, deque
@@ -286,7 +286,7 @@ for acc in cfg.get('x_accounts', []):
     except Exception as ex:
         log(f"WARN: X fetch error for {acc.get('name')}: {ex}")
 # ---------- prices ----------
-prices_api = 'https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=50&page=1&sparkline=false&price_change_percentage=24h'
+prices_api = 'https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&sparkline=false&price_change_percentage=24h'  # Increased per_page to 100 for top 50
 prices = get_json(prices_api)
 prices_list = [{"rank": i+1, "symbol": p['symbol'], "price": p['current_price'], "change24h": p['price_change_percentage_24h'], "market_cap": p['market_cap']} for i,p in enumerate(prices)]
 # ---------- write ----------
