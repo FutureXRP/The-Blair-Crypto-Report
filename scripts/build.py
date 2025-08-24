@@ -286,7 +286,7 @@ for acc in cfg.get('x_accounts', []):
     except Exception as ex:
         log(f"WARN: X fetch error for {acc.get('name')}: {ex}")
 # ---------- prices ----------
-prices_api = 'https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=200&page=1&sparkline=false&price_change_percentage=24h'  # Fetch top 200
+prices_api = 'https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=125&page=1&sparkline=false&price_change_percentage=24h'
 prices = get_json(prices_api)
 # Compute gainers and losers
 gainers = sorted([p for p in prices if p['price_change_percentage_24h'] > 0], key=lambda p: p['price_change_percentage_24h'], reverse=True)[:15]
@@ -306,4 +306,4 @@ headlines = {
     "generated_at": now.isoformat()
 }
 safe_write_json(os.path.join(DATA_DIR, "headlines.json"), headlines)
-safe_write_json(os.path.join(DATA_DIR, "prices.json"), prices_data)  # Updated to dict with gainers/losers
+safe_write_json(os.path.join(DATA_DIR, "prices.json"), prices_data)
