@@ -25,7 +25,6 @@ h1 { letter-spacing: 6px; font-weight: 900; margin: 0; }
   grid-template-columns: 1fr; gap: 18px; }
 .bucket { background: #1a1a1a; border: 1px solid #222; border-radius: 10px; padding: 16px; }
 .bucket h2 { font-size: 16px; letter-spacing: 1px; border-bottom: 1px solid var(--fg); padding-bottom: 6px; margin: 6px 0 12px; }
-.bucket h3 { font-size: 14px; margin: 12px 0 6px; }
 ul { list-style: none; margin: 0; padding: 0; }
 li { margin: 8px 0; }
 li a { color: var(--link); text-decoration: none; font-weight: 700; }
@@ -36,10 +35,13 @@ li .meta { display: block; font-size: 12px; color: var(--muted); margin-top: 2px
 @media (min-width: 900px) {
   .frontpage { grid-template-columns: 1fr 1fr; }
 }
-/* Gainers/Losers tables */
+/* Markets table */
 #gainers, #losers { width: 100%; border-collapse: collapse; font-size: 14px; margin-bottom: 16px; }
 #gainers th, #gainers td, #losers th, #losers td { padding: 8px; border-bottom: 1px solid #222; text-align: left; }
 #gainers th, #losers th { border-bottom: 1px solid var(--fg); }
-.positive { color: #0f0; font-weight: bold; }
-.negative { color: #f00; font-weight: bold; }
-#sentiment-indicator { font-size: 14px; color: var(--muted); margin-bottom: 12px; text-align: center; }
+.positive { color: #0f0; }
+.negative { color: #f00; }
+@media (max-width: 600px) {
+  .ticker-track span { padding: 8px 12px; font-size: 12px; }  /* Smaller on mobile */
+  #ticker { animation-duration: var(--ticker-duration, 50s); }  /* Slower speed for readability */
+}
