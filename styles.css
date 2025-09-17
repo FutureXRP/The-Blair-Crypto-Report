@@ -31,9 +31,6 @@ li a { color: var(--link); text-decoration: none; font-weight: 700; }
 li a:hover { text-decoration: underline; }
 li .meta { display: block; font-size: 12px; color: var(--muted); margin-top: 2px; }
 .site-footer { border-top: 1px solid #222; color: var(--muted); text-align: center; padding: 24px; font-size: 12px; }
-/* NEW: Toggle placeholder */
-.placeholder { display: block; color: var(--muted); font-style: italic; }
-#x_breaking:not(:empty) + #x_breaking_placeholder { display: none; }
 /* Responsive */
 @media (min-width: 900px) {
   .frontpage { grid-template-columns: 1fr 1fr; }
