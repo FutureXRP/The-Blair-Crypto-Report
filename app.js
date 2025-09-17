@@ -22,7 +22,10 @@
   }
   function renderList(id, items) {
     const el = document.getElementById(id);
-    if (!el) return;
+    if (!el) {
+      console.error(`Element with ID ${id} not found`);
+      return;
+    }
     el.innerHTML = '';
     for (const it of (items || [])) {
       const li = document.createElement('li');
@@ -131,21 +134,42 @@
       ...(headlines.week || []),
       ...(headlines.month || [])
     ];
-    fuse = new Fuse(allArticles, {
-      keys: ['title', 'source', 'ntitle'],
-      threshold: 0.4,
-      includeScore: true,
-      ignoreLocation: true
-    });
+    if (!window.Fuse) {
+      console.error('Fuse.js failed to load');
+      return;
+    }
+    try {
+      fuse = new Fuse(allArticles, {
+        keys: ['title', 'source', 'ntitle'],
+        threshold: 0.4,
+        includeScore: true,
+        ignoreLocation: true
+      });
+      console.log('Fuse.js initialized with', allArticles.length, 'articles');
+    } catch (e) {
+      console.error('Fuse.js initialization failed:', e);
+    }
   }
   function performSearch(query) {
-    if (!query || query.length < 2) return;
+    if (!query || query.length < 1) {
+      console.log('Search query too short or empty:', query);
+      return;
+    }
+    if (!fuse) {
+      console.error('Fuse.js not initialized');
+      return;
+    }
+    console.log('Performing search for:', query);
     const results = fuse.search(query);
     const searchList = document.getElementById('search-list');
     const resultsCount = document.getElementById('results-count');
     const noResults = document.getElementById('no-results');
     const searchResults = document.getElementById('search-results');
     const frontpageBuckets = document.querySelectorAll('.bucket:not(#search-results)');
+    if (!searchList || !resultsCount || !noResults || !searchResults) {
+      console.error('Search DOM elements not found');
+      return;
+    }
     searchList.innerHTML = '';
     if (results.length > 0) {
       resultsCount.textContent = results.length;
@@ -173,21 +197,39 @@
     frontpageBuckets.forEach(bucket => bucket.style.display = 'none');
   }
   function clearSearch() {
-    document.getElementById('search-input').value = '';
-    document.getElementById('search-results').style.display = 'none';
-    document.querySelectorAll('.bucket:not(#search-results)').forEach(bucket => bucket.style.display = 'block');
+    const searchInput = document.getElementById('search-input');
+    const searchResults = document.getElementById('search-results');
+    const frontpageBuckets = document.querySelectorAll('.bucket:not(#search-results)');
+    if (searchInput) searchInput.value = '';
+    if (searchResults) searchResults.style.display = 'none';
+    frontpageBuckets.forEach(bucket => bucket.style.display = 'block');
   }
-  document.addEventListener('DOMContentLoaded', () => {
+  // Move event listeners outside DOMContentLoaded for reliability
+  function setupSearchListeners() {
     const searchInput = document.getElementById('search-input');
     const searchBtn = document.getElementById('search-btn');
+    if (!searchInput || !searchBtn) {
+      console.error('Search input or button not found');
+      return;
+    }
+    console.log('Setting up search listeners');
     searchInput.addEventListener('keypress', (e) => {
-      if (e.key === 'Enter') performSearch(searchInput.value);
+      if (e.key === 'Enter') {
+        console.log('Enter key pressed, searching:', searchInput.value);
+        performSearch(searchInput.value);
+      }
     });
-    searchBtn.addEventListener('click', () => performSearch(searchInput.value));
+    searchBtn.addEventListener('click', () => {
+      console.log('Search button clicked, searching:', searchInput.value);
+      performSearch(searchInput.value);
+    });
     document.addEventListener('keydown', (e) => {
-      if (e.key === 'Escape') clearSearch();
+      if (e.key === 'Escape') {
+        console.log('Escape key pressed, clearing search');
+        clearSearch();
+      }
     });
-  });
+  }
   async function refreshAll() {
     try {
       const [headlines, prices] = await Promise.all([
@@ -202,6 +244,7 @@
       setupTicker(prices.prices || []);
       renderGainersLosers(prices);
       setLastUpdated(headlines.generated_at);
+      setupSearchListeners(); // Call after DOM is ready
     } catch (e) {
       console.error('Refresh failed:', e);
     }
