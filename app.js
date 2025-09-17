@@ -121,12 +121,80 @@
       el.textContent = `Last updated ${d.toLocaleString()}`;
     }
   }
+  // Search functionality
+  let allArticles = [];
+  let fuse;
+  function initSearch(headlines) {
+    allArticles = [
+      ...(headlines.breaking || []),
+      ...(headlines.day || []),
+      ...(headlines.week || []),
+      ...(headlines.month || [])
+    ];
+    fuse = new Fuse(allArticles, {
+      keys: ['title', 'source', 'ntitle'],
+      threshold: 0.4,
+      includeScore: true,
+      ignoreLocation: true
+    });
+  }
+  function performSearch(query) {
+    if (!query || query.length < 2) return;
+    const results = fuse.search(query);
+    const searchList = document.getElementById('search-list');
+    const resultsCount = document.getElementById('results-count');
+    const noResults = document.getElementById('no-results');
+    const searchResults = document.getElementById('search-results');
+    const frontpageBuckets = document.querySelectorAll('.bucket:not(#search-results)');
+    searchList.innerHTML = '';
+    if (results.length > 0) {
+      resultsCount.textContent = results.length;
+      noResults.style.display = 'none';
+      results.forEach(result => {
+        const item = result.item;
+        const li = document.createElement('li');
+        const a = document.createElement('a');
+        a.href = item.link;
+        a.target = '_blank';
+        a.rel = 'noopener';
+        a.textContent = item.title;
+        const meta = document.createElement('span');
+        meta.className = 'meta';
+        meta.textContent = `${fmtTimeAgo(item.published_at)} • ${item.source}`;
+        li.appendChild(a);
+        li.appendChild(meta);
+        searchList.appendChild(li);
+      });
+    } else {
+      resultsCount.textContent = 0;
+      noResults.style.display = 'block';
+    }
+    searchResults.style.display = 'block';
+    frontpageBuckets.forEach(bucket => bucket.style.display = 'none');
+  }
+  function clearSearch() {
+    document.getElementById('search-input').value = '';
+    document.getElementById('search-results').style.display = 'none';
+    document.querySelectorAll('.bucket:not(#search-results)').forEach(bucket => bucket.style.display = 'block');
+  }
+  document.addEventListener('DOMContentLoaded', () => {
+    const searchInput = document.getElementById('search-input');
+    const searchBtn = document.getElementById('search-btn');
+    searchInput.addEventListener('keypress', (e) => {
+      if (e.key === 'Enter') performSearch(searchInput.value);
+    });
+    searchBtn.addEventListener('click', () => performSearch(searchInput.value));
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') clearSearch();
+    });
+  });
   async function refreshAll() {
     try {
       const [headlines, prices] = await Promise.all([
         loadJSON('data/headlines.json'),
         loadJSON('data/prices.json')
       ]);
+      initSearch(headlines);
       renderList('breaking', headlines.breaking || []);
       renderList('day', headlines.day || []);
       renderList('week', headlines.week || []);
