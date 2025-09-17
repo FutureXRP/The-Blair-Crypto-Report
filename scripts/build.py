@@ -10,7 +10,6 @@ from collections import defaultdict, deque
 import yaml
 import feedparser
 import requests
-import tweepy
 # ---------- paths ----------
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 DATA_DIR = os.path.join(ROOT, "data")
@@ -265,27 +264,6 @@ for it in deduped:
         buckets["week"].append(it)
     elif mins < 43200:
         buckets["month"].append(it)
-# ---------- X posts integration ----------
-x_posts = []
-client = tweepy.Client(bearer_token=os.getenv('X_BEARER_TOKEN'))
-for acc in cfg.get('x_accounts', []):
-    try:
-        user = client.get_user(username=acc['handle'])
-        if user.data:
-            tweets = client.get_users_tweets(user.data.id, max_results=3, tweet_fields=['created_at', 'text', 'entities', 'public_metrics'])
-            for t in tweets.data or []:
-                log(f"INFO: Fetched tweet from {acc['handle']}: {t.text[:50]}... (likes: {t.public_metrics['like_count']})")
-                if is_crypto_relevant(t.text, '', ''):
-                    x_posts.append({
-                        "title": t.text[:100] + '...' if len(t.text) > 100 else t.text,
-                        "link": f"https://x.com/{acc['handle']}/status/{t.id}",
-                        "published_at": t.created_at.isoformat(),
-                        "source": acc['name'],
-                        "score": score_text(t.text, ''),
-                        "ntitle": normalize_title(t.text),
-                    })
-    except Exception as ex:
-        log(f"WARN: X fetch error for {acc.get('name')}: {ex}")
 # ---------- prices ----------
 prices_api = 'https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=125&page=1&sparkline=false&price_change_percentage=24h'
 prices = get_json(prices_api)
@@ -299,7 +277,7 @@ prices_data = {
 }
 # ---------- write ----------
 headlines = {
-    "x_breaking": diverse_pick(sorted(x_posts, key=lambda x: x['published_at'], reverse=True), PER_BUCKET),
+    "x_breaking": [],  # Empty to skip X integration
     "breaking": diverse_pick(sorted(buckets["breaking"], key=lambda x: x['published_at'], reverse=True), PER_BUCKET),
     "day": diverse_pick(sorted(buckets["day"], key=lambda x: x['published_at'], reverse=True), PER_BUCKET),
     "week": diverse_pick(sorted(buckets["week"], key=lambda x: x['published_at'], reverse=True), PER_BUCKET),
