@@ -31,6 +31,31 @@ li a { color: var(--link); text-decoration: none; font-weight: 700; }
 li a:hover { text-decoration: underline; }
 li .meta { display: block; font-size: 12px; color: var(--muted); margin-top: 2px; }
 .site-footer { border-top: 1px solid #222; color: var(--muted); text-align: center; padding: 24px; font-size: 12px; }
+/* Search bar */
+.search-bar {
+  display: flex;
+  margin: 12px 0;
+  gap: 8px;
+}
+#search-input {
+  flex: 1;
+  padding: 8px 12px;
+  background: #1a1a1a;
+  border: 1px solid #222;
+  color: var(--fg);
+  border-radius: 4px;
+}
+#search-btn {
+  padding: 8px 16px;
+  background: var(--fg);
+  color: var(--bg);
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 700;
+}
+#search-btn:hover { background: #ddd; }
+#search-results { order: -1; }
 /* Responsive */
 @media (min-width: 900px) {
   .frontpage { grid-template-columns: 1fr 1fr; }
