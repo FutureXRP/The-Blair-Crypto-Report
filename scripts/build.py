@@ -88,7 +88,7 @@ DYN_NAMES = {
 FOCUS_TICKERS = {"xrp","xdc","xlm","zbcn","hbar","link","flr","sgb"}
 FOCUS_TERMS = {
     "xrp","xrpl","ripple","xdc","xinfin","xlm","stellar","zbcn","zebec","hbar","hedera",
-    "link","chainlink","flr","flare","sgb","songbird","xdc network","r3","corda","cordapp",
+    "link","chainlink","flr","flare","sgb","songbird","xdc network","zebec network","r3","corda","cordapp",
     "swift","iso 20022","dtcc","euroclear","clearstream","t+1","nostro","vostro",
     "securities depository","instant payments","rtgs","sepa","fednow","cbdc",
     "tokenization","tokenised","tokenized","rwa","real world asset","real-world asset",
@@ -274,7 +274,8 @@ for acc in cfg.get('x_accounts', []):
         if user.data:
             tweets = client.get_users_tweets(user.data.id, max_results=3, tweet_fields=['created_at', 'text', 'entities', 'public_metrics'])
             for t in tweets.data or []:
-                if t.public_metrics['like_count'] > 0 and is_crypto_relevant(t.text, '', ''):
+                log(f"INFO: Fetched tweet from {acc['handle']}: {t.text[:50]}... (likes: {t.public_metrics['like_count']})")
+                if is_crypto_relevant(t.text, '', ''):
                     x_posts.append({
                         "title": t.text[:100] + '...' if len(t.text) > 100 else t.text,
                         "link": f"https://x.com/{acc['handle']}/status/{t.id}",
