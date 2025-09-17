@@ -24,6 +24,13 @@
     const el = document.getElementById(id);
     if (!el) return;
     el.innerHTML = '';
+    // Hide placeholder if data exists
+    const placeholder = document.getElementById(id + '_placeholder');
+    if (placeholder) {
+      placeholder.style.display = items && items.length > 0 ? 'none' : 'block';
+    }
+    // Debug log
+    console.log(`Rendering ${id} with ${items ? items.length : 0} items`, items);
     for (const it of (items || [])) {
       const li = document.createElement('li');
       const a = document.createElement('a');
@@ -69,7 +76,6 @@
     const losersBody = document.getElementById('losers-body');
     const sentimentEl = document.getElementById('sentiment-indicator');
     if (!gainersBody || !losersBody) return;
-
     // Render gainers
     gainersBody.innerHTML = '';
     for (const c of (prices.gainers || []).slice(0, 15)) {
@@ -89,7 +95,6 @@
       tr.append(nameTd, priceTd, changeTd);
       gainersBody.appendChild(tr);
     }
-
     // Render losers
     losersBody.innerHTML = '';
     for (const c of (prices.losers || []).slice(0, 15)) {
@@ -109,7 +114,6 @@
       tr.append(nameTd, priceTd, changeTd);
       losersBody.appendChild(tr);
     }
-
     // Sentiment indicator
     if (sentimentEl) {
       const avgChange = prices.prices.reduce((sum, p) => sum + (p.change24h || 0), 0) / prices.prices.length;
@@ -135,7 +139,7 @@
       renderList('day', headlines.day || []);
       renderList('week', headlines.week || []);
       renderList('month', headlines.month || []);
-      setupTicker(prices.prices || []);  // Restored ticker
+      setupTicker(prices.prices || []);
       renderGainersLosers(prices);
       setLastUpdated(headlines.generated_at);
     } catch (e) {
