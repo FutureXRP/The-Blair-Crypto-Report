@@ -5,8 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>The Blair Report</title>
   <meta name="description" content="The Blair Report – a crypto front page organized by freshness: breaking, last 24 hours, past week, past month." />
-  <meta name="keywords" content="crypto news, RWA, tokenization, XRP, HBAR, blockchain updates, utility tokens, breaking crypto news, ETF, adoption, partnership, DeFi" />
-
+  <meta name="keywords" content="crypto news, RWA, tokenization, XRP, HBAR, ZBCN, Zebec, XDC, XinFin, blockchain updates, utility tokens, breaking crypto news, ETF, adoption, partnership, DeFi" />
   <!-- Favicon -->
   <link rel="icon" href="/favicon.ico" type="image/x-icon">
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
@@ -17,18 +16,15 @@
   <link rel="icon" type="image/png" sizes="128x128" href="/favicon-128x128.png">
   <link rel="icon" type="image/png" sizes="256x256" href="/favicon-256x256.png">
   <link rel="apple-touch-icon" sizes="180x180" href="/favicon-256x256.png">
-
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="styles.css" />
-  <!-- Auto-refresh every 2 minutes -->
-  <meta http-equiv="refresh" content="120" />
-  <!-- Google tag (gtag.js) --> 
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-7VBV6MXFKG"></script> 
-  <script> 
-    window.dataLayer = window.dataLayer || []; 
-    function gtag(){dataLayer.push(arguments);} 
-    gtag('js', new Date()); 
-    gtag('config', 'G-7VBV6MXFKG'); 
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-7VBV6MXFKG"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-7VBV6MXFKG');
   </script>
 </head>
 <body>
@@ -37,7 +33,6 @@
       <img src="assets/logo.svg" alt="The Blair Report" class="logo" />
       <h1>THE BLAIR REPORT</h1>
     </div>
-    <!-- Top-50 scrolling ticker -->
     <div class="ticker-wrap" aria-label="Top crypto prices, scrolling">
       <div id="ticker" class="ticker"></div>
     </div>
@@ -45,7 +40,7 @@
   <main class="frontpage">
     <section class="bucket">
       <h2>Breaking from X</h2>
-      <p class="placeholder">Coming Soon</p>
+      <p class="placeholder" id="x_breaking_placeholder">Coming Soon</p>
       <ul id="x_breaking"></ul>
     </section>
     <section class="bucket">
