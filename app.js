@@ -24,13 +24,6 @@
     const el = document.getElementById(id);
     if (!el) return;
     el.innerHTML = '';
-    // Hide placeholder if data exists
-    const placeholder = document.getElementById(id + '_placeholder');
-    if (placeholder) {
-      placeholder.style.display = items && items.length > 0 ? 'none' : 'block';
-    }
-    // Debug log
-    console.log(`Rendering ${id} with ${items ? items.length : 0} items`, items);
     for (const it of (items || [])) {
       const li = document.createElement('li');
       const a = document.createElement('a');
@@ -134,7 +127,6 @@
         loadJSON('data/headlines.json'),
         loadJSON('data/prices.json')
       ]);
-      renderList('x_breaking', headlines.x_breaking || []);
       renderList('breaking', headlines.breaking || []);
       renderList('day', headlines.day || []);
       renderList('week', headlines.week || []);
