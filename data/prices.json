@@ -1,5 +1,903 @@
 {
-  "prices": [],
-  "gainers": [],
-  "losers": []
+  "prices": [
+    {
+      "rank": 1,
+      "symbol": "btc",
+      "price": 87498,
+      "change24h": 3.85794
+    },
+    {
+      "rank": 2,
+      "symbol": "eth",
+      "price": 2829.39,
+      "change24h": 3.36953
+    },
+    {
+      "rank": 3,
+      "symbol": "usdt",
+      "price": 0.999718,
+      "change24h": 0.00673
+    },
+    {
+      "rank": 4,
+      "symbol": "xrp",
+      "price": 2.07,
+      "change24h": 7.58117
+    },
+    {
+      "rank": 5,
+      "symbol": "bnb",
+      "price": 851.14,
+      "change24h": 3.00743
+    },
+    {
+      "rank": 6,
+      "symbol": "sol",
+      "price": 132.62,
+      "change24h": 4.84766
+    },
+    {
+      "rank": 7,
+      "symbol": "usdc",
+      "price": 0.999605,
+      "change24h": -0.00997
+    },
+    {
+      "rank": 8,
+      "symbol": "trx",
+      "price": 0.275191,
+      "change24h": 0.58024
+    },
+    {
+      "rank": 9,
+      "symbol": "steth",
+      "price": 2828.79,
+      "change24h": 3.53891
+    },
+    {
+      "rank": 10,
+      "symbol": "doge",
+      "price": 0.146433,
+      "change24h": 5.46719
+    },
+    {
+      "rank": 11,
+      "symbol": "ada",
+      "price": 0.414166,
+      "change24h": 3.53413
+    },
+    {
+      "rank": 12,
+      "symbol": "figr_heloc",
+      "price": 1.026,
+      "change24h": 0.00921
+    },
+    {
+      "rank": 13,
+      "symbol": "wbt",
+      "price": 57.54,
+      "change24h": 2.31015
+    },
+    {
+      "rank": 14,
+      "symbol": "wsteth",
+      "price": 3447.92,
+      "change24h": 3.28511
+    },
+    {
+      "rank": 15,
+      "symbol": "bch",
+      "price": 550.61,
+      "change24h": -1.79092
+    },
+    {
+      "rank": 16,
+      "symbol": "wbtc",
+      "price": 87321,
+      "change24h": 3.81189
+    },
+    {
+      "rank": 17,
+      "symbol": "wbeth",
+      "price": 3064.96,
+      "change24h": 3.46698
+    },
+    {
+      "rank": 18,
+      "symbol": "zec",
+      "price": 595.48,
+      "change24h": 21.96408
+    },
+    {
+      "rank": 19,
+      "symbol": "usds",
+      "price": 0.999781,
+      "change24h": 0.00712
+    },
+    {
+      "rank": 20,
+      "symbol": "bsc-usd",
+      "price": 0.999615,
+      "change24h": 0.0277
+    },
+    {
+      "rank": 21,
+      "symbol": "link",
+      "price": 12.67,
+      "change24h": 5.88472
+    },
+    {
+      "rank": 22,
+      "symbol": "leo",
+      "price": 9.5,
+      "change24h": 0.33769
+    },
+    {
+      "rank": 23,
+      "symbol": "hype",
+      "price": 31.64,
+      "change24h": 6.74589
+    },
+    {
+      "rank": 24,
+      "symbol": "xlm",
+      "price": 0.248608,
+      "change24h": 9.61107
+    },
+    {
+      "rank": 25,
+      "symbol": "weth",
+      "price": 2829.17,
+      "change24h": 3.31347
+    },
+    {
+      "rank": 26,
+      "symbol": "usde",
+      "price": 0.999233,
+      "change24h": 0.09403
+    },
+    {
+      "rank": 27,
+      "symbol": "weeth",
+      "price": 3056.41,
+      "change24h": 3.43136
+    },
+    {
+      "rank": 28,
+      "symbol": "xmr",
+      "price": 390.96,
+      "change24h": 7.77353
+    },
+    {
+      "rank": 29,
+      "symbol": "cbbtc",
+      "price": 87479,
+      "change24h": 3.68224
+    },
+    {
+      "rank": 30,
+      "symbol": "ltc",
+      "price": 83.76,
+      "change24h": 2.84679
+    },
+    {
+      "rank": 31,
+      "symbol": "hbar",
+      "price": 0.15071,
+      "change24h": 16.13824
+    },
+    {
+      "rank": 32,
+      "symbol": "avax",
+      "price": 13.39,
+      "change24h": 1.36295
+    },
+    {
+      "rank": 33,
+      "symbol": "sui",
+      "price": 1.38,
+      "change24h": 4.78205
+    },
+    {
+      "rank": 34,
+      "symbol": "shib",
+      "price": 7.94e-06,
+      "change24h": 3.49045
+    },
+    {
+      "rank": 35,
+      "symbol": "dai",
+      "price": 0.999657,
+      "change24h": 0.15668
+    },
+    {
+      "rank": 36,
+      "symbol": "susde",
+      "price": 1.21,
+      "change24h": 0.02737
+    },
+    {
+      "rank": 37,
+      "symbol": "wlfi",
+      "price": 0.150961,
+      "change24h": -3.06836
+    },
+    {
+      "rank": 38,
+      "symbol": "cro",
+      "price": 0.108431,
+      "change24h": 9.53223
+    },
+    {
+      "rank": 39,
+      "symbol": "usdt0",
+      "price": 0.999341,
+      "change24h": -0.00235
+    },
+    {
+      "rank": 40,
+      "symbol": "uni",
+      "price": 6.21,
+      "change24h": 4.62462
+    },
+    {
+      "rank": 41,
+      "symbol": "susds",
+      "price": 1.075,
+      "change24h": -0.02841
+    },
+    {
+      "rank": 42,
+      "symbol": "dot",
+      "price": 2.3,
+      "change24h": 0.77046
+    },
+    {
+      "rank": 43,
+      "symbol": "ton",
+      "price": 1.47,
+      "change24h": -3.98442
+    },
+    {
+      "rank": 44,
+      "symbol": "pyusd",
+      "price": 0.999838,
+      "change24h": 0.0111
+    },
+    {
+      "rank": 45,
+      "symbol": "mnt",
+      "price": 1.028,
+      "change24h": 4.63147
+    },
+    {
+      "rank": 46,
+      "symbol": "m",
+      "price": 1.95,
+      "change24h": 0.05278
+    },
+    {
+      "rank": 47,
+      "symbol": "tao",
+      "price": 301.74,
+      "change24h": 13.62739
+    },
+    {
+      "rank": 48,
+      "symbol": "cc",
+      "price": 0.077561,
+      "change24h": 3.40395
+    },
+    {
+      "rank": 49,
+      "symbol": "usd1",
+      "price": 0.998974,
+      "change24h": 0.05899
+    },
+    {
+      "rank": 50,
+      "symbol": "c1usd",
+      "price": 0.999673,
+      "change24h": 0.11291
+    },
+    {
+      "rank": 51,
+      "symbol": "aave",
+      "price": 168.32,
+      "change24h": 6.08215
+    },
+    {
+      "rank": 52,
+      "symbol": "bgb",
+      "price": 3.54,
+      "change24h": 0.52354
+    },
+    {
+      "rank": 53,
+      "symbol": "near",
+      "price": 1.85,
+      "change24h": 2.83166
+    },
+    {
+      "rank": 54,
+      "symbol": "buidl",
+      "price": 1.0,
+      "change24h": 0.0
+    },
+    {
+      "rank": 55,
+      "symbol": "aster",
+      "price": 1.12,
+      "change24h": -2.60965
+    },
+    {
+      "rank": 56,
+      "symbol": "icp",
+      "price": 4.11,
+      "change24h": 2.36839
+    },
+    {
+      "rank": 57,
+      "symbol": "okb",
+      "price": 104.68,
+      "change24h": 2.53557
+    },
+    {
+      "rank": 58,
+      "symbol": "usdf",
+      "price": 0.99826,
+      "change24h": -0.03566
+    },
+    {
+      "rank": 59,
+      "symbol": "etc",
+      "price": 13.66,
+      "change24h": 1.9574
+    },
+    {
+      "rank": 60,
+      "symbol": "xaut",
+      "price": 4052.61,
+      "change24h": 0.12226
+    },
+    {
+      "rank": 61,
+      "symbol": "pi",
+      "price": 0.24227,
+      "change24h": 2.13146
+    },
+    {
+      "rank": 62,
+      "symbol": "jitosol",
+      "price": 164.87,
+      "change24h": 4.82249
+    },
+    {
+      "rank": 63,
+      "symbol": "jlp",
+      "price": 4.57,
+      "change24h": 2.66884
+    },
+    {
+      "rank": 64,
+      "symbol": "ena",
+      "price": 0.239599,
+      "change24h": 3.98961
+    },
+    {
+      "rank": 65,
+      "symbol": "pepe",
+      "price": 4.2e-06,
+      "change24h": 3.46467
+    },
+    {
+      "rank": 66,
+      "symbol": "apt",
+      "price": 2.36,
+      "change24h": 2.36991
+    },
+    {
+      "rank": 67,
+      "symbol": "weth",
+      "price": 2829.29,
+      "change24h": 3.54014
+    },
+    {
+      "rank": 68,
+      "symbol": "sol",
+      "price": 132.68,
+      "change24h": 4.82328
+    },
+    {
+      "rank": 69,
+      "symbol": "htx",
+      "price": 1.71e-06,
+      "change24h": 0.12925
+    },
+    {
+      "rank": 70,
+      "symbol": "ondo",
+      "price": 0.482308,
+      "change24h": 5.79411
+    },
+    {
+      "rank": 71,
+      "symbol": "pump",
+      "price": 0.00256621,
+      "change24h": -2.07507
+    },
+    {
+      "rank": 72,
+      "symbol": "kcs",
+      "price": 11.44,
+      "change24h": 2.17229
+    },
+    {
+      "rank": 73,
+      "symbol": "wld",
+      "price": 0.619945,
+      "change24h": 4.0276
+    },
+    {
+      "rank": 74,
+      "symbol": "pol",
+      "price": 0.135706,
+      "change24h": 2.72608
+    },
+    {
+      "rank": 75,
+      "symbol": "hash",
+      "price": 0.02635755,
+      "change24h": -4.57674
+    },
+    {
+      "rank": 76,
+      "symbol": "paxg",
+      "price": 4048.67,
+      "change24h": -0.17672
+    },
+    {
+      "rank": 77,
+      "symbol": "usdtb",
+      "price": 0.999392,
+      "change24h": 0.04578
+    },
+    {
+      "rank": 78,
+      "symbol": "bfusd",
+      "price": 0.999516,
+      "change24h": 0.00577
+    },
+    {
+      "rank": 79,
+      "symbol": "syrupusdc",
+      "price": 1.14,
+      "change24h": 0.02692
+    },
+    {
+      "rank": 80,
+      "symbol": "usdc",
+      "price": 0.999642,
+      "change24h": -0.00537
+    },
+    {
+      "rank": 81,
+      "symbol": "trump",
+      "price": 6.35,
+      "change24h": 1.69371
+    },
+    {
+      "rank": 82,
+      "symbol": "algo",
+      "price": 0.144201,
+      "change24h": 7.52628
+    },
+    {
+      "rank": 83,
+      "symbol": "reth",
+      "price": 3244.66,
+      "change24h": 3.51553
+    },
+    {
+      "rank": 84,
+      "symbol": "atom",
+      "price": 2.52,
+      "change24h": 1.35437
+    },
+    {
+      "rank": 85,
+      "symbol": "usyc",
+      "price": 1.11,
+      "change24h": -0.00986
+    },
+    {
+      "rank": 86,
+      "symbol": "fil",
+      "price": 1.64,
+      "change24h": 4.01839
+    },
+    {
+      "rank": 87,
+      "symbol": "wbnb",
+      "price": 850.97,
+      "change24h": 2.87865
+    },
+    {
+      "rank": 88,
+      "symbol": "gt",
+      "price": 9.93,
+      "change24h": 1.85025
+    },
+    {
+      "rank": 89,
+      "symbol": "rlusd",
+      "price": 0.999927,
+      "change24h": 0.01328
+    },
+    {
+      "rank": 90,
+      "symbol": "usdg",
+      "price": 0.999582,
+      "change24h": -0.00768
+    },
+    {
+      "rank": 91,
+      "symbol": "bnsol",
+      "price": 143.64,
+      "change24h": 4.89939
+    },
+    {
+      "rank": 92,
+      "symbol": "arb",
+      "price": 0.203118,
+      "change24h": 2.88547
+    },
+    {
+      "rank": 93,
+      "symbol": "qnt",
+      "price": 78.08,
+      "change24h": 4.00021
+    },
+    {
+      "rank": 94,
+      "symbol": "vet",
+      "price": 0.01314211,
+      "change24h": 4.01031
+    },
+    {
+      "rank": 95,
+      "symbol": "kas",
+      "price": 0.04127139,
+      "change24h": 10.01329
+    },
+    {
+      "rank": 96,
+      "symbol": "flr",
+      "price": 0.01323937,
+      "change24h": 7.93732
+    },
+    {
+      "rank": 97,
+      "symbol": "fbtc",
+      "price": 85963,
+      "change24h": 2.22212
+    },
+    {
+      "rank": 98,
+      "symbol": "lbtc",
+      "price": 87458,
+      "change24h": 4.33445
+    },
+    {
+      "rank": 99,
+      "symbol": "rseth",
+      "price": 2992.56,
+      "change24h": 3.40869
+    },
+    {
+      "rank": 100,
+      "symbol": "sky",
+      "price": 0.04344939,
+      "change24h": 3.7726
+    },
+    {
+      "rank": 101,
+      "symbol": "khype",
+      "price": 31.7,
+      "change24h": 6.3327
+    },
+    {
+      "rank": 102,
+      "symbol": "xdc",
+      "price": 0.05241,
+      "change24h": 2.35564
+    },
+    {
+      "rank": 103,
+      "symbol": "ustb",
+      "price": 10.9,
+      "change24h": 0.0
+    },
+    {
+      "rank": 104,
+      "symbol": "lseth",
+      "price": 3013.08,
+      "change24h": 2.41234
+    },
+    {
+      "rank": 105,
+      "symbol": "nexo",
+      "price": 0.945903,
+      "change24h": 2.86733
+    },
+    {
+      "rank": 106,
+      "symbol": "fdusd",
+      "price": 0.997165,
+      "change24h": 0.08116
+    },
+    {
+      "rank": 107,
+      "symbol": "solvbtc",
+      "price": 87218,
+      "change24h": 3.86227
+    },
+    {
+      "rank": 108,
+      "symbol": "render",
+      "price": 1.74,
+      "change24h": 3.93268
+    },
+    {
+      "rank": 109,
+      "symbol": "sei",
+      "price": 0.133958,
+      "change24h": 3.30809
+    },
+    {
+      "rank": 110,
+      "symbol": "ip",
+      "price": 2.47,
+      "change24h": 10.60514
+    },
+    {
+      "rank": 111,
+      "symbol": "morpho",
+      "price": 1.51,
+      "change24h": 3.09219
+    },
+    {
+      "rank": 112,
+      "symbol": "ousg",
+      "price": 113.38,
+      "change24h": 0.0
+    },
+    {
+      "rank": 113,
+      "symbol": "ezeth",
+      "price": 3009.98,
+      "change24h": 3.51586
+    },
+    {
+      "rank": 114,
+      "symbol": "ftn",
+      "price": 1.78,
+      "change24h": 0.52731
+    },
+    {
+      "rank": 115,
+      "symbol": "cake",
+      "price": 2.28,
+      "change24h": 2.80065
+    },
+    {
+      "rank": 116,
+      "symbol": "jup",
+      "price": 0.237582,
+      "change24h": 1.86392
+    },
+    {
+      "rank": 117,
+      "symbol": "jaaa",
+      "price": 1.014,
+      "change24h": 0.0
+    },
+    {
+      "rank": 118,
+      "symbol": "fet",
+      "price": 0.2858,
+      "change24h": 6.76028
+    },
+    {
+      "rank": 119,
+      "symbol": "syrupusdt",
+      "price": 1.1,
+      "change24h": 0.03485
+    },
+    {
+      "rank": 120,
+      "symbol": "bonk",
+      "price": 9e-06,
+      "change24h": 5.19143
+    },
+    {
+      "rank": 121,
+      "symbol": "dash",
+      "price": 59.17,
+      "change24h": 4.98694
+    },
+    {
+      "rank": 122,
+      "symbol": "strk",
+      "price": 0.157418,
+      "change24h": 3.40952
+    },
+    {
+      "rank": 123,
+      "symbol": "meth",
+      "price": 3060.5,
+      "change24h": 3.35601
+    },
+    {
+      "rank": 124,
+      "symbol": "wbtc",
+      "price": 87374,
+      "change24h": 3.94488
+    },
+    {
+      "rank": 125,
+      "symbol": "usdy",
+      "price": 1.1,
+      "change24h": 0.74145
+    }
+  ],
+  "gainers": [
+    {
+      "symbol": "zec",
+      "price": 595.48,
+      "change24h": 21.96408
+    },
+    {
+      "symbol": "hbar",
+      "price": 0.15071,
+      "change24h": 16.13824
+    },
+    {
+      "symbol": "tao",
+      "price": 301.74,
+      "change24h": 13.62739
+    },
+    {
+      "symbol": "ip",
+      "price": 2.47,
+      "change24h": 10.60514
+    },
+    {
+      "symbol": "kas",
+      "price": 0.04127139,
+      "change24h": 10.01329
+    },
+    {
+      "symbol": "xlm",
+      "price": 0.248608,
+      "change24h": 9.61107
+    },
+    {
+      "symbol": "cro",
+      "price": 0.108431,
+      "change24h": 9.53223
+    },
+    {
+      "symbol": "flr",
+      "price": 0.01323937,
+      "change24h": 7.93732
+    },
+    {
+      "symbol": "xmr",
+      "price": 390.96,
+      "change24h": 7.77353
+    },
+    {
+      "symbol": "xrp",
+      "price": 2.07,
+      "change24h": 7.58117
+    },
+    {
+      "symbol": "algo",
+      "price": 0.144201,
+      "change24h": 7.52628
+    },
+    {
+      "symbol": "fet",
+      "price": 0.2858,
+      "change24h": 6.76028
+    },
+    {
+      "symbol": "hype",
+      "price": 31.64,
+      "change24h": 6.74589
+    },
+    {
+      "symbol": "khype",
+      "price": 31.7,
+      "change24h": 6.3327
+    },
+    {
+      "symbol": "aave",
+      "price": 168.32,
+      "change24h": 6.08215
+    }
+  ],
+  "losers": [
+    {
+      "symbol": "hash",
+      "price": 0.02635755,
+      "change24h": -4.57674
+    },
+    {
+      "symbol": "ton",
+      "price": 1.47,
+      "change24h": -3.98442
+    },
+    {
+      "symbol": "wlfi",
+      "price": 0.150961,
+      "change24h": -3.06836
+    },
+    {
+      "symbol": "aster",
+      "price": 1.12,
+      "change24h": -2.60965
+    },
+    {
+      "symbol": "pump",
+      "price": 0.00256621,
+      "change24h": -2.07507
+    },
+    {
+      "symbol": "bch",
+      "price": 550.61,
+      "change24h": -1.79092
+    },
+    {
+      "symbol": "paxg",
+      "price": 4048.67,
+      "change24h": -0.17672
+    },
+    {
+      "symbol": "usdf",
+      "price": 0.99826,
+      "change24h": -0.03566
+    },
+    {
+      "symbol": "susds",
+      "price": 1.075,
+      "change24h": -0.02841
+    },
+    {
+      "symbol": "usdc",
+      "price": 0.999605,
+      "change24h": -0.00997
+    },
+    {
+      "symbol": "usyc",
+      "price": 1.11,
+      "change24h": -0.00986
+    },
+    {
+      "symbol": "usdg",
+      "price": 0.999582,
+      "change24h": -0.00768
+    },
+    {
+      "symbol": "usdc",
+      "price": 0.999642,
+      "change24h": -0.00537
+    },
+    {
+      "symbol": "usdt0",
+      "price": 0.999341,
+      "change24h": -0.00235
+    }
+  ]
 }
