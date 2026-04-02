@@ -2,12 +2,32 @@
   "x_breaking": [],
   "breaking": [
     {
+      "title": "Cardano reclaims 2-month range after breakdown: Should you buy this bounce?",
+      "link": "https://ambcrypto.com/cardano-reclaims-2-month-range-after-breakdown-should-you-buy-this-bounce/",
+      "published_at": "2026-04-02T01:00:22+00:00",
+      "source": "ambcrypto.com",
+      "score": 1,
+      "ntitle": "cardano reclaims 2 month range after breakdown should you buy this bounce",
+      "coins": [
+        "ADA"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
       "title": "Bitcoin Whales Still Favoring Short Positions Amid Sideways Price Action",
       "link": "https://bitcoinist.com/bitcoin-whales-short-positions-2/",
       "published_at": "2026-04-02T01:00:29+00:00",
       "source": "bitcoinist.com",
       "score": 1,
-      "ntitle": "bitcoin whales still favoring short positions amid sideways price action"
+      "ntitle": "bitcoin whales still favoring short positions amid sideways price action",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Trump to announce Iran ceasefire talks amid troop withdrawal discussions",
@@ -15,7 +35,11 @@
       "published_at": "2026-04-02T00:51:05+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "trump announce iran ceasefire talks amid troop withdrawal discussions"
+      "ntitle": "trump announce iran ceasefire talks amid troop withdrawal discussions",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Morgan Stanley Signals Bitcoin ETF Near Launch With Amendment 4 Update",
@@ -23,7 +47,14 @@
       "published_at": "2026-04-02T00:30:58+00:00",
       "source": "news.bitcoin.com",
       "score": 11,
-      "ntitle": "morgan stanley signals bitcoin etf near launch amendment 4 update"
+      "ntitle": "morgan stanley signals bitcoin etf near launch amendment 4 update",
+      "coins": [
+        "BTC",
+        "NEAR"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Is Bitcoin Safe From Quantum Computers? Satoshi Has This To Say",
@@ -31,7 +62,13 @@
       "published_at": "2026-04-02T01:00:06+00:00",
       "source": "newsbtc.com",
       "score": 3,
-      "ntitle": "bitcoin safe quantum computers satoshi has this say"
+      "ntitle": "bitcoin safe quantum computers satoshi has this say",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Pakistan steps in as intermediary in US-Iran crisis",
@@ -39,7 +76,11 @@
       "published_at": "2026-04-02T00:34:28+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "pakistan steps as intermediary us iran crisis"
+      "ntitle": "pakistan steps intermediary us iran crisis",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     }
   ],
   "day": [
@@ -49,7 +90,11 @@
       "published_at": "2026-04-02T00:00:36+00:00",
       "source": "ambcrypto.com",
       "score": 1,
-      "ntitle": "siren 83 price drop wipes millions yet one bullish signal remains"
+      "ntitle": "siren 83 price drop wipes millions yet one bullish signal remains",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Crypto Asset Manager 'CoinShares' Receives Nasdaq Listing via SPAC",
@@ -57,7 +102,11 @@
       "published_at": "2026-04-01T17:49:30+00:00",
       "source": "bankless.com",
       "score": 3,
-      "ntitle": "crypto asset manager coinshares receives nasdaq listing via spac"
+      "ntitle": "crypto asset manager coinshares receives nasdaq listing via spac",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "The Next Crypto Bull Run Won’t Be About Coins or Viral Hype",
@@ -65,7 +114,13 @@
       "published_at": "2026-04-01T23:30:23+00:00",
       "source": "beincrypto.com",
       "score": 3,
-      "ntitle": "next crypto bull run won t be about coins or viral hype"
+      "ntitle": "next crypto bull run won t be about coins or viral hype",
+      "coins": [
+        "HYPE"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Here’s Why The Bitcoin Price Is Crashing, And Why It Could Continue",
@@ -73,7 +128,13 @@
       "published_at": "2026-04-02T00:00:57+00:00",
       "source": "bitcoinist.com",
       "score": 1,
-      "ntitle": "here s why bitcoin price crashing why it could continue"
+      "ntitle": "here s why bitcoin price crashing why it could continue",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Interactive Brokers Adds Bitcoin Trading in European Economic Area",
@@ -81,7 +142,13 @@
       "published_at": "2026-04-01T18:50:15+00:00",
       "source": "bitcoinmagazine.com",
       "score": 3,
-      "ntitle": "interactive brokers adds bitcoin trading european economic area"
+      "ntitle": "interactive brokers adds bitcoin trading european economic area",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "LangChain Unveils Fleet Platform, NVIDIA Partnership for Enterprise AI Agents",
@@ -89,7 +156,11 @@
       "published_at": "2026-04-01T21:51:05+00:00",
       "source": "blockchain.news",
       "score": 5,
-      "ntitle": "langchain unveils fleet platform nvidia partnership enterprise ai agents"
+      "ntitle": "langchain unveils fleet platform nvidia partnership enterprise ai agents",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Crypto Will Never Die As Iran Signals De-Escalation and Whales Are Quietly Buying Pepeto While Retail Panics",
@@ -97,7 +168,11 @@
       "published_at": "2026-04-02T00:02:06+00:00",
       "source": "blockonomi.com",
       "score": 4,
-      "ntitle": "crypto will never die as iran signals de escalation whales quietly buying pepeto while retail panics"
+      "ntitle": "crypto will never die iran signals de escalation whales quietly buying pepeto while retail panics",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Blockstream Researcher Introduces SHRIMPS as New Step Toward Quantum-Resistant Bitcoin",
@@ -105,7 +180,13 @@
       "published_at": "2026-04-01T23:16:07+00:00",
       "source": "btctimes.com",
       "score": 2,
-      "ntitle": "blockstream researcher introduces shrimps as new step toward quantum resistant bitcoin"
+      "ntitle": "blockstream researcher introduces shrimps new step toward quantum resistant bitcoin",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Franklin Templeton acquires digital assets investment firm in active crypto management push",
@@ -113,7 +194,11 @@
       "published_at": "2026-04-01T23:35:32+00:00",
       "source": "cnbc.com",
       "score": 2,
-      "ntitle": "franklin templeton acquires digital assets investment firm active crypto management push"
+      "ntitle": "franklin templeton acquires digital assets investment firm active crypto management push",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Rate-X, Review: Turning Yield Into a Market You Can Trade",
@@ -121,7 +206,11 @@
       "published_at": "2026-04-01T10:34:20+00:00",
       "source": "coincodecap.com",
       "score": 3,
-      "ntitle": "rate x review turning yield into market you can trade"
+      "ntitle": "rate x review turning yield into market you can trade",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Citadel-backed EDX Markets applies for U.S. trust charter to expand institutional crypto services",
@@ -129,7 +218,11 @@
       "published_at": "2026-04-01T19:36:22+00:00",
       "source": "coindesk.com",
       "score": 4,
-      "ntitle": "citadel backed edx markets applies u s trust charter expand institutional crypto services"
+      "ntitle": "citadel backed edx markets applies u s trust charter expand institutional crypto services",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Franklin Templeton Set To Acquire CoinFund Spinoff For Crypto Expansion",
@@ -137,7 +230,11 @@
       "published_at": "2026-04-01T18:42:35+00:00",
       "source": "coingape.com",
       "score": 5,
-      "ntitle": "franklin templeton set acquire coinfund spinoff crypto expansion"
+      "ntitle": "franklin templeton set acquire coinfund spinoff crypto expansion",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "ZEC dips 3.5% despite broader crypto market’s recovery",
@@ -145,7 +242,11 @@
       "published_at": "2026-04-01T13:50:21+00:00",
       "source": "coinjournal.net",
       "score": 1,
-      "ntitle": "zec dips 3 5 despite broader crypto market s recovery"
+      "ntitle": "zec dips 3 5 despite broader crypto market s recovery",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Elon Musk's SpaceX quietly files for IPO, seeking mammoth debut",
@@ -153,7 +254,11 @@
       "published_at": "2026-04-02T00:02:15+00:00",
       "source": "cointelegraph.com",
       "score": 1,
-      "ntitle": "elon musk s spacex quietly files ipo seeking mammoth debut"
+      "ntitle": "elon musk s spacex quietly files ipo seeking mammoth debut",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "SpaceX said to file confidential IPO plans with SEC at up to $1.75T valuation",
@@ -161,23 +266,23 @@
       "published_at": "2026-04-01T22:00:00+00:00",
       "source": "crypto.news",
       "score": 0,
-      "ntitle": "spacex said file confidential ipo plans sec at up 1 75t valuation"
+      "ntitle": "spacex said file confidential ipo plans sec up 1 75t valuation",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "SEC"
     },
     {
-      "title": "US-Israeli strike on IRGC site near isfahan lowers ceasefire odds",
-      "link": "https://cryptobriefing.com/us-israeli-strike-on-irgc-site-near-isfahan-lowers-ceasefire-odds/",
-      "published_at": "2026-04-01T23:03:37+00:00",
+      "title": "Iran asserts control over Strait of Hormuz, escalating tensions",
+      "link": "https://cryptobriefing.com/iran-asserts-control-over-strait-of-hormuz-escalating-tensions/",
+      "published_at": "2026-04-02T00:18:09+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "us israeli strike irgc site near isfahan lowers ceasefire odds"
-    },
-    {
-      "title": "Solana Sets Monthly Record as Stablecoin Volume Hits $650B",
-      "link": "https://cryptopotato.com/solana-sets-monthly-record-as-stablecoin-volume-hits-650b/",
-      "published_at": "2026-04-01T21:12:28+00:00",
-      "source": "cryptopotato.com",
-      "score": 1,
-      "ntitle": "solana sets monthly record as stablecoin volume hits 650b"
+      "ntitle": "iran asserts control over strait hormuz escalating tensions",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Iran threatens major US companies in the Middle East creating new risk for crypto",
@@ -185,7 +290,11 @@
       "published_at": "2026-04-01T19:40:00+00:00",
       "source": "cryptoslate.com",
       "score": 4,
-      "ntitle": "iran threatens major us companies middle east creating new risk crypto"
+      "ntitle": "iran threatens major us companies middle east creating new risk crypto",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Solana-Based DeFi Platform Loses Over $270,000,000 in Cyberattack: Lookonchain",
@@ -193,7 +302,13 @@
       "published_at": "2026-04-01T22:07:46+00:00",
       "source": "dailyhodl.com",
       "score": 7,
-      "ntitle": "solana based defi platform loses over 270 000 000 cyberattack lookonchain"
+      "ntitle": "solana based defi platform loses over 270 000 000 cyberattack lookonchain",
+      "coins": [
+        "SOL"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "These Three Altcoins Just Got Leveraged Crypto ETFs",
@@ -201,7 +316,11 @@
       "published_at": "2026-04-01T21:08:22+00:00",
       "source": "decrypt.co",
       "score": 5,
-      "ntitle": "these three altcoins just got leveraged crypto etfs"
+      "ntitle": "these three altcoins just got leveraged crypto etfs",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "No Catalyst, No Range Break",
@@ -209,7 +328,11 @@
       "published_at": "2026-04-01T15:27:08+00:00",
       "source": "insights.glassnode.com",
       "score": 0,
-      "ntitle": "no catalyst no range break"
+      "ntitle": "no catalyst no range break",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Bitcoin kicks off April with slight gains as Trump says Iran asked for ceasefire",
@@ -217,7 +340,13 @@
       "published_at": "2026-04-01T21:28:49+00:00",
       "source": "investing.com",
       "score": 2,
-      "ntitle": "bitcoin kicks off april slight gains as trump says iran asked ceasefire"
+      "ntitle": "bitcoin kicks off april slight gains trump says iran asked ceasefire",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Blackrock’s Bitcoin Premium Income ETF Edges Closer to Market as SEC Amendment Reveals BITA Ticker",
@@ -225,7 +354,13 @@
       "published_at": "2026-04-01T23:30:43+00:00",
       "source": "news.bitcoin.com",
       "score": 8,
-      "ntitle": "blackrock s bitcoin premium income etf edges closer market as sec amendment reveals bita ticker"
+      "ntitle": "blackrock s bitcoin premium income etf edges closer market sec amendment reveals bita ticker",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": true,
+      "agency": "SEC"
     },
     {
       "title": "Ethereum Price Crash Update: Analyst Forecasts Fall To $600 If This Happens",
@@ -233,7 +368,13 @@
       "published_at": "2026-04-02T00:00:00+00:00",
       "source": "newsbtc.com",
       "score": 3,
-      "ntitle": "ethereum price crash update analyst forecasts fall 600 if this happens"
+      "ntitle": "ethereum price crash update analyst forecasts fall 600 if this happens",
+      "coins": [
+        "ETH"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Bitcoin’s best month since September was a 1.8% gain",
@@ -241,7 +382,13 @@
       "published_at": "2026-04-01T16:48:09+00:00",
       "source": "protos.com",
       "score": 1,
-      "ntitle": "bitcoin s best month since september was 1 8 gain"
+      "ntitle": "bitcoin s best month since september was 1 8 gain",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Bitcoin Reclaims $68,000 as Iran Ceasefire Hopes Fuel Risk-On Rally",
@@ -249,7 +396,13 @@
       "published_at": "2026-04-01T20:22:11+00:00",
       "source": "thedefiant.io",
       "score": 1,
-      "ntitle": "bitcoin reclaims 68 000 as iran ceasefire hopes fuel risk rally"
+      "ntitle": "bitcoin reclaims 68 000 iran ceasefire hopes fuel risk rally",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Shiba Inu (SHIB) Back to Life, Ethereum Now on Path to $3,000, Dogecoin's (DOGE) Zero Removal in Question: Crypto Market Review",
@@ -257,7 +410,15 @@
       "published_at": "2026-04-02T00:01:00+00:00",
       "source": "u.today",
       "score": 3,
-      "ntitle": "shiba inu shib back life ethereum now path 3 000 dogecoin s doge zero removal question crypto market review"
+      "ntitle": "shiba inu shib back life ethereum now path 3 000 dogecoin s doge zero removal question crypto market review",
+      "coins": [
+        "DOGE",
+        "ETH",
+        "SHIB"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Google Quantum Paper Speeds Up Timeline for Threat to Crypto to 3 Years",
@@ -265,7 +426,11 @@
       "published_at": "2026-04-01T12:00:59+00:00",
       "source": "unchainedcrypto.com",
       "score": 1,
-      "ntitle": "google quantum paper speeds up timeline threat crypto 3 years"
+      "ntitle": "google quantum paper speeds up timeline threat crypto 3 years",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "SEI jumps 10% after zero-fee rollout: But this rise may not last",
@@ -273,7 +438,13 @@
       "published_at": "2026-04-01T23:30:35+00:00",
       "source": "ambcrypto.com",
       "score": 1,
-      "ntitle": "sei jumps 10 after zero fee rollout but this rise may not last"
+      "ntitle": "sei jumps 10 after zero fee rollout but this rise may not last",
+      "coins": [
+        "SEI"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Citadel Securities-Backed Crypto Exchange Applies for National Trust Bank Charter",
@@ -281,7 +452,25 @@
       "published_at": "2026-04-01T17:38:11+00:00",
       "source": "bankless.com",
       "score": 4,
-      "ntitle": "citadel securities backed crypto exchange applies national trust bank charter"
+      "ntitle": "citadel securities backed crypto exchange applies national trust bank charter",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Bitcoin is Positioning for ‘War is Ending’ Narrative Ahead of Trump’s Iran Speech",
+      "link": "https://beincrypto.com/bitcoin-price-end-of-war-narrative-trump-speech/",
+      "published_at": "2026-04-01T22:19:16+00:00",
+      "source": "beincrypto.com",
+      "score": 2,
+      "ntitle": "bitcoin positioning war ending narrative ahead trump s iran speech",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     }
   ],
   "week": [
@@ -291,7 +480,11 @@
       "published_at": "2026-03-31T08:58:02+00:00",
       "source": "101blockchains.com",
       "score": 1,
-      "ntitle": "success story ola osode s learning journey 101 blockchains"
+      "ntitle": "success story ola osode s learning journey 101 blockchains",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "#504: Elon Musk Unveils Terafab, A Chip Fab That Will Impact SpaceX, xAI, And Tesla, &amp; More",
@@ -299,7 +492,11 @@
       "published_at": "2026-03-30T15:24:00+00:00",
       "source": "ark-invest.com",
       "score": 2,
-      "ntitle": "504 elon musk unveils terafab chip fab that will impact spacex xai tesla amp more"
+      "ntitle": "504 elon musk unveils terafab chip fab that will impact spacex xai tesla amp more",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Tether Announces USAT Stablecoin Expansion to Celo Network",
@@ -307,7 +504,11 @@
       "published_at": "2026-03-31T23:09:36+00:00",
       "source": "bankless.com",
       "score": 1,
-      "ntitle": "tether announces usat stablecoin expansion celo network"
+      "ntitle": "tether announces usat stablecoin expansion celo network",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "New Hampshire’s Bitcoin-Backed Municipal Bond Moves Closer With Moody’s Rating",
@@ -315,7 +516,13 @@
       "published_at": "2026-03-31T21:38:56+00:00",
       "source": "bitcoinmagazine.com",
       "score": 1,
-      "ntitle": "new hampshire s bitcoin backed municipal bond moves closer moody s rating"
+      "ntitle": "new hampshire s bitcoin backed municipal bond moves closer moody s rating",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Capital B Converts Bonds and Secures €2.8 Million To Expand Treasury Strategy",
@@ -323,7 +530,11 @@
       "published_at": "2026-03-30T12:43:25+00:00",
       "source": "btctimes.com",
       "score": 3,
-      "ntitle": "capital b converts bonds secures 2 8 million expand treasury strategy"
+      "ntitle": "capital b converts bonds secures 2 8 million expand treasury strategy",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": true,
+      "agency": "Treasury"
     },
     {
       "title": "Chainalysis Introduces the First Blockchain Intelligence Agents",
@@ -331,7 +542,11 @@
       "published_at": "2026-03-31T13:00:15+00:00",
       "source": "chainalysis.com",
       "score": 1,
-      "ntitle": "chainalysis introduces first blockchain intelligence agents"
+      "ntitle": "chainalysis introduces first blockchain intelligence agents",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "XRP, SOL and ADA price outlook as BTC struggles ahead of key macro events",
@@ -339,7 +554,16 @@
       "published_at": "2026-03-31T12:39:04+00:00",
       "source": "coinjournal.net",
       "score": 3,
-      "ntitle": "xrp sol ada price outlook as btc struggles ahead key macro events"
+      "ntitle": "xrp sol ada price outlook btc struggles ahead key macro events",
+      "coins": [
+        "ADA",
+        "BTC",
+        "SOL",
+        "XRP"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Trump’s $200B Iran war ask raises risk-off pressure on crypto markets",
@@ -347,15 +571,11 @@
       "published_at": "2026-03-31T21:30:00+00:00",
       "source": "crypto.news",
       "score": 3,
-      "ntitle": "trump s 200b iran war ask raises risk off pressure crypto markets"
-    },
-    {
-      "title": "Analyst: Bitcoin’s S&P Correlation Is Not the Bull Sign It Looks",
-      "link": "https://cryptopotato.com/analyst-bitcoins-sp-correlation-is-not-the-bull-sign-it-looks/",
-      "published_at": "2026-03-31T21:35:11+00:00",
-      "source": "cryptopotato.com",
-      "score": 1,
-      "ntitle": "analyst bitcoin s s p correlation not bull sign it looks"
+      "ntitle": "trump s 200b iran war ask raises risk off pressure crypto markets",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Cardano’s $9B network has little real activity — its new system aims to fix that",
@@ -363,7 +583,13 @@
       "published_at": "2026-03-31T21:05:33+00:00",
       "source": "cryptoslate.com",
       "score": 8,
-      "ntitle": "cardano s 9b network has little real activity its new system aims fix that"
+      "ntitle": "cardano s 9b network has little real activity new system aims fix that",
+      "coins": [
+        "ADA"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "U.S. Department of Labor Proposes New Rule That Would Open Up 401(k) Plans to Crypto",
@@ -371,7 +597,11 @@
       "published_at": "2026-03-31T11:45:53+00:00",
       "source": "dailyhodl.com",
       "score": 2,
-      "ntitle": "u s department labor proposes new rule that would open up 401 k plans crypto"
+      "ntitle": "u s department labor proposes new rule that would open up 401 k plans crypto",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Watch Out Bitcoin: Cryptography-Breaking Quantum Computers May Be Closer Than Expected, Says Caltech",
@@ -379,7 +609,13 @@
       "published_at": "2026-04-01T00:50:54+00:00",
       "source": "decrypt.co",
       "score": 2,
-      "ntitle": "watch out bitcoin cryptography breaking quantum computers may be closer than expected says caltech"
+      "ntitle": "watch out bitcoin cryptography breaking quantum computers may be closer than expected says caltech",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Federal Reserve Board announces it has made the joint findings with the Office of the Comptroller of the Currency required for the OCC to approve a request by Morgan Stanley Bank, N.A., for an exemption under section 23A of the Federal Reserve Act",
@@ -387,7 +623,11 @@
       "published_at": "2026-03-26T21:00:00+00:00",
       "source": "federalreserve.gov",
       "score": 5,
-      "ntitle": "federal reserve board announces it has made joint findings office comptroller currency required occ approve request morgan stanley bank n exemption under section 23a federal reserve act"
+      "ntitle": "federal reserve board announces it has made joint findings office comptroller currency required occ approve request morgan stanley bank n exemption under section 23a federal reserve act",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "Fed"
     },
     {
       "title": "Is THG about to make some mAjOr gAiNs? Over nearly 2,000 words, we struggle to say",
@@ -395,7 +635,11 @@
       "published_at": "2026-03-30T05:00:06+00:00",
       "source": "ft.com",
       "score": -1,
-      "ntitle": "thg about make some major gains over nearly 2 000 words we struggle say"
+      "ntitle": "thg about make some major gains over nearly 2 000 words we struggle say",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "BTC Market Pulse: Week 14",
@@ -403,7 +647,13 @@
       "published_at": "2026-03-30T17:11:11+00:00",
       "source": "insights.glassnode.com",
       "score": 2,
-      "ntitle": "btc market pulse week 14"
+      "ntitle": "btc market pulse week 14",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Bitcoin set for marginal March gain, on track to snap five-month losing streak",
@@ -411,7 +661,13 @@
       "published_at": "2026-03-31T22:09:39+00:00",
       "source": "investing.com",
       "score": 1,
-      "ntitle": "bitcoin set marginal march gain track snap five month losing streak"
+      "ntitle": "bitcoin set marginal march gain track snap five month losing streak",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Bitcoin’s quantum deadline just moved up",
@@ -419,7 +675,13 @@
       "published_at": "2026-03-31T18:00:36+00:00",
       "source": "protos.com",
       "score": 1,
-      "ntitle": "bitcoin s quantum deadline just moved up"
+      "ntitle": "bitcoin s quantum deadline just moved up",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "SEC Highlights Financial Independence During Financial Literacy Month",
@@ -427,7 +689,11 @@
       "published_at": "2026-03-31T13:52:09+00:00",
       "source": "sec.gov",
       "score": 1,
-      "ntitle": "sec highlights financial independence during financial literacy month"
+      "ntitle": "sec highlights financial independence during financial literacy month",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "SEC"
     },
     {
       "title": "Base Doubles Down on Global Markets, Stablecoins, and AI Agents",
@@ -435,7 +701,11 @@
       "published_at": "2026-03-31T19:12:43+00:00",
       "source": "thedefiant.io",
       "score": 1,
-      "ntitle": "base doubles down global markets stablecoins ai agents"
+      "ntitle": "base doubles down global markets stablecoins ai agents",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Midnight's (NIGHT) First Major Resistance Test, Shiba Inu (SHIB) Ahead of 16% Squeeze, Mini-Death Cross on Ethereum (ETH) Already? Crypto Market Review",
@@ -443,7 +713,14 @@
       "published_at": "2026-04-01T00:01:00+00:00",
       "source": "u.today",
       "score": 3,
-      "ntitle": "midnight s night first major resistance test shiba inu shib ahead 16 squeeze mini death cross ethereum eth already crypto market review"
+      "ntitle": "midnight s night first major resistance test shiba inu shib ahead 16 squeeze mini death cross ethereum eth already crypto market review",
+      "coins": [
+        "ETH",
+        "SHIB"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Cross-Border FX Startup OpenFX Raises $94 Million, Hits $45 Billion in Annual Volume",
@@ -451,7 +728,11 @@
       "published_at": "2026-03-31T14:31:22+00:00",
       "source": "unchainedcrypto.com",
       "score": 4,
-      "ntitle": "cross border fx startup openfx raises 94 million hits 45 billion annual volume"
+      "ntitle": "cross border fx startup openfx raises 94 million hits 45 billion annual volume",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Announcement: 101 Blockchains Recognized as a Leader in the G2 Spring 2026 Reports",
@@ -459,7 +740,11 @@
       "published_at": "2026-03-26T08:03:53+00:00",
       "source": "101blockchains.com",
       "score": 2,
-      "ntitle": "announcement 101 blockchains recognized as leader g2 spring 2026 reports"
+      "ntitle": "announcement 101 blockchains recognized leader g2 spring 2026 reports",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Aave’s Next Act: Inside the V4 Overhaul",
@@ -467,7 +752,13 @@
       "published_at": "2026-03-31T22:24:54+00:00",
       "source": "bankless.com",
       "score": 2,
-      "ntitle": "aave s next act inside v4 overhaul"
+      "ntitle": "aave s next act inside v4 overhaul",
+      "coins": [
+        "AAVE"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "B HODL Expands Treasury to 164.487 Bitcoin Following ATM-Funded Purchase",
@@ -475,7 +766,13 @@
       "published_at": "2026-03-26T16:17:48+00:00",
       "source": "btctimes.com",
       "score": 3,
-      "ntitle": "b hodl expands treasury 164 487 bitcoin following atm funded purchase"
+      "ntitle": "b hodl expands treasury 164 487 bitcoin following atm funded purchase",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": true,
+      "agency": "Treasury"
     },
     {
       "title": "From the Battlefield to the Blockchain: How Cryptocurrency Is Helping Finance the Drone Revolution",
@@ -483,7 +780,11 @@
       "published_at": "2026-03-30T15:00:38+00:00",
       "source": "chainalysis.com",
       "score": 2,
-      "ntitle": "battlefield blockchain how cryptocurrency helping finance drone revolution"
+      "ntitle": "battlefield blockchain how cryptocurrency helping finance drone revolution",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Bitcoin stalls near $66K: is a bigger drop coming this week?",
@@ -491,7 +792,14 @@
       "published_at": "2026-03-31T10:54:30+00:00",
       "source": "coinjournal.net",
       "score": 1,
-      "ntitle": "bitcoin stalls near 66k bigger drop coming this week"
+      "ntitle": "bitcoin stalls near 66k bigger drop coming this week",
+      "coins": [
+        "BTC",
+        "NEAR"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Bitcoin stalls below key resistance as technical signals skew bearish",
@@ -499,15 +807,13 @@
       "published_at": "2026-03-31T21:00:00+00:00",
       "source": "crypto.news",
       "score": 1,
-      "ntitle": "bitcoin stalls below key resistance as technical signals skew bearish"
-    },
-    {
-      "title": "BTC Long-Term Holders Selling at a Loss: Final Capitulation Phase May Be Here",
-      "link": "https://cryptopotato.com/btc-long-term-holders-selling-at-a-loss-final-capitulation-phase-may-be-here/",
-      "published_at": "2026-03-31T20:06:00+00:00",
-      "source": "cryptopotato.com",
-      "score": 1,
-      "ntitle": "btc long term holders selling at loss final capitulation phase may be here"
+      "ntitle": "bitcoin stalls below key resistance technical signals skew bearish",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "US moves to break China’s grip on Bitcoin mining hardware with new Senate bill",
@@ -515,7 +821,13 @@
       "published_at": "2026-03-31T19:10:39+00:00",
       "source": "cryptoslate.com",
       "score": 1,
-      "ntitle": "us moves break china s grip bitcoin mining hardware new senate bill"
+      "ntitle": "us moves break china s grip bitcoin mining hardware new senate bill",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "Congress"
     },
     {
       "title": "Crypto Startup Uses Polymarket to Bet on Its Own Fundraise, Blindsiding Backers",
@@ -523,7 +835,35 @@
       "published_at": "2026-03-31T21:07:24+00:00",
       "source": "decrypt.co",
       "score": 1,
-      "ntitle": "crypto startup uses polymarket bet its own fundraise blindsiding backers"
+      "ntitle": "crypto startup uses polymarket bet own fundraise blindsiding backers",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "At what gold price does Tether’s USDT become balance-sheet insolvent?",
+      "link": "https://www.ft.com/content/a9c03d18-1c22-4102-a362-f0ec21791e75",
+      "published_at": "2026-03-27T19:44:38+00:00",
+      "source": "ft.com",
+      "score": 1,
+      "ntitle": "what gold price does tether s usdt become balance sheet insolvent",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Pendle joins Vietnam IFC delegation alongside BlackRock, Morgan Stanley, and Deutsche Bank",
+      "link": "https://www.investing.com/news/cryptocurrency-news/pendle-joins-vietnam-ifc-delegation-alongside-blackrock-morgan-stanley-and-deutsche-bank-4589148",
+      "published_at": "2026-03-31T06:00:33+00:00",
+      "source": "investing.com",
+      "score": 4,
+      "ntitle": "pendle joins vietnam ifc delegation alongside blackrock morgan stanley deutsche bank",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
     }
   ],
   "month": [
@@ -533,7 +873,11 @@
       "published_at": "2026-03-24T09:19:37+00:00",
       "source": "101blockchains.com",
       "score": 3,
-      "ntitle": "success story aaron simon s learning journey 101 blockchains"
+      "ntitle": "success story aaron simon s learning journey 101 blockchains",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Bitcoin And Quantum Computing",
@@ -541,7 +885,13 @@
       "published_at": "2026-03-11T13:09:00+00:00",
       "source": "ark-invest.com",
       "score": 0,
-      "ntitle": "bitcoin quantum computing"
+      "ntitle": "bitcoin quantum computing",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Decoding the SEC’s Token Taxonomy",
@@ -549,7 +899,11 @@
       "published_at": "2026-03-25T21:15:04+00:00",
       "source": "bankless.com",
       "score": 2,
-      "ntitle": "decoding sec s token taxonomy"
+      "ntitle": "decoding sec s token taxonomy",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Regulatory"
     },
     {
       "title": "Capital B Increases Holdings to 2,888 Bitcoin After €2.7 Million Purchase",
@@ -557,7 +911,13 @@
       "published_at": "2026-03-23T18:05:40+00:00",
       "source": "btctimes.com",
       "score": 1,
-      "ntitle": "capital b increases holdings 2 888 bitcoin after 2 7 million purchase"
+      "ntitle": "capital b increases holdings 2 888 bitcoin after 2 7 million purchase",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Chainalysis Joins Solana Developer Platform to Bring Real-Time Compliance to Every Builder",
@@ -565,7 +925,13 @@
       "published_at": "2026-03-24T13:10:51+00:00",
       "source": "chainalysis.com",
       "score": 4,
-      "ntitle": "chainalysis joins solana developer platform bring real time compliance every builder"
+      "ntitle": "chainalysis joins solana developer platform bring real time compliance every builder",
+      "coins": [
+        "SOL"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Regulatory"
     },
     {
       "title": "Bitcoin After the Halving: Is 2026 the Real Bull Run?",
@@ -573,7 +939,13 @@
       "published_at": "2026-03-04T15:06:43+00:00",
       "source": "cryptovantage.com",
       "score": 1,
-      "ntitle": "bitcoin after halving 2026 real bull run"
+      "ntitle": "bitcoin after halving 2026 real bull run",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Federal Reserve Board releases annual audited financial statements",
@@ -581,7 +953,11 @@
       "published_at": "2026-03-25T16:00:00+00:00",
       "source": "federalreserve.gov",
       "score": 1,
-      "ntitle": "federal reserve board releases annual audited financial statements"
+      "ntitle": "federal reserve board releases annual audited financial statements",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Fed"
     },
     {
       "title": "Does Boaz Weinstein have Edinburgh Worldwide in a corner?",
@@ -589,7 +965,11 @@
       "published_at": "2026-03-24T15:35:28+00:00",
       "source": "ft.com",
       "score": 1,
-      "ntitle": "does boaz weinstein have edinburgh worldwide corner"
+      "ntitle": "does boaz weinstein have edinburgh worldwide corner",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Awaiting Liquidity",
@@ -597,7 +977,11 @@
       "published_at": "2026-03-25T14:13:46+00:00",
       "source": "insights.glassnode.com",
       "score": 2,
-      "ntitle": "awaiting liquidity"
+      "ntitle": "awaiting liquidity",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "XDC Network February 2026 Update: Cancun Upgrade, USDC Expansion, BitGo Custody, Trade Finance…",
@@ -605,7 +989,13 @@
       "published_at": "2026-03-05T13:56:33+00:00",
       "source": "medium.com",
       "score": 43,
-      "ntitle": "xdc network february 2026 update cancun upgrade usdc expansion bitgo custody trade finance"
+      "ntitle": "xdc network february 2026 update cancun upgrade usdc expansion bitgo custody trade finance",
+      "coins": [
+        "XDC"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "SEC Clarifies the Application of Federal Securities Laws to Crypto Assets",
@@ -613,7 +1003,11 @@
       "published_at": "2026-03-17T19:45:25+00:00",
       "source": "sec.gov",
       "score": 1,
-      "ntitle": "sec clarifies application federal securities laws crypto assets"
+      "ntitle": "sec clarifies application federal securities laws crypto assets",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "SEC"
     },
     {
       "title": "DeFi Generated $8 Billion in Onchain Yield in 2025: Analysis",
@@ -621,7 +1015,11 @@
       "published_at": "2026-03-25T20:55:03+00:00",
       "source": "thedefiant.io",
       "score": 5,
-      "ntitle": "defi generated 8 billion onchain yield 2025 analysis"
+      "ntitle": "defi generated 8 billion onchain yield 2025 analysis",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "101 Blockchains Rejoins Paris Blockchain Week 2026 as an Official Partner",
@@ -629,7 +1027,11 @@
       "published_at": "2026-03-19T07:29:04+00:00",
       "source": "101blockchains.com",
       "score": 1,
-      "ntitle": "101 blockchains rejoins paris blockchain week 2026 as official partner"
+      "ntitle": "101 blockchains rejoins paris blockchain week 2026 official partner",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "United Kingdom Bans Crypto Donations to Political Parties",
@@ -637,7 +1039,11 @@
       "published_at": "2026-03-25T19:38:29+00:00",
       "source": "bankless.com",
       "score": 1,
-      "ntitle": "united kingdom bans crypto donations political parties"
+      "ntitle": "united kingdom bans crypto donations political parties",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "H100 Signs LOI for Strategic Acquisition Expected To Increase Holdings to 3,500 Bitcoin",
@@ -645,7 +1051,13 @@
       "published_at": "2026-03-23T15:18:38+00:00",
       "source": "btctimes.com",
       "score": 2,
-      "ntitle": "h100 signs loi strategic acquisition expected increase holdings 3 500 bitcoin"
+      "ntitle": "h100 signs loi strategic acquisition expected increase holdings 3 500 bitcoin",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "The Resolv Hack: How One Compromised Key Printed $23 Million",
@@ -653,15 +1065,23 @@
       "published_at": "2026-03-22T22:18:40+00:00",
       "source": "chainalysis.com",
       "score": 3,
-      "ntitle": "resolv hack how one compromised key printed 23 million"
+      "ntitle": "resolv hack how one compromised key printed 23 million",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
     },
     {
-      "title": "Federal Reserve Board issues enforcement actions with former employee of Ally Bank and former employee of Regions Bank",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260320a.htm",
-      "published_at": "2026-03-20T15:00:00+00:00",
+      "title": "Agencies request comment on proposals to modernize the regulatory capital framework and maintain the strength of the banking system",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260319a.htm",
+      "published_at": "2026-03-19T16:30:00+00:00",
       "source": "federalreserve.gov",
-      "score": 4,
-      "ntitle": "federal reserve board issues enforcement actions former employee ally bank former employee regions bank"
+      "score": 7,
+      "ntitle": "agencies request comment proposals modernize regulatory capital framework maintain strength banking system",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "Fed"
     },
     {
       "title": "The Altcoin Vector #47",
@@ -669,7 +1089,11 @@
       "published_at": "2026-03-25T10:07:55+00:00",
       "source": "insights.glassnode.com",
       "score": 0,
-      "ntitle": "altcoin vector 47"
+      "ntitle": "altcoin vector 47",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "SEC Publishes Data on Public and Private Offerings, Municipal Advisors, Transfer Agents, and Securities-Based Swap Dealers",
@@ -677,7 +1101,11 @@
       "published_at": "2026-03-17T19:13:00+00:00",
       "source": "sec.gov",
       "score": 3,
-      "ntitle": "sec publishes data public private offerings municipal advisors transfer agents securities based swap dealers"
+      "ntitle": "sec publishes data public private offerings municipal advisors transfer agents securities based swap dealers",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "SEC"
     },
     {
       "title": "Bitcoin Holds $71K as ETF Flows Reverse",
@@ -685,8 +1113,94 @@
       "published_at": "2026-03-25T20:16:56+00:00",
       "source": "thedefiant.io",
       "score": 2,
-      "ntitle": "bitcoin holds 71k as etf flows reverse"
+      "ntitle": "bitcoin holds 71k etf flows reverse",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     }
   ],
-  "generated_at": "2026-04-02T01:02:29.385291+00:00"
+  "clusters": [
+    {
+      "id": 16,
+      "title": "Citadel-backed EDX Markets applies for U.S. trust charter to expand institutional crypto services",
+      "link": "https://www.coindesk.com/markets/2026/04/01/citadel-backed-edx-markets-applies-for-u-s-trust-charter-to-expand-institutional-crypto-services",
+      "source": "coindesk.com",
+      "published_at": "2026-04-01T19:36:22+00:00",
+      "sentiment": "bullish",
+      "coins": [],
+      "sources": [
+        "coindesk.com",
+        "bankless.com"
+      ],
+      "count": 2,
+      "members": [
+        {
+          "title": "Citadel-backed EDX Markets applies for U.S. trust charter to expand institutional crypto services",
+          "link": "https://www.coindesk.com/markets/2026/04/01/citadel-backed-edx-markets-applies-for-u-s-trust-charter-to-expand-institutional-crypto-services",
+          "source": "coindesk.com",
+          "published_at": "2026-04-01T19:36:22+00:00"
+        },
+        {
+          "title": "Citadel Securities-Backed Crypto Exchange Applies for National Trust Bank Charter",
+          "link": "https://www.bankless.com/read/news/citadel-securities-backed-crypto-exchange-applies-for-national-trust-bank-charter",
+          "source": "bankless.com",
+          "published_at": "2026-04-01T17:38:11+00:00"
+        }
+      ]
+    }
+  ],
+  "trending": [
+    {
+      "tag": "#XRP",
+      "count": 62,
+      "type": "coin",
+      "pct": 100
+    },
+    {
+      "tag": "#Ai",
+      "count": 50,
+      "type": "topic",
+      "pct": 81
+    },
+    {
+      "tag": "#Defi",
+      "count": 45,
+      "type": "topic",
+      "pct": 73
+    },
+    {
+      "tag": "#Xrp",
+      "count": 45,
+      "type": "topic",
+      "pct": 73
+    },
+    {
+      "tag": "#Bitcoin",
+      "count": 35,
+      "type": "topic",
+      "pct": 56
+    },
+    {
+      "tag": "#BTC",
+      "count": 33,
+      "type": "coin",
+      "pct": 53
+    },
+    {
+      "tag": "#ETH",
+      "count": 16,
+      "type": "coin",
+      "pct": 26
+    },
+    {
+      "tag": "#XDC",
+      "count": 10,
+      "type": "coin",
+      "pct": 16
+    }
+  ],
+  "generated_at": "2026-04-02T01:21:27.534035+00:00"
 }
