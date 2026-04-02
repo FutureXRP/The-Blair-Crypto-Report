@@ -193,7 +193,6 @@
         ${c.summary ? `<div class="cluster-summary">${esc(c.summary)}</div>` : ''}
         <div class="cluster-meta">
           ${coinTags}
-          <span class="sent-tag ${sentClass(c.sentiment)}">${sentLabel(c.sentiment)}</span>
           <span class="src-count">${esc(sources)}</span>
         </div>
         <div class="cluster-sources">${subItems}</div>
