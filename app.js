@@ -97,17 +97,6 @@
     return 'var(--accent)';
   }
 
-  function sentClass(s) {
-    if (s === 'bullish') return 'sent-bullish';
-    if (s === 'bearish') return 'sent-bearish';
-    return 'sent-neutral';
-  }
-  function sentLabel(s) {
-    if (s === 'bullish') return '▲ bullish';
-    if (s === 'bearish') return '▼ bearish';
-    return '● neutral';
-  }
-
   function agencyClass(agency) {
     const map = {
       'SEC':'agency-sec','CFTC':'agency-cftc','Fed':'agency-fed',
@@ -134,7 +123,6 @@
     const color = dotColor(item.source || '');
     const src   = esc((item.source || '').replace('www.',''));
     const coins = (item.coins || []).slice(0, 3);
-    const sent  = item.sentiment || 'neutral';
     const coinTags = coins.map(c =>
       `<span class="coin-tag" data-coin="${esc(c)}">${esc(c)}</span>`
     ).join('');
@@ -146,7 +134,6 @@
           <div class="art-meta">
             <span class="art-dot" style="background:${color}"></span>
             <span class="art-src">${src}</span>
-            <span class="art-sent ${sentClass(sent)}">${sentLabel(sent)}</span>
             <span class="art-time">${fmtAgo(item.published_at)}</span>
           </div>
           <div class="art-title">${esc(item.title || '')}</div>
@@ -241,7 +228,6 @@
           <div class="reg-title">${esc(item.title||'')}</div>
           <div class="reg-meta">
             <span class="reg-src">${esc((item.source||'').replace('www.',''))}</span>
-            <span class="sent-tag ${sentClass(item.sentiment)}">${sentLabel(item.sentiment)}</span>
             ${coins}
           </div>
         </div>
