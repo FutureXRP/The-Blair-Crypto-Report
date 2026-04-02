@@ -3,24 +3,30 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>The Blair Report</title>
-  <meta name="description" content="The Blair Report – a crypto front page organized by freshness: breaking, last 24 hours, past week, past month." />
+  <title>The Blair Report — Crypto Intelligence</title>
+  <meta name="description" content="The Blair Report — real-time crypto intelligence: breaking news, AI story summaries, sentiment, regulation tracker, and live market data." />
   <meta name="keywords" content="crypto news, RWA, tokenization, XRP, HBAR, ZBCN, Zebec, XDC, XinFin, blockchain updates, utility tokens, breaking crypto news, ETF, adoption, partnership, DeFi" />
-  <!-- Favicon -->
+
+  <!-- Favicons (unchanged) -->
   <link rel="icon" href="/favicon.ico" type="image/x-icon">
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48x48.png">
-  <link rel="icon" type="image/png" sizes="64x64" href="/favicon-64x64.png">
+  <link rel="icon" type="image/png" sizes="16x16"   href="/favicon-16x16.png">
+  <link rel="icon" type="image/png" sizes="32x32"   href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="48x48"   href="/favicon-48x48.png">
+  <link rel="icon" type="image/png" sizes="64x64"   href="/favicon-64x64.png">
   <link rel="icon" type="image/png" sizes="128x128" href="/favicon-128x128.png">
   <link rel="icon" type="image/png" sizes="256x256" href="/favicon-256x256.png">
-  <link rel="apple-touch-icon" sizes="180x180" href="/favicon-256x256.png">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="apple-touch-icon" sizes="180x180"      href="/favicon-256x256.png">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="styles.css" />
-  <!-- Fuse.js for search -->
+
+  <!-- Fuse.js for search (preserved) -->
   <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
-  <!-- Google tag (gtag.js) -->
+
+  <!-- Google Analytics (unchanged) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-7VBV6MXFKG"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -30,73 +36,221 @@
   </script>
 </head>
 <body>
+
+  <!-- ── TICKER ── -->
+  <div class="ticker-bar" aria-label="Live crypto prices">
+    <div class="ticker-label">MARKETS</div>
+    <div class="ticker-overflow">
+      <div id="ticker">
+        <div class="ticker-track" id="t1"></div>
+        <div class="ticker-track" id="t2"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── HEADER ── -->
   <header class="site-header">
     <div class="brand">
       <img src="assets/logo.svg" alt="The Blair Report" class="logo" />
-      <h1>THE BLAIR REPORT</h1>
+      <span class="brand-name">THE BLAIR REPORT</span>
+      <span class="brand-pill">Crypto Intelligence</span>
     </div>
-    <div class="ticker-wrap" aria-label="Top crypto prices, scrolling">
-      <div id="ticker" class="ticker"></div>
+    <div class="search-wrap">
+      <input type="text" id="search-input" placeholder="Search headlines, $XRP, regulation…" autocomplete="off" />
+      <button class="search-clear" id="search-clear" title="Clear">✕</button>
     </div>
-    <div class="search-bar">
-      <input type="text" id="search-input" placeholder="Search articles or tokens (e.g., ZBCN, XDC)...">
-      <button id="search-btn">Search</button>
+    <div class="header-right">
+      <div class="live-row"><span class="live-dot"></span>Live</div>
+      <div id="lastUpdated">—</div>
     </div>
   </header>
-  <main class="frontpage">
-    <section id="search-results" class="bucket" style="display: none;">
-      <h2>Search Results (<span id="results-count">0</span>)</h2>
-      <ul id="search-list"></ul>
-      <p id="no-results" style="display: none; text-align: center; color: var(--muted);">No results found. Try another keyword.</p>
-    </section>
-    <section class="bucket">
-      <h2>Breaking</h2>
-      <ul id="breaking"></ul>
-    </section>
-    <section class="bucket">
-      <h2>Past Day</h2>
-      <ul id="day"></ul>
-    </section>
-    <section class="bucket">
-      <h2>Past Week</h2>
-      <ul id="week"></ul>
-    </section>
-    <section class="bucket">
-      <h2>Past Month</h2>
-      <ul id="month"></ul>
-    </section>
-    <section class="bucket">
-      <h2>Top Gainers & Losers</h2>
-      <div id="sentiment-indicator" class="meta"></div>
-      <h3>Top Gainers (24h)</h3>
-      <table id="gainers">
-        <thead>
-          <tr>
-            <th>Symbol</th>
-            <th>Price</th>
-            <th>Change</th>
-          </tr>
-        </thead>
-        <tbody id="gainers-body"></tbody>
-      </table>
-      <h3>Top Losers (24h)</h3>
-      <table id="losers">
-        <thead>
-          <tr>
-            <th>Symbol</th>
-            <th>Price</th>
-            <th>Change</th>
-          </tr>
-        </thead>
-        <tbody id="losers-body"></tbody>
-      </table>
-    </section>
-  </main>
+
+  <!-- ── NAV ── -->
+  <nav class="nav-bar">
+    <span class="tab active" data-panel="news" data-bucket="all">All News</span>
+    <span class="tab" data-panel="news" data-bucket="breaking">
+      Breaking<span class="tab-badge" id="breaking-badge" style="display:none"></span>
+    </span>
+    <span class="tab" data-panel="news" data-bucket="day">24H</span>
+    <span class="tab" data-panel="news" data-bucket="week">Week</span>
+    <span class="tab" data-panel="news" data-bucket="month">Month</span>
+    <span class="tab" data-panel="regulation">Regulation</span>
+    <span class="tab" data-panel="search" id="search-tab" style="display:none">Search</span>
+    <span class="nav-right" id="article-count"></span>
+  </nav>
+
+  <!-- ── PAGE ── -->
+  <div class="page">
+    <main class="feed">
+
+      <!-- NEWS PANEL -->
+      <div class="panel active" id="panel-news">
+
+        <!-- Hot Stories -->
+        <div class="hot-stories" id="hot-stories-section">
+          <div class="section-header">
+            <span class="section-label">🔥 Hot Stories</span>
+            <span class="section-sub">Multiple sources, one story</span>
+            <span class="section-count" id="cluster-count"></span>
+          </div>
+          <div id="cluster-list"><div class="loading">Loading…</div></div>
+        </div>
+
+        <!-- Breaking -->
+        <div class="bucket breaking-list" id="bucket-breaking">
+          <div class="bucket-header">
+            <span class="bucket-label">Breaking</span>
+            <span class="bucket-badge bb-breaking">Live</span>
+            <span class="bucket-count" id="count-breaking"></span>
+          </div>
+          <ul class="article-list" id="breaking"><li class="loading">Loading…</li></ul>
+        </div>
+
+        <!-- 24H -->
+        <div class="bucket" id="bucket-day">
+          <div class="bucket-header">
+            <span class="bucket-label">Past 24 Hours</span>
+            <span class="bucket-badge bb-day">24H</span>
+            <span class="bucket-count" id="count-day"></span>
+          </div>
+          <ul class="article-list" id="day"><li class="loading">Loading…</li></ul>
+        </div>
+
+        <!-- Week -->
+        <div class="bucket" id="bucket-week">
+          <div class="bucket-header">
+            <span class="bucket-label">Past Week</span>
+            <span class="bucket-badge bb-week">7D</span>
+            <span class="bucket-count" id="count-week"></span>
+          </div>
+          <ul class="article-list" id="week"><li class="loading">Loading…</li></ul>
+        </div>
+
+        <!-- Month -->
+        <div class="bucket" id="bucket-month">
+          <div class="bucket-header">
+            <span class="bucket-label">Past Month</span>
+            <span class="bucket-badge bb-month">30D</span>
+            <span class="bucket-count" id="count-month"></span>
+          </div>
+          <ul class="article-list" id="month"><li class="loading">Loading…</li></ul>
+        </div>
+
+      </div><!-- /panel-news -->
+
+      <!-- REGULATION PANEL -->
+      <div class="panel" id="panel-regulation">
+        <div class="section-header">
+          <span class="section-label">Regulation Tracker</span>
+          <span class="section-sub">SEC · CFTC · Fed · Congress · EU</span>
+          <span class="section-count" id="reg-count"></span>
+        </div>
+        <div class="reg-filter-bar" id="reg-filters">
+          <button class="reg-filter active" data-agency="all">All</button>
+          <button class="reg-filter" data-agency="SEC">SEC</button>
+          <button class="reg-filter" data-agency="CFTC">CFTC</button>
+          <button class="reg-filter" data-agency="Fed">Fed</button>
+          <button class="reg-filter" data-agency="Congress">Congress</button>
+          <button class="reg-filter" data-agency="EU">EU</button>
+          <button class="reg-filter" data-agency="Treasury">Treasury</button>
+        </div>
+        <div id="reg-list"><div class="loading">Loading…</div></div>
+      </div>
+
+      <!-- COIN PANEL -->
+      <div class="panel" id="coin-panel">
+        <div class="coin-header">
+          <span class="coin-symbol-big" id="coin-sym">—</span>
+          <div class="coin-price-block">
+            <span class="coin-price" id="coin-price">—</span>
+            <span class="coin-change" id="coin-change">—</span>
+          </div>
+          <button class="coin-back" id="coin-back">← Back</button>
+        </div>
+        <div class="coin-stats-grid" id="coin-stats"></div>
+        <div class="coin-news-label">Recent Headlines</div>
+        <ul class="article-list" id="coin-news-list"></ul>
+      </div>
+
+      <!-- SEARCH PANEL -->
+      <div class="panel" id="panel-search">
+        <div class="section-header">
+          <span class="section-label">Search Results</span>
+          <span class="section-count" id="search-count"></span>
+        </div>
+        <ul class="article-list" id="search-list"></ul>
+        <div class="empty" id="no-results" style="display:none">
+          No results found. Try another keyword.
+        </div>
+      </div>
+
+    </main><!-- /feed -->
+
+    <!-- ── SIDEBAR ── -->
+    <aside class="sidebar">
+
+      <div class="side-section">
+        <div class="side-title">Market Sentiment</div>
+        <div class="sent-widget">
+          <div class="sent-score" id="sent-score">—</div>
+          <div class="sent-label" id="sent-label">Loading…</div>
+          <div class="sent-bar"><div class="sent-fill" id="sent-fill" style="width:50%"></div></div>
+          <div class="sent-scale"><span>Fear</span><span>Neutral</span><span>Greed</span></div>
+          <div class="sent-breakdown">
+            <div class="sent-bd-item">
+              <div class="sent-bd-pct pos" id="s-bull">—</div>
+              <div class="sent-bd-label">Bullish</div>
+            </div>
+            <div class="sent-bd-item">
+              <div class="sent-bd-pct" id="s-neut" style="color:var(--muted)">—</div>
+              <div class="sent-bd-label">Neutral</div>
+            </div>
+            <div class="sent-bd-item">
+              <div class="sent-bd-pct neg" id="s-bear">—</div>
+              <div class="sent-bd-label">Bearish</div>
+            </div>
+          </div>
+          <div class="sparkline" id="sparkline"></div>
+        </div>
+      </div>
+
+      <div class="side-section">
+        <div class="side-title">Trending Topics</div>
+        <div id="trending-list"><div class="loading">Loading…</div></div>
+      </div>
+
+      <div class="side-section">
+        <div class="side-title">Market Overview</div>
+        <table class="mkt-table">
+          <thead><tr><th>Asset</th><th>Price</th><th>24H</th></tr></thead>
+          <tbody id="market-body">
+            <tr><td colspan="3" class="loading">Loading…</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div class="side-section">
+        <div class="side-title">Top Gainers (24H)</div>
+        <div id="gainers-list"></div>
+      </div>
+
+      <div class="side-section">
+        <div class="side-title">Top Losers (24H)</div>
+        <div id="losers-list"></div>
+      </div>
+
+    </aside>
+  </div><!-- /page -->
+
   <footer class="site-footer">
-    <p>© <span id="year"></span> The Blair Report • Curated crypto headlines.
-       <a href="https://github.com/futurexrp/The-Blair-Report" target="_blank" rel="noopener">GitHub</a>
-    </p>
+    <span>© <span id="year"></span> The Blair Report &nbsp;·&nbsp; Crypto intelligence, updated every 5 min</span>
+    <span>
+      <a href="https://github.com/futurexrp/The-Blair-Report" target="_blank" rel="noopener">GitHub</a>
+      &nbsp;·&nbsp;
+      <a href="data/headlines.json" target="_blank">API</a>
+    </span>
   </footer>
+
   <script src="app.js"></script>
 </body>
 </html>
