@@ -2,18 +2,190 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "Metaplanet Outperforms MicroStrategy in Q1 Bitcoin Acquisition Using Options-Based Treasury Strategy",
-      "link": "https://blockonomi.com/metaplanet-outperforms-microstrategy-in-q1-bitcoin-acquisition-using-options-based-treasury-strategy/",
-      "published_at": "2026-04-04T12:26:33+00:00",
-      "source": "blockonomi.com",
+      "title": "Fed Rate Cut Bets Collapse as Jobs Data Shocks Markets; 10-year Treasury Yield Hits Critical Level",
+      "link": "https://coingape.com/fed-rate-cut-bets-collapse-as-jobs-data-shocks-markets-10-year-treasury-yield-hits-critical-level/",
+      "published_at": "2026-04-04T13:05:53+00:00",
+      "source": "coingape.com",
       "score": 4,
-      "ntitle": "metaplanet outperforms microstrategy q1 bitcoin acquisition using options based treasury strategy",
+      "ntitle": "fed rate cut bets collapse jobs data shocks markets 10 year treasury yield hits critical level",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "Fed"
+    },
+    {
+      "title": "Free Bitcoin again? Block revives Faucet under Jack Dorsey",
+      "link": "https://crypto.news/free-bitcoin-again-block-revives-faucet-under-jack-dorsey/",
+      "published_at": "2026-04-04T13:15:34+00:00",
+      "source": "crypto.news",
+      "score": 0,
+      "ntitle": "free bitcoin again block revives faucet under jack dorsey",
       "coins": [
         "BTC"
       ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Anthropic Spots 'Emotion Vectors' Inside Claude That Influence AI Behavior",
+      "link": "https://decrypt.co/363309/anthropic-emotion-vectors-claude-influence-ai-behavior",
+      "published_at": "2026-04-04T13:01:02+00:00",
+      "source": "decrypt.co",
+      "score": 1,
+      "ntitle": "anthropic spots emotion vectors inside claude that influence ai behavior",
+      "coins": [],
       "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Treasury"
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Ethereum Foundation Reaches 70,000 ETH Staking Target With $93 Million April Deposit",
+      "link": "https://news.bitcoin.com/ethereum-foundation-reaches-70000-eth-staking-target-with-93-million-april-deposit/",
+      "published_at": "2026-04-04T13:30:53+00:00",
+      "source": "news.bitcoin.com",
+      "score": 2,
+      "ntitle": "ethereum foundation reaches 70 000 eth staking target 93 million april deposit",
+      "coins": [
+        "ETH"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Analyst Who Called Bitcoin Top Says Price Is Going To $200,000, But Should You Buy Now?",
+      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-is-going-to-200000/",
+      "published_at": "2026-04-04T13:00:07+00:00",
+      "source": "newsbtc.com",
+      "score": -1,
+      "ntitle": "analyst who called bitcoin top says price going 200 000 but should you buy now",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Ripple Prime Leverage Jumps Over 70x Amid Capital Support Boost",
+      "link": "https://u.today/ripple-prime-leverage-jumps-over-70x-amid-capital-support-boost",
+      "published_at": "2026-04-04T13:11:00+00:00",
+      "source": "u.today",
+      "score": 3,
+      "ntitle": "ripple prime leverage jumps over 70x amid capital support boost",
+      "coins": [
+        "XRP"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Why Ethereum, Bitcoin, and Solana ruled weekend crypto chatter",
+      "link": "https://crypto.news/why-ethereum-bitcoin-and-solana-ruled-weekend-crypto-chatter/",
+      "published_at": "2026-04-04T12:38:48+00:00",
+      "source": "crypto.news",
+      "score": 5,
+      "ntitle": "why ethereum bitcoin solana ruled weekend crypto chatter",
+      "coins": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    }
+  ],
+  "day": [
+    {
+      "title": "Metaplanet’s October TOPIX entry at risk? Inside JPX’s crypto crackdown",
+      "link": "https://ambcrypto.com/metaplanets-october-topix-entry-at-risk-inside-jpxs-crypto-crackdown/",
+      "published_at": "2026-04-04T11:00:13+00:00",
+      "source": "ambcrypto.com",
+      "score": 1,
+      "ntitle": "metaplanet s october topix entry risk inside jpx s crypto crackdown",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Safenet: The Security Layer Crypto Has Been Missing",
+      "link": "https://www.bankless.com/read/the-1-4b-hack-that-safenet-was-built-to-prevent",
+      "published_at": "2026-04-03T20:59:40+00:00",
+      "source": "bankless.com",
+      "score": 3,
+      "ntitle": "safenet security layer crypto has been missing",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Russia’s War on Telegram Hillariously Backfired, Claims Pavel Durov",
+      "link": "https://beincrypto.com/russia-vpn-crackdown-telegram-payments-affected/",
+      "published_at": "2026-04-04T12:30:00+00:00",
+      "source": "beincrypto.com",
+      "score": 3,
+      "ntitle": "russia s war telegram hillariously backfired claims pavel durov",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Bitcoin Network Utilization At All-Time Low — What This Means For The Bear Phase",
+      "link": "https://bitcoinist.com/bitcoin-network-utilization-is-at-an-all-time-low/",
+      "published_at": "2026-04-04T12:30:04+00:00",
+      "source": "bitcoinist.com",
+      "score": -1,
+      "ntitle": "bitcoin network utilization all time low what this means bear phase",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Charles Schwab Teases Direct Bitcoin Trading With New ‘Schwab Crypto’ Account",
+      "link": "https://bitcoinmagazine.com/news/charles-schwab-direct-bitcoin-trading",
+      "published_at": "2026-04-03T19:42:51+00:00",
+      "source": "bitcoinmagazine.com",
+      "score": 1,
+      "ntitle": "charles schwab teases direct bitcoin trading new schwab crypto account",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "LDO Price Prediction: Lido DAO Targets $0.34 Resistance Test by Mid-April",
+      "link": "https://Blockchain.News/news/20260404-price-prediction-ldo-lido-dao-targets-034-resistance-test",
+      "published_at": "2026-04-04T09:01:04+00:00",
+      "source": "blockchain.news",
+      "score": 1,
+      "ntitle": "ldo price prediction lido dao targets 0 34 resistance test mid april",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "LayerZero, Canton, and Zero Blockchain Are Building the Rails for Institutional Cross-Chain Value",
+      "link": "https://blockonomi.com/layerzero-canton-and-zero-blockchain-are-building-the-rails-for-institutional-cross-chain-value/",
+      "published_at": "2026-04-04T12:30:44+00:00",
+      "source": "blockonomi.com",
+      "score": 10,
+      "ntitle": "layerzero canton zero blockchain building rails institutional cross chain value",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Solana's quantum-threat readiness reveals harsh tradeoff: security vs speed",
@@ -30,12 +202,12 @@
       "agency": null
     },
     {
-      "title": "XRP Price Outlook After the CLARITY Act’s New Stablecoin Rules",
+      "title": "XRP Price Prediction As CLARITY Act’s New Stablecoin Rules Favor RLUSD Over USDC",
       "link": "https://coingape.com/markets/xrp-price-outlook-after-the-clarity-acts-new-stablecoin-rules/",
       "published_at": "2026-04-04T11:41:59+00:00",
       "source": "coingape.com",
-      "score": 3,
-      "ntitle": "xrp price outlook after clarity act s new stablecoin rules",
+      "score": 9,
+      "ntitle": "xrp price prediction clarity act s new stablecoin rules favor rlusd over usdc",
       "coins": [
         "XRP"
       ],
@@ -68,285 +240,6 @@
       "agency": null
     },
     {
-      "title": "Bitcoin Enters Weekend With Highest Fear Levels in a Month: Here’s Why That’s Good",
-      "link": "https://cryptopotato.com/bitcoin-enters-weekend-with-highest-fear-levels-in-a-month-heres-why-thats-good/",
-      "published_at": "2026-04-04T12:21:34+00:00",
-      "source": "cryptopotato.com",
-      "score": 2,
-      "ntitle": "bitcoin enters weekend highest fear levels month here s why that s good",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Florida Man Drains $234,000 From Bank Customers in California and Nevada, Posing As Fraud Investigator: DOJ",
-      "link": "https://dailyhodl.com/2026/04/04/florida-man-drains-234000-from-bank-customers-in-california-and-nevada-posing-as-fraud-investigator-doj/",
-      "published_at": "2026-04-04T12:15:59+00:00",
-      "source": "dailyhodl.com",
-      "score": 4,
-      "ntitle": "florida man drains 234 000 bank customers california nevada posing fraud investigator doj",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Human Error, Not Hacking, Cited as Top Cause for Crypto Access Loss",
-      "link": "https://news.bitcoin.com/human-error-not-hacking-cited-as-top-cause-for-crypto-access-loss/",
-      "published_at": "2026-04-04T11:30:53+00:00",
-      "source": "news.bitcoin.com",
-      "score": 3,
-      "ntitle": "human error not hacking cited top cause crypto access loss",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Bitcoin Retail Activity Hits 9-Year Low — Here’s Why",
-      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-retail-activity-hits-9-year-low-heres-why/",
-      "published_at": "2026-04-04T12:00:14+00:00",
-      "source": "newsbtc.com",
-      "score": 4,
-      "ntitle": "bitcoin retail activity hits 9 year low here s why",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Dogecoin (DOGE) at Crucial Pivot, Bollinger Bands Signal Potential 20% Uptick",
-      "link": "https://u.today/dogecoin-doge-at-crucial-pivot-bollinger-bands-signal-potential-20-uptick",
-      "published_at": "2026-04-04T11:39:00+00:00",
-      "source": "u.today",
-      "score": 1,
-      "ntitle": "dogecoin doge crucial pivot bollinger bands signal potential 20 uptick",
-      "coins": [
-        "DOGE"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Five data sources say the same thing about bitcoin market. It's thinning from the inside",
-      "link": "https://www.coindesk.com/markets/2026/04/03/five-data-sources-say-the-same-thing-about-bitcoin-market-it-s-thinning-from-the-inside",
-      "published_at": "2026-04-04T11:30:00+00:00",
-      "source": "coindesk.com",
-      "score": 2,
-      "ntitle": "five data sources say same thing about bitcoin market it s thinning inside",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Bitcoin shorts risk $2.5 billion liquidation at $72K: Are bears in danger?",
-      "link": "https://cointelegraph.com/news/bitcoin-shorts-risk-2-5-billion-liquidation-72k-are-bears-in-danger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-04-04T11:58:24+00:00",
-      "source": "cointelegraph.com",
-      "score": 3,
-      "ntitle": "bitcoin shorts risk 2 5 billion liquidation 72k bears danger",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Bitcoin bearish chatter hits 2026 peak as price drops below $70K: More pain ahead?",
-      "link": "https://crypto.news/bitcoin-bearish-chatter-hits-2026-peak-as-price-drops-below-70k-more-pain-ahead/",
-      "published_at": "2026-04-04T11:49:33+00:00",
-      "source": "crypto.news",
-      "score": 2,
-      "ntitle": "bitcoin bearish chatter hits 2026 peak price drops below 70k more pain ahead",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "How to Earn Bitcoin Without Mining in 2026: Bitcoin Everlight Spotlight",
-      "link": "https://cryptopotato.com/how-to-earn-bitcoin-without-mining-in-2026-bitcoin-everlight-spotlight/",
-      "published_at": "2026-04-04T12:00:28+00:00",
-      "source": "cryptopotato.com",
-      "score": 1,
-      "ntitle": "how earn bitcoin without mining 2026 bitcoin everlight spotlight",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    }
-  ],
-  "day": [
-    {
-      "title": "Metaplanet’s October TOPIX entry at risk? Inside JPX’s crypto crackdown",
-      "link": "https://ambcrypto.com/metaplanets-october-topix-entry-at-risk-inside-jpxs-crypto-crackdown/",
-      "published_at": "2026-04-04T11:00:13+00:00",
-      "source": "ambcrypto.com",
-      "score": 1,
-      "ntitle": "metaplanet s october topix entry risk inside jpx s crypto crackdown",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Safenet: The Security Layer Crypto Has Been Missing",
-      "link": "https://www.bankless.com/read/the-1-4b-hack-that-safenet-was-built-to-prevent",
-      "published_at": "2026-04-03T20:59:40+00:00",
-      "source": "bankless.com",
-      "score": 3,
-      "ntitle": "safenet security layer crypto has been missing",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Ethereum Foundation is Staking Nearly $100 Million in ETH Again",
-      "link": "https://beincrypto.com/ethereum-foundation-stakes-additional-100-million-eth/",
-      "published_at": "2026-04-04T11:01:14+00:00",
-      "source": "beincrypto.com",
-      "score": 1,
-      "ntitle": "ethereum foundation staking nearly 100 million eth again",
-      "coins": [
-        "ETH"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "How Bitcoin ETFs Are Taking A Key Role In Price Discovery And Liquidity – Analyst",
-      "link": "https://bitcoinist.com/bitcoin-etfs-key-role-price-discovery-and-liquidity/",
-      "published_at": "2026-04-04T11:00:29+00:00",
-      "source": "bitcoinist.com",
-      "score": 8,
-      "ntitle": "how bitcoin etfs taking key role price discovery liquidity analyst",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Charles Schwab Teases Direct Bitcoin Trading With New ‘Schwab Crypto’ Account",
-      "link": "https://bitcoinmagazine.com/news/charles-schwab-direct-bitcoin-trading",
-      "published_at": "2026-04-03T19:42:51+00:00",
-      "source": "bitcoinmagazine.com",
-      "score": 1,
-      "ntitle": "charles schwab teases direct bitcoin trading new schwab crypto account",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "LDO Price Prediction: Lido DAO Targets $0.34 Resistance Test by Mid-April",
-      "link": "https://Blockchain.News/news/20260404-price-prediction-ldo-lido-dao-targets-034-resistance-test",
-      "published_at": "2026-04-04T09:01:04+00:00",
-      "source": "blockchain.news",
-      "score": 1,
-      "ntitle": "ldo price prediction lido dao targets 0 34 resistance test mid april",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Binance ETH Reserve Hits Lowest Level Since 2024 as Stablecoin Balances Surge",
-      "link": "https://blockonomi.com/binance-eth-reserve-hits-lowest-level-since-2024-as-stablecoin-balances-surge/",
-      "published_at": "2026-04-04T10:02:10+00:00",
-      "source": "blockonomi.com",
-      "score": 1,
-      "ntitle": "binance eth reserve hits lowest level since 2024 stablecoin balances surge",
-      "coins": [
-        "BNB",
-        "ETH"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "United Airlines hikes checked bag fee by $10 as fuel prices continue to climb",
-      "link": "https://www.cnbc.com/2026/04/02/united-airlines-raises-checked-bag-fees-fuel-prices-climb.html",
-      "published_at": "2026-04-03T12:32:11+00:00",
-      "source": "cnbc.com",
-      "score": 1,
-      "ntitle": "united airlines hikes checked bag fee 10 fuel prices continue climb",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Judge continues Nevada ban on Kalshi sports markets",
-      "link": "https://www.coindesk.com/policy/2026/04/04/judge-continues-nevada-ban-on-kalshi-sports-markets",
-      "published_at": "2026-04-04T07:04:16+00:00",
-      "source": "coindesk.com",
-      "score": 1,
-      "ntitle": "judge continues nevada ban kalshi sports markets",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Regulatory"
-    },
-    {
-      "title": "Oil Price Soars Past $111 as US-Iran War Threatens Bab el-Mandeb Strait",
-      "link": "https://coingape.com/oil-prices-soar-past-111-as-us-iran-war-threatens-bab-el-mandeb-strait/",
-      "published_at": "2026-04-04T10:30:39+00:00",
-      "source": "coingape.com",
-      "score": 1,
-      "ntitle": "oil price soars past 111 us iran war threatens bab el mandeb strait",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Polymarket takes down market on missing US pilot after backlash",
-      "link": "https://cointelegraph.com/news/polymarket-removes-missing-us-pilot-market-backlash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-04-04T09:32:42+00:00",
-      "source": "cointelegraph.com",
-      "score": 3,
-      "ntitle": "polymarket takes down market missing us pilot after backlash",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Bitcoin’s price holds, but on-chain data flashes warning",
-      "link": "https://crypto.news/bitcoins-price-holds-but-on-chain-data-flashes-warning/",
-      "published_at": "2026-04-04T11:26:05+00:00",
-      "source": "crypto.news",
-      "score": 1,
-      "ntitle": "bitcoin s price holds but chain data flashes warning",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
       "title": "Ceasefire odds drop sharply amid escalating US-Iran tensions and military strikes: FT",
       "link": "https://cryptobriefing.com/ceasefire-odds-drop-sharply-amid-escalating-us-iran-tensions-and-military/",
       "published_at": "2026-04-04T11:03:14+00:00",
@@ -359,14 +252,14 @@
       "agency": null
     },
     {
-      "title": "ETH Nears Key Resistance as Ethereum Foundation Approaches Staking Goal",
-      "link": "https://cryptopotato.com/eth-nears-key-resistance-as-ethereum-foundation-approaches-staking-goal/",
-      "published_at": "2026-04-04T11:28:22+00:00",
+      "title": "Bitcoin Enters Weekend With Highest Fear Levels in a Month: Here’s Why That’s Good",
+      "link": "https://cryptopotato.com/bitcoin-enters-weekend-with-highest-fear-levels-in-a-month-heres-why-thats-good/",
+      "published_at": "2026-04-04T12:21:34+00:00",
       "source": "cryptopotato.com",
-      "score": 1,
-      "ntitle": "eth nears key resistance ethereum foundation approaches staking goal",
+      "score": 2,
+      "ntitle": "bitcoin enters weekend highest fear levels month here s why that s good",
       "coins": [
-        "ETH"
+        "BTC"
       ],
       "sentiment": "bearish",
       "is_regulation": false,
@@ -387,14 +280,14 @@
       "agency": null
     },
     {
-      "title": "JPMorgan Chase Lending $80,000,000,000 to Small Businesses in ‘American Dream’ Initiative",
-      "link": "https://dailyhodl.com/2026/04/04/jpmorgan-chase-lending-80000000000-to-small-businesses-in-american-dream-initiative/",
-      "published_at": "2026-04-04T07:04:44+00:00",
+      "title": "Florida Man Drains $234,000 From Bank Customers in California and Nevada, Posing As Fraud Investigator: DOJ",
+      "link": "https://dailyhodl.com/2026/04/04/florida-man-drains-234000-from-bank-customers-in-california-and-nevada-posing-as-fraud-investigator-doj/",
+      "published_at": "2026-04-04T12:15:59+00:00",
       "source": "dailyhodl.com",
       "score": 4,
-      "ntitle": "jpmorgan chase lending 80 000 000 000 small businesses american dream initiative",
+      "ntitle": "florida man drains 234 000 bank customers california nevada posing fraud investigator doj",
       "coins": [],
-      "sentiment": "bullish",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -440,24 +333,26 @@
       "agency": null
     },
     {
-      "title": "MiCA Decoded: July 1 Is Not the Deadline. For Most Service Providers, It Already Passed",
-      "link": "https://news.bitcoin.com/mica-decoded-july-1-is-not-the-deadline-for-most-service-providers-it-already-passed/",
-      "published_at": "2026-04-04T09:30:56+00:00",
+      "title": "Bitcoin Consolidates Under Pressure at $67K With Bearish Undertone Intact",
+      "link": "https://news.bitcoin.com/bitcoin-consolidates-under-pressure-at-67k-with-bearish-undertone-intact/",
+      "published_at": "2026-04-04T12:30:37+00:00",
       "source": "news.bitcoin.com",
-      "score": 4,
-      "ntitle": "mica decoded july 1 not deadline most service providers it already passed",
-      "coins": [],
-      "sentiment": "neutral",
+      "score": 1,
+      "ntitle": "bitcoin consolidates under pressure 67k bearish undertone intact",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Bitcoin’s 85% Crash Era Is Over: ‘It’s Now A Proven Technology’, Cathie Wood Says",
-      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-85-crash-over-cathie-wood-says/",
-      "published_at": "2026-04-04T10:27:37+00:00",
+      "title": "Bitcoin Retail Activity Hits 9-Year Low — Here’s Why",
+      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-retail-activity-hits-9-year-low-heres-why/",
+      "published_at": "2026-04-04T12:00:14+00:00",
       "source": "newsbtc.com",
-      "score": 13,
-      "ntitle": "bitcoin s 85 crash era over it s now proven technology cathie wood says",
+      "score": 4,
+      "ntitle": "bitcoin retail activity hits 9 year low here s why",
       "coins": [
         "BTC"
       ],
@@ -492,16 +387,16 @@
       "agency": null
     },
     {
-      "title": "Bitcoin Fear Surges as Bearish Social Sentiment Hits Highest Level Since February",
-      "link": "https://u.today/bitcoin-fear-surges-as-bearish-social-sentiment-hits-highest-level-since-february",
-      "published_at": "2026-04-04T11:24:00+00:00",
+      "title": "Dogecoin (DOGE) at Crucial Pivot, Bollinger Bands Signal Potential 20% Uptick",
+      "link": "https://u.today/dogecoin-doge-at-crucial-pivot-bollinger-bands-signal-potential-20-uptick",
+      "published_at": "2026-04-04T11:39:00+00:00",
       "source": "u.today",
-      "score": 2,
-      "ntitle": "bitcoin fear surges bearish social sentiment hits highest level since february",
+      "score": 1,
+      "ntitle": "dogecoin doge crucial pivot bollinger bands signal potential 20 uptick",
       "coins": [
-        "BTC"
+        "DOGE"
       ],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -533,27 +428,29 @@
       "agency": null
     },
     {
-      "title": "CIO Resigns From Anthony Pompliano’s $750 Million Bitcoin Company",
-      "link": "https://beincrypto.com/bitcoin-firm-procap-financial-cio-resigns/",
-      "published_at": "2026-04-04T10:26:30+00:00",
+      "title": "Ethereum Foundation is Staking Nearly $100 Million in ETH Again",
+      "link": "https://beincrypto.com/ethereum-foundation-stakes-additional-100-million-eth/",
+      "published_at": "2026-04-04T11:01:14+00:00",
       "source": "beincrypto.com",
-      "score": 3,
-      "ntitle": "cio resigns anthony pompliano s 750 million bitcoin company",
+      "score": 1,
+      "ntitle": "ethereum foundation staking nearly 100 million eth again",
       "coins": [
-        "BTC"
+        "ETH"
       ],
-      "sentiment": "neutral",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Why This Next Altcoin Season Could Be More Explosive Than 2021 As Signals Go Crazy",
-      "link": "https://bitcoinist.com/next-altcoin-season-explosive/",
-      "published_at": "2026-04-04T08:30:13+00:00",
+      "title": "How Bitcoin ETFs Are Taking A Key Role In Price Discovery And Liquidity – Analyst",
+      "link": "https://bitcoinist.com/bitcoin-etfs-key-role-price-discovery-and-liquidity/",
+      "published_at": "2026-04-04T11:00:29+00:00",
       "source": "bitcoinist.com",
-      "score": 2,
-      "ntitle": "why this next altcoin season could be more explosive than 2021 signals go crazy",
-      "coins": [],
+      "score": 8,
+      "ntitle": "how bitcoin etfs taking key role price discovery liquidity analyst",
+      "coins": [
+        "BTC"
+      ],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
@@ -585,6 +482,20 @@
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
+    },
+    {
+      "title": "Metaplanet Outperforms MicroStrategy in Q1 Bitcoin Acquisition Using Options-Based Treasury Strategy",
+      "link": "https://blockonomi.com/metaplanet-outperforms-microstrategy-in-q1-bitcoin-acquisition-using-options-based-treasury-strategy/",
+      "published_at": "2026-04-04T12:26:33+00:00",
+      "source": "blockonomi.com",
+      "score": 4,
+      "ntitle": "metaplanet outperforms microstrategy q1 bitcoin acquisition using options based treasury strategy",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Treasury"
     }
   ],
   "week": [
@@ -677,14 +588,14 @@
       "agency": null
     },
     {
-      "title": "Japan's Sakura Internet jumps 20% as Microsoft plans $10 billion AI push with SoftBank",
-      "link": "https://www.cnbc.com/2026/04/03/sakura-internet-microsoft-ai-japan-softbank-investment.html",
-      "published_at": "2026-04-03T05:19:48+00:00",
+      "title": "United Airlines hikes checked bag fee by $10 as fuel prices continue to climb",
+      "link": "https://www.cnbc.com/2026/04/02/united-airlines-raises-checked-bag-fees-fuel-prices-climb.html",
+      "published_at": "2026-04-03T12:32:11+00:00",
       "source": "cnbc.com",
-      "score": 4,
-      "ntitle": "japan s sakura internet jumps 20 microsoft plans 10 billion ai push softbank",
+      "score": 1,
+      "ntitle": "united airlines hikes checked bag fee 10 fuel prices continue climb",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -701,58 +612,54 @@
       "agency": null
     },
     {
-      "title": "Ethereum Foundation stakes another $93 million ether, reaching its 70,000 ETH target",
-      "link": "https://www.coindesk.com/markets/2026/04/03/ethereum-foundation-stakes-another-usd93-million-ether-reaching-its-70-000-eth-target",
-      "published_at": "2026-04-03T11:38:11+00:00",
+      "title": "CoinDesk 20 performance update: Bitcoin (BTC) trades flat while altcoins rise",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/04/03/coindesk-20-performance-update-bitcoin-btc-trades-flat-while-altcoins-rise",
+      "published_at": "2026-04-03T13:18:50+00:00",
       "source": "coindesk.com",
-      "score": 2,
-      "ntitle": "ethereum foundation stakes another 93 million ether reaching 70 000 eth target",
+      "score": 1,
+      "ntitle": "coindesk 20 performance update bitcoin btc trades flat while altcoins rise",
       "coins": [
-        "ETH"
+        "BTC"
       ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "U.S. Jobs Report: Nonfarm Payrolls Rise 178k, Bitcoin Drops",
+      "link": "https://coingape.com/u-s-jobs-report-nonfarm-payrolls-rise-to-178k-bitcoin-drops/",
+      "published_at": "2026-04-03T12:59:13+00:00",
+      "source": "coingape.com",
+      "score": 1,
+      "ntitle": "u s jobs report nonfarm payrolls rise 178k bitcoin drops",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-04-03T13:19:48+00:00",
+      "source": "cointelegraph.com",
+      "score": 4,
+      "ntitle": "here s what happened crypto today",
+      "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "David Schwartz Says XRP Beats Stablecoins in 3 Key Ways",
-      "link": "https://coingape.com/david-schwartz-says-xrp-beats-stablecoins-in-3-key-ways/",
-      "published_at": "2026-04-03T11:47:10+00:00",
-      "source": "coingape.com",
-      "score": 10,
-      "ntitle": "david schwartz says xrp beats stablecoins 3 key ways",
-      "coins": [
-        "XRP"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Aave avoided bad debt by shifting risk to borrowers: Bank of Canada study",
-      "link": "https://cointelegraph.com/news/aave-v3-bad-debt-liquidations-borrower-losses-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-04-03T11:51:18+00:00",
-      "source": "cointelegraph.com",
-      "score": 3,
-      "ntitle": "aave avoided bad debt shifting risk borrowers bank canada study",
-      "coins": [
-        "AAVE"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Ripple and Cardano Whales Woke up, Binance Unveiled Important Updates: Bits Recap April 3",
-      "link": "https://cryptopotato.com/ripple-and-cardano-whales-woke-up-binance-unveiled-important-updates-bits-recap-april-3/",
-      "published_at": "2026-04-03T11:53:59+00:00",
+      "title": "Bitcoin Price Dips, Oil Soars to Local Peaks as Trump Vows to Open Strait of Hormuz: Weekly Recap",
+      "link": "https://cryptopotato.com/bitcoin-price-dips-oil-soars-to-local-peaks-as-trump-vows-to-open-strait-of-hormuz-weekly-recap/",
+      "published_at": "2026-04-03T13:26:59+00:00",
       "source": "cryptopotato.com",
-      "score": 9,
-      "ntitle": "ripple cardano whales woke up binance unveiled important updates bits recap april 3",
+      "score": -1,
+      "ntitle": "bitcoin price dips oil soars local peaks trump vows open strait hormuz weekly recap",
       "coins": [
-        "ADA",
-        "BNB",
-        "XRP"
+        "BTC"
       ],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -876,16 +783,16 @@
       "agency": null
     },
     {
-      "title": "Ripple CTO Emeritus Challenges 'No-Freeze' Stablecoin Idea, What Are Risks?",
-      "link": "https://u.today/ripple-cto-emeritus-challenges-no-freeze-stablecoin-idea-what-are-risks",
-      "published_at": "2026-04-03T11:56:00+00:00",
+      "title": "Vitalik Buterin Not Biggest Individual Holder of Ethereum, New Data Shows",
+      "link": "https://u.today/vitalik-buterin-not-biggest-individual-holder-of-ethereum-new-data-shows",
+      "published_at": "2026-04-03T13:16:00+00:00",
       "source": "u.today",
-      "score": 12,
-      "ntitle": "ripple cto emeritus challenges no freeze stablecoin idea what risks",
+      "score": 1,
+      "ntitle": "vitalik buterin not biggest individual holder ethereum new data shows",
       "coins": [
-        "XRP"
+        "ETH"
       ],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -1222,67 +1129,37 @@
   ],
   "clusters": [
     {
-      "id": 16,
-      "title": "Ethereum Foundation is Staking Nearly $100 Million in ETH Again",
-      "link": "https://beincrypto.com/ethereum-foundation-stakes-additional-100-million-eth/",
-      "source": "beincrypto.com",
-      "published_at": "2026-04-04T11:01:14+00:00",
-      "sentiment": "bullish",
+      "id": 3,
+      "title": "Ethereum Foundation Reaches 70,000 ETH Staking Target With $93 Million April Deposit",
+      "link": "https://news.bitcoin.com/ethereum-foundation-reaches-70000-eth-staking-target-with-93-million-april-deposit/",
+      "source": "news.bitcoin.com",
+      "published_at": "2026-04-04T13:30:53+00:00",
+      "sentiment": "neutral",
       "coins": [
         "ETH"
       ],
       "sources": [
         "beincrypto.com",
-        "cryptopotato.com"
+        "news.bitcoin.com"
       ],
       "count": 2,
       "members": [
+        {
+          "title": "Ethereum Foundation Reaches 70,000 ETH Staking Target With $93 Million April Deposit",
+          "link": "https://news.bitcoin.com/ethereum-foundation-reaches-70000-eth-staking-target-with-93-million-april-deposit/",
+          "source": "news.bitcoin.com",
+          "published_at": "2026-04-04T13:30:53+00:00"
+        },
         {
           "title": "Ethereum Foundation is Staking Nearly $100 Million in ETH Again",
           "link": "https://beincrypto.com/ethereum-foundation-stakes-additional-100-million-eth/",
           "source": "beincrypto.com",
           "published_at": "2026-04-04T11:01:14+00:00"
-        },
-        {
-          "title": "ETH Nears Key Resistance as Ethereum Foundation Approaches Staking Goal",
-          "link": "https://cryptopotato.com/eth-nears-key-resistance-as-ethereum-foundation-approaches-staking-goal/",
-          "source": "cryptopotato.com",
-          "published_at": "2026-04-04T11:28:22+00:00"
         }
       ]
     },
     {
-      "id": 32,
-      "title": "Bitcoin’s 85% Crash Era Is Over: ‘It’s Now A Proven Technology’, Cathie Wood Says",
-      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-85-crash-over-cathie-wood-says/",
-      "source": "newsbtc.com",
-      "published_at": "2026-04-04T10:27:37+00:00",
-      "sentiment": "bearish",
-      "coins": [
-        "BTC"
-      ],
-      "sources": [
-        "newsbtc.com",
-        "bitcoinmagazine.com"
-      ],
-      "count": 2,
-      "members": [
-        {
-          "title": "Bitcoin’s 85% Crash Era Is Over: ‘It’s Now A Proven Technology’, Cathie Wood Says",
-          "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-85-crash-over-cathie-wood-says/",
-          "source": "newsbtc.com",
-          "published_at": "2026-04-04T10:27:37+00:00"
-        },
-        {
-          "title": "Cathie Wood Calls Bitcoin’s 50% Crash a “Victory” as Market Tests New Floor",
-          "link": "https://bitcoinmagazine.com/news/cathie-wood-calls-bitcoins-crash-victory",
-          "source": "bitcoinmagazine.com",
-          "published_at": "2026-04-03T16:14:33+00:00"
-        }
-      ]
-    },
-    {
-      "id": 18,
+      "id": 11,
       "title": "Charles Schwab Is Gearing Up to Offer Bitcoin, Ethereum Spot Trading",
       "link": "https://decrypt.co/363336/charles-schwab-bitcoin-ethereum-spot-trading",
       "source": "decrypt.co",
@@ -1293,8 +1170,8 @@
         "BTC"
       ],
       "sources": [
-        "bitcoinmagazine.com",
-        "decrypt.co"
+        "decrypt.co",
+        "bitcoinmagazine.com"
       ],
       "count": 2,
       "members": [
@@ -1316,52 +1193,52 @@
   "trending": [
     {
       "tag": "#XRP",
-      "count": 53,
+      "count": 51,
       "type": "coin",
       "pct": 100
     },
     {
       "tag": "#Ai",
-      "count": 48,
+      "count": 49,
       "type": "topic",
-      "pct": 91
+      "pct": 96
     },
     {
       "tag": "#Defi",
       "count": 47,
       "type": "topic",
-      "pct": 89
+      "pct": 92
     },
     {
       "tag": "#Xrp",
       "count": 42,
       "type": "topic",
-      "pct": 79
+      "pct": 82
     },
     {
       "tag": "#Bitcoin",
-      "count": 35,
+      "count": 36,
       "type": "topic",
-      "pct": 66
+      "pct": 71
     },
     {
       "tag": "#BTC",
-      "count": 29,
+      "count": 30,
       "type": "coin",
-      "pct": 55
+      "pct": 59
     },
     {
       "tag": "#ETH",
-      "count": 13,
+      "count": 14,
       "type": "coin",
-      "pct": 25
+      "pct": 27
     },
     {
       "tag": "#BNB",
       "count": 11,
       "type": "coin",
-      "pct": 21
+      "pct": 22
     }
   ],
-  "generated_at": "2026-04-04T12:28:45.858943+00:00"
+  "generated_at": "2026-04-04T13:34:04.739319+00:00"
 }
