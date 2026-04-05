@@ -2,18 +2,32 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "Ripple (XRP) Corporate Treasury Expands, Yet Taurox (TAUX) Pre-KYA Opening Boosts AI Agents Developments",
-      "link": "https://blockonomi.com/ripple-xrp-corporate-treasury-expands-yet-taurox-taux-pre-kya-opening-boosts-ai-agents-developments/",
-      "published_at": "2026-04-05T20:00:21+00:00",
-      "source": "blockonomi.com",
-      "score": 11,
-      "ntitle": "ripple xrp corporate treasury expands yet taurox taux pre kya opening boosts ai agents developments",
+      "title": "Bybit Crosses a Line in Rwanda That Binance Has Walked for Years Without Consequence",
+      "link": "https://beincrypto.com/bybit-rwandan-franc-listing-central-bank-warning/",
+      "published_at": "2026-04-05T20:20:00+00:00",
+      "source": "beincrypto.com",
+      "score": 10,
+      "ntitle": "bybit crosses line rwanda that binance has walked years without consequence",
       "coins": [
-        "XRP"
+        "BNB"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "ETH Futures Volumes Hit Seven Times Spot Trading as Open Interest Nears All-Time High",
+      "link": "https://blockonomi.com/eth-futures-volumes-hit-seven-times-spot-trading-as-open-interest-nears-all-time-high/",
+      "published_at": "2026-04-05T20:56:50+00:00",
+      "source": "blockonomi.com",
+      "score": 2,
+      "ntitle": "eth futures volumes hit seven times spot trading open interest nears all time high",
+      "coins": [
+        "ETH"
       ],
       "sentiment": "bullish",
-      "is_regulation": true,
-      "agency": "Treasury"
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "A simple explainer on what quantum computing actually is, and why it is terrifying for bitcoin",
@@ -110,20 +124,18 @@
       "agency": null
     },
     {
-      "title": "Bitcoin Price Prediction: OCC Grants Crypto Bank Charter as Pepeto Targets 100x While ETH and XRP Hold",
-      "link": "https://blockonomi.com/bitcoin-price-prediction-occ-grants-crypto-bank-charter-as-pepeto-targets-100x-while-eth-and-xrp-hold/",
-      "published_at": "2026-04-05T18:45:32+00:00",
+      "title": "Ripple (XRP) Corporate Treasury Expands, Yet Taurox (TAUX) Pre-KYA Opening Boosts AI Agents Developments",
+      "link": "https://blockonomi.com/ripple-xrp-corporate-treasury-expands-yet-taurox-taux-pre-kya-opening-boosts-ai-agents-developments/",
+      "published_at": "2026-04-05T20:00:21+00:00",
       "source": "blockonomi.com",
-      "score": 8,
-      "ntitle": "bitcoin price prediction occ grants crypto bank charter pepeto targets 100x while eth xrp hold",
+      "score": 11,
+      "ntitle": "ripple xrp corporate treasury expands yet taurox taux pre kya opening boosts ai agents developments",
       "coins": [
-        "BTC",
-        "ETH",
         "XRP"
       ],
       "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
+      "is_regulation": true,
+      "agency": "Treasury"
     },
     {
       "title": "The mega IPOs of SpaceX, Anthropic and OpenAI alone can't fix this stock market",
@@ -341,14 +353,18 @@
       "agency": null
     },
     {
-      "title": "Most Blockchain Companies Are Invisible Outside Crypto — Kooc Media’s PR Services Change That Overnight",
-      "link": "https://blockonomi.com/most-blockchain-companies-are-invisible-outside-crypto-kooc-medias-pr-services-change-that-overnight/",
-      "published_at": "2026-04-05T18:40:51+00:00",
+      "title": "Bitcoin Price Prediction: OCC Grants Crypto Bank Charter as Pepeto Targets 100x While ETH and XRP Hold",
+      "link": "https://blockonomi.com/bitcoin-price-prediction-occ-grants-crypto-bank-charter-as-pepeto-targets-100x-while-eth-and-xrp-hold/",
+      "published_at": "2026-04-05T18:45:32+00:00",
       "source": "blockonomi.com",
-      "score": -1,
-      "ntitle": "most blockchain companies invisible outside crypto kooc media s pr services change that overnight",
-      "coins": [],
-      "sentiment": "bearish",
+      "score": 8,
+      "ntitle": "bitcoin price prediction occ grants crypto bank charter pepeto targets 100x while eth xrp hold",
+      "coins": [
+        "BTC",
+        "ETH",
+        "XRP"
+      ],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -461,16 +477,17 @@
       "agency": null
     },
     {
-      "title": "Chainlink holds $8.6: Will 14.7M LINK inflow trigger a sell-off?",
-      "link": "https://ambcrypto.com/chainlink-holds-8-6-will-14-7m-link-inflow-trigger-a-sell-off/",
-      "published_at": "2026-04-04T19:00:14+00:00",
+      "title": "Record-low retail demand, $18B ETF flows: Is Bitcoin near a supercycle?",
+      "link": "https://ambcrypto.com/record-low-retail-demand-18b-etf-flows-is-bitcoin-near-a-supercycle/",
+      "published_at": "2026-04-04T21:00:56+00:00",
       "source": "ambcrypto.com",
-      "score": 8,
-      "ntitle": "chainlink holds 8 6 will 14 7m link inflow trigger sell off",
+      "score": 5,
+      "ntitle": "record low retail demand 18b etf flows bitcoin near supercycle",
       "coins": [
-        "LINK"
+        "BTC",
+        "NEAR"
       ],
-      "sentiment": "bearish",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -1069,33 +1086,33 @@
     },
     {
       "tag": "#Ai",
-      "count": 54,
+      "count": 51,
       "type": "topic",
-      "pct": 100
+      "pct": 94
     },
     {
       "tag": "#Defi",
-      "count": 49,
+      "count": 48,
       "type": "topic",
-      "pct": 91
+      "pct": 89
     },
     {
       "tag": "#Xrp",
-      "count": 47,
+      "count": 48,
       "type": "topic",
-      "pct": 87
+      "pct": 89
     },
     {
       "tag": "#BTC",
-      "count": 35,
+      "count": 36,
       "type": "coin",
-      "pct": 65
+      "pct": 67
     },
     {
       "tag": "#Bitcoin",
-      "count": 33,
+      "count": 31,
       "type": "topic",
-      "pct": 61
+      "pct": 57
     },
     {
       "tag": "#ETH",
@@ -1105,10 +1122,10 @@
     },
     {
       "tag": "#Ethereum",
-      "count": 14,
+      "count": 13,
       "type": "topic",
-      "pct": 26
+      "pct": 24
     }
   ],
-  "generated_at": "2026-04-05T20:38:42.230268+00:00"
+  "generated_at": "2026-04-05T21:03:10.624492+00:00"
 }
