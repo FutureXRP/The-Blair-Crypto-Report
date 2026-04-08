@@ -2,68 +2,97 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "Sharplink stakes 511 Ethereum in a week – Breaking down its ‘ETH earns more ETH’ approach",
-      "link": "https://ambcrypto.com/sharplink-stakes-511-ethereum-in-a-week-breaking-down-its-eth-earns-more-eth-approach/",
-      "published_at": "2026-04-08T19:00:25+00:00",
+      "title": "Yuga Labs settles with Ryder Ripps, secures sweeping ban on RR/BAYC NFTs",
+      "link": "https://ambcrypto.com/yuga-labs-settles-with-ryder-ripps-secures-sweeping-ban-on-rr-bayc-nfts/",
+      "published_at": "2026-04-08T20:19:52+00:00",
       "source": "ambcrypto.com",
-      "score": 4,
-      "ntitle": "sharplink stakes 511 ethereum week breaking down eth earns more eth approach",
-      "coins": [
-        "ETH"
-      ],
+      "score": 1,
+      "ntitle": "yuga labs settles ryder ripps secures sweeping ban rr bayc nfts",
+      "coins": [],
       "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
+      "is_regulation": true,
+      "agency": "Regulatory"
     },
     {
-      "title": "Standard Chartered is Taking Over Full Crypto Custody Platform Zodia",
-      "link": "https://beincrypto.com/standard-chartered-zodia-custody-integration-tradfi-2/",
-      "published_at": "2026-04-08T19:08:50+00:00",
+      "title": "MicroStrategy’s Michael Saylor Doesn’t Buy The Adam Back Is Satoshi Story",
+      "link": "https://beincrypto.com/saylor-rejects-adam-back-satoshi-nakamoto-claim/",
+      "published_at": "2026-04-08T19:43:20+00:00",
       "source": "beincrypto.com",
-      "score": 9,
-      "ntitle": "standard chartered taking over full crypto custody platform zodia",
+      "score": 1,
+      "ntitle": "microstrategy s michael saylor doesn t buy adam back satoshi story",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Nunchuk Releases Open-Source Tools for Bitcoin Agents With Bounded Authority",
-      "link": "https://bitcoinmagazine.com/news/nunchuk-releases-bitcoin-agents",
-      "published_at": "2026-04-08T19:12:51+00:00",
-      "source": "bitcoinmagazine.com",
+      "title": "Here’s Why The Bitcoin, XRP, And Dogecoin Prices Are Surging Today",
+      "link": "https://bitcoinist.com/bitcoin-xrp-doge-surging-today/",
+      "published_at": "2026-04-08T20:00:45+00:00",
+      "source": "bitcoinist.com",
+      "score": 8,
+      "ntitle": "here s why bitcoin xrp dogecoin prices surging today",
+      "coins": [
+        "BTC",
+        "DOGE",
+        "XRP"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "LangChain Releases Better-Harness Framework for Self-Improving AI Agents",
+      "link": "https://Blockchain.News/news/langchain-better-harness-self-improving-ai-agents",
+      "published_at": "2026-04-08T20:11:57+00:00",
+      "source": "blockchain.news",
       "score": 3,
-      "ntitle": "nunchuk releases open source tools bitcoin agents bounded authority",
+      "ntitle": "langchain releases better harness framework self improving ai agents",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": true,
+      "agency": "Regulatory"
+    },
+    {
+      "title": "Ripple Mints 9.9 Million RLUSD Tokens to Ethereum Blockchain",
+      "link": "https://blockonomi.com/ripple-mints-9-9-million-rlusd-tokens-to-ethereum-blockchain/",
+      "published_at": "2026-04-08T20:23:51+00:00",
+      "source": "blockonomi.com",
+      "score": 3,
+      "ntitle": "ripple mints 9 9 million rlusd tokens ethereum blockchain",
+      "coins": [
+        "ETH",
+        "XRP"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Latest investigation into bitcoin founder ties identity to Blockstream CEO Adam Back",
+      "link": "https://www.cnbc.com/2026/04/08/latest-investigation-of-bitcoin-founder-ties-identity-to-blockstream-ceo-adam-back.html",
+      "published_at": "2026-04-08T20:02:50+00:00",
+      "source": "cnbc.com",
+      "score": 2,
+      "ntitle": "latest investigation into bitcoin founder ties identity blockstream ceo adam back",
       "coins": [
         "BTC"
       ],
-      "sentiment": "bullish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Morpho Launches Morpho Agents to Integrate AI into DeFi Lending",
-      "link": "https://blockonomi.com/morpho-launches-morpho-agents-to-integrate-ai-into-defi-lending/",
-      "published_at": "2026-04-08T19:48:40+00:00",
-      "source": "blockonomi.com",
-      "score": 5,
-      "ntitle": "morpho launches morpho agents integrate ai into defi lending",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "The FDIC’s Crypto Regulation Proposal: What the 191 Pages Actually Require for Stablecoin Holders",
-      "link": "https://crypto.news/crypto-regulation-fdic-drops-191-stablecoin-rules/",
-      "published_at": "2026-04-08T19:40:00+00:00",
+      "title": "Stablecoin News: Treasury’s FinCEN Just Proposed Rules Requiring Issuers to Police Their Own Transactions",
+      "link": "https://crypto.news/stablecoin-news-fincens-new-selfpolicing-rule/",
+      "published_at": "2026-04-08T20:15:00+00:00",
       "source": "crypto.news",
-      "score": 6,
-      "ntitle": "fdic s crypto regulation proposal what 191 pages actually require stablecoin holders",
+      "score": 8,
+      "ntitle": "stablecoin news treasury s fincen just proposed rules requiring issuers police their own transactions",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": true,
-      "agency": "Regulatory"
+      "agency": "Treasury"
     },
     {
       "title": "Adam Back Denies Being Satoshi Amid NYT Probe",
@@ -78,30 +107,28 @@
       "agency": null
     },
     {
-      "title": "Bitcoin rebounds as oil cools but Trump impeachment odds show markets still on edge",
-      "link": "https://cryptoslate.com/iran-ceasefire-bitcoin-trump-impeachment-odds/",
-      "published_at": "2026-04-08T19:05:47+00:00",
-      "source": "cryptoslate.com",
+      "title": "Meta Launches Muse Spark, Its Most Capable AI Yet—But Gemini 3.1 Pro Still Leads the Pack",
+      "link": "https://decrypt.co/363691/meta-muse-spark-most-capable-ai-gemini-pro-still-leads",
+      "published_at": "2026-04-08T20:07:25+00:00",
+      "source": "decrypt.co",
       "score": 4,
-      "ntitle": "bitcoin rebounds oil cools but trump impeachment odds show markets still edge",
-      "coins": [
-        "BTC"
-      ],
+      "ntitle": "meta launches muse spark most capable ai yet but gemini 3 1 pro still leads pack",
+      "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Treasury Outlines How Stablecoin Rules Will Fight Illicit Finance Under GENIUS Act",
-      "link": "https://decrypt.co/363690/treasury-outlines-stablecoin-rules-fight-illicit-finance-under-genius-act",
-      "published_at": "2026-04-08T19:42:29+00:00",
-      "source": "decrypt.co",
-      "score": 6,
-      "ntitle": "treasury outlines how stablecoin rules will fight illicit finance under genius act",
+      "title": "Polymarket Acquires Brahma To Scale its Crypto and DeFi infra",
+      "link": "https://www.investing.com/news/cryptocurrency-news/polymarket-acquires-brahma-to-scale-its-crypto-and-defi-infra-4603872",
+      "published_at": "2026-04-08T20:00:35+00:00",
+      "source": "investing.com",
+      "score": 3,
+      "ntitle": "polymarket acquires brahma scale crypto defi infra",
       "coins": [],
       "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Treasury"
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Bitcoin Treasuries Report: Strategy Buys 44,377 BTC in March 2026 as STRC Volume Hits $746M Record",
@@ -118,99 +145,12 @@
       "agency": null
     },
     {
-      "title": "Aave Breakdown Deepens With Supply Flooding Back To Binance. Learn What Triggered The Rush",
-      "link": "https://www.newsbtc.com/news/aave/aave-breakdown-deepens-with-supply-flooding-back-to-binance-learn-what-triggered-the-rush/",
-      "published_at": "2026-04-08T19:00:50+00:00",
+      "title": "Bitcoin Range Analysis: Leverage Delta Flipping Signals Instability",
+      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-leverage-delta-flips/",
+      "published_at": "2026-04-08T20:00:42+00:00",
       "source": "newsbtc.com",
-      "score": 13,
-      "ntitle": "aave breakdown deepens supply flooding back binance learn what triggered rush",
-      "coins": [
-        "AAVE",
-        "BNB"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Polymarket Acquires Brahma to Strengthen DeFi Infrastructure",
-      "link": "https://thedefiant.io/news/defi/polymarket-acquires-brahma-defi-infrastructure-56otzn",
-      "published_at": "2026-04-08T19:16:38+00:00",
-      "source": "thedefiant.io",
       "score": 3,
-      "ntitle": "polymarket acquires brahma strengthen defi infrastructure",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "SEC’s New Enforcement Chief David Woodcock Has No Crypto Background",
-      "link": "https://beincrypto.com/sec-woodcock-enforcement-director-crypto-cases/",
-      "published_at": "2026-04-08T19:08:13+00:00",
-      "source": "beincrypto.com",
-      "score": 1,
-      "ntitle": "sec s new enforcement chief david woodcock has no crypto background",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Regulatory"
-    },
-    {
-      "title": "New Stablecoin Rules by U.S. Treasury Aim to Strengthen Financial Security",
-      "link": "https://blockonomi.com/new-stablecoin-rules-by-u-s-treasury-aim-to-strengthen-financial-security/",
-      "published_at": "2026-04-08T19:37:14+00:00",
-      "source": "blockonomi.com",
-      "score": 5,
-      "ntitle": "new stablecoin rules u s treasury aim strengthen financial security",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Treasury"
-    },
-    {
-      "title": "Meta’s Muse Spark aims to put “personal superintelligence” in your browser",
-      "link": "https://crypto.news/metas-muse-spark-aims-to-put-personal-superintelligence-in-your-browser/",
-      "published_at": "2026-04-08T19:29:26+00:00",
-      "source": "crypto.news",
-      "score": 1,
-      "ntitle": "meta s muse spark aims put personal superintelligence your browser",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Anthropic's Mythos Safety Report Shows It Can No Longer Fully Measure What It Built",
-      "link": "https://decrypt.co/363663/anthropic-claude-mythos-safety-report-warning-risk-assesment",
-      "published_at": "2026-04-08T19:36:03+00:00",
-      "source": "decrypt.co",
-      "score": 2,
-      "ntitle": "anthropic s mythos safety report shows it can no longer fully measure what it built",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Circle Launches CPN Managed Payments for Banks and PSPs to Settle in USDC Without Holding Crypto",
-      "link": "https://news.bitcoin.com/circle-launches-cpn-managed-payments-for-banks-and-psps-to-settle-in-usdc-without-holding-crypto/",
-      "published_at": "2026-04-08T19:03:51+00:00",
-      "source": "news.bitcoin.com",
-      "score": 8,
-      "ntitle": "circle launches cpn managed payments banks psps settle usdc without holding crypto",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Adam Back Denies Being Bitcoin Creator In Response To NYT: ‘I Am Not Satoshi’",
-      "link": "https://www.newsbtc.com/breaking-news-ticker/adam-back-denies-being-bitcoin-creator-in-response-to-nyt-i-am-not-satoshi/",
-      "published_at": "2026-04-08T18:59:30+00:00",
-      "source": "newsbtc.com",
-      "score": 5,
-      "ntitle": "adam back denies being bitcoin creator response nyt i am not satoshi",
+      "ntitle": "bitcoin range analysis leverage delta flipping signals instability",
       "coins": [
         "BTC"
       ],
@@ -219,16 +159,70 @@
       "agency": null
     },
     {
-      "title": "Crypto Markets Surge as US-Iran Ceasefire Triggers Short Squeeze",
-      "link": "https://thedefiant.io/news/markets/crypto-markets-surge-as-us-iran-ceasefire-triggers-short-squeeze",
-      "published_at": "2026-04-08T18:58:46+00:00",
-      "source": "thedefiant.io",
+      "title": "Saylor Names Key Reason Why Back Is Not Satoshi",
+      "link": "https://u.today/saylor-names-key-reason-why-back-is-not-satoshi",
+      "published_at": "2026-04-08T20:05:22+00:00",
+      "source": "u.today",
       "score": 1,
-      "ntitle": "crypto markets surge us iran ceasefire triggers short squeeze",
+      "ntitle": "saylor names key reason why back not satoshi",
       "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Arbitrum gains 10% as volume spikes – Can ARB break supply zone?",
+      "link": "https://ambcrypto.com/arbitrum-gains-10-as-volume-spikes-can-arb-break-supply-zone/",
+      "published_at": "2026-04-08T20:00:53+00:00",
+      "source": "ambcrypto.com",
+      "score": 1,
+      "ntitle": "arbitrum gains 10 volume spikes can arb break supply zone",
+      "coins": [
+        "ARB"
+      ],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
+    },
+    {
+      "title": "Ripple Unveils First Treasury Management System for Digital Assets",
+      "link": "https://blockonomi.com/ripple-unveils-first-treasury-management-system-for-digital-assets/",
+      "published_at": "2026-04-08T20:15:47+00:00",
+      "source": "blockonomi.com",
+      "score": 7,
+      "ntitle": "ripple unveils first treasury management system digital assets",
+      "coins": [
+        "XRP"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": true,
+      "agency": "Treasury"
+    },
+    {
+      "title": "Little Pepe breaks $28m barrier as stage 13 enters final countdown to sellout",
+      "link": "https://crypto.news/little-pepe-breaks-28m-barrier-as-stage-13-enters-final-countdown-to-sellout/",
+      "published_at": "2026-04-08T20:09:27+00:00",
+      "source": "crypto.news",
+      "score": 1,
+      "ntitle": "little pepe breaks 28m barrier stage 13 enters final countdown sellout",
+      "coins": [
+        "PEPE"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Treasury Outlines How Stablecoin Rules Will Fight Illicit Finance Under GENIUS Act",
+      "link": "https://decrypt.co/363690/treasury-outlines-stablecoin-rules-fight-illicit-finance-under-genius-act",
+      "published_at": "2026-04-08T19:42:29+00:00",
+      "source": "decrypt.co",
+      "score": 6,
+      "ntitle": "treasury outlines how stablecoin rules will fight illicit finance under genius act",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Treasury"
     }
   ],
   "day": [
@@ -245,16 +239,16 @@
       "agency": null
     },
     {
-      "title": "SUI targets $1 after 11% rally: Can 12.3M transactions sustain growth?",
-      "link": "https://ambcrypto.com/sui-targets-1-after-11-rally-can-12-3m-transactions-sustain-growth/",
-      "published_at": "2026-04-08T18:00:39+00:00",
+      "title": "Sharplink stakes 511 Ethereum in a week – Breaking down its ‘ETH earns more ETH’ approach",
+      "link": "https://ambcrypto.com/sharplink-stakes-511-ethereum-in-a-week-breaking-down-its-eth-earns-more-eth-approach/",
+      "published_at": "2026-04-08T19:00:25+00:00",
       "source": "ambcrypto.com",
-      "score": 1,
-      "ntitle": "sui targets 1 after 11 rally can 12 3m transactions sustain growth",
+      "score": 4,
+      "ntitle": "sharplink stakes 511 ethereum week breaking down eth earns more eth approach",
       "coins": [
-        "SUI"
+        "ETH"
       ],
-      "sentiment": "bullish",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -271,15 +265,13 @@
       "agency": "Treasury"
     },
     {
-      "title": "Whales Wage $51 Million Bitcoin Battle as Iran Ceasefire Fractures Over Lebanon",
-      "link": "https://beincrypto.com/bitcoin-whale-battle-iran-ceasefire-lebanon/",
-      "published_at": "2026-04-08T18:03:11+00:00",
+      "title": "Standard Chartered is Taking Over Full Crypto Custody Platform Zodia",
+      "link": "https://beincrypto.com/standard-chartered-zodia-custody-integration-tradfi-2/",
+      "published_at": "2026-04-08T19:08:50+00:00",
       "source": "beincrypto.com",
-      "score": 1,
-      "ntitle": "whales wage 51 million bitcoin battle iran ceasefire fractures over lebanon",
-      "coins": [
-        "BTC"
-      ],
+      "score": 9,
+      "ntitle": "standard chartered taking over full crypto custody platform zodia",
+      "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
@@ -299,16 +291,16 @@
       "agency": null
     },
     {
-      "title": "Bernstein Pushes Back on Bitcoin Quantum Threat Fears, Says It’s Not a Crisis: Report",
-      "link": "https://bitcoinmagazine.com/news/bernstein-pushes-back-on-bitcoin-quantum",
-      "published_at": "2026-04-08T16:50:28+00:00",
+      "title": "Nunchuk Releases Open-Source Tools for Bitcoin Agents With Bounded Authority",
+      "link": "https://bitcoinmagazine.com/news/nunchuk-releases-bitcoin-agents",
+      "published_at": "2026-04-08T19:12:51+00:00",
       "source": "bitcoinmagazine.com",
-      "score": 4,
-      "ntitle": "bernstein pushes back bitcoin quantum threat fears says it s not crisis report",
+      "score": 3,
+      "ntitle": "nunchuk releases open source tools bitcoin agents bounded authority",
       "coins": [
         "BTC"
       ],
-      "sentiment": "bearish",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -325,16 +317,16 @@
       "agency": null
     },
     {
-      "title": "Gold Leads Macro Cycle as Bitcoin Lags Before Risk Capital Rotation Phase",
-      "link": "https://blockonomi.com/gold-leads-macro-cycle-as-bitcoin-lags-before-risk-capital-rotation-phase/",
-      "published_at": "2026-04-08T18:38:49+00:00",
+      "title": "Michael Saylor Predicts Bitcoin Bottom, Sees Digital Credit as Catalyst",
+      "link": "https://blockonomi.com/michael-saylor-predicts-bitcoin-bottom-sees-digital-credit-as-catalyst/",
+      "published_at": "2026-04-08T19:22:44+00:00",
       "source": "blockonomi.com",
-      "score": 1,
-      "ntitle": "gold leads macro cycle bitcoin lags before risk capital rotation phase",
+      "score": 5,
+      "ntitle": "michael saylor predicts bitcoin bottom sees digital credit catalyst",
       "coins": [
         "BTC"
       ],
-      "sentiment": "bearish",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -365,16 +357,14 @@
       "agency": null
     },
     {
-      "title": "Latest investigation of Bitcoin founder ties identity to Blockstream CEO Adam Back",
-      "link": "https://www.cnbc.com/2026/04/08/latest-investigation-of-bitcoin-founder-ties-identity-to-blockstream-ceo-adam-back.html",
-      "published_at": "2026-04-08T18:26:24+00:00",
+      "title": "Delta CEO says airline will 'meaningfully' cut growth plans, sees $300 million boost from its refinery",
+      "link": "https://www.cnbc.com/2026/04/08/delta-air-lines-q1-2026-earnings.html",
+      "published_at": "2026-04-08T18:02:39+00:00",
       "source": "cnbc.com",
       "score": 2,
-      "ntitle": "latest investigation bitcoin founder ties identity blockstream ceo adam back",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "neutral",
+      "ntitle": "delta ceo says airline will meaningfully cut growth plans sees 300 million boost refinery",
+      "coins": [],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -419,31 +409,28 @@
       "agency": null
     },
     {
-      "title": "Bitcoin price chart targets $90K as traders ‘aggressively’ buy on Binance",
-      "link": "https://cointelegraph.com/news/bitcoin-price-chart-targets-90k-aggressively-buy-on-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-04-08T17:43:14+00:00",
+      "title": "Bitcoin has 3–5 years to prepare for quantum risk, says Bernstein",
+      "link": "https://cointelegraph.com/news/bitcoin-quantum-risk-3-5-years-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-04-08T19:27:47+00:00",
       "source": "cointelegraph.com",
       "score": 1,
-      "ntitle": "bitcoin price chart targets 90k traders aggressively buy binance",
+      "ntitle": "bitcoin has 3 5 years prepare quantum risk says bernstein",
       "coins": [
-        "BNB",
         "BTC"
       ],
-      "sentiment": "bullish",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Techno Revenant unlocks $93.7M HYPE stake, stoking whale-watch jitters",
-      "link": "https://crypto.news/techno-revenant-unlocks-93-7m-hype-stake-stoking-whale-watch-jitters/",
-      "published_at": "2026-04-08T18:45:41+00:00",
+      "title": "Zcash Price Surges Over 30% in 24 Hours as Grayscale Accumulates $46 Million in Shielded ZEC",
+      "link": "https://crypto.news/zcash-price-zec-jumps-30percent-on-grayscales-46m-buy/",
+      "published_at": "2026-04-08T19:15:00+00:00",
       "source": "crypto.news",
-      "score": 1,
-      "ntitle": "techno revenant unlocks 93 7m hype stake stoking whale watch jitters",
-      "coins": [
-        "HYPE"
-      ],
-      "sentiment": "bearish",
+      "score": 2,
+      "ntitle": "zcash price surges over 30 24 hours grayscale accumulates 46 million shielded zec",
+      "coins": [],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -472,12 +459,12 @@
       "agency": null
     },
     {
-      "title": "Back to Back: New York Times puts Satoshi target on Adam Back again as $78 billion BTC stash triggers security fears",
-      "link": "https://cryptoslate.com/nyt-adam-back-satoshi-security-fears/",
-      "published_at": "2026-04-08T17:06:34+00:00",
+      "title": "Bitcoin rebounds as oil cools but Trump impeachment odds show markets still on edge",
+      "link": "https://cryptoslate.com/iran-ceasefire-bitcoin-trump-impeachment-odds/",
+      "published_at": "2026-04-08T19:05:47+00:00",
       "source": "cryptoslate.com",
-      "score": 2,
-      "ntitle": "back back new york times puts satoshi target adam back again 78 billion btc stash triggers security fears",
+      "score": 4,
+      "ntitle": "bitcoin rebounds oil cools but trump impeachment odds show markets still edge",
       "coins": [
         "BTC"
       ],
@@ -500,16 +487,14 @@
       "agency": null
     },
     {
-      "title": "Hyperliquid Traders Face Widespread Liquidations as Oil Prices Collapse",
-      "link": "https://decrypt.co/363660/hyperliquid-traders-face-widespread-liquidations-oil-prices-collapse",
-      "published_at": "2026-04-08T18:01:17+00:00",
+      "title": "Stablecoin Trading Volume Could Skyrocket to $1.5 Quadrillion by 2035: Chainalysis",
+      "link": "https://decrypt.co/363685/stablecoin-trading-volume-skyrocket-1-5-quadrillion-2035-chainalysis",
+      "published_at": "2026-04-08T19:06:15+00:00",
       "source": "decrypt.co",
-      "score": 1,
-      "ntitle": "hyperliquid traders face widespread liquidations oil prices collapse",
-      "coins": [
-        "HYPE"
-      ],
-      "sentiment": "bearish",
+      "score": -1,
+      "ntitle": "stablecoin trading volume could skyrocket 1 5 quadrillion 2035 chainalysis",
+      "coins": [],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -566,30 +551,29 @@
       "agency": null
     },
     {
-      "title": "Treasury Proposes Stablecoin AML Rules as Bessent Vows to Protect US Financial System",
-      "link": "https://news.bitcoin.com/treasury-proposes-stablecoin-aml-rules-as-bessent-vows-to-protect-us-financial-system/",
-      "published_at": "2026-04-08T18:34:49+00:00",
+      "title": "Circle Launches CPN Managed Payments for Banks and PSPs to Settle in USDC Without Holding Crypto",
+      "link": "https://news.bitcoin.com/circle-launches-cpn-managed-payments-for-banks-and-psps-to-settle-in-usdc-without-holding-crypto/",
+      "published_at": "2026-04-08T19:03:51+00:00",
       "source": "news.bitcoin.com",
-      "score": 6,
-      "ntitle": "treasury proposes stablecoin aml rules bessent vows protect us financial system",
+      "score": 8,
+      "ntitle": "circle launches cpn managed payments banks psps settle usdc without holding crypto",
       "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Treasury"
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     },
     {
-      "title": "What’s The Value Of Dogecoin If It Matches Bitcoin And Ethereum Market Caps?",
-      "link": "https://www.newsbtc.com/news/dogecoin/dogecoin-if-it-matches-bitcoin/",
-      "published_at": "2026-04-08T18:00:48+00:00",
+      "title": "Aave Breakdown Deepens With Supply Flooding Back To Binance. Learn What Triggered The Rush",
+      "link": "https://www.newsbtc.com/news/aave/aave-breakdown-deepens-with-supply-flooding-back-to-binance-learn-what-triggered-the-rush/",
+      "published_at": "2026-04-08T19:00:50+00:00",
       "source": "newsbtc.com",
-      "score": 6,
-      "ntitle": "what s value dogecoin if it matches bitcoin ethereum market caps",
+      "score": 13,
+      "ntitle": "aave breakdown deepens supply flooding back binance learn what triggered rush",
       "coins": [
-        "BTC",
-        "DOGE",
-        "ETH"
+        "AAVE",
+        "BNB"
       ],
-      "sentiment": "bullish",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -620,12 +604,12 @@
       "agency": "SEC"
     },
     {
-      "title": "Visa Rolls Out AI Agent Shopping Infrastructure Globally",
-      "link": "https://thedefiant.io/news/tradfi-and-fintech/visa-rolls-out-ai-agent-shopping-infrastructure-globally",
-      "published_at": "2026-04-08T17:04:50+00:00",
+      "title": "Polymarket Acquires Brahma to Strengthen DeFi Infrastructure",
+      "link": "https://thedefiant.io/news/defi/polymarket-acquires-brahma-defi-infrastructure-56otzn",
+      "published_at": "2026-04-08T19:16:38+00:00",
       "source": "thedefiant.io",
-      "score": 1,
-      "ntitle": "visa rolls out ai agent shopping infrastructure globally",
+      "score": 3,
+      "ntitle": "polymarket acquires brahma strengthen defi infrastructure",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -646,29 +630,25 @@
       "agency": null
     },
     {
-      "title": "Binance Announces New Price Execution Guardrails",
-      "link": "https://www.bankless.com/read/news/binance-announces-new-price-guardrails-to-reign-in-unwanted-volatility",
-      "published_at": "2026-04-07T19:43:29+00:00",
+      "title": "FDIC Proposes GENIUS Act Framework for Supervised Depository Institutions",
+      "link": "https://www.bankless.com/read/news/fdic-proposes-genius-act-framework-for-supervised-depository-institutions",
+      "published_at": "2026-04-07T20:13:42+00:00",
       "source": "bankless.com",
-      "score": 1,
-      "ntitle": "binance announces new price execution guardrails",
-      "coins": [
-        "BNB"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
+      "score": 7,
+      "ntitle": "fdic proposes genius act framework supervised depository institutions",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "Regulatory"
     },
     {
-      "title": "Paolo Ardoino Confirmed as a Bitcoin 2026 Speaker",
-      "link": "https://bitcoinmagazine.com/conference/paolo-ardoino-confirmed-as-a-bitcoin-2026-speaker",
-      "published_at": "2026-04-07T19:07:47+00:00",
+      "title": "Demand for Crypto Pay Surges, but Payroll Systems Fall Behind: Research",
+      "link": "https://bitcoinmagazine.com/news/demand-for-crypto-pay-surges-but-payroll-systems-fall-behind-research",
+      "published_at": "2026-04-07T19:53:33+00:00",
       "source": "bitcoinmagazine.com",
       "score": 1,
-      "ntitle": "paolo ardoino confirmed bitcoin 2026 speaker",
-      "coins": [
-        "BTC"
-      ],
+      "ntitle": "demand crypto pay surges but payroll systems fall behind research",
+      "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
@@ -728,16 +708,16 @@
       "agency": null
     },
     {
-      "title": "Bitcoin holds steady as war tests its ‘safe haven’ narrative",
-      "link": "https://crypto.news/bitcoin-holds-steady-as-war-tests-its-safe-haven-narrative/",
-      "published_at": "2026-04-07T19:37:07+00:00",
+      "title": "Cardano price pops as traders chase beta, but derivatives say ‘fragile’",
+      "link": "https://crypto.news/cardano-price-pops-as-traders-chase-beta-but-derivatives-say-fragile/",
+      "published_at": "2026-04-07T20:26:46+00:00",
       "source": "crypto.news",
       "score": 1,
-      "ntitle": "bitcoin holds steady war tests safe haven narrative",
+      "ntitle": "cardano price pops traders chase beta but derivatives say fragile",
       "coins": [
-        "BTC"
+        "ADA"
       ],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -794,16 +774,14 @@
       "agency": null
     },
     {
-      "title": "'Captive Audience' Could Drive Demand for Morgan Stanley's Bitcoin ETF: Bloomberg Analyst",
-      "link": "https://decrypt.co/363531/captive-audience-drive-demand-morgan-stanley-bitcoin-etf-bloomberg-analyst",
-      "published_at": "2026-04-07T19:38:55+00:00",
+      "title": "FDIC Reveals Proposed Rules for Stablecoin Issuers Under GENIUS Act",
+      "link": "https://decrypt.co/363570/fdic-proposed-rules-stablecoin-issuers-genius-act",
+      "published_at": "2026-04-07T20:25:03+00:00",
       "source": "decrypt.co",
-      "score": 6,
-      "ntitle": "captive audience could drive demand morgan stanley s bitcoin etf bloomberg analyst",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
+      "score": 1,
+      "ntitle": "fdic reveals proposed rules stablecoin issuers under genius act",
+      "coins": [],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -882,16 +860,14 @@
       "agency": "SEC"
     },
     {
-      "title": "AAVE Slides Below $90 as Contributor Departures Weigh on DeFi's Largest Lender",
-      "link": "https://thedefiant.io/news/defi/aave-slides-below-usd90-as-contributor-departures-weigh-on-defi-s-largest-lender",
-      "published_at": "2026-04-07T18:18:26+00:00",
+      "title": "DeFi Lending's Risk-Reward Ratio Sparks Debate Between Researchers and Curators",
+      "link": "https://thedefiant.io/news/research-and-opinion/defi-lending-s-risk-reward-ratio-sparks-debate-between-researchers-and-curators",
+      "published_at": "2026-04-07T20:22:06+00:00",
       "source": "thedefiant.io",
       "score": 3,
-      "ntitle": "aave slides below 90 contributor departures weigh defi s largest lender",
-      "coins": [
-        "AAVE"
-      ],
-      "sentiment": "neutral",
+      "ntitle": "defi lending s risk reward ratio sparks debate between researchers curators",
+      "coins": [],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -908,12 +884,36 @@
       "agency": null
     },
     {
-      "title": "Morgan Stanley's Bitcoin ETF Goes Live Tomorrow",
-      "link": "https://www.bankless.com/read/news/morgan-stanleys-btc-etf-going-live-tomorrow",
-      "published_at": "2026-04-07T19:25:17+00:00",
+      "title": "SEC Sends Crypto Safe Harbor Proposal to White House Review, Signaling Imminent Publication",
+      "link": "https://unchainedcrypto.com/sec-sends-crypto-safe-harbor-proposal-to-white-house-review-signaling-imminent-publication/",
+      "published_at": "2026-04-07T11:46:14+00:00",
+      "source": "unchainedcrypto.com",
+      "score": 2,
+      "ntitle": "sec sends crypto safe harbor proposal white house review signaling imminent publication",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Circle Faces Drift Fallout",
+      "link": "https://www.bankless.com/read/circle-fallout",
+      "published_at": "2026-04-07T20:01:00+00:00",
       "source": "bankless.com",
-      "score": 7,
-      "ntitle": "morgan stanley s bitcoin etf goes live tomorrow",
+      "score": 0,
+      "ntitle": "circle faces drift fallout",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Paolo Ardoino Confirmed as a Bitcoin 2026 Speaker",
+      "link": "https://bitcoinmagazine.com/conference/paolo-ardoino-confirmed-as-a-bitcoin-2026-speaker",
+      "published_at": "2026-04-07T19:07:47+00:00",
+      "source": "bitcoinmagazine.com",
+      "score": 1,
+      "ntitle": "paolo ardoino confirmed bitcoin 2026 speaker",
       "coins": [
         "BTC"
       ],
@@ -975,14 +975,14 @@
       "agency": null
     },
     {
-      "title": "Iran War Response Latest: 14 Million Volunteers, Human Chains at Power Plants as Trump’s Deadline Arrives",
-      "link": "https://crypto.news/iran-war-response-human-chains-at-power-plants/",
-      "published_at": "2026-04-07T19:35:00+00:00",
+      "title": "Musk’s ‘Terafab’ gambit with Intel sharpens focus on looming SpaceX–X public listing: could crypto be next?",
+      "link": "https://crypto.news/musks-terafab-gambit-with-intel-sharpens-focus-on-looming-spacex-x-public-listing-could-crypto-be-next/",
+      "published_at": "2026-04-07T20:15:25+00:00",
       "source": "crypto.news",
-      "score": 2,
-      "ntitle": "iran war response latest 14 million volunteers human chains power plants trump s deadline arrives",
+      "score": 4,
+      "ntitle": "musk s terafab gambit intel sharpens focus looming spacex x public listing could crypto be next",
       "coins": [],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -996,32 +996,6 @@
       "coins": [
         "BTC"
       ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Cardano Whale Wallets Hit 4-Month High as ADA Stays Depressed",
-      "link": "https://cryptopotato.com/cardano-whale-wallets-hit-4-month-high-as-ada-stays-depressed/",
-      "published_at": "2026-04-07T17:43:23+00:00",
-      "source": "cryptopotato.com",
-      "score": 1,
-      "ntitle": "cardano whale wallets hit 4 month high ada stays depressed",
-      "coins": [
-        "ADA"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "What will happen to USDC now Polymarket is launching its own stablecoin?",
-      "link": "https://cryptoslate.com/polymarket-usd-stablecoin-impact-on-usdc-demand/",
-      "published_at": "2026-04-07T18:10:53+00:00",
-      "source": "cryptoslate.com",
-      "score": 3,
-      "ntitle": "what will happen usdc now polymarket launching own stablecoin",
-      "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
@@ -1137,14 +1111,16 @@
       "agency": "SEC"
     },
     {
-      "title": "Crypto Market Maker CEOs Extradited From Singapore in FBI Wash Trading Sting",
-      "link": "https://thedefiant.io/news/regulation/crypto-market-maker-ceos-extradited-from-singapore-in-fbi-wash-trading-sting",
-      "published_at": "2026-04-01T19:17:51+00:00",
+      "title": "Bitcoin Reclaims $68,000 as Iran Ceasefire Hopes Fuel Risk-On Rally",
+      "link": "https://thedefiant.io/news/markets/bitcoin-reclaims-usd68-000-as-iran-ceasefire-hopes-fuel-risk-on-rally",
+      "published_at": "2026-04-01T20:22:11+00:00",
       "source": "thedefiant.io",
       "score": 1,
-      "ntitle": "crypto market maker ceos extradited singapore fbi wash trading sting",
-      "coins": [],
-      "sentiment": "bearish",
+      "ntitle": "bitcoin reclaims 68 000 iran ceasefire hopes fuel risk rally",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -1261,12 +1237,12 @@
       "agency": "SEC"
     },
     {
-      "title": "Drift Protocol Vault Loses $270 Million in Potential Exploit",
-      "link": "https://thedefiant.io/news/defi/drift-protocol-vault-loses-usd270-million-in-potential-exploit",
-      "published_at": "2026-04-01T18:07:08+00:00",
+      "title": "Crypto Market Maker CEOs Extradited From Singapore in FBI Wash Trading Sting",
+      "link": "https://thedefiant.io/news/regulation/crypto-market-maker-ceos-extradited-from-singapore-in-fbi-wash-trading-sting",
+      "published_at": "2026-04-01T19:17:51+00:00",
       "source": "thedefiant.io",
-      "score": 3,
-      "ntitle": "drift protocol vault loses 270 million potential exploit",
+      "score": 1,
+      "ntitle": "crypto market maker ceos extradited singapore fbi wash trading sting",
       "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
@@ -1275,88 +1251,60 @@
   ],
   "clusters": [
     {
-      "id": 11,
-      "title": "SEC’s New Enforcement Chief David Woodcock Has No Crypto Background",
-      "link": "https://beincrypto.com/sec-woodcock-enforcement-director-crypto-cases/",
-      "source": "beincrypto.com",
-      "published_at": "2026-04-08T19:08:13+00:00",
+      "id": 9,
+      "title": "Polymarket Acquires Brahma To Scale its Crypto and DeFi infra",
+      "link": "https://www.investing.com/news/cryptocurrency-news/polymarket-acquires-brahma-to-scale-its-crypto-and-defi-infra-4603872",
+      "source": "investing.com",
+      "published_at": "2026-04-08T20:00:35+00:00",
       "sentiment": "neutral",
       "coins": [],
       "sources": [
-        "sec.gov",
-        "beincrypto.com"
+        "investing.com",
+        "thedefiant.io"
       ],
       "count": 2,
       "members": [
         {
-          "title": "SEC’s New Enforcement Chief David Woodcock Has No Crypto Background",
-          "link": "https://beincrypto.com/sec-woodcock-enforcement-director-crypto-cases/",
-          "source": "beincrypto.com",
-          "published_at": "2026-04-08T19:08:13+00:00"
+          "title": "Polymarket Acquires Brahma To Scale its Crypto and DeFi infra",
+          "link": "https://www.investing.com/news/cryptocurrency-news/polymarket-acquires-brahma-to-scale-its-crypto-and-defi-infra-4603872",
+          "source": "investing.com",
+          "published_at": "2026-04-08T20:00:35+00:00"
         },
         {
-          "title": "SEC Appoints David Woodcock as Director of the Division of Enforcement",
-          "link": "https://www.sec.gov/newsroom/press-releases/2026-35-sec-appoints-david-woodcock-director-division-enforcement",
-          "source": "sec.gov",
-          "published_at": "2026-04-08T16:20:00+00:00"
+          "title": "Polymarket Acquires Brahma to Strengthen DeFi Infrastructure",
+          "link": "https://thedefiant.io/news/defi/polymarket-acquires-brahma-defi-infrastructure-56otzn",
+          "source": "thedefiant.io",
+          "published_at": "2026-04-08T19:16:38+00:00"
         }
       ]
     },
     {
-      "id": 5,
-      "title": "Adam Back Denies Being Bitcoin Creator In Response To NYT: ‘I Am Not Satoshi’",
-      "link": "https://www.newsbtc.com/breaking-news-ticker/adam-back-denies-being-bitcoin-creator-in-response-to-nyt-i-am-not-satoshi/",
-      "source": "newsbtc.com",
-      "published_at": "2026-04-08T18:59:30+00:00",
-      "sentiment": "bullish",
+      "id": 28,
+      "title": "Michael Saylor says bitcoin has likely bottomed, quantum risk overblown",
+      "link": "https://www.coindesk.com/markets/2026/04/08/michael-saylor-says-bitcoin-has-likely-bottomed-quantum-risk-overblown",
+      "source": "coindesk.com",
+      "published_at": "2026-04-08T18:35:47+00:00",
+      "sentiment": "bearish",
       "coins": [
         "BTC"
       ],
       "sources": [
-        "cryptopotato.com",
-        "newsbtc.com"
+        "coindesk.com",
+        "cointelegraph.com"
       ],
       "count": 2,
       "members": [
         {
-          "title": "Adam Back Denies Being Satoshi Amid NYT Probe",
-          "link": "https://cryptopotato.com/adam-back-denies-being-satoshi-amid-nyt-probe/",
-          "source": "cryptopotato.com",
-          "published_at": "2026-04-08T19:30:14+00:00"
+          "title": "Michael Saylor says bitcoin has likely bottomed, quantum risk overblown",
+          "link": "https://www.coindesk.com/markets/2026/04/08/michael-saylor-says-bitcoin-has-likely-bottomed-quantum-risk-overblown",
+          "source": "coindesk.com",
+          "published_at": "2026-04-08T18:35:47+00:00"
         },
         {
-          "title": "Adam Back Denies Being Bitcoin Creator In Response To NYT: ‘I Am Not Satoshi’",
-          "link": "https://www.newsbtc.com/breaking-news-ticker/adam-back-denies-being-bitcoin-creator-in-response-to-nyt-i-am-not-satoshi/",
-          "source": "newsbtc.com",
-          "published_at": "2026-04-08T18:59:30+00:00"
-        }
-      ]
-    },
-    {
-      "id": 33,
-      "title": "Visa and Coinbase team with Nevermined on AI agent commerce",
-      "link": "https://cryptobriefing.com/ai-payment-integration-visa-nevermined/",
-      "source": "cryptobriefing.com",
-      "published_at": "2026-04-08T18:33:10+00:00",
-      "sentiment": "neutral",
-      "coins": [],
-      "sources": [
-        "thedefiant.io",
-        "cryptobriefing.com"
-      ],
-      "count": 2,
-      "members": [
-        {
-          "title": "Visa and Coinbase team with Nevermined on AI agent commerce",
-          "link": "https://cryptobriefing.com/ai-payment-integration-visa-nevermined/",
-          "source": "cryptobriefing.com",
-          "published_at": "2026-04-08T18:33:10+00:00"
-        },
-        {
-          "title": "Visa Rolls Out AI Agent Shopping Infrastructure Globally",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/visa-rolls-out-ai-agent-shopping-infrastructure-globally",
-          "source": "thedefiant.io",
-          "published_at": "2026-04-08T17:04:50+00:00"
+          "title": "Bitcoin has 3–5 years to prepare for quantum risk, says Bernstein",
+          "link": "https://cointelegraph.com/news/bitcoin-quantum-risk-3-5-years-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "cointelegraph.com",
+          "published_at": "2026-04-08T19:27:47+00:00"
         }
       ]
     }
@@ -1364,52 +1312,52 @@
   "trending": [
     {
       "tag": "#XRP",
-      "count": 49,
+      "count": 52,
       "type": "coin",
       "pct": 100
     },
     {
+      "tag": "#BTC",
+      "count": 49,
+      "type": "coin",
+      "pct": 94
+    },
+    {
       "tag": "#Xrp",
-      "count": 47,
+      "count": 49,
       "type": "topic",
-      "pct": 96
+      "pct": 94
     },
     {
       "tag": "#Bitcoin",
-      "count": 47,
+      "count": 46,
       "type": "topic",
-      "pct": 96
-    },
-    {
-      "tag": "#BTC",
-      "count": 44,
-      "type": "coin",
-      "pct": 90
+      "pct": 88
     },
     {
       "tag": "#Ai",
       "count": 44,
       "type": "topic",
-      "pct": 90
+      "pct": 85
     },
     {
       "tag": "#Defi",
       "count": 41,
       "type": "topic",
-      "pct": 84
+      "pct": 79
     },
     {
       "tag": "#Etf",
-      "count": 26,
+      "count": 28,
       "type": "topic",
-      "pct": 53
+      "pct": 54
     },
     {
       "tag": "#ETH",
       "count": 14,
       "type": "coin",
-      "pct": 29
+      "pct": 27
     }
   ],
-  "generated_at": "2026-04-08T19:51:19.991923+00:00"
+  "generated_at": "2026-04-08T20:27:52.860410+00:00"
 }
