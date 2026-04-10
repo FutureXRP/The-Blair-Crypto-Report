@@ -2,26 +2,40 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "Steakhouse postmortem reveals DNS hijack caused by registrar 2FA bypass",
-      "link": "https://ambcrypto.com/steakhouse-postmortem-reveals-dns-hijack-caused-by-registrar-2fa-bypass/",
-      "published_at": "2026-04-10T18:15:37+00:00",
+      "title": "BitMine joins NYSE ‘Big Board’ with expanded $4B buyback plan",
+      "link": "https://ambcrypto.com/bitmine-joins-nyse-big-board-with-expanded-4b-buyback-plan/",
+      "published_at": "2026-04-10T19:00:51+00:00",
       "source": "ambcrypto.com",
       "score": 1,
-      "ntitle": "steakhouse postmortem reveals dns hijack caused registrar 2fa bypass",
+      "ntitle": "bitmine joins nyse big board expanded 4b buyback plan",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Coinbase Backs Trump Administration's Crypto CLARITY Push",
+      "link": "https://www.bankless.com/read/news/coinbase-backs-trump-administrations-crypto-cla-push",
+      "published_at": "2026-04-10T18:56:15+00:00",
+      "source": "bankless.com",
+      "score": 5,
+      "ntitle": "coinbase backs trump administration s crypto clarity push",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Why Is the US Stock Market Down Today?",
-      "link": "https://beincrypto.com/why-is-the-us-stock-market-down-today/",
-      "published_at": "2026-04-10T18:01:31+00:00",
-      "source": "beincrypto.com",
+      "title": "Ethereum Attracts Non-Stop Buying From Public Companies – Here Are The Numbers",
+      "link": "https://bitcoinist.com/ethereum-attracts-non-stop-buying/",
+      "published_at": "2026-04-10T18:30:57+00:00",
+      "source": "bitcoinist.com",
       "score": 0,
-      "ntitle": "why us stock market down today",
-      "coins": [],
-      "sentiment": "neutral",
+      "ntitle": "ethereum attracts non stop buying public companies here numbers",
+      "coins": [
+        "ETH"
+      ],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -40,36 +54,33 @@
       "agency": null
     },
     {
-      "title": "Anthropic Releases Multi-Agent AI Coordination Framework for Developers",
-      "link": "https://Blockchain.News/news/anthropic-multi-agent-coordination-patterns-framework",
-      "published_at": "2026-04-10T18:06:36+00:00",
+      "title": "Anthropic Reveals Claude Code Tool Design Philosophy Behind AI Agent Development",
+      "link": "https://Blockchain.News/news/anthropic-claude-code-tool-design-ai-agents",
+      "published_at": "2026-04-10T19:10:46+00:00",
       "source": "blockchain.news",
-      "score": 3,
-      "ntitle": "anthropic releases multi agent ai coordination framework developers",
+      "score": 2,
+      "ntitle": "anthropic reveals claude code tool design philosophy behind ai agent development",
       "coins": [],
       "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Regulatory"
+      "is_regulation": false,
+      "agency": null
     },
     {
-      "title": "Ethereum Outpaces Bitcoin as Capital Rotation Gains Pace",
-      "link": "https://blockonomi.com/ethereum-outpaces-bitcoin-as-capital-rotation-gains-pace/",
-      "published_at": "2026-04-10T18:33:43+00:00",
+      "title": "Justin Sun Faces $11M WLFI Drop as World Liberty Rejects Fears",
+      "link": "https://blockonomi.com/justin-sun-faces-11m-wlfi-drop-as-world-liberty-rejects-fears/",
+      "published_at": "2026-04-10T19:13:25+00:00",
       "source": "blockonomi.com",
-      "score": 1,
-      "ntitle": "ethereum outpaces bitcoin capital rotation gains pace",
-      "coins": [
-        "BTC",
-        "ETH"
-      ],
-      "sentiment": "bullish",
+      "score": 3,
+      "ntitle": "justin sun faces 11m wlfi drop world liberty rejects fears",
+      "coins": [],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
       "title": "U.S. oil slips below $100 as Trump demands reopening of Strait of Hormuz",
       "link": "https://www.cnbc.com/2026/04/10/oil-price-wti-brent-saudi-pipeline-attack-middle-east-war.html",
-      "published_at": "2026-04-10T18:32:15+00:00",
+      "published_at": "2026-04-10T18:57:26+00:00",
       "source": "cnbc.com",
       "score": 1,
       "ntitle": "u s oil slips below 100 trump demands reopening strait hormuz",
@@ -79,53 +90,41 @@
       "agency": null
     },
     {
-      "title": "March CPI Drops in Hours and Bitcoin’s Entire Rally Hangs on One Number — Here’s How to Trade Both Outcomes",
-      "link": "https://coincodecap.com/march-cpi-drops-in-hours-and-bitcoins-entire-rally-hangs-on-one-number-heres-how-to-trade-both-outcomes?utm_source=rss&utm_medium=rss&utm_campaign=march-cpi-drops-in-hours-and-bitcoins-entire-rally-hangs-on-one-number-heres-how-to-trade-both-outcomes",
-      "published_at": "2026-04-10T18:23:42+00:00",
-      "source": "coincodecap.com",
-      "score": 2,
-      "ntitle": "march cpi drops hours bitcoin s entire rally hangs one number here s how trade both outcomes",
+      "title": "From weak hands to strong: Bitcoin whales quietly rebuild the bull case",
+      "link": "https://crypto.news/from-weak-hands-to-strong-bitcoin-whales-quietly-rebuild-the-bull-case/",
+      "published_at": "2026-04-10T19:05:06+00:00",
+      "source": "crypto.news",
+      "score": 1,
+      "ntitle": "weak hands strong bitcoin whales quietly rebuild bull case",
       "coins": [
         "BTC"
       ],
-      "sentiment": "bullish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Coinbase CEO backs US Treasury Secretary‘s push to pass CLARITY Act",
-      "link": "https://cointelegraph.com/news/coinbase-ceo-treasury-secretary-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-04-10T18:11:16+00:00",
-      "source": "cointelegraph.com",
-      "score": 3,
-      "ntitle": "coinbase ceo backs us treasury secretary s push pass clarity act",
+      "title": "John Fanta: Yukon’s offense excels at creating mismatches, Illinois struggles against UConn’s strong defense, and Michigan’s experience dominates in tournament play | Pardon My Take",
+      "link": "https://cryptobriefing.com/john-fanta-yukons-offense-excels-at-creating-mismatches-illinois-struggles-against-uconns-strong-defense-and-michigans-experience-dominates-in-tournament-play-pardon-my-take/",
+      "published_at": "2026-04-10T19:27:59+00:00",
+      "source": "cryptobriefing.com",
+      "score": 0,
+      "ntitle": "john fanta yukon s offense excels creating mismatches illinois struggles against uconn s strong defense michigan s experience dominates tournament play pardon my take",
       "coins": [],
       "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Treasury"
-    },
-    {
-      "title": "Little Pepe presale almost complete; investors look ahead after the $28m milestone",
-      "link": "https://crypto.news/little-pepe-presale-almost-complete-investors-look-ahead-after-the-28m-milestone/",
-      "published_at": "2026-04-10T17:40:26+00:00",
-      "source": "crypto.news",
-      "score": 2,
-      "ntitle": "little pepe presale almost complete investors look ahead after 28m milestone",
-      "coins": [
-        "PEPE"
-      ],
-      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Bitget debuts SpaceX proxy token as Musk’s IPO target climbs above $1.75 trillion",
-      "link": "https://cryptobriefing.com/bitget-spacex-pre-ipo-token/",
-      "published_at": "2026-04-10T18:32:26+00:00",
-      "source": "cryptobriefing.com",
-      "score": 6,
-      "ntitle": "bitget debuts spacex proxy token musk s ipo target climbs above 1 75 trillion",
-      "coins": [],
+      "title": "Ethereum Sees ‘Unprecedented’ Network Surge – Market Still Sleeps",
+      "link": "https://cryptopotato.com/ethereum-sees-unprecedented-network-surge-market-still-sleeps/",
+      "published_at": "2026-04-10T19:15:01+00:00",
+      "source": "cryptopotato.com",
+      "score": 1,
+      "ntitle": "ethereum sees unprecedented network surge market still sleeps",
+      "coins": [
+        "ETH"
+      ],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
@@ -143,40 +142,66 @@
       "agency": null
     },
     {
-      "title": "Gen Z Thinks AI Is Rotting Their Brains, But Can't Stop Using It: Survey",
-      "link": "https://decrypt.co/363976/gen-z-ai-rotting-brains-survey",
-      "published_at": "2026-04-10T17:57:21+00:00",
+      "title": "Suspect Arrested After Molotov Cocktail Thrown at Sam Altman’s San Francisco Home",
+      "link": "https://decrypt.co/364007/suspect-arrested-molotov-cocktail-sam-altman-san-francisco",
+      "published_at": "2026-04-10T18:44:54+00:00",
       "source": "decrypt.co",
-      "score": 1,
-      "ntitle": "gen z thinks ai rotting their brains but can t stop using it survey",
+      "score": 2,
+      "ntitle": "suspect arrested after molotov cocktail thrown sam altman s san francisco home",
       "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "WLFI Crashes 13% To All-Time Lows Amid Growing Liquidation Fears For World Liberty Financial",
-      "link": "https://www.newsbtc.com/breaking-news-ticker/wlfi-crashes-13-to-all-time-lows-amid-growing-liquidation-fears-for-world-liberty-financial/",
-      "published_at": "2026-04-10T18:33:26+00:00",
+      "title": "EOS Climbs 14% In Rally",
+      "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-14-in-rally-4608390",
+      "published_at": "2026-04-10T18:57:00+00:00",
+      "source": "investing.com",
+      "score": 0,
+      "ntitle": "eos climbs 14 rally",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "BTC Bulls Charge Past $73K as Weekly Gains Hit 9%",
+      "link": "https://news.bitcoin.com/btc-bulls-charge-past-73k-as-weekly-gains-hit-9/",
+      "published_at": "2026-04-10T19:07:00+00:00",
+      "source": "news.bitcoin.com",
+      "score": 1,
+      "ntitle": "btc bulls charge past 73k weekly gains hit 9",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Bitcoin Spikes Above $72,000 On Easing War Tensions, But CPI Threatens Reversal",
+      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-spikes-above-72000/",
+      "published_at": "2026-04-10T19:00:41+00:00",
       "source": "newsbtc.com",
-      "score": 19,
-      "ntitle": "wlfi crashes 13 all time lows amid growing liquidation fears world liberty financial",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Mempool Space Invaders will give you $7 if you move 10,000 BTC",
-      "link": "https://protos.com/mempool-space-invaders-will-give-you-7-if-you-move-10000-btc/",
-      "published_at": "2026-04-10T18:25:44+00:00",
-      "source": "protos.com",
       "score": 1,
-      "ntitle": "mempool space invaders will give you 7 if you move 10 000 btc",
+      "ntitle": "bitcoin spikes above 72 000 easing war tensions but cpi threatens reversal",
       "coins": [
         "BTC"
       ],
       "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Crypto yields are falling below TradFi",
+      "link": "https://protos.com/crypto-yields-are-falling-below-tradfi/",
+      "published_at": "2026-04-10T18:50:37+00:00",
+      "source": "protos.com",
+      "score": 2,
+      "ntitle": "crypto yields falling below tradfi",
+      "coins": [],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -193,30 +218,6 @@
       "agency": null
     },
     {
-      "title": "RAVE spikes 221% – Breakout or exhaustion at $1, what’s next?",
-      "link": "https://ambcrypto.com/rave-spikes-221-breakout-or-exhaustion-at-1-whats-next/",
-      "published_at": "2026-04-10T18:00:23+00:00",
-      "source": "ambcrypto.com",
-      "score": 1,
-      "ntitle": "rave spikes 221 breakout or exhaustion 1 what s next",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Senator Cynthia Lummis Says the Clarity Act Risks a 4-Year Delay",
-      "link": "https://beincrypto.com/senator-lummis-clarity-act-delay-warning/",
-      "published_at": "2026-04-10T17:58:57+00:00",
-      "source": "beincrypto.com",
-      "score": 3,
-      "ntitle": "senator cynthia lummis says clarity act risks 4 year delay",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Congress"
-    },
-    {
       "title": "TD Cowen Initiates Coverage on Bitcoin Treasury Companies, Frames PBTC Sector as Investable Equity Category",
       "link": "https://bitcoinmagazine.com/news/td-cowen-initiates-coverage-on-bitcoin",
       "published_at": "2026-04-10T18:32:06+00:00",
@@ -231,78 +232,66 @@
       "agency": "Treasury"
     },
     {
-      "title": "Flare Proposes FLR Overhaul with MEV Capture and Inflation Cut",
-      "link": "https://blockonomi.com/flare-proposes-flr-overhaul-with-mev-capture-and-inflation-cut/",
-      "published_at": "2026-04-10T18:19:48+00:00",
+      "title": "BitFuFu Reports 214 BTC Output, Trims Holdings to 1,794 BTC",
+      "link": "https://blockonomi.com/bitfufu-reports-214-btc-output-trims-holdings-to-1794-btc/",
+      "published_at": "2026-04-10T18:56:56+00:00",
       "source": "blockonomi.com",
-      "score": 8,
-      "ntitle": "flare proposes flr overhaul mev capture inflation cut",
+      "score": 3,
+      "ntitle": "bitfufu reports 214 btc output trims holdings 1 794 btc",
       "coins": [
-        "FLR"
+        "BTC"
       ],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Price predictions 4/10: BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA, BCH, LINK",
-      "link": "https://cointelegraph.com/news/price-predictions-4-10-btc-eth-xrp-bnb-sol-doge-hype-ada-bch-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-04-10T17:50:52+00:00",
-      "source": "cointelegraph.com",
-      "score": 8,
-      "ntitle": "price predictions 4 10 btc eth xrp bnb sol doge hype ada bch link",
-      "coins": [
-        "ADA",
-        "BNB",
-        "BTC",
-        "DOGE",
-        "ETH",
-        "HYPE",
-        "LINK",
-        "SOL",
-        "XRP"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Benn Jordan: Surveillance technology raises constitutional concerns, data aggregation threatens privacy, and profit-driven motives of data brokers endanger community safety | Jordan Harbinger",
-      "link": "https://cryptobriefing.com/benn-jordan-surveillance-technology-raises-constitutional-concerns-data-aggregation-threatens-privacy-and-profit-driven-motives-of-data-brokers-endanger-community-safety-jordan-harbinger/",
-      "published_at": "2026-04-10T18:11:10+00:00",
+      "title": "Pete Blaber: Clandestine operations are vital against cartels, why timelines hinder military success, and the importance of cultural respect in foreign missions | Shawn Ryan Show",
+      "link": "https://cryptobriefing.com/pete-blaber-clandestine-operations-are-vital-against-cartels-why-timelines-hinder-military-success-and-the-importance-of-cultural-respect-in-foreign-missions-shawn-ryan-show/",
+      "published_at": "2026-04-10T19:23:02+00:00",
       "source": "cryptobriefing.com",
       "score": 3,
-      "ntitle": "benn jordan surveillance technology raises constitutional concerns data aggregation threatens privacy profit driven motives data brokers endanger community safety jordan harbinger",
+      "ntitle": "pete blaber clandestine operations vital against cartels why timelines hinder military success importance cultural respect foreign missions shawn ryan show",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Betsson Shares Drop Nearly 20% as Q1 Profit Falls 47% on B2B Revenue Slide",
+      "link": "https://news.bitcoin.com/betsson-shares-drop-nearly-20-as-q1-profit-falls-47-on-b2b-revenue-slide/",
+      "published_at": "2026-04-10T18:43:49+00:00",
+      "source": "news.bitcoin.com",
+      "score": 1,
+      "ntitle": "betsson shares drop nearly 20 q1 profit falls 47 b2b revenue slide",
       "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "HSBC and Standard Chartered Win Hong Kong's Inaugural Stablecoin Licenses",
-      "link": "https://thedefiant.io/news/regulation/hsbc-and-standard-chartered-win-hong-kong-s-inaugural-stablecoin-licenses",
-      "published_at": "2026-04-10T17:38:24+00:00",
-      "source": "thedefiant.io",
-      "score": 1,
-      "ntitle": "hsbc standard chartered win hong kong s inaugural stablecoin licenses",
+      "title": "WLFI Crashes 13% To All-Time Lows Amid Growing Liquidation Fears For World Liberty Financial",
+      "link": "https://www.newsbtc.com/breaking-news-ticker/wlfi-crashes-13-to-all-time-lows-amid-growing-liquidation-fears-for-world-liberty-financial/",
+      "published_at": "2026-04-10T18:33:26+00:00",
+      "source": "newsbtc.com",
+      "score": 19,
+      "ntitle": "wlfi crashes 13 all time lows amid growing liquidation fears world liberty financial",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     }
   ],
   "day": [
     {
-      "title": "Why a $30 mln Bitcoin short isn’t bearish, but may point to a bottom instead",
-      "link": "https://ambcrypto.com/why-a-30-mln-bitcoin-short-isnt-bearish-but-may-point-to-a-bottom-instead/",
-      "published_at": "2026-04-10T17:00:22+00:00",
+      "title": "Steakhouse postmortem reveals DNS hijack caused by registrar 2FA bypass",
+      "link": "https://ambcrypto.com/steakhouse-postmortem-reveals-dns-hijack-caused-by-registrar-2fa-bypass/",
+      "published_at": "2026-04-10T18:15:37+00:00",
       "source": "ambcrypto.com",
       "score": 1,
-      "ntitle": "why 30 mln bitcoin short isn t bearish but may point bottom instead",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
+      "ntitle": "steakhouse postmortem reveals dns hijack caused registrar 2fa bypass",
+      "coins": [],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -319,15 +308,13 @@
       "agency": null
     },
     {
-      "title": "Bitcoin Hits $73,000 Amid Ceasefire Rally, But Coinbase Chief Gives Caution",
-      "link": "https://beincrypto.com/coinbase-bitcoin-ceasefire-rally-analysis/",
-      "published_at": "2026-04-10T15:52:03+00:00",
+      "title": "Why Is the US Stock Market Down Today?",
+      "link": "https://beincrypto.com/why-is-the-us-stock-market-down-today/",
+      "published_at": "2026-04-10T18:01:31+00:00",
       "source": "beincrypto.com",
-      "score": 1,
-      "ntitle": "bitcoin hits 73 000 amid ceasefire rally but coinbase chief gives caution",
-      "coins": [
-        "BTC"
-      ],
+      "score": 0,
+      "ntitle": "why us stock market down today",
+      "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
@@ -362,14 +349,28 @@
       "agency": null
     },
     {
-      "title": "Circle Unveils Full Interop Stack to Power $110B+ USDC Crosschain Network",
-      "link": "https://Blockchain.News/news/circle-interop-stack-usdc-crosschain-expansion-2026",
-      "published_at": "2026-04-10T14:59:49+00:00",
+      "title": "Anthropic Releases Multi-Agent AI Coordination Framework for Developers",
+      "link": "https://Blockchain.News/news/anthropic-multi-agent-coordination-patterns-framework",
+      "published_at": "2026-04-10T18:06:36+00:00",
       "source": "blockchain.news",
       "score": 3,
-      "ntitle": "circle unveils full interop stack power 110b usdc crosschain network",
+      "ntitle": "anthropic releases multi agent ai coordination framework developers",
       "coins": [],
-      "sentiment": "bullish",
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Regulatory"
+    },
+    {
+      "title": "Flare Proposes FLR Overhaul with MEV Capture and Inflation Cut",
+      "link": "https://blockonomi.com/flare-proposes-flr-overhaul-with-mev-capture-and-inflation-cut/",
+      "published_at": "2026-04-10T18:19:48+00:00",
+      "source": "blockonomi.com",
+      "score": 8,
+      "ntitle": "flare proposes flr overhaul mev capture inflation cut",
+      "coins": [
+        "FLR"
+      ],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -386,14 +387,28 @@
       "agency": null
     },
     {
-      "title": "Consumer sentiment hits record low, inflation fears rise amid Iran war",
-      "link": "https://www.cnbc.com/2026/04/10/consumer-sentiment-inflation-fears-iran-war.html",
-      "published_at": "2026-04-10T15:48:09+00:00",
+      "title": "BlackRock rips page from hedge fund playbook, applies it to exchange-traded funds",
+      "link": "https://www.cnbc.com/2026/04/10/blackrock-rips-page-from-hedge-fund-playbook-applies-it-to-etfs.html",
+      "published_at": "2026-04-10T15:23:50+00:00",
       "source": "cnbc.com",
-      "score": 1,
-      "ntitle": "consumer sentiment hits record low inflation fears rise amid iran war",
+      "score": 4,
+      "ntitle": "blackrock rips page hedge fund playbook applies it exchange traded funds",
       "coins": [],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "March CPI Drops in Hours and Bitcoin’s Entire Rally Hangs on One Number — Here’s How to Trade Both Outcomes",
+      "link": "https://coincodecap.com/march-cpi-drops-in-hours-and-bitcoins-entire-rally-hangs-on-one-number-heres-how-to-trade-both-outcomes?utm_source=rss&utm_medium=rss&utm_campaign=march-cpi-drops-in-hours-and-bitcoins-entire-rally-hangs-on-one-number-heres-how-to-trade-both-outcomes",
+      "published_at": "2026-04-10T18:23:42+00:00",
+      "source": "coincodecap.com",
+      "score": 2,
+      "ntitle": "march cpi drops hours bitcoin s entire rally hangs one number here s how trade both outcomes",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -410,6 +425,21 @@
       "agency": null
     },
     {
+      "title": "XRP and Solana Price Outlook Ahead of SEC CLARITY Act Roundtable on April 16",
+      "link": "https://coingape.com/markets/xrp-and-solana-price-outlook-ahead-of-sec-clarity-act-roundtable-on-april-16/",
+      "published_at": "2026-04-10T18:03:15+00:00",
+      "source": "coingape.com",
+      "score": 6,
+      "ntitle": "xrp solana price outlook ahead sec clarity act roundtable april 16",
+      "coins": [
+        "SOL",
+        "XRP"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": true,
+      "agency": "SEC"
+    },
+    {
       "title": "Dogecoin price analysis: profit-taking stalls rally attempts as breakout setup forms",
       "link": "https://coinjournal.net/news/dogecoin-price-analysis-profit-taking-stalls-rally-attempts-as-breakout-setup-forms/",
       "published_at": "2026-04-10T12:56:50+00:00",
@@ -424,26 +454,38 @@
       "agency": null
     },
     {
-      "title": "Bitcoin traders set $88K target as market bias finally tilts toward bulls",
-      "link": "https://cointelegraph.com/news/bitcoin-traders-set-dollar88k-target-as-market-bias-finally-tilts-toward-bulls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-04-10T16:47:01+00:00",
+      "title": "Coinbase CEO backs US Treasury Secretary‘s push to pass CLARITY Act",
+      "link": "https://cointelegraph.com/news/coinbase-ceo-treasury-secretary-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-04-10T18:11:16+00:00",
       "source": "cointelegraph.com",
-      "score": 1,
-      "ntitle": "bitcoin traders set 88k target market bias finally tilts toward bulls",
-      "coins": [
-        "BTC"
-      ],
+      "score": 3,
+      "ntitle": "coinbase ceo backs us treasury secretary s push pass clarity act",
+      "coins": [],
       "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Treasury"
+    },
+    {
+      "title": "Little Pepe presale almost complete; investors look ahead after the $28m milestone",
+      "link": "https://crypto.news/little-pepe-presale-almost-complete-investors-look-ahead-after-the-28m-milestone/",
+      "published_at": "2026-04-10T17:40:26+00:00",
+      "source": "crypto.news",
+      "score": 2,
+      "ntitle": "little pepe presale almost complete investors look ahead after 28m milestone",
+      "coins": [
+        "PEPE"
+      ],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Worldcoin eases off the gas as WLD unlock rate drops 43%",
-      "link": "https://crypto.news/worldcoin-eases-off-the-gas-as-wld-unlock-rate-drops-43/",
-      "published_at": "2026-04-10T16:25:50+00:00",
-      "source": "crypto.news",
-      "score": 1,
-      "ntitle": "worldcoin eases off gas wld unlock rate drops 43",
+      "title": "Benn Jordan: Surveillance technology raises constitutional concerns, data aggregation threatens privacy, and profit-driven motives of data brokers endanger community safety | Jordan Harbinger",
+      "link": "https://cryptobriefing.com/benn-jordan-surveillance-technology-raises-constitutional-concerns-data-aggregation-threatens-privacy-and-profit-driven-motives-of-data-brokers-endanger-community-safety-jordan-harbinger/",
+      "published_at": "2026-04-10T18:11:10+00:00",
+      "source": "cryptobriefing.com",
+      "score": 3,
+      "ntitle": "benn jordan surveillance technology raises constitutional concerns data aggregation threatens privacy profit driven motives data brokers endanger community safety jordan harbinger",
       "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
@@ -486,14 +528,14 @@
       "agency": null
     },
     {
-      "title": "Elon Musk's SpaceX Is Nearing Its $1.75 Trillion IPO—Bitget Is Offering Pre-IPO Exposure",
-      "link": "https://decrypt.co/363950/elon-musk-spacex-nearing-1-75-trillion-ipo-bitget-pre-ipo-exposure",
-      "published_at": "2026-04-10T17:36:35+00:00",
+      "title": "Gen Z Thinks AI Is Rotting Their Brains, But Can't Stop Using It: Survey",
+      "link": "https://decrypt.co/363976/gen-z-ai-rotting-brains-survey",
+      "published_at": "2026-04-10T17:57:21+00:00",
       "source": "decrypt.co",
-      "score": 2,
-      "ntitle": "elon musk s spacex nearing 1 75 trillion ipo bitget offering pre ipo exposure",
+      "score": 1,
+      "ntitle": "gen z thinks ai rotting their brains but can t stop using it survey",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -552,28 +594,30 @@
       "agency": null
     },
     {
-      "title": "Justin Sun’s blacklisted WLFI has lost $70M",
-      "link": "https://protos.com/justin-suns-blacklisted-wlfi-has-lost-70m/",
-      "published_at": "2026-04-10T15:38:33+00:00",
+      "title": "Mempool Space Invaders will give you $7 if you move 10,000 BTC",
+      "link": "https://protos.com/mempool-space-invaders-will-give-you-7-if-you-move-10000-btc/",
+      "published_at": "2026-04-10T18:25:44+00:00",
       "source": "protos.com",
       "score": 1,
-      "ntitle": "justin sun s blacklisted wlfi has lost 70m",
-      "coins": [],
+      "ntitle": "mempool space invaders will give you 7 if you move 10 000 btc",
+      "coins": [
+        "BTC"
+      ],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Tornado Cash Developer Roman Storm Awaits Judge's Ruling on Acquittal Bid",
-      "link": "https://thedefiant.io/news/regulation/tornado-cash-developer-roman-storm-awaits-judge-s-ruling-on-acquittal-bid",
-      "published_at": "2026-04-10T17:10:28+00:00",
+      "title": "HSBC and Standard Chartered Win Hong Kong's Inaugural Stablecoin Licenses",
+      "link": "https://thedefiant.io/news/regulation/hsbc-and-standard-chartered-win-hong-kong-s-inaugural-stablecoin-licenses",
+      "published_at": "2026-04-10T17:38:24+00:00",
       "source": "thedefiant.io",
-      "score": 3,
-      "ntitle": "tornado cash developer roman storm awaits judge s ruling acquittal bid",
+      "score": 1,
+      "ntitle": "hsbc standard chartered win hong kong s inaugural stablecoin licenses",
       "coins": [],
       "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Regulatory"
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Hyperliquid (HYPE) Hits All-Time High Against Coinbase, Reaches $8.28 Billion Volume",
@@ -602,15 +646,13 @@
       "agency": "Congress"
     },
     {
-      "title": "‘Make TON great again’ – Block rate rises 6x, blockchain speed is now 10x",
-      "link": "https://ambcrypto.com/telegrams-durov-says-ton-is-now-10x-faster-make-ton-great-again/",
-      "published_at": "2026-04-10T16:00:23+00:00",
+      "title": "RAVE spikes 221% – Breakout or exhaustion at $1, what’s next?",
+      "link": "https://ambcrypto.com/rave-spikes-221-breakout-or-exhaustion-at-1-whats-next/",
+      "published_at": "2026-04-10T18:00:23+00:00",
       "source": "ambcrypto.com",
       "score": 1,
-      "ntitle": "make ton great again block rate rises 6x blockchain speed now 10x",
-      "coins": [
-        "TON"
-      ],
+      "ntitle": "rave spikes 221 breakout or exhaustion 1 what s next",
+      "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
@@ -624,59 +666,6 @@
       "ntitle": "trump backed world liberty financial defends immense borrow position",
       "coins": [],
       "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Ethereum Flashes Bullish Signal Not Seen Since 2022 on Binance Futures",
-      "link": "https://beincrypto.com/eth-taker-buy-sell-ratio-binance-signal/",
-      "published_at": "2026-04-10T13:29:08+00:00",
-      "source": "beincrypto.com",
-      "score": 1,
-      "ntitle": "ethereum flashes bullish signal not seen since 2022 binance futures",
-      "coins": [
-        "BNB",
-        "ETH"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Crypto Victims Relieved – Or Too Late? What Operation Atlantic Really Means",
-      "link": "https://bitcoinist.com/crypto-victims-relieved-operation-atlantic/",
-      "published_at": "2026-04-10T16:54:12+00:00",
-      "source": "bitcoinist.com",
-      "score": 3,
-      "ntitle": "crypto victims relieved or too late what operation atlantic really means",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Bitcoin Could Be Quantum-Safe Without Protocol Changes, New Proposal Claims",
-      "link": "https://bitcoinmagazine.com/news/bitcoin-could-be-quantum-safe",
-      "published_at": "2026-04-09T20:56:54+00:00",
-      "source": "bitcoinmagazine.com",
-      "score": 1,
-      "ntitle": "bitcoin could be quantum safe without protocol changes new proposal claims",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Circle Defends USDC Freezing Powers After $270M Drift Protocol Exploit",
-      "link": "https://Blockchain.News/news/circle-defends-usdc-freezing-powers-drift-protocol-exploit",
-      "published_at": "2026-04-10T12:36:33+00:00",
-      "source": "blockchain.news",
-      "score": 3,
-      "ntitle": "circle defends usdc freezing powers after 270m drift protocol exploit",
-      "coins": [],
-      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     }
@@ -695,40 +684,40 @@
       "agency": "Regulatory"
     },
     {
-      "title": "Ethereum Developer Announces Candidacy for U.S. Congress",
-      "link": "https://www.bankless.com/read/news/ethereum-developer-announces-candidacy-for-u-s-congress",
-      "published_at": "2026-04-09T17:09:18+00:00",
+      "title": "Potential Buyers Evaluate Partial Acquisition of Gemini Exchange: CoinDesk",
+      "link": "https://www.bankless.com/read/news/potential-buyers-evaluate-partial-acquisition-of-gemini-exchange-coindesk",
+      "published_at": "2026-04-09T19:19:17+00:00",
       "source": "bankless.com",
       "score": 1,
-      "ntitle": "ethereum developer announces candidacy u s congress",
-      "coins": [
-        "ETH"
-      ],
+      "ntitle": "potential buyers evaluate partial acquisition gemini exchange coindesk",
+      "coins": [],
       "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Congress"
+      "is_regulation": false,
+      "agency": null
     },
     {
-      "title": "SEC Chair Paul Atkins, Treasury Secretary Scott Bessent, David Sacks Push Congress to Pass Crypto Market Structure Bill ‘Now’",
-      "link": "https://bitcoinmagazine.com/news/congress-crypto-market-structure-bill",
-      "published_at": "2026-04-09T16:12:17+00:00",
+      "title": "Stacked (formerly Lightning Pay) launches self-custodial Lightning wallet as New Zealand’s last major non-custodial Bitcoin exchange",
+      "link": "https://bitcoinmagazine.com/business/stacked-formerly-lightning-pay-launches-self-custodial-lightning-wallet-as-new-zealands-last-major-non-custodial-bitcoin-exchange",
+      "published_at": "2026-04-09T19:23:37+00:00",
       "source": "bitcoinmagazine.com",
-      "score": 5,
-      "ntitle": "sec chair paul atkins treasury secretary scott bessent david sacks push congress pass crypto market structure bill now",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "SEC"
+      "score": 7,
+      "ntitle": "stacked formerly lightning pay launches self custodial lightning wallet new zealand s last major non custodial bitcoin exchange",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
     },
     {
-      "title": "NVIDIA nvCOMP Cuts AI Training Checkpoint Costs by $56K Monthly",
-      "link": "https://Blockchain.News/news/nvidia-nvcomp-ai-training-checkpoint-compression-savings",
-      "published_at": "2026-04-09T17:46:20+00:00",
+      "title": "Tezos X Mainnet Launch Targeted for Summer 2026 as TezDev Reveals Roadmap",
+      "link": "https://Blockchain.News/news/tezos-x-mainnet-summer-2026-tezdev-roadmap",
+      "published_at": "2026-04-09T19:13:48+00:00",
       "source": "blockchain.news",
-      "score": 1,
-      "ntitle": "nvidia nvcomp cuts ai training checkpoint costs 56k monthly",
+      "score": 7,
+      "ntitle": "tezos x mainnet launch targeted summer 2026 tezdev reveals roadmap",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -785,6 +774,21 @@
       "agency": null
     },
     {
+      "title": "OKX CEO Challenges Binance Founder CZ’s “Sell House for Bitcoin” Claims",
+      "link": "https://coingape.com/okx-ceo-challeges-binance-founder-czs-sell-house-for-bitcoin-claims/",
+      "published_at": "2026-04-09T18:32:40+00:00",
+      "source": "coingape.com",
+      "score": 1,
+      "ntitle": "okx ceo challenges binance founder cz s sell house bitcoin claims",
+      "coins": [
+        "BNB",
+        "BTC"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
       "title": "Bitcoin price forecast as traders bet on $80,000 next",
       "link": "https://coinjournal.net/news/bitcoin-price-forecast-as-traders-bet-on-80000-next/",
       "published_at": "2026-04-09T14:07:32+00:00",
@@ -799,16 +803,16 @@
       "agency": null
     },
     {
-      "title": "Crypto Law Update: New York Prosecutors Want to Make Running Crypto Without a License a Criminal Offense",
-      "link": "https://crypto.news/crypto-law-ny-wants-to-jail-unlicensed-operators/",
-      "published_at": "2026-04-09T18:20:00+00:00",
+      "title": "Crypto Regulation: Coinbase Is Threatening to Walk Away From the Senate Crypto Bill Again",
+      "link": "https://crypto.news/crypto-regulation-coinbase-rejects-clarity-act/",
+      "published_at": "2026-04-09T19:15:00+00:00",
       "source": "crypto.news",
-      "score": 2,
-      "ntitle": "crypto law update new york prosecutors want make running crypto without license criminal offense",
+      "score": 6,
+      "ntitle": "crypto regulation coinbase threatening walk away senate crypto bill again",
       "coins": [],
       "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
+      "is_regulation": true,
+      "agency": "Congress"
     },
     {
       "title": "Which Crypto Will Explode If the War Ends for Good? 4 AIs Reveal Top Picks",
@@ -863,14 +867,14 @@
       "agency": null
     },
     {
-      "title": "Meta, CoreWeave Shares Rise After Expanding $21 Billion AI Cloud Deal",
-      "link": "https://decrypt.co/363838/meta-coreweave-shares-rise-expanding-21-billion-ai-cloud-deal",
-      "published_at": "2026-04-09T17:57:18+00:00",
+      "title": "YouTube Now Lets You Create Your Own AI Deepfakes",
+      "link": "https://decrypt.co/363852/youtube-now-lets-you-create-ai-deepfakes",
+      "published_at": "2026-04-09T19:18:34+00:00",
       "source": "decrypt.co",
       "score": 1,
-      "ntitle": "meta coreweave shares rise after expanding 21 billion ai cloud deal",
+      "ntitle": "youtube now lets you create your own ai deepfakes",
       "coins": [],
-      "sentiment": "bullish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -925,15 +929,13 @@
       "agency": null
     },
     {
-      "title": "Bitcoin Depot didn’t spot 50 BTC hack for three days, report",
-      "link": "https://protos.com/bitcoin-depot-didnt-spot-50-btc-hack-for-three-days-report/",
-      "published_at": "2026-04-09T10:49:19+00:00",
+      "title": "‘Crypto Robin Hood’ faked prison for clout, rugged memecoins for Palestine",
+      "link": "https://protos.com/crypto-robin-hood-faked-prison-for-clout-rugged-memecoins-for-palestine/",
+      "published_at": "2026-04-09T18:37:35+00:00",
       "source": "protos.com",
-      "score": 3,
-      "ntitle": "bitcoin depot didn t spot 50 btc hack three days report",
-      "coins": [
-        "BTC"
-      ],
+      "score": 0,
+      "ntitle": "crypto robin hood faked prison clout rugged memecoins palestine",
+      "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
@@ -951,29 +953,29 @@
       "agency": "SEC"
     },
     {
-      "title": "World Liberty Financial Has Borrowed Millions Against Its Own Token",
-      "link": "https://thedefiant.io/news/defi/world-liberty-financial-has-borrowed-millions-against-its-own-token",
-      "published_at": "2026-04-09T18:18:27+00:00",
+      "title": "Kamino Introduces Contract-Level Security Controls for Lending Vaults",
+      "link": "https://thedefiant.io/news/defi/kamino-introduces-contract-level-security-controls-for-lending-vaults",
+      "published_at": "2026-04-09T18:57:45+00:00",
       "source": "thedefiant.io",
-      "score": 5,
-      "ntitle": "world liberty financial has borrowed millions against own token",
+      "score": 1,
+      "ntitle": "kamino introduces contract level security controls lending vaults",
       "coins": [],
-      "sentiment": "bullish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Bitcoin, XRP Rise While Oil Breaks $100 as Weak GDP Reshapes Market Correlations",
-      "link": "https://u.today/bitcoin-xrp-rise-while-oil-breaks-100-as-weak-gdp-reshapes-market-correlations",
-      "published_at": "2026-04-09T16:00:00+00:00",
+      "title": "Cardano Founder Takes Swipe at XRP in Fiery Social Media Exchange",
+      "link": "https://u.today/cardano-founder-takes-swipe-at-xrp-in-fiery-social-media-exchange",
+      "published_at": "2026-04-09T19:02:17+00:00",
       "source": "u.today",
-      "score": 7,
-      "ntitle": "bitcoin xrp rise while oil breaks 100 weak gdp reshapes market correlations",
+      "score": 8,
+      "ntitle": "cardano founder takes swipe xrp fiery social media exchange",
       "coins": [
-        "BTC",
+        "ADA",
         "XRP"
       ],
-      "sentiment": "bullish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -1004,44 +1006,44 @@
       "agency": null
     },
     {
-      "title": "New Indie Ethereum Tools Making Waves",
-      "link": "https://www.bankless.com/read/new-indie-ethereum-tools-making-waves",
-      "published_at": "2026-04-08T22:05:53+00:00",
+      "title": "Ethereum Developer Announces Candidacy for U.S. Congress",
+      "link": "https://www.bankless.com/read/news/ethereum-developer-announces-candidacy-for-u-s-congress",
+      "published_at": "2026-04-09T17:09:18+00:00",
       "source": "bankless.com",
-      "score": 0,
-      "ntitle": "new indie ethereum tools making waves",
+      "score": 1,
+      "ntitle": "ethereum developer announces candidacy u s congress",
       "coins": [
         "ETH"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Congress"
+    },
+    {
+      "title": "Tim Draper Confirmed as a Bitcoin 2026 Speaker",
+      "link": "https://bitcoinmagazine.com/conference/tim-draper-confirmed-as-a-bitcoin-2026-speaker",
+      "published_at": "2026-04-09T18:56:58+00:00",
+      "source": "bitcoinmagazine.com",
+      "score": 1,
+      "ntitle": "tim draper confirmed bitcoin 2026 speaker",
+      "coins": [
+        "BTC"
       ],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Bitcoin Depot Reports $3.7 Million Stolen in Wallet Security Breach",
-      "link": "https://bitcoinmagazine.com/news/bitcoin-depot-reports-3-7-million",
-      "published_at": "2026-04-09T15:25:51+00:00",
-      "source": "bitcoinmagazine.com",
-      "score": 1,
-      "ntitle": "bitcoin depot reports 3 7 million stolen wallet security breach",
-      "coins": [
-        "BTC"
-      ],
+      "title": "AI Image Generation Becomes Practical Tool for Brand Photography",
+      "link": "https://Blockchain.News/news/ai-image-generation-brand-photography-prompts",
+      "published_at": "2026-04-09T18:58:15+00:00",
+      "source": "blockchain.news",
+      "score": 3,
+      "ntitle": "ai image generation becomes practical tool brand photography",
+      "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
-    },
-    {
-      "title": "Anthropic Publishes Agent Safety Framework as AI Autonomy Risks Mount",
-      "link": "https://Blockchain.News/news/anthropic-trustworthy-agents-framework-safety",
-      "published_at": "2026-04-09T17:38:20+00:00",
-      "source": "blockchain.news",
-      "score": 3,
-      "ntitle": "anthropic publishes agent safety framework ai autonomy risks mount",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Regulatory"
     },
     {
       "title": "Iran Weighs Bitcoin Payments for Strait of Hormuz Transit During Ceasefire",
@@ -1054,18 +1056,6 @@
         "BTC"
       ],
       "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "The Drift Protocol Hack: How Privileged Access Led to a $285 Million Loss",
-      "link": "https://www.chainalysis.com/blog/lessons-from-the-drift-hack/",
-      "published_at": "2026-04-09T12:14:41+00:00",
-      "source": "chainalysis.com",
-      "score": 1,
-      "ntitle": "drift protocol hack how privileged access led 285 million loss",
-      "coins": [],
-      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     }
@@ -1282,30 +1272,30 @@
   ],
   "clusters": [
     {
-      "id": 9,
-      "title": "Bitget debuts SpaceX proxy token as Musk’s IPO target climbs above $1.75 trillion",
-      "link": "https://cryptobriefing.com/bitget-spacex-pre-ipo-token/",
-      "source": "cryptobriefing.com",
-      "published_at": "2026-04-10T18:32:26+00:00",
-      "sentiment": "bullish",
+      "id": 1,
+      "title": "Coinbase Backs Trump Administration's Crypto CLARITY Push",
+      "link": "https://www.bankless.com/read/news/coinbase-backs-trump-administrations-crypto-cla-push",
+      "source": "bankless.com",
+      "published_at": "2026-04-10T18:56:15+00:00",
+      "sentiment": "neutral",
       "coins": [],
       "sources": [
-        "cryptobriefing.com",
-        "decrypt.co"
+        "bankless.com",
+        "cointelegraph.com"
       ],
       "count": 2,
       "members": [
         {
-          "title": "Bitget debuts SpaceX proxy token as Musk’s IPO target climbs above $1.75 trillion",
-          "link": "https://cryptobriefing.com/bitget-spacex-pre-ipo-token/",
-          "source": "cryptobriefing.com",
-          "published_at": "2026-04-10T18:32:26+00:00"
+          "title": "Coinbase Backs Trump Administration's Crypto CLARITY Push",
+          "link": "https://www.bankless.com/read/news/coinbase-backs-trump-administrations-crypto-cla-push",
+          "source": "bankless.com",
+          "published_at": "2026-04-10T18:56:15+00:00"
         },
         {
-          "title": "Elon Musk's SpaceX Is Nearing Its $1.75 Trillion IPO—Bitget Is Offering Pre-IPO Exposure",
-          "link": "https://decrypt.co/363950/elon-musk-spacex-nearing-1-75-trillion-ipo-bitget-pre-ipo-exposure",
-          "source": "decrypt.co",
-          "published_at": "2026-04-10T17:36:35+00:00"
+          "title": "Coinbase CEO backs US Treasury Secretary‘s push to pass CLARITY Act",
+          "link": "https://cointelegraph.com/news/coinbase-ceo-treasury-secretary-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "cointelegraph.com",
+          "published_at": "2026-04-10T18:11:16+00:00"
         }
       ]
     },
@@ -1341,52 +1331,52 @@
   "trending": [
     {
       "tag": "#Ai",
-      "count": 51,
+      "count": 53,
       "type": "topic",
       "pct": 100
     },
     {
       "tag": "#XRP",
-      "count": 48,
+      "count": 50,
       "type": "coin",
       "pct": 94
     },
     {
-      "tag": "#BTC",
-      "count": 46,
-      "type": "coin",
-      "pct": 90
+      "tag": "#Xrp",
+      "count": 48,
+      "type": "topic",
+      "pct": 91
     },
     {
-      "tag": "#Xrp",
-      "count": 46,
-      "type": "topic",
-      "pct": 90
+      "tag": "#BTC",
+      "count": 47,
+      "type": "coin",
+      "pct": 89
     },
     {
       "tag": "#Bitcoin",
       "count": 45,
       "type": "topic",
-      "pct": 88
+      "pct": 85
     },
     {
       "tag": "#Defi",
       "count": 41,
       "type": "topic",
-      "pct": 80
+      "pct": 77
     },
     {
       "tag": "#Etf",
       "count": 26,
       "type": "topic",
-      "pct": 51
+      "pct": 49
     },
     {
       "tag": "#ETH",
-      "count": 16,
+      "count": 17,
       "type": "coin",
-      "pct": 31
+      "pct": 32
     }
   ],
-  "generated_at": "2026-04-10T18:37:25.866107+00:00"
+  "generated_at": "2026-04-10T19:30:00.078769+00:00"
 }
