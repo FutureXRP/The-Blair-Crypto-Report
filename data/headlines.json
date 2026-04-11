@@ -14,6 +14,32 @@
       "agency": null
     },
     {
+      "title": "Retail Investors Sold US Stocks for the First Time Since November",
+      "link": "https://beincrypto.com/retail-investors-sell-us-stocks-sp500-rally/",
+      "published_at": "2026-04-11T15:18:22+00:00",
+      "source": "beincrypto.com",
+      "score": 1,
+      "ntitle": "retail investors sold us stocks first time since november",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Ethereum Boom: 284K New Users Flood Network In Q1",
+      "link": "https://bitcoinist.com/ethereum-boom-284k-new-users-flood-network-in-q1/",
+      "published_at": "2026-04-11T15:30:34+00:00",
+      "source": "bitcoinist.com",
+      "score": 1,
+      "ntitle": "ethereum boom 284k new users flood network q1",
+      "coins": [
+        "ETH"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
       "title": "LangChain Warns AI Agent Memory Lock-In Could Create Vendor Monopolies",
       "link": "https://Blockchain.News/news/langchain-ai-agent-memory-lock-in-warning",
       "published_at": "2026-04-11T15:21:47+00:00",
@@ -28,7 +54,7 @@
     {
       "title": "U.S.-Iran talks underway in Pakistani capital after delegations arrive",
       "link": "https://www.cnbc.com/2026/04/11/us-iran-talks-set-to-begin-in-islamabad-after-delegations-arrive.html",
-      "published_at": "2026-04-11T15:18:51+00:00",
+      "published_at": "2026-04-11T15:29:42+00:00",
       "source": "cnbc.com",
       "score": 5,
       "ntitle": "u s iran talks underway pakistani capital after delegations arrive",
@@ -46,18 +72,6 @@
       "ntitle": "france flags gaps mica pushes stricter stablecoin rules",
       "coins": [],
       "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Crypto perpetuals predict the direction of Wall Street’s Monday open with 89% accuracy, data shows",
-      "link": "https://www.coindesk.com/markets/2026/04/11/crypto-perpetuals-predict-the-direction-of-wall-street-s-monday-open-with-89-accuracy-data-shows",
-      "published_at": "2026-04-11T14:46:55+00:00",
-      "source": "coindesk.com",
-      "score": 2,
-      "ntitle": "crypto perpetuals predict direction wall street s monday open 89 accuracy data shows",
-      "coins": [],
-      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -89,19 +103,36 @@
       "agency": null
     },
     {
-      "title": "Cardano Hard Fork Approaching: Here Is Latest Update",
-      "link": "https://u.today/cardano-hard-fork-approaching-here-is-latest-update",
-      "published_at": "2026-04-11T14:53:00+00:00",
-      "source": "u.today",
-      "score": 1,
-      "ntitle": "cardano hard fork approaching here latest update",
+      "title": "Bitwise Hyperliquid ETF Filing Updated — Launch Could Be Near, Analyst Says",
+      "link": "https://news.bitcoin.com/bitwise-hyperliquid-etf-filing-updated-launch-could-be-near-analyst-says/",
+      "published_at": "2026-04-11T15:30:34+00:00",
+      "source": "news.bitcoin.com",
+      "score": 5,
+      "ntitle": "bitwise hyperliquid etf filing updated launch could be near analyst says",
       "coins": [
-        "ADA"
+        "HYPE",
+        "NEAR"
       ],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
+    {
+      "title": "Bitcoin’s $73K Rally Driven By US Investors, Analyst Says",
+      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-73k-rally-us-investors-major-driver/",
+      "published_at": "2026-04-11T15:30:15+00:00",
+      "source": "newsbtc.com",
+      "score": 10,
+      "ntitle": "bitcoin s 73k rally driven us investors analyst says",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    }
+  ],
+  "day": [
     {
       "title": "Top 8 NFT games of April 2026",
       "link": "https://ambcrypto.com/top-8-nft-games-of-april-2026/",
@@ -111,48 +142,6 @@
       "ntitle": "top 8 nft games april 2026",
       "coins": [],
       "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Crypto regulatory clarity in focus: CFTC names first members of Innovation Task Force",
-      "link": "https://coincodecap.com/crypto-regulatory-clarity-in-focus-cftc-names-first-members-of-innovation-task-force?utm_source=rss&utm_medium=rss&utm_campaign=crypto-regulatory-clarity-in-focus-cftc-names-first-members-of-innovation-task-force",
-      "published_at": "2026-04-11T14:42:37+00:00",
-      "source": "coincodecap.com",
-      "score": 6,
-      "ntitle": "crypto regulatory clarity focus cftc names first members innovation task force",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": true,
-      "agency": "CFTC"
-    },
-    {
-      "title": "XRP Payments Fall 77% as Price Eyes End to Rally",
-      "link": "https://u.today/xrp-payments-fall-77-as-price-eyes-end-to-rally",
-      "published_at": "2026-04-11T14:40:00+00:00",
-      "source": "u.today",
-      "score": 6,
-      "ntitle": "xrp payments fall 77 price eyes end rally",
-      "coins": [
-        "XRP"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    }
-  ],
-  "day": [
-    {
-      "title": "Bitcoin supply tightens as whale inflows drop below $3B – What next?",
-      "link": "https://ambcrypto.com/bitcoin-supply-tightens-as-whale-inflows-drop-below-3b-what-next/",
-      "published_at": "2026-04-11T14:00:33+00:00",
-      "source": "ambcrypto.com",
-      "score": 1,
-      "ntitle": "bitcoin supply tightens whale inflows drop below 3b what next",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -259,28 +248,28 @@
       "agency": null
     },
     {
-      "title": "Best DexScreener Alternative for DEX Analytics",
-      "link": "https://coincodecap.com/best-dexscreener-alternative-for-dex-analytics?utm_source=rss&utm_medium=rss&utm_campaign=best-dexscreener-alternative-for-dex-analytics",
-      "published_at": "2026-04-11T04:21:51+00:00",
+      "title": "Crypto regulatory clarity in focus: CFTC names first members of Innovation Task Force",
+      "link": "https://coincodecap.com/crypto-regulatory-clarity-in-focus-cftc-names-first-members-of-innovation-task-force?utm_source=rss&utm_medium=rss&utm_campaign=crypto-regulatory-clarity-in-focus-cftc-names-first-members-of-innovation-task-force",
+      "published_at": "2026-04-11T14:42:37+00:00",
       "source": "coincodecap.com",
-      "score": 3,
-      "ntitle": "best dexscreener alternative dex analytics",
+      "score": 6,
+      "ntitle": "crypto regulatory clarity focus cftc names first members innovation task force",
       "coins": [],
       "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
+      "is_regulation": true,
+      "agency": "CFTC"
     },
     {
-      "title": "Crypto Clarity bill has 30% chance of passing this year, Wintermute’s Hammond says",
-      "link": "https://www.coindesk.com/policy/2026/04/11/crypto-clarity-bill-has-30-chance-of-passing-this-year-wintermute-s-hammond-says",
-      "published_at": "2026-04-11T14:00:00+00:00",
+      "title": "Crypto perpetuals predict the direction of Wall Street’s Monday open with 89% accuracy, data shows",
+      "link": "https://www.coindesk.com/markets/2026/04/11/crypto-perpetuals-predict-the-direction-of-wall-street-s-monday-open-with-89-accuracy-data-shows",
+      "published_at": "2026-04-11T14:46:55+00:00",
       "source": "coindesk.com",
       "score": 2,
-      "ntitle": "crypto clarity bill has 30 chance passing this year wintermute s hammond says",
+      "ntitle": "crypto perpetuals predict direction wall street s monday open 89 accuracy data shows",
       "coins": [],
       "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Regulatory"
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "First Hyperliquid ETF Nears Launch as Bitwise Files Amended S-1 With SEC",
@@ -465,25 +454,29 @@
       "agency": null
     },
     {
-      "title": "Zcash (ZEC) Rallies 59%, Quantum Resistance Paying Off?",
-      "link": "https://u.today/zcash-zec-rallies-59-quantum-resistance-paying-off",
-      "published_at": "2026-04-11T14:16:00+00:00",
+      "title": "Cardano Hard Fork Approaching: Here Is Latest Update",
+      "link": "https://u.today/cardano-hard-fork-approaching-here-is-latest-update",
+      "published_at": "2026-04-11T14:53:00+00:00",
       "source": "u.today",
       "score": 1,
-      "ntitle": "zcash zec rallies 59 quantum resistance paying off",
-      "coins": [],
-      "sentiment": "neutral",
+      "ntitle": "cardano hard fork approaching here latest update",
+      "coins": [
+        "ADA"
+      ],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Top 7 Telegram trading bots of April 2026",
-      "link": "https://ambcrypto.com/top-7-telegram-trading-bots-of-april-2026/",
-      "published_at": "2026-04-11T13:25:50+00:00",
+      "title": "Bitcoin supply tightens as whale inflows drop below $3B – What next?",
+      "link": "https://ambcrypto.com/bitcoin-supply-tightens-as-whale-inflows-drop-below-3b-what-next/",
+      "published_at": "2026-04-11T14:00:33+00:00",
       "source": "ambcrypto.com",
-      "score": 3,
-      "ntitle": "top 7 telegram trading bots april 2026",
-      "coins": [],
+      "score": 1,
+      "ntitle": "bitcoin supply tightens whale inflows drop below 3b what next",
+      "coins": [
+        "BTC"
+      ],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
@@ -607,6 +600,18 @@
       "agency": null
     },
     {
+      "title": "Consumer sentiment hits record low, inflation fears rise amid Iran war",
+      "link": "https://www.cnbc.com/2026/04/10/consumer-sentiment-inflation-fears-iran-war.html",
+      "published_at": "2026-04-10T15:48:09+00:00",
+      "source": "cnbc.com",
+      "score": 1,
+      "ntitle": "consumer sentiment hits record low inflation fears rise amid iran war",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
       "title": "Best BonkBot Settings for Solana Trading",
       "link": "https://coincodecap.com/best-settings-for-bonkbot?utm_source=rss&utm_medium=rss&utm_campaign=best-settings-for-bonkbot",
       "published_at": "2026-04-09T17:16:20+00:00",
@@ -621,14 +626,14 @@
       "agency": null
     },
     {
-      "title": "The magic word for digital assets adoption and success: choice",
-      "link": "https://www.coindesk.com/opinion/2026/04/10/the-magic-word-for-digital-assets-adoption-and-success-choice",
-      "published_at": "2026-04-10T15:30:00+00:00",
+      "title": "Star Xu calls CZ a ‘liar’ as founders of world’s largest crypto exchanges argue over past allegations",
+      "link": "https://www.coindesk.com/business/2026/04/10/star-xu-calls-cz-a-liar-as-founders-of-world-s-largest-crypto-exchanges-argue-over-past-allegations",
+      "published_at": "2026-04-10T15:38:47+00:00",
       "source": "coindesk.com",
-      "score": 1,
-      "ntitle": "magic word digital assets adoption success choice",
+      "score": 2,
+      "ntitle": "star xu calls cz liar founders world s largest crypto exchanges argue over past allegations",
       "coins": [],
-      "sentiment": "bullish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -671,16 +676,17 @@
       "agency": null
     },
     {
-      "title": "Ethereum meets the Strait of Hormuz as analyst bets on bears, will price go sub $2k again?",
-      "link": "https://crypto.news/ethereum-meets-the-strait-of-hormuz-as-analyst-bets-on-bears-will-price-go-sub-2k-again/",
-      "published_at": "2026-04-10T15:26:12+00:00",
+      "title": "Hyperliquid holds near $40 as perps growth keeps HYPE in a steady uptrend",
+      "link": "https://crypto.news/hyperliquid-holds-near-40-as-perps-growth-keeps-hype-in-a-steady-uptrend/",
+      "published_at": "2026-04-10T15:50:48+00:00",
       "source": "crypto.news",
-      "score": 2,
-      "ntitle": "ethereum meets strait hormuz analyst bets bears will price go sub 2k again",
+      "score": 1,
+      "ntitle": "hyperliquid holds near 40 perps growth keeps hype steady uptrend",
       "coins": [
-        "ETH"
+        "HYPE",
+        "NEAR"
       ],
-      "sentiment": "bearish",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -735,12 +741,12 @@
       "agency": null
     },
     {
-      "title": "BitTensor AI Token Plunges as Top Builder Departs Over Decentralization Doubts",
-      "link": "https://decrypt.co/363926/bittensor-token-plunges-builder-departs-decentralization-doubts",
-      "published_at": "2026-04-10T15:30:44+00:00",
+      "title": "Powell, Bessent Warn Banks About Security Risks From Anthropic's Mythos AI: Bloomberg",
+      "link": "https://decrypt.co/363927/powell-bessent-warn-banks-security-anthropic-mythos-ai",
+      "published_at": "2026-04-10T15:45:18+00:00",
       "source": "decrypt.co",
-      "score": 1,
-      "ntitle": "bittensor ai token plunges top builder departs over decentralization doubts",
+      "score": 6,
+      "ntitle": "powell bessent warn banks about security risks anthropic s mythos ai bloomberg",
       "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
@@ -797,26 +803,12 @@
       "agency": null
     },
     {
-      "title": "What’s Driving XDC’s Growth? DeFi, Tokenization & Global Expansion | XDC Pulse March 2026",
-      "link": "https://medium.com/xdcnetwork/whats-driving-xdc-s-growth-defi-tokenization-global-expansion-xdc-pulse-march-2026-42aeb04b7b6a?source=rss----cd0780ed662f---4",
-      "published_at": "2026-04-10T12:16:04+00:00",
-      "source": "medium.com",
-      "score": 25,
-      "ntitle": "what s driving xdc s growth defi tokenization global expansion xdc pulse march 2026",
-      "coins": [
-        "XDC"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "CZ vs Star Xu: $1B bet sends crypto rivalry nuclear",
-      "link": "https://protos.com/cz-vs-star-xu-1b-bet-sends-crypto-rivalry-nuclear/",
-      "published_at": "2026-04-10T14:07:04+00:00",
+      "title": "Justin Sun’s blacklisted WLFI has lost $70M",
+      "link": "https://protos.com/justin-suns-blacklisted-wlfi-has-lost-70m/",
+      "published_at": "2026-04-10T15:38:33+00:00",
       "source": "protos.com",
       "score": 1,
-      "ntitle": "cz vs star xu 1b bet sends crypto rivalry nuclear",
+      "ntitle": "justin sun s blacklisted wlfi has lost 70m",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -1121,35 +1113,7 @@
       "agency": "Regulatory"
     }
   ],
-  "clusters": [
-    {
-      "id": 8,
-      "title": "Top 7 Telegram trading bots of April 2026",
-      "link": "https://ambcrypto.com/top-7-telegram-trading-bots-of-april-2026/",
-      "source": "ambcrypto.com",
-      "published_at": "2026-04-11T13:25:50+00:00",
-      "sentiment": "bearish",
-      "coins": [],
-      "sources": [
-        "ambcrypto.com"
-      ],
-      "count": 2,
-      "members": [
-        {
-          "title": "Top 8 NFT games of April 2026",
-          "link": "https://ambcrypto.com/top-8-nft-games-of-april-2026/",
-          "source": "ambcrypto.com",
-          "published_at": "2026-04-11T14:55:23+00:00"
-        },
-        {
-          "title": "Top 7 Telegram trading bots of April 2026",
-          "link": "https://ambcrypto.com/top-7-telegram-trading-bots-of-april-2026/",
-          "source": "ambcrypto.com",
-          "published_at": "2026-04-11T13:25:50+00:00"
-        }
-      ]
-    }
-  ],
+  "clusters": [],
   "trending": [
     {
       "tag": "#XRP",
@@ -1165,33 +1129,33 @@
     },
     {
       "tag": "#Ai",
-      "count": 47,
+      "count": 50,
       "type": "topic",
-      "pct": 84
+      "pct": 89
     },
     {
       "tag": "#BTC",
-      "count": 41,
+      "count": 45,
       "type": "coin",
-      "pct": 73
+      "pct": 80
     },
     {
       "tag": "#Bitcoin",
-      "count": 40,
+      "count": 45,
       "type": "topic",
-      "pct": 71
+      "pct": 80
     },
     {
       "tag": "#Defi",
-      "count": 39,
+      "count": 35,
       "type": "topic",
-      "pct": 70
+      "pct": 62
     },
     {
       "tag": "#Etf",
-      "count": 24,
+      "count": 26,
       "type": "topic",
-      "pct": 43
+      "pct": 46
     },
     {
       "tag": "#ETH",
@@ -1200,5 +1164,5 @@
       "pct": 32
     }
   ],
-  "generated_at": "2026-04-11T15:31:10.475612+00:00"
+  "generated_at": "2026-04-11T15:57:48.313659+00:00"
 }
