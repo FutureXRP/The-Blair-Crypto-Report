@@ -1,5 +1,63 @@
 [
   {
+    "title": "Farage and Kwarteng’s bitcoin treasury company has just one non-executive director. Who is she?",
+    "link": "https://www.ft.com/content/400ebdfb-b751-4328-93b6-53bb7d4a809e",
+    "source": "ft.com",
+    "published_at": "2026-04-13T17:18:28+00:00",
+    "agency": "Treasury",
+    "sentiment": "bearish",
+    "coins": [
+      "BTC"
+    ]
+  },
+  {
+    "title": "U.S. SEC says software allowing crypto wallet transactions not considered broker",
+    "link": "https://www.coindesk.com/policy/2026/04/13/u-s-sec-says-software-allowing-crypto-wallet-transactions-aren-t-considered-brokers",
+    "source": "coindesk.com",
+    "published_at": "2026-04-13T17:17:12+00:00",
+    "agency": "SEC",
+    "sentiment": "bearish",
+    "coins": []
+  },
+  {
+    "title": "Judge dismisses Trump $10B defamation lawsuit against Murdoch, WSJ about Epstein letter",
+    "link": "https://www.cnbc.com/2026/04/13/trump-epstein-murdoch-wsj-lawsuit-dismissed.html",
+    "source": "cnbc.com",
+    "published_at": "2026-04-13T17:04:32+00:00",
+    "agency": "Regulatory",
+    "sentiment": "neutral",
+    "coins": []
+  },
+  {
+    "title": "Capital B Buys More Bitcoin, Expands Treasury to 2,925 BTC After Debt Conversions and Equity Raise",
+    "link": "https://bitcoinmagazine.com/news/capital-b-buys-more-bitcoin",
+    "source": "bitcoinmagazine.com",
+    "published_at": "2026-04-13T16:57:13+00:00",
+    "agency": "Treasury",
+    "sentiment": "bullish",
+    "coins": [
+      "BTC"
+    ]
+  },
+  {
+    "title": "U.S. SEC Provides Pathway for DeFi Platforms to Operate Without Broker-Dealer Registration",
+    "link": "https://coingape.com/u-s-sec-provides-pathway-for-defi-platforms-to-operate-without-broker-dealer-registration/",
+    "source": "coingape.com",
+    "published_at": "2026-04-13T16:52:03+00:00",
+    "agency": "SEC",
+    "sentiment": "bullish",
+    "coins": []
+  },
+  {
+    "title": "SEC Gives DeFi Front-Ends a Narrow Path Around Broker-Dealer Rules",
+    "link": "https://thedefiant.io/news/regulation/sec-staff-guidance-broker-dealer-rules-for-defi",
+    "source": "thedefiant.io",
+    "published_at": "2026-04-13T16:45:39+00:00",
+    "agency": "SEC",
+    "sentiment": "bullish",
+    "coins": []
+  },
+  {
     "title": "SEC Clears Path for DeFi Front-Ends to Operate Without Broker-Dealer Registration",
     "link": "https://blockonomi.com/sec-clears-path-for-defi-front-ends-to-operate-without-broker-dealer-registration/",
     "source": "blockonomi.com",
@@ -70,15 +128,6 @@
     "coins": [
       "ETH"
     ]
-  },
-  {
-    "title": "Judge dismisses Trump $10B defamation lawsuit against Murdoch, WSJ about Epstein letter",
-    "link": "https://www.cnbc.com/2026/04/13/trump-epstein-murdoch-wsj-lawsuit-dismissed.html",
-    "source": "cnbc.com",
-    "published_at": "2026-04-13T15:07:32+00:00",
-    "agency": "Regulatory",
-    "sentiment": "neutral",
-    "coins": []
   },
   {
     "title": "Arizona Temporarily Stands Down on Kalshi Prosecution as Federal Ruling Blocks Monday Arraignment",
@@ -177,24 +226,6 @@
     "coins": []
   },
   {
-    "title": "‘It’s now or never,’ Senator Cynthia Lummis presses to pass CLARITY Act",
-    "link": "https://ambcrypto.com/its-now-or-never-senator-cynthia-lummis-presses-to-pass-clarity-act/",
-    "source": "ambcrypto.com",
-    "published_at": "2026-04-13T06:00:40+00:00",
-    "agency": "Congress",
-    "sentiment": "neutral",
-    "coins": []
-  },
-  {
-    "title": "Coinbase CEO Backs CLARITY Act Push After Treasury Secretary Called For Senate Action",
-    "link": "https://bitcoinist.com/coinbase-ceo-backs-clarity-act-push-after-treasury-secretary-called-for-senate-action/",
-    "source": "bitcoinist.com",
-    "published_at": "2026-04-12T22:00:13+00:00",
-    "agency": "Treasury",
-    "sentiment": "bullish",
-    "coins": []
-  },
-  {
     "title": "Justin Sun calls out WLFI; platform threatens lawsuit in response",
     "link": "https://cointelegraph.com/news/justin-sun-wlfi-platform-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "source": "cointelegraph.com",
@@ -255,36 +286,6 @@
     "published_at": "2026-04-11T12:50:57+00:00",
     "agency": "Regulatory",
     "sentiment": "bearish",
-    "coins": []
-  },
-  {
-    "title": "XRP holds near $1.35 as CLARITY Act week draws focus",
-    "link": "https://crypto.news/xrp-holds-near-1-35-as-clarity-act-week-draws-focus/",
-    "source": "crypto.news",
-    "published_at": "2026-04-11T11:40:00+00:00",
-    "agency": "Congress",
-    "sentiment": "neutral",
-    "coins": [
-      "NEAR",
-      "XRP"
-    ]
-  },
-  {
-    "title": "US Fed, Treasury assess spillover risks from $1.8 trillion private credit",
-    "link": "https://cryptobriefing.com/us-fed-treasury-assess-spillover-risks-private-credit/",
-    "source": "cryptobriefing.com",
-    "published_at": "2026-04-11T04:45:01+00:00",
-    "agency": "Treasury",
-    "sentiment": "bearish",
-    "coins": []
-  },
-  {
-    "title": "Federal Reserve Board announces approval of application by Burke & Herbert Financial Services Corp.",
-    "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260410a.htm",
-    "source": "federalreserve.gov",
-    "published_at": "2026-04-10T20:15:00+00:00",
-    "agency": "Fed",
-    "sentiment": "bullish",
     "coins": []
   }
 ]
