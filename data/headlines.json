@@ -2,28 +2,77 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "SIREN volume jumps 63% – Yet liquidity could trigger a price drop",
-      "link": "https://ambcrypto.com/siren-volume-jumps-63-yet-liquidity-could-trigger-a-price-drop/",
-      "published_at": "2026-04-16T23:00:56+00:00",
+      "title": "Chiliz [CHZ] eyes $0.057 after 17% rally – But a KEY hurdle still remains",
+      "link": "https://ambcrypto.com/chiliz-chz-eyes-0-057-after-17-rally-but-this-hurdle-still-remains/",
+      "published_at": "2026-04-17T00:00:18+00:00",
       "source": "ambcrypto.com",
       "score": 1,
-      "ntitle": "siren volume jumps 63 yet liquidity could trigger price drop",
+      "ntitle": "chiliz chz eyes 0 057 after 17 rally but key hurdle still remains",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Coinbase CPO Predicts CLARITY Act Full-Senate Vote Next Month",
+      "link": "https://bitcoinist.com/coinbase-cpo-predicts-clarity-act-full-senate-vote/",
+      "published_at": "2026-04-16T23:32:51+00:00",
+      "source": "bitcoinist.com",
+      "score": 1,
+      "ntitle": "coinbase cpo predicts clarity act full senate vote next month",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Congress"
+    },
+    {
+      "title": "Counterfeit Ledger Devices Found Draining Crypto Wallets Through Supply Chain Fraud",
+      "link": "https://blockonomi.com/counterfeit-ledger-devices-found-draining-crypto-wallets-through-supply-chain-fraud/",
+      "published_at": "2026-04-16T23:40:34+00:00",
+      "source": "blockonomi.com",
+      "score": 2,
+      "ntitle": "counterfeit ledger devices found draining crypto wallets through supply chain fraud",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "BOJ’s Ueda signals policy hold amid Middle East conflict concerns",
+      "link": "https://cryptobriefing.com/bojs-ueda-signals-policy-hold-amid-middle-east-conflict-concerns/",
+      "published_at": "2026-04-16T23:58:36+00:00",
+      "source": "cryptobriefing.com",
+      "score": 1,
+      "ntitle": "boj s ueda signals policy hold amid middle east conflict concerns",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "Regulatory"
+    },
+    {
+      "title": "Grayscale Predicts Elon Musk’s X Could Use Crypto to Power Next Wave of Financial Ecosystems",
+      "link": "https://news.bitcoin.com/grayscale-predicts-elon-musks-x-could-use-crypto-to-power-next-wave-of-financial-ecosystems/",
+      "published_at": "2026-04-16T23:30:32+00:00",
+      "source": "news.bitcoin.com",
+      "score": 4,
+      "ntitle": "grayscale predicts elon musk s x could use crypto power next wave financial ecosystems",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Shiba Inu Sees Major Developments As Its Price Continues To Struggle",
-      "link": "https://bitcoinist.com/shiba-inu-major-developments/",
-      "published_at": "2026-04-16T23:00:40+00:00",
-      "source": "bitcoinist.com",
-      "score": 0,
-      "ntitle": "shiba inu sees major developments price continues struggle",
+      "title": "Crypto Analyst Says It’s Time To Swap Bitcoin For XRP, Here’s Why",
+      "link": "https://www.newsbtc.com/news/time-to-swap-bitcoin-for-xrp/",
+      "published_at": "2026-04-17T00:00:43+00:00",
+      "source": "newsbtc.com",
+      "score": 16,
+      "ntitle": "crypto analyst says it s time swap bitcoin xrp here s why",
       "coins": [
-        "SHIB"
+        "BTC",
+        "XRP"
       ],
-      "sentiment": "bullish",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -40,6 +89,110 @@
       "agency": null
     },
     {
+      "title": "IMF warns of severe impact from Iran conflict on energy-importing nations",
+      "link": "https://cryptobriefing.com/imf-warns-of-severe-impact-from-iran-conflict-on-energy-importing-nations/",
+      "published_at": "2026-04-16T23:52:34+00:00",
+      "source": "cryptobriefing.com",
+      "score": 1,
+      "ntitle": "imf warns severe impact iran conflict energy importing nations",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    }
+  ],
+  "day": [
+    {
+      "title": "SIREN volume jumps 63% – Yet liquidity could trigger a price drop",
+      "link": "https://ambcrypto.com/siren-volume-jumps-63-yet-liquidity-could-trigger-a-price-drop/",
+      "published_at": "2026-04-16T23:00:56+00:00",
+      "source": "ambcrypto.com",
+      "score": 1,
+      "ntitle": "siren volume jumps 63 yet liquidity could trigger price drop",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "A New Creative Suite for Artist-Owned AI Models",
+      "link": "https://www.bankless.com/read/a-new-creative-suite-for-artist-owned-ai-models",
+      "published_at": "2026-04-16T20:36:04+00:00",
+      "source": "bankless.com",
+      "score": 1,
+      "ntitle": "new creative suite artist owned ai models",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "CFTC Chair Selig Vows To Stop Prediction Market Fraud",
+      "link": "https://beincrypto.com/cftc-selig-prediction-markets-fraud-warning/",
+      "published_at": "2026-04-16T21:32:50+00:00",
+      "source": "beincrypto.com",
+      "score": 1,
+      "ntitle": "cftc chair selig vows stop prediction market fraud",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "CFTC"
+    },
+    {
+      "title": "Shiba Inu Sees Major Developments As Its Price Continues To Struggle",
+      "link": "https://bitcoinist.com/shiba-inu-major-developments/",
+      "published_at": "2026-04-16T23:00:40+00:00",
+      "source": "bitcoinist.com",
+      "score": 0,
+      "ntitle": "shiba inu sees major developments price continues struggle",
+      "coins": [
+        "SHIB"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Czech National Bank Governor Will Soon Speak on Why They’re Diversifying Their Reserves With Bitcoin",
+      "link": "https://bitcoinmagazine.com/conference/czech-national-bank-governor-will-soon-speak-on-why-theyre-diversifying-their-reserves-with-bitcoin",
+      "published_at": "2026-04-16T21:05:52+00:00",
+      "source": "bitcoinmagazine.com",
+      "score": 4,
+      "ntitle": "czech national bank governor will soon speak why they re diversifying their reserves bitcoin",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "HIVE Stock Drops 11% After Announcing $75M Raise for AI Data Centers",
+      "link": "https://Blockchain.News/news/hive-stock-drops-75m-raise-ai-data-centers",
+      "published_at": "2026-04-16T21:38:18+00:00",
+      "source": "blockchain.news",
+      "score": 1,
+      "ntitle": "hive stock drops 11 after announcing 75m raise ai data centers",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Stablecoins Flow Back to Binance Amid Easing Macro Tensions",
+      "link": "https://blockonomi.com/stablecoins-flow-back-to-binance-amid-easing-macro-tensions/",
+      "published_at": "2026-04-16T23:03:59+00:00",
+      "source": "blockonomi.com",
+      "score": 1,
+      "ntitle": "stablecoins flow back binance amid easing macro tensions",
+      "coins": [
+        "BNB"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
       "title": "Netflix stock sinks despite earnings beat, streamer says Reed Hastings to exit board",
       "link": "https://www.cnbc.com/2026/04/16/netflix-nflx-earnings-q1-2026.html",
       "published_at": "2026-04-16T22:30:18+00:00",
@@ -52,6 +205,32 @@
       "agency": null
     },
     {
+      "title": "Solana Quietly Logs $1.1 Trillion in Q1 Activity While You Weren’t Looking",
+      "link": "https://coincodecap.com/solana-quietly-logs-1-1-trillion-in-q1-activity-while-you-werent-looking?utm_source=rss&utm_medium=rss&utm_campaign=solana-quietly-logs-1-1-trillion-in-q1-activity-while-you-werent-looking",
+      "published_at": "2026-04-16T18:28:52+00:00",
+      "source": "coincodecap.com",
+      "score": 3,
+      "ntitle": "solana quietly logs 1 1 trillion q1 activity while you weren t looking",
+      "coins": [
+        "SOL"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "U.S. CFTC's Selig says AI has helped make up for staffing cuts at key crypto watchdog",
+      "link": "https://www.coindesk.com/policy/2026/04/16/u-s-cftc-s-selig-says-ai-has-helped-make-up-for-staffing-cuts-at-key-crypto-watchdog",
+      "published_at": "2026-04-16T16:50:44+00:00",
+      "source": "coindesk.com",
+      "score": 2,
+      "ntitle": "u s cftc s selig says ai has helped make up staffing cuts key crypto watchdog",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "CFTC"
+    },
+    {
       "title": "XRP News: XRPL Validators Vote On New Lending Protocol Update",
       "link": "https://coingape.com/xrp-news-xrpl-validators-vote-on-new-lending-protocol-update/",
       "published_at": "2026-04-16T22:34:48+00:00",
@@ -61,6 +240,18 @@
       "coins": [
         "XRP"
       ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Chiliz price surges amid adoption in South Korea and UEFA Champions League excitement",
+      "link": "https://coinjournal.net/news/chiliz-price-surges-amid-adoption-in-south-korea-and-uefa-champions-league-excitement/",
+      "published_at": "2026-04-16T14:04:30+00:00",
+      "source": "coinjournal.net",
+      "score": 2,
+      "ntitle": "chiliz price surges amid adoption south korea uefa champions league excitement",
+      "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
@@ -92,260 +283,14 @@
       "agency": null
     },
     {
-      "title": "Israeli military warns southern Lebanon residents amid ceasefire tensions",
-      "link": "https://cryptobriefing.com/israeli-military-warns-southern-lebanon-residents-amid-ceasefire-tensions/",
-      "published_at": "2026-04-16T23:28:02+00:00",
+      "title": "US Central Command confirms Marine, Navy support for Iran blockade",
+      "link": "https://cryptobriefing.com/us-central-command-confirms-marine-navy-support-for-iran-blockade/",
+      "published_at": "2026-04-16T23:02:15+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "israeli military warns southern lebanon residents amid ceasefire tensions",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "UK FCA Opens Crypto Consultation Ahead of October 2027 Regulatory Deadline",
-      "link": "https://news.bitcoin.com/uk-fca-opens-crypto-consultation-ahead-of-october-2027-regulatory-deadline/",
-      "published_at": "2026-04-16T22:30:30+00:00",
-      "source": "news.bitcoin.com",
-      "score": 1,
-      "ntitle": "uk fca opens crypto consultation ahead october 2027 regulatory deadline",
+      "ntitle": "us central command confirms marine navy support iran blockade",
       "coins": [],
       "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Regulatory"
-    },
-    {
-      "title": "Bitcoin Rally Stalls As 60,000 BTC From STHs Hits Exchanges",
-      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-rally-stalls-60000-btc-sths-hits-exchanges/",
-      "published_at": "2026-04-16T23:00:41+00:00",
-      "source": "newsbtc.com",
-      "score": 1,
-      "ntitle": "bitcoin rally stalls 60 000 btc sths hits exchanges",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Stablecoins Flow Back to Binance Amid Easing Macro Tensions",
-      "link": "https://blockonomi.com/stablecoins-flow-back-to-binance-amid-easing-macro-tensions/",
-      "published_at": "2026-04-16T23:03:59+00:00",
-      "source": "blockonomi.com",
-      "score": 1,
-      "ntitle": "stablecoins flow back binance amid easing macro tensions",
-      "coins": [
-        "BNB"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Hezbollah launches rockets into northern Israel hours after ceasefire",
-      "link": "https://cryptobriefing.com/hezbollah-launches-rockets-into-northern-israel-hours-after-ceasefire/",
-      "published_at": "2026-04-16T23:21:02+00:00",
-      "source": "cryptobriefing.com",
-      "score": 0,
-      "ntitle": "hezbollah launches rockets into northern israel hours after ceasefire",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    }
-  ],
-  "day": [
-    {
-      "title": "PAC secures $11 mln to support pro-crypto candidates in 2026 U.S. midterms",
-      "link": "https://ambcrypto.com/pac-secures-11-mln-to-support-pro-crypto-candidates-in-2026-u-s-midterms/",
-      "published_at": "2026-04-16T22:00:55+00:00",
-      "source": "ambcrypto.com",
-      "score": 1,
-      "ntitle": "pac secures 11 mln support pro crypto candidates 2026 u s midterms",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "A New Creative Suite for Artist-Owned AI Models",
-      "link": "https://www.bankless.com/read/a-new-creative-suite-for-artist-owned-ai-models",
-      "published_at": "2026-04-16T20:36:04+00:00",
-      "source": "bankless.com",
-      "score": 1,
-      "ntitle": "new creative suite artist owned ai models",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "CFTC Chair Selig Vows To Stop Prediction Market Fraud",
-      "link": "https://beincrypto.com/cftc-selig-prediction-markets-fraud-warning/",
-      "published_at": "2026-04-16T21:32:50+00:00",
-      "source": "beincrypto.com",
-      "score": 1,
-      "ntitle": "cftc chair selig vows stop prediction market fraud",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "CFTC"
-    },
-    {
-      "title": "Bitcoin Mining Difficulty Poised For 3% Decline On Friday",
-      "link": "https://bitcoinist.com/bitcoin-mining-difficulty-poised-3-decline-friday/",
-      "published_at": "2026-04-16T22:00:41+00:00",
-      "source": "bitcoinist.com",
-      "score": 1,
-      "ntitle": "bitcoin mining difficulty poised 3 decline friday",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Czech National Bank Governor Will Soon Speak on Why They’re Diversifying Their Reserves With Bitcoin",
-      "link": "https://bitcoinmagazine.com/conference/czech-national-bank-governor-will-soon-speak-on-why-theyre-diversifying-their-reserves-with-bitcoin",
-      "published_at": "2026-04-16T21:05:52+00:00",
-      "source": "bitcoinmagazine.com",
-      "score": 4,
-      "ntitle": "czech national bank governor will soon speak why they re diversifying their reserves bitcoin",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "HIVE Stock Drops 11% After Announcing $75M Raise for AI Data Centers",
-      "link": "https://Blockchain.News/news/hive-stock-drops-75m-raise-ai-data-centers",
-      "published_at": "2026-04-16T21:38:18+00:00",
-      "source": "blockchain.news",
-      "score": 1,
-      "ntitle": "hive stock drops 11 after announcing 75m raise ai data centers",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Ethereum Price Prediction: Can ETH Reach $4,000 Again, While Pepeto Presale Looks Like ETH in 2015",
-      "link": "https://blockonomi.com/ethereum-price-prediction-can-eth-reach-4000-again-while-pepeto-presale-looks-like-eth-in-2015/",
-      "published_at": "2026-04-16T21:30:14+00:00",
-      "source": "blockonomi.com",
-      "score": 8,
-      "ntitle": "ethereum price prediction can eth reach 4 000 again while pepeto presale looks like eth 2015",
-      "coins": [
-        "ETH"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Senate overturns Boundary Waters protections, a boon for Chilean mining company",
-      "link": "https://www.cnbc.com/2026/04/16/minnesota-boundary-waters-mining-congress.html",
-      "published_at": "2026-04-16T20:51:00+00:00",
-      "source": "cnbc.com",
-      "score": 1,
-      "ntitle": "senate overturns boundary waters protections boon chilean mining company",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Congress"
-    },
-    {
-      "title": "Solana Quietly Logs $1.1 Trillion in Q1 Activity While You Weren’t Looking",
-      "link": "https://coincodecap.com/solana-quietly-logs-1-1-trillion-in-q1-activity-while-you-werent-looking?utm_source=rss&utm_medium=rss&utm_campaign=solana-quietly-logs-1-1-trillion-in-q1-activity-while-you-werent-looking",
-      "published_at": "2026-04-16T18:28:52+00:00",
-      "source": "coincodecap.com",
-      "score": 3,
-      "ntitle": "solana quietly logs 1 1 trillion q1 activity while you weren t looking",
-      "coins": [
-        "SOL"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "U.S. CFTC's Selig says AI has helped make up for staffing cuts at key crypto watchdog",
-      "link": "https://www.coindesk.com/policy/2026/04/16/u-s-cftc-s-selig-says-ai-has-helped-make-up-for-staffing-cuts-at-key-crypto-watchdog",
-      "published_at": "2026-04-16T16:50:44+00:00",
-      "source": "coindesk.com",
-      "score": 2,
-      "ntitle": "u s cftc s selig says ai has helped make up staffing cuts key crypto watchdog",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "CFTC"
-    },
-    {
-      "title": "Bitcoin Jumps as Israel and Lebanon Agree to 10-Day Ceasefire Amid U.S.-Iran Negotiations",
-      "link": "https://coingape.com/bitcoin-jumps-as-israel-and-lebanon-agree-to-10-day-ceasefire-amid-u-s-iran-negotiations/",
-      "published_at": "2026-04-16T16:34:31+00:00",
-      "source": "coingape.com",
-      "score": 2,
-      "ntitle": "bitcoin jumps israel lebanon agree 10 day ceasefire amid u s iran negotiations",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Chiliz price surges amid adoption in South Korea and UEFA Champions League excitement",
-      "link": "https://coinjournal.net/news/chiliz-price-surges-amid-adoption-in-south-korea-and-uefa-champions-league-excitement/",
-      "published_at": "2026-04-16T14:04:30+00:00",
-      "source": "coinjournal.net",
-      "score": 2,
-      "ntitle": "chiliz price surges amid adoption south korea uefa champions league excitement",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-04-16T21:39:23+00:00",
-      "source": "cointelegraph.com",
-      "score": 4,
-      "ntitle": "here s what happened crypto today",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "RFK Jr. HHS Budget Cuts Draw Congressional Fire at Ways and Means",
-      "link": "https://crypto.news/rfk-jr-faces-hhs-budget-cuts-hearing/",
-      "published_at": "2026-04-16T22:25:00+00:00",
-      "source": "crypto.news",
-      "score": 1,
-      "ntitle": "rfk jr hhs budget cuts draw congressional fire ways means",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Congress"
-    },
-    {
-      "title": "Tether commits $147.5M to Drift Protocol recovery, Solana up 6%",
-      "link": "https://cryptobriefing.com/tether-commits-1475m-to-drift-protocol-recovery-solana-up-6/",
-      "published_at": "2026-04-16T22:22:27+00:00",
-      "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "tether commits 147 5m drift protocol recovery solana up 6",
-      "coins": [
-        "SOL"
-      ],
-      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -427,26 +372,26 @@
       "agency": null
     },
     {
-      "title": "CFTC Uses Microsoft AI Tools to Surveil Crypto and Prediction Markets, Chairman Tells Congress",
-      "link": "https://news.bitcoin.com/cftc-uses-microsoft-ai-tools-to-surveil-crypto-and-prediction-markets-chairman-tells-congress/",
-      "published_at": "2026-04-16T21:30:32+00:00",
+      "title": "UK FCA Opens Crypto Consultation Ahead of October 2027 Regulatory Deadline",
+      "link": "https://news.bitcoin.com/uk-fca-opens-crypto-consultation-ahead-of-october-2027-regulatory-deadline/",
+      "published_at": "2026-04-16T22:30:30+00:00",
       "source": "news.bitcoin.com",
-      "score": 2,
-      "ntitle": "cftc uses microsoft ai tools surveil crypto prediction markets chairman tells congress",
+      "score": 1,
+      "ntitle": "uk fca opens crypto consultation ahead october 2027 regulatory deadline",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": true,
-      "agency": "CFTC"
+      "agency": "Regulatory"
     },
     {
-      "title": "XRP Locked In Range, But Here’s What Happening Underneath",
-      "link": "https://www.newsbtc.com/analysis/xrp/xrp-locked-in-range/",
-      "published_at": "2026-04-16T22:00:56+00:00",
+      "title": "Bitcoin Rally Stalls As 60,000 BTC From STHs Hits Exchanges",
+      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-rally-stalls-60000-btc-sths-hits-exchanges/",
+      "published_at": "2026-04-16T23:00:41+00:00",
       "source": "newsbtc.com",
-      "score": 12,
-      "ntitle": "xrp locked range but here s what happening underneath",
+      "score": 1,
+      "ntitle": "bitcoin rally stalls 60 000 btc sths hits exchanges",
       "coins": [
-        "XRP"
+        "BTC"
       ],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -520,16 +465,14 @@
       "agency": null
     },
     {
-      "title": "Bitcoin: Assessing if $120mln whale withdrawal could spark BTC’s rally to $80K",
-      "link": "https://ambcrypto.com/bitcoin-assessing-if-120mln-whale-withdrawal-could-spark-btcs-rally-to-80k/",
-      "published_at": "2026-04-16T20:00:48+00:00",
+      "title": "PAC secures $11 mln to support pro-crypto candidates in 2026 U.S. midterms",
+      "link": "https://ambcrypto.com/pac-secures-11-mln-to-support-pro-crypto-candidates-in-2026-u-s-midterms/",
+      "published_at": "2026-04-16T22:00:55+00:00",
       "source": "ambcrypto.com",
       "score": 1,
-      "ntitle": "bitcoin assessing if 120mln whale withdrawal could spark btc s rally 80k",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bullish",
+      "ntitle": "pac secures 11 mln support pro crypto candidates 2026 u s midterms",
+      "coins": [],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -804,19 +747,17 @@
       "agency": null
     },
     {
-      "title": "XRP Signals Breakout Setup, Shiba Inu (SHIB) Crosses 1 Trillion Threshold, Ethereum Outpaces Bitcoin — U.Today Crypto Digest",
-      "link": "https://u.today/xrp-signals-breakout-setup-shiba-inu-shib-crosses-1-trillion-threshold-ethereum-outpaces-bitcoin",
-      "published_at": "2026-04-15T21:34:21+00:00",
+      "title": "Bitcoin's Failed $75,000 Entry: What's Next? XRP's Silent Uptrend Originates, Zcash (ZEC) Adds 166% in Key Flow Metric: Crypto Market Review",
+      "link": "https://u.today/bitcoins-failed-75000-entry-whats-next-xrps-silent-uptrend-originates-zcash-zec-adds-166-in-key",
+      "published_at": "2026-04-16T00:01:00+00:00",
       "source": "u.today",
       "score": 8,
-      "ntitle": "xrp signals breakout setup shiba inu shib crosses 1 trillion threshold ethereum outpaces bitcoin u today crypto digest",
+      "ntitle": "bitcoin s failed 75 000 entry what s next xrp s silent uptrend originates zcash zec adds 166 key flow metric crypto market review",
       "coins": [
         "BTC",
-        "ETH",
-        "SHIB",
         "XRP"
       ],
-      "sentiment": "bullish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -1166,68 +1107,7 @@
       "agency": null
     }
   ],
-  "clusters": [
-    {
-      "id": 24,
-      "title": "XRP Locked In Range, But Here’s What Happening Underneath",
-      "link": "https://www.newsbtc.com/analysis/xrp/xrp-locked-in-range/",
-      "source": "newsbtc.com",
-      "published_at": "2026-04-16T22:00:56+00:00",
-      "sentiment": "bullish",
-      "coins": [
-        "XRP"
-      ],
-      "sources": [
-        "newsbtc.com",
-        "cointelegraph.com"
-      ],
-      "count": 2,
-      "members": [
-        {
-          "title": "Here’s what happened in crypto today",
-          "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "cointelegraph.com",
-          "published_at": "2026-04-16T21:39:23+00:00"
-        },
-        {
-          "title": "XRP Locked In Range, But Here’s What Happening Underneath",
-          "link": "https://www.newsbtc.com/analysis/xrp/xrp-locked-in-range/",
-          "source": "newsbtc.com",
-          "published_at": "2026-04-16T22:00:56+00:00"
-        }
-      ]
-    },
-    {
-      "id": 26,
-      "title": "Tether challenges USDC Solana hegemony with $127.5M Drift bailout",
-      "link": "https://protos.com/tether-challenges-usdc-solana-hegemony-with-127-5m-drift-bailout/",
-      "source": "protos.com",
-      "published_at": "2026-04-16T18:57:25+00:00",
-      "sentiment": "bullish",
-      "coins": [
-        "SOL"
-      ],
-      "sources": [
-        "protos.com",
-        "cryptobriefing.com"
-      ],
-      "count": 2,
-      "members": [
-        {
-          "title": "Tether commits $147.5M to Drift Protocol recovery, Solana up 6%",
-          "link": "https://cryptobriefing.com/tether-commits-1475m-to-drift-protocol-recovery-solana-up-6/",
-          "source": "cryptobriefing.com",
-          "published_at": "2026-04-16T22:22:27+00:00"
-        },
-        {
-          "title": "Tether challenges USDC Solana hegemony with $127.5M Drift bailout",
-          "link": "https://protos.com/tether-challenges-usdc-solana-hegemony-with-127-5m-drift-bailout/",
-          "source": "protos.com",
-          "published_at": "2026-04-16T18:57:25+00:00"
-        }
-      ]
-    }
-  ],
+  "clusters": [],
   "trending": [
     {
       "tag": "#XRP",
@@ -1237,12 +1117,12 @@
     },
     {
       "tag": "#BTC",
-      "count": 43,
+      "count": 45,
       "type": "coin",
-      "pct": 86
+      "pct": 90
     },
     {
-      "tag": "#Ai",
+      "tag": "#Bitcoin",
       "count": 43,
       "type": "topic",
       "pct": 86
@@ -1254,22 +1134,22 @@
       "pct": 86
     },
     {
+      "tag": "#Ai",
+      "count": 42,
+      "type": "topic",
+      "pct": 84
+    },
+    {
       "tag": "#Defi",
       "count": 41,
       "type": "topic",
       "pct": 82
     },
     {
-      "tag": "#Bitcoin",
-      "count": 41,
-      "type": "topic",
-      "pct": 82
-    },
-    {
       "tag": "#Etf",
-      "count": 20,
+      "count": 19,
       "type": "topic",
-      "pct": 40
+      "pct": 38
     },
     {
       "tag": "#ETH",
@@ -1278,5 +1158,5 @@
       "pct": 30
     }
   ],
-  "generated_at": "2026-04-16T23:29:48.867753+00:00"
+  "generated_at": "2026-04-17T00:05:46.763211+00:00"
 }
