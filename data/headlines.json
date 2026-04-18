@@ -2,6 +2,18 @@
   "x_breaking": [],
   "breaking": [
     {
+      "title": "A $760 mln ‘insider’ move exposes crypto’s sensitivity to an October-style correction",
+      "link": "https://ambcrypto.com/a-760-mln-insider-move-exposes-cryptos-sensitivity-to-an-october-style-correction/",
+      "published_at": "2026-04-18T22:00:36+00:00",
+      "source": "ambcrypto.com",
+      "score": 2,
+      "ntitle": "760 mln insider move exposes crypto s sensitivity october style correction",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
       "title": "Kelp DAO Bridge Drained for $292M in rsETH",
       "link": "https://www.bankless.com/read/news/kelp-dao-bridge-drained-for-292m-in-rseth",
       "published_at": "2026-04-18T21:40:25+00:00",
@@ -14,24 +26,40 @@
       "agency": null
     },
     {
-      "title": "Iran shuts down Strait of Hormuz, no US-Iran meeting scheduled",
-      "link": "https://cryptobriefing.com/iran-shuts-down-strait-of-hormuz-no-us-iran-meeting-scheduled/",
-      "published_at": "2026-04-18T21:49:30+00:00",
-      "source": "cryptobriefing.com",
+      "title": "Russia Proposes Legislation To Criminalize Unlicensed Crypto Operations",
+      "link": "https://bitcoinist.com/russia-propose-bill-criminalize-unregistered-crypto/",
+      "published_at": "2026-04-18T22:00:19+00:00",
+      "source": "bitcoinist.com",
       "score": 1,
-      "ntitle": "iran shuts down strait hormuz no us iran meeting scheduled",
+      "ntitle": "russia proposes legislation criminalize unlicensed crypto operations",
       "coins": [],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Regulatory"
+    },
+    {
+      "title": "Pepe Coin Price Prediction 2026: PEPE Rips 10% on ETF News, DOGE Whales Pile In, but Is Pepeto the Next 100x Meme Before the Binance Listing?",
+      "link": "https://blockonomi.com/pepe-coin-price-prediction-2026-pepe-rips-10-on-etf-news-doge-whales-pile-in-but-is-pepeto-the-next-100x-meme-before-the-binance-listing/",
+      "published_at": "2026-04-18T22:02:26+00:00",
+      "source": "blockonomi.com",
+      "score": 4,
+      "ntitle": "pepe coin price prediction 2026 pepe rips 10 etf news doge whales pile but pepeto next 100x meme before binance listing",
+      "coins": [
+        "BNB",
+        "DOGE",
+        "PEPE"
+      ],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Garantex Successor Grinex Collapses Days After Coordinated Wallet Exploit",
-      "link": "https://cryptopotato.com/garantex-successor-grinex-collapses-days-after-coordinated-wallet-exploit/",
-      "published_at": "2026-04-18T21:11:21+00:00",
-      "source": "cryptopotato.com",
+      "title": "Trump warns US-Iran ceasefire may end, raising conflict risk",
+      "link": "https://cryptobriefing.com/trump-warns-us-iran-ceasefire-may-end-raising-conflict-risk/",
+      "published_at": "2026-04-18T22:16:01+00:00",
+      "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "garantex successor grinex collapses days after coordinated wallet exploit",
+      "ntitle": "trump warns us iran ceasefire may end raising conflict risk",
       "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
@@ -64,14 +92,42 @@
       "agency": null
     },
     {
-      "title": "Iran rearms missiles, blocks Strait of Hormuz amid ceasefire challenge",
-      "link": "https://cryptobriefing.com/iran-rearms-missiles-blocks-strait-of-hormuz-amid-ceasefire-challenge/",
-      "published_at": "2026-04-18T21:48:51+00:00",
+      "title": "Analyst Predicts X Money Will Send XRP To $10 – But What Will Send It To $1,700?",
+      "link": "https://www.newsbtc.com/altcoin/analyst-predicts-x-money-will-send-xrp-to-10-but-what-will-send-it-to-1700/",
+      "published_at": "2026-04-18T22:00:04+00:00",
+      "source": "newsbtc.com",
+      "score": 12,
+      "ntitle": "analyst predicts x money will send xrp 10 but what will send it 1 700",
+      "coins": [
+        "XRP"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Analysts Forecast $10 XRP Price Prediction Amid Trump-Iran Geopolitical Breakthrough as AlphaPepe AlphaSwap Tech Outpaces Legacy Asset Returns",
+      "link": "https://blockonomi.com/analysts-forecast-10-xrp-price-prediction-amid-trump-iran-geopolitical-breakthrough-as-alphapepe-alphaswap-tech-outpaces-legacy-asset-returns/",
+      "published_at": "2026-04-18T22:00:35+00:00",
+      "source": "blockonomi.com",
+      "score": 8,
+      "ntitle": "analysts forecast 10 xrp price prediction amid trump iran geopolitical breakthrough alphapepe alphaswap tech outpaces legacy asset returns",
+      "coins": [
+        "XRP"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Iran nearly hits US F-35, claims Ghalibaf, as strike odds remain unchanged",
+      "link": "https://cryptobriefing.com/iran-nearly-hits-us-f-35-claims-ghalibaf-as-strike-odds-remain-unchanged/",
+      "published_at": "2026-04-18T22:14:45+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "iran rearms missiles blocks strait hormuz amid ceasefire challenge",
+      "ntitle": "iran nearly hits us f 35 claims ghalibaf strike odds remain unchanged",
       "coins": [],
-      "sentiment": "bullish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     }
@@ -226,28 +282,26 @@
       "agency": null
     },
     {
-      "title": "Lebanese cleric calls for international intervention to dismantle Hezbollah",
-      "link": "https://cryptobriefing.com/lebanese-cleric-calls-for-international-intervention-to-dismantle-hezbollah/",
-      "published_at": "2026-04-18T20:53:53+00:00",
+      "title": "Iran asserts control over Strait of Hormuz, accuses Europe of hypocrisy",
+      "link": "https://cryptobriefing.com/iran-asserts-control-over-strait-of-hormuz-accuses-europe-of-hypocrisy/",
+      "published_at": "2026-04-18T21:04:31+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "lebanese cleric calls international intervention dismantle hezbollah",
+      "ntitle": "iran asserts control over strait hormuz accuses europe hypocrisy",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Ethereum Hits All-Time High in Quarterly Network Activity",
-      "link": "https://cryptopotato.com/ethereum-hits-all-time-high-in-quarterly-network-activity/",
-      "published_at": "2026-04-18T19:24:25+00:00",
+      "title": "Garantex Successor Grinex Collapses Days After Coordinated Wallet Exploit",
+      "link": "https://cryptopotato.com/garantex-successor-grinex-collapses-days-after-coordinated-wallet-exploit/",
+      "published_at": "2026-04-18T21:11:21+00:00",
       "source": "cryptopotato.com",
       "score": 1,
-      "ntitle": "ethereum hits all time high quarterly network activity",
-      "coins": [
-        "ETH"
-      ],
-      "sentiment": "bullish",
+      "ntitle": "garantex successor grinex collapses days after coordinated wallet exploit",
+      "coins": [],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -448,26 +502,26 @@
       "agency": null
     },
     {
-      "title": "US enforces naval blockade on Iranian ports amid ongoing conflict",
-      "link": "https://cryptobriefing.com/us-enforces-naval-blockade-on-iranian-ports-amid-ongoing-conflict/",
-      "published_at": "2026-04-18T20:52:32+00:00",
+      "title": "Lebanese cleric calls for international intervention to dismantle Hezbollah",
+      "link": "https://cryptobriefing.com/lebanese-cleric-calls-for-international-intervention-to-dismantle-hezbollah/",
+      "published_at": "2026-04-18T20:53:53+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "us enforces naval blockade iranian ports amid ongoing conflict",
+      "ntitle": "lebanese cleric calls international intervention dismantle hezbollah",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Ripple (XRP) ETFs Post Best Week in 3 Months as Investors Return",
-      "link": "https://cryptopotato.com/ripple-xrp-etfs-post-best-week-in-3-months-as-investors-return/",
-      "published_at": "2026-04-18T16:57:20+00:00",
+      "title": "Ethereum Hits All-Time High in Quarterly Network Activity",
+      "link": "https://cryptopotato.com/ethereum-hits-all-time-high-in-quarterly-network-activity/",
+      "published_at": "2026-04-18T19:24:25+00:00",
       "source": "cryptopotato.com",
-      "score": 10,
-      "ntitle": "ripple xrp etfs post best week 3 months investors return",
+      "score": 1,
+      "ntitle": "ethereum hits all time high quarterly network activity",
       "coins": [
-        "XRP"
+        "ETH"
       ],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -514,13 +568,15 @@
       "agency": null
     },
     {
-      "title": "RWA Composability Hits $2.7B as Credit Tokens Dominate DeFi Lending",
-      "link": "https://Blockchain.News/news/rwa-composability-2-7b-credit-tokens-defi-lending",
-      "published_at": "2026-04-17T21:27:45+00:00",
+      "title": "Polymarket Bets 73% on Hormuz Strait Normalizing by May as BTC Hits $78K",
+      "link": "https://Blockchain.News/news/polymarket-hormuz-strait-73-percent-may-btc-78k",
+      "published_at": "2026-04-17T22:08:53+00:00",
       "source": "blockchain.news",
-      "score": 9,
-      "ntitle": "rwa composability hits 2 7b credit tokens dominate defi lending",
-      "coins": [],
+      "score": 1,
+      "ntitle": "polymarket bets 73 hormuz strait normalizing may btc hits 78k",
+      "coins": [
+        "BTC"
+      ],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
@@ -615,14 +671,14 @@
       "agency": "Regulatory"
     },
     {
-      "title": "Solana News Today: DoubleZero Launches Edge to Bring Wall Street Data Infrastructure Onchain",
-      "link": "https://crypto.news/solana-news-today-doublezero-launches-edge-beta/",
-      "published_at": "2026-04-17T21:15:00+00:00",
+      "title": "Bitcoin Price Prediction: BTC Bulls Target $125,000 as Funding Rates Hit Most Negative Since 2023",
+      "link": "https://crypto.news/bitcoin-price-prediction-btc-eyes-125k-target/",
+      "published_at": "2026-04-17T22:20:00+00:00",
       "source": "crypto.news",
-      "score": 6,
-      "ntitle": "solana news today doublezero launches edge bring wall street data infrastructure onchain",
+      "score": 2,
+      "ntitle": "bitcoin price prediction btc bulls target 125 000 funding rates hit most negative since 2023",
       "coins": [
-        "SOL"
+        "BTC"
       ],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -834,12 +890,12 @@
       "agency": null
     },
     {
-      "title": "NVIDIA Launches NemoClaw Stack for Secure Local AI Agent Deployment",
-      "link": "https://Blockchain.News/news/nvidia-nemoclaw-local-ai-agent-deployment-stack",
-      "published_at": "2026-04-17T19:43:21+00:00",
+      "title": "Russia Proposes Prison Time for Unlicensed Crypto Services",
+      "link": "https://Blockchain.News/news/russia-proposes-prison-time-unlicensed-crypto-services",
+      "published_at": "2026-04-17T22:03:52+00:00",
       "source": "blockchain.news",
-      "score": 3,
-      "ntitle": "nvidia launches nemoclaw stack secure local ai agent deployment",
+      "score": 1,
+      "ntitle": "russia proposes prison time unlicensed crypto services",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -1102,39 +1158,39 @@
   "trending": [
     {
       "tag": "#XRP",
-      "count": 61,
+      "count": 62,
       "type": "coin",
       "pct": 100
     },
     {
       "tag": "#Xrp",
-      "count": 57,
+      "count": 58,
       "type": "topic",
-      "pct": 93
+      "pct": 94
     },
     {
       "tag": "#Ai",
-      "count": 45,
+      "count": 44,
       "type": "topic",
-      "pct": 74
+      "pct": 71
     },
     {
       "tag": "#Defi",
       "count": 42,
       "type": "topic",
-      "pct": 69
+      "pct": 68
     },
     {
       "tag": "#BTC",
       "count": 36,
       "type": "coin",
-      "pct": 59
+      "pct": 58
     },
     {
       "tag": "#Bitcoin",
       "count": 33,
       "type": "topic",
-      "pct": 54
+      "pct": 53
     },
     {
       "tag": "#SOL",
@@ -1149,5 +1205,5 @@
       "pct": 26
     }
   ],
-  "generated_at": "2026-04-18T21:55:49.046243+00:00"
+  "generated_at": "2026-04-18T22:21:50.115339+00:00"
 }
