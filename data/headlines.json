@@ -2,6 +2,18 @@
   "x_breaking": [],
   "breaking": [
     {
+      "title": "DeFi Shaken by rsETH Attack",
+      "link": "https://www.bankless.com/trapped-liquidity-7b-bank-run-freezes-cryptos-leadin-lenders-locked-in",
+      "published_at": "2026-04-20T21:07:23+00:00",
+      "source": "bankless.com",
+      "score": 2,
+      "ntitle": "defi shaken rseth attack",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
       "title": "Stablecoins Don’t Meet Core Requirements Of Money, BIS Says",
       "link": "https://bitcoinist.com/stablecoins-dont-meet-core-requirements-money-bis/",
       "published_at": "2026-04-20T21:00:32+00:00",
@@ -14,26 +26,140 @@
       "agency": null
     },
     {
-      "title": "Coinbase Expands Morpho Powered USDC Loans to UK",
-      "link": "https://blockonomi.com/coinbase-expands-morpho-powered-usdc-loans-to-uk/",
-      "published_at": "2026-04-20T20:20:04+00:00",
+      "title": "Grayscale Replaces Coinbase with Anchorage for HYPE ETF Custody Services",
+      "link": "https://blockonomi.com/grayscale-replaces-coinbase-with-anchorage-for-hype-etf-custody-services/",
+      "published_at": "2026-04-20T21:33:38+00:00",
       "source": "blockonomi.com",
-      "score": 5,
-      "ntitle": "coinbase expands morpho powered usdc loans uk",
-      "coins": [],
-      "sentiment": "bullish",
+      "score": 7,
+      "ntitle": "grayscale replaces coinbase anchorage hype etf custody services",
+      "coins": [
+        "HYPE"
+      ],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
       "title": "Amazon to invest up to another $25 billion in Anthropic as part of AI infrastructure deal",
       "link": "https://www.cnbc.com/2026/04/20/amazon-invest-up-to-25-billion-in-anthropic-part-of-ai-infrastructure.html",
-      "published_at": "2026-04-20T20:54:02+00:00",
+      "published_at": "2026-04-20T21:44:47+00:00",
       "source": "cnbc.com",
       "score": 2,
       "ntitle": "amazon invest up another 25 billion anthropic part ai infrastructure deal",
       "coins": [],
       "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "North Korea’s crypto heist playbook is expanding and DeFi keeps getting hit",
+      "link": "https://www.coindesk.com/tech/2026/04/20/north-korea-s-crypto-heist-playbook-is-expanding-and-defi-keeps-getting-hit",
+      "published_at": "2026-04-20T21:17:17+00:00",
+      "source": "coindesk.com",
+      "score": 3,
+      "ntitle": "north korea s crypto heist playbook expanding defi keeps getting hit",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Bybit leads funding for Malaysia’s Hata dual-licensed crypto platform",
+      "link": "https://cointelegraph.com/news/bybit-leads-8m-round-in-malaysian-crypto-exchange-hata?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-04-20T21:05:36+00:00",
+      "source": "cointelegraph.com",
+      "score": 5,
+      "ntitle": "bybit leads funding malaysia s hata dual licensed crypto platform",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "FBI Director Kash Patel Files $250 Million Defamation Suit Against The Atlantic Over Drinking Report",
+      "link": "https://crypto.news/kash-patel-news-fbi-chief-sues-the-atlantic-250m/",
+      "published_at": "2026-04-20T21:45:00+00:00",
+      "source": "crypto.news",
+      "score": 2,
+      "ntitle": "fbi director kash patel files 250 million defamation suit against atlantic over drinking report",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Kuwait declares force majeure on oil shipments amid US-Iran tensions",
+      "link": "https://cryptobriefing.com/kuwait-declares-force-majeure-on-oil-shipments-amid-us-iran-tensions/",
+      "published_at": "2026-04-20T21:57:17+00:00",
+      "source": "cryptobriefing.com",
+      "score": 1,
+      "ntitle": "kuwait declares force majeure oil shipments amid us iran tensions",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Polymarket Eyes $400M Raise at $15B Valuation Amid Surging Prediction Market Demand: Report",
+      "link": "https://cryptopotato.com/polymarket-eyes-400m-raise-at-15b-valuation-amid-surging-prediction-market-demand-report/",
+      "published_at": "2026-04-20T21:26:33+00:00",
+      "source": "cryptopotato.com",
+      "score": 2,
+      "ntitle": "polymarket eyes 400m raise 15b valuation amid surging prediction market demand report",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Playdate Gaming Handheld Maker Bans Generative AI Tools for Development",
+      "link": "https://decrypt.co/364960/playdate-gaming-handheld-maker-bans-generative-ai-tools",
+      "published_at": "2026-04-20T21:41:59+00:00",
+      "source": "decrypt.co",
+      "score": 1,
+      "ntitle": "playdate gaming handheld maker bans generative ai tools development",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Bitcoin ticks higher despite renewed U.S.-Iran tensions",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-dips-below-75k-traders-watch-iran-tensions-ceasefire-talks-4622436",
+      "published_at": "2026-04-20T21:55:06+00:00",
+      "source": "investing.com",
+      "score": 1,
+      "ntitle": "bitcoin ticks higher despite renewed u s iran tensions",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Chainalysis Flags Critical Blind Spot in DeFi Security as $292M Exploit Bypasses Burn Verification",
+      "link": "https://news.bitcoin.com/chainalysis-flags-critical-blind-spot-in-defi-security-as-292m-exploit-bypasses-burn-verification/",
+      "published_at": "2026-04-20T21:30:23+00:00",
+      "source": "news.bitcoin.com",
+      "score": 4,
+      "ntitle": "chainalysis flags critical blind spot defi security 292m exploit bypasses burn verification",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Ripple Charts 2028 Path to Quantum-Resistant XRPL Security",
+      "link": "https://blockonomi.com/ripple-charts-2028-path-to-quantum-resistant-xrpl-security/",
+      "published_at": "2026-04-20T21:33:07+00:00",
+      "source": "blockonomi.com",
+      "score": 9,
+      "ntitle": "ripple charts 2028 path quantum resistant xrpl security",
+      "coins": [
+        "XRP"
+      ],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -52,130 +178,38 @@
       "agency": null
     },
     {
-      "title": "Tokenization firm KAIO raises $8m from Tether to scale on-chain funds",
-      "link": "https://crypto.news/tokenization-firm-kaio-raises-8m-from-tether-to-scale-on-chain-funds/",
-      "published_at": "2026-04-20T21:00:00+00:00",
+      "title": "Michigan Attorney General Rejects DOJ Request for Detroit Ballots in Broader Federal Election Push",
+      "link": "https://crypto.news/us-election-news-michigan-ag-stops-ballot-demand/",
+      "published_at": "2026-04-20T21:20:00+00:00",
       "source": "crypto.news",
-      "score": 7,
-      "ntitle": "tokenization firm kaio raises 8m tether scale chain funds",
+      "score": 2,
+      "ntitle": "michigan attorney general rejects doj request detroit ballots broader federal election push",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Israeli strikes continue in Lebanon’s Bekaa Valley amid ceasefire uncertainty",
-      "link": "https://cryptobriefing.com/israeli-strikes-continue-in-lebanons-bekaa-valley-amid-ceasefire-uncertainty/",
-      "published_at": "2026-04-20T21:05:55+00:00",
+      "title": "US-Iran nuclear talks stalled as April 22 peace deal deadline nears",
+      "link": "https://cryptobriefing.com/us-iran-nuclear-talks-stalled-as-april-22-peace-deal-deadline-nears/",
+      "published_at": "2026-04-20T21:55:28+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "israeli strikes continue lebanon s bekaa valley amid ceasefire uncertainty",
+      "ntitle": "us iran nuclear talks stalled april 22 peace deal deadline nears",
       "coins": [],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "UK Gas Firm Faces Pushback Over Plans to Mine Bitcoin",
-      "link": "https://decrypt.co/364944/uk-gas-firm-faces-pushback-plans-mine-bitcoin",
-      "published_at": "2026-04-20T20:16:57+00:00",
+      "title": "Lose Your Job to AI? New York Lawmaker Proposes 'AI Dividend' Stimmy",
+      "link": "https://decrypt.co/364947/lose-job-ai-new-york-lawmaker-proposes-ai-dividend-stimmy",
+      "published_at": "2026-04-20T21:30:31+00:00",
       "source": "decrypt.co",
       "score": 1,
-      "ntitle": "uk gas firm faces pushback over plans mine bitcoin",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "$14B Vanishes From DeFi Ecosystem After KelpDAO Exploit Rocks Lending Markets",
-      "link": "https://news.bitcoin.com/14b-vanishes-from-defi-ecosystem-after-kelpdao-exploit-rocks-lending-markets/",
-      "published_at": "2026-04-20T20:30:28+00:00",
-      "source": "news.bitcoin.com",
-      "score": 3,
-      "ntitle": "14b vanishes defi ecosystem after kelpdao exploit rocks lending markets",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Bitcoin Rebounds Strongly — Can Bulls Drive Price Toward $79,000",
-      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-rebounds-strongly/",
-      "published_at": "2026-04-20T20:30:55+00:00",
-      "source": "newsbtc.com",
-      "score": 1,
-      "ntitle": "bitcoin rebounds strongly can bulls drive price toward 79 000",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Breaking: Crypto Holder Tim Cook Resigns as Apple CEO",
-      "link": "https://u.today/breaking-crypto-holder-tim-cook-resigns-as-apple-ceo",
-      "published_at": "2026-04-20T20:33:55+00:00",
-      "source": "u.today",
-      "score": 1,
-      "ntitle": "breaking crypto holder tim cook resigns apple ceo",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Bitcoin’s Next Big Move? Expert Says The Setup Heading Into May Is The Strongest All Year",
-      "link": "https://bitcoinist.com/bitcoin-expert-may-setup-the-strongest-all-year/",
-      "published_at": "2026-04-20T20:55:41+00:00",
-      "source": "bitcoinist.com",
-      "score": 2,
-      "ntitle": "bitcoin s next big move expert says setup heading into may strongest all year",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Bitcoin bounces above $76,000 as DeFi suffers $14 billion exodus after KelpDAO hack",
-      "link": "https://www.coindesk.com/markets/2026/04/20/bitcoin-bounces-above-usd76-000-as-defi-suffers-usd14-billion-exodus-after-kelpdao-hack",
-      "published_at": "2026-04-20T20:53:22+00:00",
-      "source": "coindesk.com",
-      "score": 4,
-      "ntitle": "bitcoin bounces above 76 000 defi suffers 14 billion exodus after kelpdao hack",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Trump Weighs Unfreezing $20 Billion in Iranian Assets After Years of Attacking Obama for the Same Move",
-      "link": "https://crypto.news/trump-iran-deal-20b-asset-unfreeze-considered/",
-      "published_at": "2026-04-20T20:45:00+00:00",
-      "source": "crypto.news",
-      "score": 2,
-      "ntitle": "trump weighs unfreezing 20 billion iranian assets after years attacking obama same move",
+      "ntitle": "lose your job ai new york lawmaker proposes ai dividend stimmy",
       "coins": [],
       "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Iran re-closes Strait of Hormuz as US-Iran tensions rise",
-      "link": "https://cryptobriefing.com/iran-re-closes-strait-of-hormuz-as-us-iran-tensions-rise/",
-      "published_at": "2026-04-20T21:05:05+00:00",
-      "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "iran re closes strait hormuz us iran tensions rise",
-      "coins": [],
-      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     }
@@ -221,16 +255,16 @@
       "agency": null
     },
     {
-      "title": "Cardano Leadership Structure Comes Under Scrutiny, Clouding Its Future – See Why",
-      "link": "https://bitcoinist.com/cardano-leadership-structure/",
-      "published_at": "2026-04-20T19:30:07+00:00",
+      "title": "Bitcoin’s Next Big Move? Expert Says The Setup Heading Into May Is The Strongest All Year",
+      "link": "https://bitcoinist.com/bitcoin-expert-may-setup-the-strongest-all-year/",
+      "published_at": "2026-04-20T20:55:41+00:00",
       "source": "bitcoinist.com",
       "score": 2,
-      "ntitle": "cardano leadership structure comes under scrutiny clouding future see why",
+      "ntitle": "bitcoin s next big move expert says setup heading into may strongest all year",
       "coins": [
-        "ADA"
+        "BTC"
       ],
-      "sentiment": "bearish",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -263,16 +297,13 @@
       "agency": null
     },
     {
-      "title": "Spot Bitcoin ETFs Add $996M as Flows Near Record High",
-      "link": "https://blockonomi.com/spot-bitcoin-etfs-add-996m-as-flows-near-record-high/",
-      "published_at": "2026-04-20T20:03:07+00:00",
+      "title": "Coinbase Expands Morpho Powered USDC Loans to UK",
+      "link": "https://blockonomi.com/coinbase-expands-morpho-powered-usdc-loans-to-uk/",
+      "published_at": "2026-04-20T20:20:04+00:00",
       "source": "blockonomi.com",
-      "score": 3,
-      "ntitle": "spot bitcoin etfs add 996m flows near record high",
-      "coins": [
-        "BTC",
-        "NEAR"
-      ],
+      "score": 5,
+      "ntitle": "coinbase expands morpho powered usdc loans uk",
+      "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
@@ -316,16 +347,16 @@
       "agency": null
     },
     {
-      "title": "Five times President Trump made a statement that moved bitcoin, and why it might happen again this week",
-      "link": "https://www.coindesk.com/markets/2026/04/20/five-times-president-trump-made-a-statement-that-moved-bitcoin-and-why-it-might-happen-again-this-week",
-      "published_at": "2026-04-20T16:10:28+00:00",
+      "title": "Bitcoin bounces above $76,000 as DeFi suffers $14 billion exodus after KelpDAO hack",
+      "link": "https://www.coindesk.com/markets/2026/04/20/bitcoin-bounces-above-usd76-000-as-defi-suffers-usd14-billion-exodus-after-kelpdao-hack",
+      "published_at": "2026-04-20T20:53:22+00:00",
       "source": "coindesk.com",
-      "score": 2,
-      "ntitle": "five times president trump made statement that moved bitcoin why it might happen again this week",
+      "score": 4,
+      "ntitle": "bitcoin bounces above 76 000 defi suffers 14 billion exodus after kelpdao hack",
       "coins": [
         "BTC"
       ],
-      "sentiment": "bullish",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -354,28 +385,28 @@
       "agency": null
     },
     {
-      "title": "Sentient team-linked wallet shifts $11.5m SENT into fresh address",
-      "link": "https://crypto.news/sentient-team-linked-wallet-shifts-11-5m-sent-into-fresh-address/",
-      "published_at": "2026-04-20T20:00:00+00:00",
+      "title": "Trump Weighs Unfreezing $20 Billion in Iranian Assets After Years of Attacking Obama for the Same Move",
+      "link": "https://crypto.news/trump-iran-deal-20b-asset-unfreeze-considered/",
+      "published_at": "2026-04-20T20:45:00+00:00",
       "source": "crypto.news",
-      "score": 5,
-      "ntitle": "sentient team linked wallet shifts 11 5m sent into fresh address",
+      "score": 2,
+      "ntitle": "trump weighs unfreezing 20 billion iranian assets after years attacking obama same move",
       "coins": [],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Trump defiant on Iran oil sanctions, market skepticism grows",
-      "link": "https://cryptobriefing.com/trump-defiant-on-iran-oil-sanctions-market-skepticism-grows/",
-      "published_at": "2026-04-20T20:01:20+00:00",
+      "title": "Israel claims Qana gas field, sets buffer zone amid Lebanon tensions",
+      "link": "https://cryptobriefing.com/israel-claims-qana-gas-field-sets-buffer-zone-amid-lebanon-tensions/",
+      "published_at": "2026-04-20T20:58:26+00:00",
       "source": "cryptobriefing.com",
-      "score": 3,
-      "ntitle": "trump defiant iran oil sanctions market skepticism grows",
+      "score": 1,
+      "ntitle": "israel claims qana gas field sets buffer zone amid lebanon tensions",
       "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Regulatory"
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Top Dogecoin (DOGE) Price Predictions as of Late",
@@ -416,14 +447,16 @@
       "agency": null
     },
     {
-      "title": "Palantir Faces Backlash Over AI-Driven Military Doctrine",
-      "link": "https://decrypt.co/364935/palantir-backlash-ai-driven-military-doctrine",
-      "published_at": "2026-04-20T18:43:10+00:00",
+      "title": "UK Gas Firm Faces Pushback Over Plans to Mine Bitcoin",
+      "link": "https://decrypt.co/364944/uk-gas-firm-faces-pushback-plans-mine-bitcoin",
+      "published_at": "2026-04-20T20:16:57+00:00",
       "source": "decrypt.co",
       "score": 1,
-      "ntitle": "palantir faces backlash over ai driven military doctrine",
-      "coins": [],
-      "sentiment": "bearish",
+      "ntitle": "uk gas firm faces pushback over plans mine bitcoin",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -454,26 +487,26 @@
       "agency": null
     },
     {
-      "title": "KAIO Secures $8M From Tether and Systemic Ventures to Build Onchain Asset Distribution in UAE",
-      "link": "https://news.bitcoin.com/kaio-secures-8m-from-tether-and-systemic-ventures-to-build-onchain-asset-distribution-in-uae/",
-      "published_at": "2026-04-20T19:30:24+00:00",
+      "title": "$14B Vanishes From DeFi Ecosystem After KelpDAO Exploit Rocks Lending Markets",
+      "link": "https://news.bitcoin.com/14b-vanishes-from-defi-ecosystem-after-kelpdao-exploit-rocks-lending-markets/",
+      "published_at": "2026-04-20T20:30:28+00:00",
       "source": "news.bitcoin.com",
-      "score": 10,
-      "ntitle": "kaio secures 8m tether systemic ventures build onchain asset distribution uae",
+      "score": 3,
+      "ntitle": "14b vanishes defi ecosystem after kelpdao exploit rocks lending markets",
       "coins": [],
-      "sentiment": "bullish",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "A Stark XRP Price Call: Why One Analyst Says It Could Be Under $1 By 2031",
-      "link": "https://www.newsbtc.com/breaking-news-ticker/a-stark-xrp-price-call-why-one-analyst-says-it-could-be-under-1-by-2031/",
-      "published_at": "2026-04-20T19:55:38+00:00",
+      "title": "Bitcoin Rebounds Strongly — Can Bulls Drive Price Toward $79,000",
+      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-rebounds-strongly/",
+      "published_at": "2026-04-20T20:30:55+00:00",
       "source": "newsbtc.com",
-      "score": 20,
-      "ntitle": "stark xrp price call why one analyst says it could be under 1 2031",
+      "score": 1,
+      "ntitle": "bitcoin rebounds strongly can bulls drive price toward 79 000",
       "coins": [
-        "XRP"
+        "BTC"
       ],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -504,28 +537,28 @@
       "agency": "SEC"
     },
     {
-      "title": "Dune Analytics Reveals 47% of LayerZero OApps Use Minimal DVN Security Following KelpDAO Hack",
-      "link": "https://thedefiant.io/news/security/dune-layerzero-oapp-dvn-security-analysis-1bklaq",
-      "published_at": "2026-04-20T16:46:22+00:00",
+      "title": "Aave Models $124M to $230M in Bad Debt From Kelp Exploit",
+      "link": "https://thedefiant.io/news/hacks/aave-models-usd124m-to-usd230m-in-bad-debt-from-kelp-exploit-layerzero-and-kelp-continue-to",
+      "published_at": "2026-04-20T20:03:54+00:00",
       "source": "thedefiant.io",
-      "score": 2,
-      "ntitle": "dune analytics reveals 47 layerzero oapps use minimal dvn security following kelpdao hack",
-      "coins": [],
+      "score": 1,
+      "ntitle": "aave models 124m 230m bad debt kelp exploit",
+      "coins": [
+        "AAVE"
+      ],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Early Uber Investor Questions Current Bitcoin Price",
-      "link": "https://u.today/early-uber-investor-questions-current-bitcoin-price",
-      "published_at": "2026-04-20T20:02:47+00:00",
+      "title": "Breaking: Crypto Holder Tim Cook Resigns as Apple CEO",
+      "link": "https://u.today/breaking-crypto-holder-tim-cook-resigns-as-apple-ceo",
+      "published_at": "2026-04-20T20:33:55+00:00",
       "source": "u.today",
       "score": 1,
-      "ntitle": "early uber investor questions current bitcoin price",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "neutral",
+      "ntitle": "breaking crypto holder tim cook resigns apple ceo",
+      "coins": [],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -672,31 +705,30 @@
       "agency": null
     },
     {
-      "title": "2024 BTC cycle 'dramatically' underperforming previous halvings: Analyst",
-      "link": "https://cointelegraph.com/news/bitcoin-cycle-dramatically-underperform-halving?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-04-19T18:48:06+00:00",
+      "title": "Stablecoins not a threat to banks in near term: Moody's analyst",
+      "link": "https://cointelegraph.com/news/stablecoins-not-a-threat-to-banking-sector-in-the-near-term-moody-s?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-04-19T21:37:01+00:00",
       "source": "cointelegraph.com",
-      "score": 1,
-      "ntitle": "2024 btc cycle dramatically underperforming previous halvings analyst",
+      "score": 3,
+      "ntitle": "stablecoins not threat banks near term moody s analyst",
       "coins": [
-        "BTC"
+        "NEAR"
       ],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Solana Dominates Q1, But Cracks Appear as Ethereum Gains Ground",
-      "link": "https://cryptopotato.com/solana-dominates-q1-but-cracks-appear-as-ethereum-gains-ground/",
-      "published_at": "2026-04-19T19:40:59+00:00",
+      "title": "How Musician Lost 5.92 BTC on Fake Ledger App",
+      "link": "https://cryptopotato.com/how-musician-lost-5-92-btc-on-fake-ledger-app/",
+      "published_at": "2026-04-19T21:39:47+00:00",
       "source": "cryptopotato.com",
       "score": 1,
-      "ntitle": "solana dominates q1 but cracks appear ethereum gains ground",
+      "ntitle": "how musician lost 5 92 btc fake ledger app",
       "coins": [
-        "ETH",
-        "SOL"
+        "BTC"
       ],
-      "sentiment": "bullish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -931,28 +963,31 @@
       "agency": null
     },
     {
-      "title": "Kelp exploit highlights problem with non-isolated DeFi lending: Crypto execs",
-      "link": "https://cointelegraph.com/news/kelp-exploit-non-isolated-defi-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-04-19T16:37:32+00:00",
+      "title": "2024 BTC cycle 'dramatically' underperforming previous halvings: Analyst",
+      "link": "https://cointelegraph.com/news/bitcoin-cycle-dramatically-underperform-halving?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-04-19T18:48:06+00:00",
       "source": "cointelegraph.com",
-      "score": 3,
-      "ntitle": "kelp exploit highlights problem non isolated defi lending crypto execs",
-      "coins": [],
-      "sentiment": "bearish",
+      "score": 1,
+      "ntitle": "2024 btc cycle dramatically underperforming previous halvings analyst",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "‘Facing Deception’: Bitcoin Dumps Below $75K as US-Iran Tensions Threaten to Escalate",
-      "link": "https://cryptopotato.com/facing-deception-bitcoin-dumps-below-75k-as-us-iran-tensions-threaten-to-escalate/",
-      "published_at": "2026-04-19T18:53:49+00:00",
+      "title": "Solana Dominates Q1, But Cracks Appear as Ethereum Gains Ground",
+      "link": "https://cryptopotato.com/solana-dominates-q1-but-cracks-appear-as-ethereum-gains-ground/",
+      "published_at": "2026-04-19T19:40:59+00:00",
       "source": "cryptopotato.com",
-      "score": 2,
-      "ntitle": "facing deception bitcoin dumps below 75k us iran tensions threaten escalate",
+      "score": 1,
+      "ntitle": "solana dominates q1 but cracks appear ethereum gains ground",
       "coins": [
-        "BTC"
+        "ETH",
+        "SOL"
       ],
-      "sentiment": "bearish",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     }
@@ -1215,7 +1250,7 @@
   ],
   "clusters": [
     {
-      "id": 7,
+      "id": 38,
       "title": "$14B Vanishes From DeFi Ecosystem After KelpDAO Exploit Rocks Lending Markets",
       "link": "https://news.bitcoin.com/14b-vanishes-from-defi-ecosystem-after-kelpdao-exploit-rocks-lending-markets/",
       "source": "news.bitcoin.com",
@@ -1258,9 +1293,9 @@
     },
     {
       "tag": "#Ai",
-      "count": 55,
+      "count": 53,
       "type": "topic",
-      "pct": 90
+      "pct": 87
     },
     {
       "tag": "#Defi",
@@ -1282,9 +1317,9 @@
     },
     {
       "tag": "#Etf",
-      "count": 22,
+      "count": 23,
       "type": "topic",
-      "pct": 36
+      "pct": 38
     },
     {
       "tag": "#ETH",
@@ -1293,5 +1328,5 @@
       "pct": 25
     }
   ],
-  "generated_at": "2026-04-20T21:07:40.523870+00:00"
+  "generated_at": "2026-04-20T21:59:35.056433+00:00"
 }
