@@ -2,55 +2,89 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "Altcoin season index rises to 41 – Analyst predicts a 60% upside",
-      "link": "https://ambcrypto.com/altcoin-season-index-rises-to-41-analyst-predicts-a-60-upside/",
-      "published_at": "2026-04-25T20:00:05+00:00",
+      "title": "‘We’ll target all financial lifelines’ – U.S Treasury confirms freezing Iran’s $344M crypto assets",
+      "link": "https://ambcrypto.com/well-target-all-financial-lifelines-u-s-treasury-confirms-freezing-irans-344-million-crypto-assets/",
+      "published_at": "2026-04-25T21:00:58+00:00",
       "source": "ambcrypto.com",
-      "score": 1,
-      "ntitle": "altcoin season index rises 41 analyst predicts 60 upside",
+      "score": 4,
+      "ntitle": "we ll target all financial lifelines u s treasury confirms freezing iran s 344m crypto assets",
       "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "XRP Ledger Beats Ethereum in 30-Day Capital Flows With $1.1B in Net Inflows",
-      "link": "https://blockonomi.com/xrp-ledger-beats-ethereum-in-30-day-capital-flows-with-1-1b-in-net-inflows/",
-      "published_at": "2026-04-25T20:03:30+00:00",
-      "source": "blockonomi.com",
-      "score": 10,
-      "ntitle": "xrp ledger beats ethereum 30 day capital flows 1 1b net inflows",
-      "coins": [
-        "ETH",
-        "XRP"
-      ],
       "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
+      "is_regulation": true,
+      "agency": "Treasury"
     },
     {
-      "title": "Iran seeks diplomacy with US via third-party talks in Pakistan, Oman",
-      "link": "https://cryptobriefing.com/iran-seeks-diplomacy-with-us-via-third-party-talks-in-pakistan-oman/",
-      "published_at": "2026-04-25T20:36:53+00:00",
-      "source": "cryptobriefing.com",
+      "title": "ONDO Liquidation Heatmap Signals $19M Risk as Key Price Levels Come Into Focus",
+      "link": "https://blockonomi.com/ondo-liquidation-heatmap-signals-19m-risk-as-key-price-levels-come-into-focus/",
+      "published_at": "2026-04-25T21:08:18+00:00",
+      "source": "blockonomi.com",
       "score": 1,
-      "ntitle": "iran seeks diplomacy us via third party talks pakistan oman",
+      "ntitle": "ondo liquidation heatmap signals 19m risk key price levels come into focus",
       "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Pavel Durov Unveils Massive TON Fee Cut With Near-Zero Costs Incoming",
-      "link": "https://cryptopotato.com/pavel-durov-unveils-massive-ton-fee-cut-with-near-zero-costs-incoming/",
-      "published_at": "2026-04-25T19:44:10+00:00",
-      "source": "cryptopotato.com",
-      "score": 1,
-      "ntitle": "pavel durov unveils massive ton fee cut near zero costs incoming",
+      "title": "Lazarus Group linked to $292M DeFi hack, $13B TVL outflows ensue",
+      "link": "https://cryptobriefing.com/lazarus-group-linked-to-292m-defi-hack-13b-tvl-outflows-ensue/",
+      "published_at": "2026-04-25T21:05:39+00:00",
+      "source": "cryptobriefing.com",
+      "score": 5,
+      "ntitle": "lazarus group linked 292m defi hack 13b tvl outflows ensue",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Litecoin Confirms Zero-Day Bug Caused 13-Block Reorg, Network Patched and Stable",
+      "link": "https://news.bitcoin.com/litecoin-confirms-zero-day-bug-caused-13-block-reorg-network-patched-and-stable/",
+      "published_at": "2026-04-25T20:54:45+00:00",
+      "source": "news.bitcoin.com",
+      "score": 2,
+      "ntitle": "litecoin confirms zero day bug caused 13 block reorg network patched stable",
       "coins": [
-        "NEAR",
-        "TON"
+        "LTC"
       ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Dogecoin Shows Classic Ichimoku Strength – What This Means For Price",
+      "link": "https://www.newsbtc.com/news/dogecoin/dogecoin-classic-ichimoku-strength/",
+      "published_at": "2026-04-25T21:00:35+00:00",
+      "source": "newsbtc.com",
+      "score": 5,
+      "ntitle": "dogecoin shows classic ichimoku strength what this means price",
+      "coins": [
+        "DOGE"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "22-Year-Old California Money Launderer Sentenced to 70 Months Over $263M Cryptocurrency Heist",
+      "link": "https://blockonomi.com/22-year-old-california-money-launderer-sentenced-to-70-months-over-263m-cryptocurrency-heist/",
+      "published_at": "2026-04-25T20:57:54+00:00",
+      "source": "blockonomi.com",
+      "score": 2,
+      "ntitle": "22 year old california money launderer sentenced 70 months over 263m cryptocurrency heist",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Israeli airstrikes hit Hezbollah positions in Lebanon amid ceasefire doubts",
+      "link": "https://cryptobriefing.com/israeli-airstrikes-hit-hezbollah-positions-in-lebanon-amid-ceasefire-doubts/",
+      "published_at": "2026-04-25T20:57:49+00:00",
+      "source": "cryptobriefing.com",
+      "score": 1,
+      "ntitle": "israeli airstrikes hit hezbollah positions lebanon amid ceasefire doubts",
+      "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
@@ -68,42 +102,16 @@
       "sentiment": "bullish",
       "is_regulation": true,
       "agency": "Treasury"
-    },
-    {
-      "title": "The Crash Is Over? XRP Price About To Hit ‘Significant Bottom’",
-      "link": "https://www.newsbtc.com/analysis/xrp/the-xrp-crash-is-over/",
-      "published_at": "2026-04-25T20:00:23+00:00",
-      "source": "newsbtc.com",
-      "score": 12,
-      "ntitle": "crash over xrp price about hit significant bottom",
-      "coins": [
-        "XRP"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Empty oil tankers divert to US amid Middle East supply disruptions",
-      "link": "https://cryptobriefing.com/empty-oil-tankers-divert-to-us-amid-middle-east-supply-disruptions/",
-      "published_at": "2026-04-25T20:35:50+00:00",
-      "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "empty oil tankers divert us amid middle east supply disruptions",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
     }
   ],
   "day": [
     {
-      "title": "STABLE’s 52% price uptick is fading fast – THIS signal returns to range lows",
-      "link": "https://ambcrypto.com/stables-52-price-uptick-is-fading-fast-this-signal-returns-to-range-lows/",
-      "published_at": "2026-04-25T19:30:55+00:00",
+      "title": "Altcoin season index rises to 41 – Analyst predicts a 60% upside",
+      "link": "https://ambcrypto.com/altcoin-season-index-rises-to-41-analyst-predicts-a-60-upside/",
+      "published_at": "2026-04-25T20:00:05+00:00",
       "source": "ambcrypto.com",
       "score": 1,
-      "ntitle": "stable s 52 price uptick fading fast this signal returns range lows",
+      "ntitle": "altcoin season index rises 41 analyst predicts 60 upside",
       "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -148,28 +156,31 @@
       "agency": null
     },
     {
-      "title": "Telegram Founder Links Tax Data Leaks to Crypto Kidnappings in France",
-      "link": "https://Blockchain.News/news/telegram-founder-tax-leaks-crypto-kidnappings-france",
-      "published_at": "2026-04-25T06:57:45+00:00",
+      "title": "BNB Price Prediction: $680 Breakout Imminent as Whales Drive 69% Long Positioning",
+      "link": "https://Blockchain.News/news/20260425-price-prediction-bnb-680-breakout-imminent-as-whales-drive",
+      "published_at": "2026-04-25T09:08:35+00:00",
       "source": "blockchain.news",
-      "score": 3,
-      "ntitle": "telegram founder links tax data leaks crypto kidnappings france",
-      "coins": [],
+      "score": 2,
+      "ntitle": "bnb price prediction 680 breakout imminent whales drive 69 long positioning",
+      "coins": [
+        "BNB"
+      ],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Bitcoin Bottom Signal? NRPL and NUPL Data Point to a Slow Recovery Phase",
-      "link": "https://blockonomi.com/bitcoin-bottom-signal-nrpl-and-nupl-data-point-to-a-slow-recovery-phase/",
-      "published_at": "2026-04-25T19:07:44+00:00",
+      "title": "XRP Ledger Beats Ethereum in 30-Day Capital Flows With $1.1B in Net Inflows",
+      "link": "https://blockonomi.com/xrp-ledger-beats-ethereum-in-30-day-capital-flows-with-1-1b-in-net-inflows/",
+      "published_at": "2026-04-25T20:03:30+00:00",
       "source": "blockonomi.com",
-      "score": 1,
-      "ntitle": "bitcoin bottom signal nrpl nupl data point slow recovery phase",
+      "score": 10,
+      "ntitle": "xrp ledger beats ethereum 30 day capital flows 1 1b net inflows",
       "coins": [
-        "BTC"
+        "ETH",
+        "XRP"
       ],
-      "sentiment": "bullish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -250,30 +261,29 @@
       "agency": null
     },
     {
-      "title": "Bitcoin rally stalls amid Japanese inflation and Iran tensions",
-      "link": "https://cryptobriefing.com/bitcoin-rally-stalls-amid-japanese-inflation-and-iran-tensions/",
-      "published_at": "2026-04-25T19:30:50+00:00",
+      "title": "Trump plans to fire FBI Director Kash Patel amid negative media coverage",
+      "link": "https://cryptobriefing.com/trump-plans-to-fire-fbi-director-kash-patel-amid-negative-media-coverage/",
+      "published_at": "2026-04-25T20:07:33+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "bitcoin rally stalls amid japanese inflation iran tensions",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bullish",
+      "ntitle": "trump plans fire fbi director kash patel amid negative media coverage",
+      "coins": [],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Is Bitcoin in Further Trouble as Trump Halts Iran Talks and Tensions Rise?",
-      "link": "https://cryptopotato.com/is-bitcoin-in-further-trouble-as-trump-halts-iran-talks-and-tensions-rise/",
-      "published_at": "2026-04-25T18:05:11+00:00",
+      "title": "Pavel Durov Unveils Massive TON Fee Cut With Near-Zero Costs Incoming",
+      "link": "https://cryptopotato.com/pavel-durov-unveils-massive-ton-fee-cut-with-near-zero-costs-incoming/",
+      "published_at": "2026-04-25T19:44:10+00:00",
       "source": "cryptopotato.com",
       "score": 1,
-      "ntitle": "bitcoin further trouble trump halts iran talks tensions rise",
+      "ntitle": "pavel durov unveils massive ton fee cut near zero costs incoming",
       "coins": [
-        "BTC"
+        "NEAR",
+        "TON"
       ],
-      "sentiment": "bullish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -345,12 +355,12 @@
       "agency": null
     },
     {
-      "title": "XRP Whale Outflow Dominance Climbs To 2024 Levels —Price To Follow?",
-      "link": "https://www.newsbtc.com/xrp-news/xrp-whale-outflow-dominance-climbs-to-2024/",
-      "published_at": "2026-04-25T18:30:48+00:00",
+      "title": "The Crash Is Over? XRP Price About To Hit ‘Significant Bottom’",
+      "link": "https://www.newsbtc.com/analysis/xrp/the-xrp-crash-is-over/",
+      "published_at": "2026-04-25T20:00:23+00:00",
       "source": "newsbtc.com",
-      "score": 3,
-      "ntitle": "xrp whale outflow dominance climbs 2024 levels price follow",
+      "score": 12,
+      "ntitle": "crash over xrp price about hit significant bottom",
       "coins": [
         "XRP"
       ],
@@ -373,16 +383,14 @@
       "agency": null
     },
     {
-      "title": "Chainlink sees sustained whale demand: Will LINK tap the $9.6 liquidity?",
-      "link": "https://ambcrypto.com/chainlink-sees-sustained-whale-demand-will-link-tap-the-9-6-liquidity/",
-      "published_at": "2026-04-25T19:30:18+00:00",
+      "title": "STABLE’s 52% price uptick is fading fast – THIS signal returns to range lows",
+      "link": "https://ambcrypto.com/stables-52-price-uptick-is-fading-fast-this-signal-returns-to-range-lows/",
+      "published_at": "2026-04-25T19:30:55+00:00",
       "source": "ambcrypto.com",
-      "score": 8,
-      "ntitle": "chainlink sees sustained whale demand will link tap 9 6 liquidity",
-      "coins": [
-        "LINK"
-      ],
-      "sentiment": "neutral",
+      "score": 1,
+      "ntitle": "stable s 52 price uptick fading fast this signal returns range lows",
+      "coins": [],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -413,28 +421,28 @@
       "agency": null
     },
     {
-      "title": "Tokens.xyz Streamlines Solana (SOL) Asset Data with Unified Pages",
-      "link": "https://Blockchain.News/news/tokens-xyz-solana-asset-discovery",
-      "published_at": "2026-04-25T03:31:55+00:00",
+      "title": "ETH Price Prediction: $2,400 Target Within 10 Days as Bulls Regain Control",
+      "link": "https://Blockchain.News/news/20260425-price-prediction-target-eth-2400-within-10-days-as-bulls",
+      "published_at": "2026-04-25T09:04:48+00:00",
       "source": "blockchain.news",
-      "score": 1,
-      "ntitle": "tokens xyz streamlines solana sol asset data unified pages",
+      "score": 3,
+      "ntitle": "eth price prediction 2 400 target within 10 days bulls regain control",
       "coins": [
-        "SOL"
+        "ETH"
       ],
-      "sentiment": "neutral",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Hyperliquid $HYPE Rally Builds Momentum as AI Sector Enters Prove-It Phase",
-      "link": "https://blockonomi.com/hyperliquid-hype-rally-builds-momentum-as-ai-sector-enters-prove-it-phase/",
-      "published_at": "2026-04-25T18:59:56+00:00",
+      "title": "Bitcoin Bottom Signal? NRPL and NUPL Data Point to a Slow Recovery Phase",
+      "link": "https://blockonomi.com/bitcoin-bottom-signal-nrpl-and-nupl-data-point-to-a-slow-recovery-phase/",
+      "published_at": "2026-04-25T19:07:44+00:00",
       "source": "blockonomi.com",
       "score": 1,
-      "ntitle": "hyperliquid hype rally builds momentum ai sector enters prove it phase",
+      "ntitle": "bitcoin bottom signal nrpl nupl data point slow recovery phase",
       "coins": [
-        "HYPE"
+        "BTC"
       ],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -543,16 +551,14 @@
       "agency": null
     },
     {
-      "title": "Quantum Computer Cracks 15-Bit ECC Key, Highlighting Bitcoin Risk",
-      "link": "https://Blockchain.News/news/quantum-computer-cracks-15bit-ecc-key-bitcoin-risk",
-      "published_at": "2026-04-24T18:52:38+00:00",
+      "title": "Aurelion Commits $48M to XAUE Yield-Bearing Gold Protocol",
+      "link": "https://Blockchain.News/news/aurelion-48m-xaue-yield-gold",
+      "published_at": "2026-04-24T20:53:54+00:00",
       "source": "blockchain.news",
-      "score": 1,
-      "ntitle": "quantum computer cracks 15 bit ecc key highlighting bitcoin risk",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
+      "score": 7,
+      "ntitle": "aurelion commits 48m xaue yield bearing gold protocol",
+      "coins": [],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -607,13 +613,15 @@
       "agency": null
     },
     {
-      "title": "Tether's $344 million USDT freeze linked to U.S. 'Economic Fury' against Iran regime",
-      "link": "https://www.coindesk.com/policy/2026/04/24/tether-s-usd344-million-usdt-freeze-linked-to-u-s-economic-fury-against-iran-regime",
-      "published_at": "2026-04-24T19:50:07+00:00",
+      "title": "Bitcoin is on track for its best month in a year. $5 billion USDT growth fuels the rebound",
+      "link": "https://www.coindesk.com/markets/2026/04/24/bitcoin-is-on-track-for-its-best-month-in-a-year-usd5-billion-usdt-growth-fuels-the-rebound",
+      "published_at": "2026-04-24T21:04:46+00:00",
       "source": "coindesk.com",
-      "score": 4,
-      "ntitle": "tether s 344 million usdt freeze linked u s economic fury against iran regime",
-      "coins": [],
+      "score": 2,
+      "ntitle": "bitcoin track best month year 5 billion usdt growth fuels rebound",
+      "coins": [
+        "BTC"
+      ],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
@@ -647,40 +655,38 @@
       "agency": null
     },
     {
-      "title": "Quantum computer breaks 15-bit elliptic curve cryptographic key",
-      "link": "https://cointelegraph.com/news/quantum-computer-bit-elliptic-curve-key?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-04-24T18:53:58+00:00",
+      "title": "Aurelion allocates $48M in tokenized gold to newly launched yield protocol",
+      "link": "https://cointelegraph.com/news/aurelion-allocates-48m-in-tokenized-gold-to-newly-launched-xaue-yield-protocol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-04-24T20:40:02+00:00",
       "source": "cointelegraph.com",
-      "score": 1,
-      "ntitle": "quantum computer breaks 15 bit elliptic curve cryptographic key",
+      "score": 7,
+      "ntitle": "aurelion allocates 48m tokenized gold newly launched yield protocol",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "DeepSeek Releases V4 on Huawei Chips the Same Day the White House Accused China of Stealing US AI",
-      "link": "https://crypto.news/deepseek-v4-launches-on-huawei-chips/",
-      "published_at": "2026-04-24T20:20:00+00:00",
+      "title": "US freezes $344M in crypto tied to Iran as Treasury targets IRGC flows",
+      "link": "https://crypto.news/us-freezes-344m-in-crypto-tied-to-iran-as-treasury-targets-irgc-flows/",
+      "published_at": "2026-04-24T21:00:00+00:00",
       "source": "crypto.news",
-      "score": 2,
-      "ntitle": "deepseek releases v4 huawei chips same day white house accused china stealing us ai",
+      "score": 3,
+      "ntitle": "us freezes 344m crypto tied iran treasury targets irgc flows",
       "coins": [],
       "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
+      "is_regulation": true,
+      "agency": "Treasury"
     },
     {
-      "title": "Aave Mobilizes DeFi Giants to Contain $292M KelpDAO Fallout",
-      "link": "https://cryptopotato.com/aave-mobilizes-defi-giants-to-contain-292m-kelpdao-fallout/",
-      "published_at": "2026-04-24T20:33:01+00:00",
+      "title": "PrimeXBT, Crypto and TradFi: From Crypto to Tesla, Trading Innovation With Crypto Capital",
+      "link": "https://cryptopotato.com/primexbt-crypto-and-tradfi-from-crypto-to-tesla-trading-innovation-with-crypto-capital/",
+      "published_at": "2026-04-24T20:59:41+00:00",
       "source": "cryptopotato.com",
-      "score": 3,
-      "ntitle": "aave mobilizes defi giants contain 292m kelpdao fallout",
-      "coins": [
-        "AAVE"
-      ],
-      "sentiment": "bearish",
+      "score": 2,
+      "ntitle": "primexbt crypto tradfi crypto tesla trading innovation crypto capital",
+      "coins": [],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -711,14 +717,16 @@
       "agency": null
     },
     {
-      "title": "Trump DOJ Backs Elon Musk's xAI in Fight Over Colorado AI Bias Law",
-      "link": "https://decrypt.co/365504/trump-doj-backs-elon-musk-xai-colorado-ai-bias-law",
-      "published_at": "2026-04-24T20:30:05+00:00",
+      "title": "Tennessee Becomes Second State to Outlaw Bitcoin, Crypto ATMs",
+      "link": "https://decrypt.co/365502/tennessee-second-state-outlaw-bitcoin-crypto-atms",
+      "published_at": "2026-04-24T20:41:13+00:00",
       "source": "decrypt.co",
       "score": 1,
-      "ntitle": "trump doj backs elon musk s xai fight over colorado ai bias law",
-      "coins": [],
-      "sentiment": "bearish",
+      "ntitle": "tennessee becomes second state outlaw bitcoin crypto atms",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -1130,42 +1138,11 @@
       "agency": null
     }
   ],
-  "clusters": [
-    {
-      "id": 16,
-      "title": "Bitcoin Falls as Trump Cancels U.S. Trip to Pakistan for Iran Peace Talks",
-      "link": "https://coingape.com/bitcoin-falls-as-trump-cancels-u-s-trip-to-pakistan-for-iran-peace-talks/",
-      "source": "coingape.com",
-      "published_at": "2026-04-25T16:41:53+00:00",
-      "sentiment": "bearish",
-      "coins": [
-        "BTC"
-      ],
-      "sources": [
-        "coingape.com",
-        "cryptopotato.com"
-      ],
-      "count": 2,
-      "members": [
-        {
-          "title": "Bitcoin Falls as Trump Cancels U.S. Trip to Pakistan for Iran Peace Talks",
-          "link": "https://coingape.com/bitcoin-falls-as-trump-cancels-u-s-trip-to-pakistan-for-iran-peace-talks/",
-          "source": "coingape.com",
-          "published_at": "2026-04-25T16:41:53+00:00"
-        },
-        {
-          "title": "Is Bitcoin in Further Trouble as Trump Halts Iran Talks and Tensions Rise?",
-          "link": "https://cryptopotato.com/is-bitcoin-in-further-trouble-as-trump-halts-iran-talks-and-tensions-rise/",
-          "source": "cryptopotato.com",
-          "published_at": "2026-04-25T18:05:11+00:00"
-        }
-      ]
-    }
-  ],
+  "clusters": [],
   "trending": [
     {
       "tag": "#Ai",
-      "count": 60,
+      "count": 58,
       "type": "topic",
       "pct": 100
     },
@@ -1173,35 +1150,35 @@
       "tag": "#XRP",
       "count": 57,
       "type": "coin",
-      "pct": 95
+      "pct": 98
     },
     {
       "tag": "#Xrp",
       "count": 56,
       "type": "topic",
-      "pct": 93
+      "pct": 97
     },
     {
       "tag": "#Defi",
-      "count": 44,
+      "count": 45,
       "type": "topic",
-      "pct": 73
+      "pct": 78
     },
     {
       "tag": "#Bitcoin",
-      "count": 41,
+      "count": 40,
       "type": "topic",
-      "pct": 68
+      "pct": 69
     },
     {
       "tag": "#BTC",
-      "count": 40,
+      "count": 39,
       "type": "coin",
       "pct": 67
     },
     {
       "tag": "#Etf",
-      "count": 17,
+      "count": 16,
       "type": "topic",
       "pct": 28
     },
@@ -1209,8 +1186,8 @@
       "tag": "#ETH",
       "count": 14,
       "type": "coin",
-      "pct": 23
+      "pct": 24
     }
   ],
-  "generated_at": "2026-04-25T20:38:45.421088+00:00"
+  "generated_at": "2026-04-25T21:09:38.669124+00:00"
 }
