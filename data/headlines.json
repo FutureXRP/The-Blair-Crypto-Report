@@ -2,6 +2,20 @@
   "x_breaking": [],
   "breaking": [
     {
+      "title": "Another DeFi Exploit Drains 150,000 SUI From Scallop’s Deprecated Contract",
+      "link": "https://beincrypto.com/scallop-sui-defi-exploit-150k/",
+      "published_at": "2026-04-26T20:16:24+00:00",
+      "source": "beincrypto.com",
+      "score": 3,
+      "ntitle": "another defi exploit drains 150 000 sui scallop s deprecated contract",
+      "coins": [
+        "SUI"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
       "title": "Bitcoin Community Questions US Military’s Role In The Network",
       "link": "https://bitcoinist.com/bitcoin-community-questions-us-militarys-role-in-the-network/",
       "published_at": "2026-04-26T20:00:14+00:00",
@@ -16,38 +30,38 @@
       "agency": null
     },
     {
-      "title": "Chainlink CCIP Sets a New Standard for Secure and Decentralized Cross-Chain Interoperability",
-      "link": "https://blockonomi.com/chainlink-ccip-sets-a-new-standard-for-secure-and-decentralized-cross-chain-interoperability/",
-      "published_at": "2026-04-26T19:49:17+00:00",
-      "source": "blockonomi.com",
-      "score": 8,
-      "ntitle": "chainlink ccip sets new standard secure decentralized cross chain interoperability",
-      "coins": [
-        "LINK"
-      ],
-      "sentiment": "neutral",
+      "title": "UTXO Management Launches Dual-Class Digital Credit Income Fund",
+      "link": "https://bitcoinmagazine.com/news/utxo-management-dual-class-digital-credit",
+      "published_at": "2026-04-26T20:27:53+00:00",
+      "source": "bitcoinmagazine.com",
+      "score": 3,
+      "ntitle": "utxo management launches dual class digital credit income fund",
+      "coins": [],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Tillis backs Warsh for Fed Chair, removing key obstacle ahead of committee vote",
-      "link": "https://cryptobriefing.com/tillis-backs-warsh-for-fed-chair-removing-key-obstacle-ahead-of-committee-vote/",
-      "published_at": "2026-04-26T20:04:55+00:00",
-      "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "tillis backs warsh fed chair removing key obstacle ahead committee vote",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Fed"
+      "title": "Stellar DeFi Hits $200M TVL as Institutional Capital and Real-World Assets Take Center Stage",
+      "link": "https://blockonomi.com/stellar-defi-hits-200m-tvl-as-institutional-capital-and-real-world-assets-take-center-stage/",
+      "published_at": "2026-04-26T20:51:09+00:00",
+      "source": "blockonomi.com",
+      "score": 14,
+      "ntitle": "stellar defi hits 200m tvl institutional capital real world assets take center stage",
+      "coins": [
+        "XLM"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     },
     {
-      "title": "Bitcoin holds steady as institutional derivatives hit new milestone",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-steady-as-institutional-derivatives-reach-new-milestone-4637419",
-      "published_at": "2026-04-26T19:54:39+00:00",
-      "source": "investing.com",
+      "title": "Strategy's Michael Saylor again hints at impending BTC purchase",
+      "link": "https://cointelegraph.com/news/strategy-michael-saylor-bitcoin-purchase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-04-26T20:09:09+00:00",
+      "source": "cointelegraph.com",
       "score": 3,
-      "ntitle": "bitcoin holds steady institutional derivatives hit new milestone",
+      "ntitle": "strategy s michael saylor again hints impending btc purchase",
       "coins": [
         "BTC"
       ],
@@ -56,14 +70,38 @@
       "agency": null
     },
     {
-      "title": "Polymarket Study Finds 3.14% Drive Accuracy",
-      "link": "https://news.bitcoin.com/polymarket-study-finds-3-14-drive-accuracy/",
-      "published_at": "2026-04-26T19:10:53+00:00",
-      "source": "news.bitcoin.com",
-      "score": 1,
-      "ntitle": "polymarket study finds 3 14 drive accuracy",
+      "title": "Israeli airstrikes hit evacuation route in south Lebanon amid military escalation",
+      "link": "https://cryptobriefing.com/israeli-airstrikes-hit-evacuation-route-in-south-lebanon-amid-military/",
+      "published_at": "2026-04-26T20:32:41+00:00",
+      "source": "cryptobriefing.com",
+      "score": 2,
+      "ntitle": "israeli airstrikes hit evacuation route south lebanon amid military escalation",
       "coins": [],
       "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "DeFi lost $13B this month as the KelpDAO rescue shows both the best and worst of DeFi",
+      "link": "https://cryptoslate.com/defi-lost-13b-this-month-as-the-kelpdao-rescue-shows-both-the-best-and-worst-of-defi/",
+      "published_at": "2026-04-26T20:35:14+00:00",
+      "source": "cryptoslate.com",
+      "score": 6,
+      "ntitle": "defi lost 13b this month kelpdao rescue shows both best worst defi",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Stablecoin Market Sheds $892M as KelpDAO Breach Triggers DeFi Unwind",
+      "link": "https://news.bitcoin.com/stablecoin-market-sheds-892m-as-kelpdao-breach-triggers-defi-unwind/",
+      "published_at": "2026-04-26T20:45:01+00:00",
+      "source": "news.bitcoin.com",
+      "score": 3,
+      "ntitle": "stablecoin market sheds 892m kelpdao breach triggers defi unwind",
+      "coins": [],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -82,26 +120,40 @@
       "agency": null
     },
     {
-      "title": "Scallop DeFi Exploit Exposes Deprecated Contract Risk Amid April 2026’s $606M Loss Streak",
-      "link": "https://blockonomi.com/scallop-defi-exploit-exposes-deprecated-contract-risk-amid-april-2026s-606m-loss-streak/",
-      "published_at": "2026-04-26T19:17:33+00:00",
-      "source": "blockonomi.com",
-      "score": 4,
-      "ntitle": "scallop defi exploit exposes deprecated contract risk amid april 2026 s 606m loss streak",
-      "coins": [],
-      "sentiment": "bearish",
+      "title": "MicroStrategy’s Bitcoin Holdings Hit $63.46 Billion Record",
+      "link": "https://beincrypto.com/michael-saylor-microstrategy-bitcoin-holdings-hit-new-record/",
+      "published_at": "2026-04-26T20:06:40+00:00",
+      "source": "beincrypto.com",
+      "score": 3,
+      "ntitle": "microstrategy s bitcoin holdings hit 63 46 billion record",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Trump’s demand for US control of Iran’s nuclear material stalls deal prospects",
-      "link": "https://cryptobriefing.com/trumps-demand-for-us-control-of-irans-nuclear-material-stalls-deal-prospects/",
-      "published_at": "2026-04-26T19:54:33+00:00",
+      "title": "Bittensor (TAO) Surges 21.57% in Q1 2026 Amid Nvidia, Polychain Bets and $43M AI Revenue",
+      "link": "https://blockonomi.com/bittensor-tao-surges-21-57-in-q1-2026-amid-nvidia-polychain-bets-and-43m-ai-revenue/",
+      "published_at": "2026-04-26T20:08:40+00:00",
+      "source": "blockonomi.com",
+      "score": 2,
+      "ntitle": "bittensor tao surges 21 57 q1 2026 amid nvidia polychain bets 43m ai revenue",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Israel orders evacuations in Lebanon, military activity surges",
+      "link": "https://cryptobriefing.com/israel-orders-evacuations-in-lebanon-military-activity-surges/",
+      "published_at": "2026-04-26T20:31:13+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "trump s demand us control iran s nuclear material stalls deal prospects",
+      "ntitle": "israel orders evacuations lebanon military activity surges",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     }
@@ -122,18 +174,16 @@
       "agency": null
     },
     {
-      "title": "US Treasury Adds Venmo for Debt Donations as Strategic Bitcoin Reserve Bill Stalls",
-      "link": "https://beincrypto.com/us-treasury-debt-donations-bitcoin-reserve/",
-      "published_at": "2026-04-26T18:52:03+00:00",
+      "title": "Trump’s Defiant Shooting Remark Lifts TRUMP, MAGA, DJT as Staged Narrative Resurfaces",
+      "link": "https://beincrypto.com/trump-territory-remark-meme-coins-staged-narrative/",
+      "published_at": "2026-04-26T19:44:43+00:00",
       "source": "beincrypto.com",
       "score": 4,
-      "ntitle": "us treasury adds venmo debt donations strategic bitcoin reserve bill stalls",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Treasury"
+      "ntitle": "trump s defiant shooting remark lifts trump maga djt staged narrative resurfaces",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Bitcoin Derivatives Buying Pressure Continues To Rise — Is $80K Inevitable?",
@@ -150,28 +200,28 @@
       "agency": null
     },
     {
-      "title": "Bitcoin Analyst Flags 'Disbelief Rally' as Price Hits $77,497",
-      "link": "https://Blockchain.News/news/bitcoin-disbelief-rally-analyst-77k",
-      "published_at": "2026-04-26T06:22:46+00:00",
+      "title": "TRUMP Memecoin (TRUMP) Plummets 96% From Peak Amid Investor Gala",
+      "link": "https://Blockchain.News/news/trump-memecoin-plummets-mar-a-lago-gala",
+      "published_at": "2026-04-26T08:23:35+00:00",
       "source": "blockchain.news",
       "score": 1,
-      "ntitle": "bitcoin analyst flags disbelief rally price hits 77 497",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bullish",
+      "ntitle": "trump memecoin trump plummets 96 peak amid investor gala",
+      "coins": [],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Google Best Bets: How a $1.65B YouTube Deal Grew Into a $550B Asset",
-      "link": "https://blockonomi.com/google-best-bets-how-a-1-65b-youtube-deal-grew-into-a-550b-asset/",
-      "published_at": "2026-04-26T18:58:16+00:00",
+      "title": "Chainlink CCIP Sets a New Standard for Secure and Decentralized Cross-Chain Interoperability",
+      "link": "https://blockonomi.com/chainlink-ccip-sets-a-new-standard-for-secure-and-decentralized-cross-chain-interoperability/",
+      "published_at": "2026-04-26T19:49:17+00:00",
       "source": "blockonomi.com",
-      "score": 1,
-      "ntitle": "google best bets how 1 65b youtube deal grew into 550b asset",
-      "coins": [],
-      "sentiment": "bullish",
+      "score": 8,
+      "ntitle": "chainlink ccip sets new standard secure decentralized cross chain interoperability",
+      "coins": [
+        "LINK"
+      ],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -242,12 +292,12 @@
       "agency": null
     },
     {
-      "title": "Apple names John Ternus as CEO, foldable iPhone set for September",
-      "link": "https://cryptobriefing.com/apple-names-john-ternus-as-ceo-foldable-iphone-set-for-september/",
-      "published_at": "2026-04-26T19:06:32+00:00",
+      "title": "Trump’s demand for US control of Iran’s nuclear material stalls deal prospects",
+      "link": "https://cryptobriefing.com/trumps-demand-for-us-control-of-irans-nuclear-material-stalls-deal-prospects/",
+      "published_at": "2026-04-26T19:54:33+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "apple names john ternus ceo foldable iphone set september",
+      "ntitle": "trump s demand us control iran s nuclear material stalls deal prospects",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -290,28 +340,30 @@
       "agency": null
     },
     {
-      "title": "Trump’s crypto outreach fails to revive his flagging memecoin",
-      "link": "https://www.investing.com/news/cryptocurrency-news/trumps-crypto-outreach-fails-to-revive-his-flagging-memecoin-4637412",
-      "published_at": "2026-04-26T00:44:21+00:00",
+      "title": "Bitcoin holds steady as institutional derivatives hit new milestone",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-steady-as-institutional-derivatives-reach-new-milestone-4637419",
+      "published_at": "2026-04-26T19:54:39+00:00",
       "source": "investing.com",
-      "score": 1,
-      "ntitle": "trump s crypto outreach fails revive his flagging memecoin",
-      "coins": [],
-      "sentiment": "neutral",
+      "score": 3,
+      "ntitle": "bitcoin holds steady institutional derivatives hit new milestone",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Federal Reserve Set to Hold Rates at 3.75% as Traders Price 99% Odds for April 29 FOMC",
-      "link": "https://news.bitcoin.com/federal-reserve-set-to-hold-rates-at-3-75-as-traders-price-99-odds-for-april-29-fomc/",
-      "published_at": "2026-04-26T17:10:09+00:00",
+      "title": "Polymarket Study Finds 3.14% Drive Accuracy",
+      "link": "https://news.bitcoin.com/polymarket-study-finds-3-14-drive-accuracy/",
+      "published_at": "2026-04-26T19:10:53+00:00",
       "source": "news.bitcoin.com",
-      "score": 2,
-      "ntitle": "federal reserve set hold rates 3 75 traders price 99 odds april 29 fomc",
+      "score": 1,
+      "ntitle": "polymarket study finds 3 14 drive accuracy",
       "coins": [],
       "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Fed"
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "XRP Ready For Next Bull Run? Here’s How This Analyst Arrived At $13 Target",
@@ -357,16 +409,18 @@
       "agency": null
     },
     {
-      "title": "Risk-On Surge Lifts Crypto Outlook as Equity ETFs Hit Record $7.5 Billion Daily Pace",
-      "link": "https://beincrypto.com/equity-etf-inflows-record-crypto-allocation/",
-      "published_at": "2026-04-26T17:53:42+00:00",
+      "title": "US Treasury Adds Venmo for Debt Donations as Strategic Bitcoin Reserve Bill Stalls",
+      "link": "https://beincrypto.com/us-treasury-debt-donations-bitcoin-reserve/",
+      "published_at": "2026-04-26T18:52:03+00:00",
       "source": "beincrypto.com",
       "score": 4,
-      "ntitle": "risk surge lifts crypto outlook equity etfs hit record 7 5 billion daily pace",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
+      "ntitle": "us treasury adds venmo debt donations strategic bitcoin reserve bill stalls",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "Treasury"
     },
     {
       "title": "Crypto Kidnappings Surge In France As 88 Suspects Hauled To Court – Details",
@@ -381,27 +435,27 @@
       "agency": null
     },
     {
-      "title": "Evan Tangeman Gets 70 Months for $263M Crypto Theft Role",
-      "link": "https://Blockchain.News/news/evan-tangeman-70-months-crypto-scam",
-      "published_at": "2026-04-25T22:11:12+00:00",
+      "title": "Bitcoin Analyst Flags 'Disbelief Rally' as Price Hits $77,497",
+      "link": "https://Blockchain.News/news/bitcoin-disbelief-rally-analyst-77k",
+      "published_at": "2026-04-26T06:22:46+00:00",
       "source": "blockchain.news",
       "score": 1,
-      "ntitle": "evan tangeman gets 70 months 263m crypto theft role",
-      "coins": [],
-      "sentiment": "bearish",
+      "ntitle": "bitcoin analyst flags disbelief rally price hits 77 497",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Ethereum Price Prediction: Bitmine Buys 101,627 ETH, but Is ETH Enough for 100x Returns?",
-      "link": "https://blockonomi.com/ethereum-price-prediction-bitmine-buys-101627-eth-but-is-eth-enough-for-100x-returns/",
-      "published_at": "2026-04-26T18:35:21+00:00",
+      "title": "Scallop DeFi Exploit Exposes Deprecated Contract Risk Amid April 2026’s $606M Loss Streak",
+      "link": "https://blockonomi.com/scallop-defi-exploit-exposes-deprecated-contract-risk-amid-april-2026s-606m-loss-streak/",
+      "published_at": "2026-04-26T19:17:33+00:00",
       "source": "blockonomi.com",
-      "score": 1,
-      "ntitle": "ethereum price prediction bitmine buys 101 627 eth but eth enough 100x returns",
-      "coins": [
-        "ETH"
-      ],
+      "score": 4,
+      "ntitle": "scallop defi exploit exposes deprecated contract risk amid april 2026 s 606m loss streak",
+      "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
@@ -459,16 +513,16 @@
       "agency": null
     },
     {
-      "title": "Iran rejects nuclear limits, seeks sanctions relief and Strait of Hormuz reopening",
-      "link": "https://cryptobriefing.com/iran-rejects-nuclear-limits-seeks-sanctions-relief-and-strait-of-hormuz/",
-      "published_at": "2026-04-26T18:44:09+00:00",
+      "title": "Iran warns of retaliation, raising crude oil supply disruption concerns",
+      "link": "https://cryptobriefing.com/iran-warns-of-retaliation-raising-crude-oil-supply-disruption-concerns/",
+      "published_at": "2026-04-26T19:46:18+00:00",
       "source": "cryptobriefing.com",
-      "score": 2,
-      "ntitle": "iran rejects nuclear limits seeks sanctions relief strait hormuz reopening",
+      "score": 1,
+      "ntitle": "iran warns retaliation raising crude oil supply disruption concerns",
       "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Regulatory"
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "The Most Eventful Week of 2026? How Bitcoin Will React to These Key Events",
@@ -1140,7 +1194,38 @@
       "agency": null
     }
   ],
-  "clusters": [],
+  "clusters": [
+    {
+      "id": 0,
+      "title": "Scallop DeFi Exploit Exposes Deprecated Contract Risk Amid April 2026’s $606M Loss Streak",
+      "link": "https://blockonomi.com/scallop-defi-exploit-exposes-deprecated-contract-risk-amid-april-2026s-606m-loss-streak/",
+      "source": "blockonomi.com",
+      "published_at": "2026-04-26T19:17:33+00:00",
+      "sentiment": "bearish",
+      "coins": [
+        "SUI"
+      ],
+      "sources": [
+        "blockonomi.com",
+        "beincrypto.com"
+      ],
+      "count": 2,
+      "members": [
+        {
+          "title": "Another DeFi Exploit Drains 150,000 SUI From Scallop’s Deprecated Contract",
+          "link": "https://beincrypto.com/scallop-sui-defi-exploit-150k/",
+          "source": "beincrypto.com",
+          "published_at": "2026-04-26T20:16:24+00:00"
+        },
+        {
+          "title": "Scallop DeFi Exploit Exposes Deprecated Contract Risk Amid April 2026’s $606M Loss Streak",
+          "link": "https://blockonomi.com/scallop-defi-exploit-exposes-deprecated-contract-risk-amid-april-2026s-606m-loss-streak/",
+          "source": "blockonomi.com",
+          "published_at": "2026-04-26T19:17:33+00:00"
+        }
+      ]
+    }
+  ],
   "trending": [
     {
       "tag": "#Ai",
@@ -1150,39 +1235,39 @@
     },
     {
       "tag": "#XRP",
-      "count": 52,
+      "count": 50,
       "type": "coin",
-      "pct": 96
-    },
-    {
-      "tag": "#Xrp",
-      "count": 52,
-      "type": "topic",
-      "pct": 96
+      "pct": 93
     },
     {
       "tag": "#Defi",
-      "count": 44,
+      "count": 50,
       "type": "topic",
-      "pct": 81
+      "pct": 93
+    },
+    {
+      "tag": "#Xrp",
+      "count": 50,
+      "type": "topic",
+      "pct": 93
     },
     {
       "tag": "#Bitcoin",
-      "count": 39,
+      "count": 40,
       "type": "topic",
-      "pct": 72
+      "pct": 74
     },
     {
       "tag": "#BTC",
-      "count": 38,
+      "count": 36,
       "type": "coin",
-      "pct": 70
+      "pct": 67
     },
     {
       "tag": "#Etf",
-      "count": 20,
+      "count": 19,
       "type": "topic",
-      "pct": 37
+      "pct": 35
     },
     {
       "tag": "#ETH",
@@ -1191,5 +1276,5 @@
       "pct": 20
     }
   ],
-  "generated_at": "2026-04-26T20:06:33.387416+00:00"
+  "generated_at": "2026-04-26T20:54:57.517467+00:00"
 }
