@@ -2,28 +2,331 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "Tether expands into Bitcoin mining infrastructure with launch of open-source MDK framework",
-      "link": "https://ambcrypto.com/tether-expands-into-bitcoin-mining-infrastructure-with-launch-of-open-source-mdk-framework/",
-      "published_at": "2026-04-27T16:03:39+00:00",
+      "title": "Solana whale dumps $26.1M in SOL – Is $78.50 about to break?",
+      "link": "https://ambcrypto.com/solana-whale-dumps-26-1m-in-sol-is-78-50-about-to-break/",
+      "published_at": "2026-04-27T17:00:39+00:00",
       "source": "ambcrypto.com",
-      "score": 6,
-      "ntitle": "tether expands into bitcoin mining infrastructure launch open source mdk framework",
+      "score": 3,
+      "ntitle": "solana whale dumps 26 1m sol 78 50 about break",
+      "coins": [
+        "SOL"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Can Intel Stock Hit $100 in May?",
+      "link": "https://beincrypto.com/intel-stock-may-price-outlook/",
+      "published_at": "2026-04-27T17:03:36+00:00",
+      "source": "beincrypto.com",
+      "score": 0,
+      "ntitle": "can intel stock hit 100 may",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "The Latest On The CLARITY Act?—Restrictions On Trump’s Crypto Role Being Discussed",
+      "link": "https://bitcoinist.com/latest-on-clarity-act-restrictions-on-trumps-crypto/",
+      "published_at": "2026-04-27T17:07:36+00:00",
+      "source": "bitcoinist.com",
+      "score": 2,
+      "ntitle": "latest clarity act restrictions trump s crypto role being discussed",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "Congress"
+    },
+    {
+      "title": "Bitcoin Magazine Announces BM TV, a Daily Market Broadcast Set for Summer 2026 Launch",
+      "link": "https://bitcoinmagazine.com/news/bitcoin-magazine-announces-bm-tv",
+      "published_at": "2026-04-27T17:35:20+00:00",
+      "source": "bitcoinmagazine.com",
+      "score": 4,
+      "ntitle": "bitcoin magazine announces bm tv daily market broadcast set summer 2026 launch",
       "coins": [
         "BTC"
       ],
       "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Shell’s $16.4B Acquisition of ARC Resources (ARX) Sends Stock Soaring 20%",
+      "link": "https://blockonomi.com/shells-16-4b-acquisition-of-arc-resources-arx-sends-stock-soaring-20/",
+      "published_at": "2026-04-27T17:45:20+00:00",
+      "source": "blockonomi.com",
+      "score": 3,
+      "ntitle": "shell s 16 4b acquisition arc resources arx sends stock soaring 20",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Trump ballroom lawsuit plaintiff rejects DOJ demand to drop case after 'assassination attempt'",
+      "link": "https://www.cnbc.com/2026/04/27/trump-ballroom-whcd-doj-lawsuit.html",
+      "published_at": "2026-04-27T17:12:07+00:00",
+      "source": "cnbc.com",
+      "score": 2,
+      "ntitle": "trump ballroom lawsuit plaintiff rejects doj demand drop case after assassination attempt",
+      "coins": [],
+      "sentiment": "bearish",
       "is_regulation": true,
       "agency": "Regulatory"
     },
     {
-      "title": "Meme Coin Based on White House Shooter Conspiracy Rallies 320%",
-      "link": "https://beincrypto.com/meme-coin-white-house-shooter-cole-allen-pepe-conspiracy/",
-      "published_at": "2026-04-27T16:11:17+00:00",
-      "source": "beincrypto.com",
+      "title": "Bitcoin pulls back to $76,600 as rising oil price and Iran risks stall the rally",
+      "link": "https://www.coindesk.com/markets/2026/04/27/bitcoin-pulls-back-to-usd76-600-as-rising-oil-price-and-iran-risks-stall-the-rally",
+      "published_at": "2026-04-27T17:17:25+00:00",
+      "source": "coindesk.com",
+      "score": 2,
+      "ntitle": "bitcoin pulls back 76 600 rising oil price iran risks stall rally",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Bernstein sees IREN pivoting from Bitcoin mining to $3.7B AI cloud business",
+      "link": "https://cointelegraph.com/news/bernstein-sees-iren-pivoting-from-bitcoin-mining-to-37b-ai-cloud-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-04-27T17:15:28+00:00",
+      "source": "cointelegraph.com",
       "score": 1,
-      "ntitle": "meme coin based white house shooter conspiracy rallies 320",
+      "ntitle": "bernstein sees iren pivoting bitcoin mining 3 7b ai cloud business",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Ripple KBank Deal Tests Blockchain Remittances in South Korea",
+      "link": "https://crypto.news/ripple-kbank-korea-remittance-deal/",
+      "published_at": "2026-04-27T17:40:00+00:00",
+      "source": "crypto.news",
+      "score": 9,
+      "ntitle": "ripple kbank deal tests blockchain remittances south korea",
+      "coins": [
+        "XRP"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Iranian tankers redirected as US blockade tightens in Strait of Hormuz",
+      "link": "https://cryptobriefing.com/iranian-tankers-redirected-as-us-blockade-tightens-in-strait-of-hormuz/",
+      "published_at": "2026-04-27T17:43:45+00:00",
+      "source": "cryptobriefing.com",
+      "score": 1,
+      "ntitle": "iranian tankers redirected us blockade tightens strait hormuz",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Google Employees Demand CEO Block Military AI Contracts in Open Letter",
+      "link": "https://decrypt.co/365674/google-employees-demand-ceo-block-military-ai-contracts-in-open-letter",
+      "published_at": "2026-04-27T17:44:42+00:00",
+      "source": "decrypt.co",
+      "score": 1,
+      "ntitle": "google employees demand ceo block military ai contracts open letter",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Consensys and Joe Lubin Join DeFi United Recovery Effort With up to 30,000 ETH in Support",
+      "link": "https://news.bitcoin.com/consensys-and-joe-lubin-join-defi-united-recovery-effort-with-up-to-30000-eth-in-support/",
+      "published_at": "2026-04-27T16:50:01+00:00",
+      "source": "news.bitcoin.com",
+      "score": 4,
+      "ntitle": "consensys joe lubin join defi united recovery effort up 30 000 eth support",
+      "coins": [
+        "ETH"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Bitcoin Is Headed For $40,000: Analyst Reveals The Best Time To Buy BTC",
+      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-is-headed-for-40000/",
+      "published_at": "2026-04-27T17:00:17+00:00",
+      "source": "newsbtc.com",
+      "score": 5,
+      "ntitle": "bitcoin headed 40 000 analyst reveals best time buy btc",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Read this before you click on any Robinhood email",
+      "link": "https://protos.com/read-this-before-you-click-on-any-robinhood-email/",
+      "published_at": "2026-04-27T17:36:28+00:00",
+      "source": "protos.com",
+      "score": 1,
+      "ntitle": "read this before you click any robinhood email",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "DeFi United Hits Recovery Target as Consensys, Solana, TRON Pledge Support",
+      "link": "https://thedefiant.io/news/defi/defi-united-hits-recovery-target-as-consensys-solana-tron-pledge-support",
+      "published_at": "2026-04-27T17:37:24+00:00",
+      "source": "thedefiant.io",
+      "score": 3,
+      "ntitle": "defi united hits recovery target consensys solana tron pledge support",
+      "coins": [
+        "SOL",
+        "TRX"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Strategy Tops Bitcoin Holdings With $255 Million Purchase",
+      "link": "https://u.today/strategy-tops-bitcoin-holdings-with-255-million-purchase",
+      "published_at": "2026-04-27T17:08:21+00:00",
+      "source": "u.today",
+      "score": 1,
+      "ntitle": "strategy tops bitcoin holdings 255 million purchase",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Diminishing Cycle Analysis That Forecasted Bitcoin Top Above $120,000 Has Set The Bottom Price",
+      "link": "https://bitcoinist.com/bitcoin-top-above-120000/",
+      "published_at": "2026-04-27T17:00:14+00:00",
+      "source": "bitcoinist.com",
+      "score": 2,
+      "ntitle": "diminishing cycle analysis that forecasted bitcoin top above 120 000 has set bottom price",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Bitcoin Self-Custody Framed as Civil Liberty at Bitcoin 2026 Conference",
+      "link": "https://bitcoinmagazine.com/news/bitcoin-self-custody-framed-civil-liberty",
+      "published_at": "2026-04-27T17:31:37+00:00",
+      "source": "bitcoinmagazine.com",
+      "score": 3,
+      "ntitle": "bitcoin self custody framed civil liberty bitcoin 2026 conference",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Critical Metals (CRML) Finalizes $835M European Lithium Acquisition for Greenland Rare Earth Asset",
+      "link": "https://blockonomi.com/critical-metals-crml-finalizes-835m-european-lithium-acquisition-for-greenland-rare-earth-asset/",
+      "published_at": "2026-04-27T17:29:09+00:00",
+      "source": "blockonomi.com",
+      "score": 2,
+      "ntitle": "critical metals crml finalizes 835m european lithium acquisition greenland rare earth asset",
       "coins": [],
       "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Prediction markets prepare to invade one of crypto’s biggest and riskiest trades",
+      "link": "https://www.cnbc.com/2026/04/27/prediction-markets-prepare-to-invade-one-of-cryptos-biggest-and-riskiest-trades.html",
+      "published_at": "2026-04-27T16:59:36+00:00",
+      "source": "cnbc.com",
+      "score": 4,
+      "ntitle": "prediction markets prepare invade one crypto s biggest riskiest trades",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Strategy Bitcoin Buy: Saylor Adds $255 Million in His Fourth Purchase This Month",
+      "link": "https://crypto.news/strategy-bitcoin-buy-hits-255m/",
+      "published_at": "2026-04-27T17:25:03+00:00",
+      "source": "crypto.news",
+      "score": 2,
+      "ntitle": "strategy bitcoin buy saylor adds 255 million his fourth purchase this month",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Trump calls for Kimmel firing amid April 2026 insult prediction certainty",
+      "link": "https://cryptobriefing.com/trump-calls-for-kimmel-firing-amid-april-2026-insult-prediction-certainty/",
+      "published_at": "2026-04-27T17:42:26+00:00",
+      "source": "cryptobriefing.com",
+      "score": 1,
+      "ntitle": "trump calls kimmel firing amid april 2026 insult prediction certainty",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Publicly Traded Strive Buys $60 Million in Bitcoin, Plans BTC Business Summit",
+      "link": "https://decrypt.co/365672/publicly-traded-strive-buys-60-million-bitcoin-business-summit",
+      "published_at": "2026-04-27T17:37:43+00:00",
+      "source": "decrypt.co",
+      "score": 1,
+      "ntitle": "publicly traded strive buys 60 million bitcoin plans btc business summit",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    }
+  ],
+  "day": [
+    {
+      "title": "Best AI trading bots 2026: Top 7 beginner friendly platforms for easy passive income",
+      "link": "https://ambcrypto.com/best-ai-trading-bots-2026-top-7-beginner-friendly-platforms-for-easy-passive-income/",
+      "published_at": "2026-04-27T16:25:35+00:00",
+      "source": "ambcrypto.com",
+      "score": 4,
+      "ntitle": "best ai trading bots 2026 top 7 beginner friendly platforms easy passive income",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Will Oil Price Drop Again or Has the Supply Shock Rewritten the Playbook?",
+      "link": "https://beincrypto.com/oil-price-drop-supply-shock-analysis/",
+      "published_at": "2026-04-27T16:14:28+00:00",
+      "source": "beincrypto.com",
+      "score": 1,
+      "ntitle": "will oil price drop again or has supply shock rewritten playbook",
+      "coins": [],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -56,21 +359,51 @@
       "agency": null
     },
     {
-      "title": "Snap (SNAP) Stock Rallies 8% on Rare Buy Rating: What’s Behind the Upgrade?",
-      "link": "https://blockonomi.com/snap-snap-stock-rallies-8-on-rare-buy-rating-whats-behind-the-upgrade/",
-      "published_at": "2026-04-27T15:50:41+00:00",
+      "title": "Aave Pushes Arbitrum to Release Frozen $73M ETH Post-Kelp Hack",
+      "link": "https://Blockchain.News/news/aave-arbitrum-unfreeze-eth-kelp-dao-hack",
+      "published_at": "2026-04-27T03:38:43+00:00",
+      "source": "blockchain.news",
+      "score": 1,
+      "ntitle": "aave pushes arbitrum release frozen 73m eth post kelp hack",
+      "coins": [
+        "AAVE",
+        "ARB",
+        "ETH"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Gemini Unveils AI-Powered Agentic Trading for Cryptocurrency Markets",
+      "link": "https://blockonomi.com/gemini-unveils-ai-powered-agentic-trading-for-cryptocurrency-markets/",
+      "published_at": "2026-04-27T16:34:29+00:00",
       "source": "blockonomi.com",
       "score": 3,
-      "ntitle": "snap snap stock rallies 8 rare buy rating what s behind upgrade",
+      "ntitle": "gemini unveils ai powered agentic trading cryptocurrency markets",
       "coins": [],
-      "sentiment": "bullish",
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Capital B Increases Bitcoin Holdings to 2,943 Following €0.4 Million Purchase",
+      "link": "https://btctimes.com/capital-b-increases-bitcoin-holdings-to-2-943-following-eu0-4-million-purchase/",
+      "published_at": "2026-04-27T11:00:04+00:00",
+      "source": "btctimes.com",
+      "score": 3,
+      "ntitle": "capital b increases bitcoin holdings 2 943 following 0 4 million purchase",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
       "title": "Oil giant Shell to buy Canada’s ARC Resources for $16.4 billion in push to boost output",
       "link": "https://www.cnbc.com/2026/04/27/shell-arc-resources-acquisition-16-billion-energy-oil.html",
-      "published_at": "2026-04-27T16:14:05+00:00",
+      "published_at": "2026-04-27T16:27:38+00:00",
       "source": "cnbc.com",
       "score": 4,
       "ntitle": "oil giant shell buy canada s arc resources 16 4 billion push boost output",
@@ -80,16 +413,16 @@
       "agency": null
     },
     {
-      "title": "Bitcoin is climbing on thin volume, leaving rally vulnerable to macro shock",
-      "link": "https://www.coindesk.com/markets/2026/04/27/bitcoin-is-climbing-on-thin-volume-leaving-this-rally-vulnerable-to-macro-shock",
-      "published_at": "2026-04-27T16:22:16+00:00",
+      "title": "Curve founder pitches market-based fix for $700K bad debt in contrast to Aave bailout",
+      "link": "https://www.coindesk.com/markets/2026/04/27/curve-founder-pitches-market-based-fix-for-usd700k-bad-debt-in-contrast-to-aave-bailout",
+      "published_at": "2026-04-27T16:38:29+00:00",
       "source": "coindesk.com",
-      "score": 1,
-      "ntitle": "bitcoin climbing thin volume leaving rally vulnerable macro shock",
+      "score": 2,
+      "ntitle": "curve founder pitches market based fix 700k bad debt contrast aave bailout",
       "coins": [
-        "BTC"
+        "AAVE"
       ],
-      "sentiment": "bullish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -106,26 +439,56 @@
       "agency": "Congress"
     },
     {
-      "title": "TRUMP memecoin gala returns to Mar‑a‑Lago at fire‑sale on‑chain prices",
-      "link": "https://crypto.news/trump-memecoin-gala-returns-to-mar-a-lago-at-fire-sale-on-chain-prices/",
-      "published_at": "2026-04-27T16:22:11+00:00",
+      "title": "Western Union CEO hints at Solana-based stablecoin USDPT launch in May",
+      "link": "https://coinjournal.net/news/western-union-ceo-hints-at-solana-based-stablecoin-usdpt-launch-in-may/",
+      "published_at": "2026-04-27T13:16:23+00:00",
+      "source": "coinjournal.net",
+      "score": 5,
+      "ntitle": "western union ceo hints solana based stablecoin usdpt launch may",
+      "coins": [
+        "SOL"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Michael Saylor’s Strategy adds 3.2K Bitcoin at nearly $78K per BTC",
+      "link": "https://cointelegraph.com/news/michael-saylor-s-strategy-adds-3-2k-bitcoin-at-nearly-78k-per-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-04-27T14:05:14+00:00",
+      "source": "cointelegraph.com",
+      "score": 1,
+      "ntitle": "michael saylor s strategy adds 3 2k bitcoin nearly 78k per btc",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Aave DAO Governance Vote to Pause Buybacks — KelpDAO Fallout Continues",
+      "link": "https://crypto.news/aave-dao-governance-vote-to-pause-buybacks-kelpdao-fallout-continues/",
+      "published_at": "2026-04-27T16:42:09+00:00",
       "source": "crypto.news",
       "score": 1,
-      "ntitle": "trump memecoin gala returns mar lago fire sale chain prices",
-      "coins": [],
+      "ntitle": "aave dao governance vote pause buybacks kelpdao fallout continues",
+      "coins": [
+        "AAVE"
+      ],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Israel faces drone defense gaps amid Hezbollah incursions on northern border",
-      "link": "https://cryptobriefing.com/israel-faces-drone-defense-gaps-amid-hezbollah-incursions-on-northern-border/",
-      "published_at": "2026-04-27T16:23:47+00:00",
+      "title": "Iran imposes shipping tolls in Strait of Hormuz, US silent at UN",
+      "link": "https://cryptobriefing.com/iran-imposes-shipping-tolls-in-strait-of-hormuz-us-silent-at-un/",
+      "published_at": "2026-04-27T16:43:50+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "israel faces drone defense gaps amid hezbollah incursions northern border",
+      "ntitle": "iran imposes shipping tolls strait hormuz us silent un",
       "coins": [],
-      "sentiment": "bullish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -159,365 +522,6 @@
       "agency": null
     },
     {
-      "title": "OpenAI's Sam Altman Apologizes for Not Alerting Police Before Tumbler Ridge Mass Shooting",
-      "link": "https://decrypt.co/365645/openai-sam-altman-apologizes-not-alerting-police-tumbler-ridge-mass-shooting",
-      "published_at": "2026-04-27T16:05:57+00:00",
-      "source": "decrypt.co",
-      "score": 2,
-      "ntitle": "openai s sam altman apologizes not alerting police before tumbler ridge mass shooting",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Romania Blocks 300 Sites and Launches €5M Treatment Fund as Polymarket Ban Holds in Court",
-      "link": "https://news.bitcoin.com/romania-blocks-300-sites-and-launches-e5m-treatment-fund-as-polymarket-ban-holds-in-court/",
-      "published_at": "2026-04-27T15:44:48+00:00",
-      "source": "news.bitcoin.com",
-      "score": 4,
-      "ntitle": "romania blocks 300 sites launches 5m treatment fund polymarket ban holds court",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": true,
-      "agency": "Regulatory"
-    },
-    {
-      "title": "XRP’s 900% Move To $15: Pundit Flags The Retest That Will Trigger It",
-      "link": "https://www.newsbtc.com/analysis/xrp/xrp-900-move-to-15-trigger/",
-      "published_at": "2026-04-27T15:30:01+00:00",
-      "source": "newsbtc.com",
-      "score": 6,
-      "ntitle": "xrp s 900 move 15 pundit flags retest that will trigger it",
-      "coins": [
-        "XRP"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "XRP Confirms Golden Cross: Analyzing 30% Gap to 200-Day Moving Average",
-      "link": "https://u.today/xrp-confirms-golden-cross-analyzing-30-gap-to-200-day-moving-average",
-      "published_at": "2026-04-27T15:34:15+00:00",
-      "source": "u.today",
-      "score": 6,
-      "ntitle": "xrp confirms golden cross analyzing 30 gap 200 day moving average",
-      "coins": [
-        "XRP"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Brent oil prices top $108 per barrel after Iran peace talks unravel",
-      "link": "https://www.cnbc.com/2026/04/26/oil-price-iran-war-strait-hormuz.html",
-      "published_at": "2026-04-27T15:27:34+00:00",
-      "source": "cnbc.com",
-      "score": 1,
-      "ntitle": "brent oil prices top 108 per barrel after iran peace talks unravel",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Cross-border B2B stablecoin payments to hit $5 trillion by 2035, says Juniper Research",
-      "link": "https://www.coindesk.com/business/2026/04/27/cross-border-b2b-stablecoin-payments-to-rise-by-over-37-000-to-usd5t-by-2035",
-      "published_at": "2026-04-27T15:49:01+00:00",
-      "source": "coindesk.com",
-      "score": 2,
-      "ntitle": "cross border b2b stablecoin payments hit 5 trillion 2035 says juniper research",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Ethereum Foundation Sells $34M ETH to Bitmine, More Selloff Incoming?",
-      "link": "https://coingape.com/ethereum-foundation-sells-34m-eth-to-bitmine-more-selloff-incoming/",
-      "published_at": "2026-04-27T16:19:23+00:00",
-      "source": "coingape.com",
-      "score": 3,
-      "ntitle": "ethereum foundation sells 34m eth bitmine more selloff incoming",
-      "coins": [
-        "ETH"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Tether’s new open-source mining kit is a power grab over Bitcoin’s industrial stack",
-      "link": "https://crypto.news/tethers-new-open-source-mining-kit-is-a-power-grab-over-bitcoins-industrial-stack/",
-      "published_at": "2026-04-27T15:41:05+00:00",
-      "source": "crypto.news",
-      "score": 4,
-      "ntitle": "tether s new open source mining kit power grab over bitcoin s industrial stack",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Microsoft, OpenAI end AGI deal; GPT-5.5 market remains steady",
-      "link": "https://cryptobriefing.com/microsoft-openai-end-agi-deal-gpt-55-market-remains-steady/",
-      "published_at": "2026-04-27T16:22:56+00:00",
-      "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "microsoft openai end agi deal gpt 5 5 market remains steady",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Ethereum Price Prediction: Most Significant Breakout Ahead or Another Painful Rejection?",
-      "link": "https://cryptopotato.com/ethereum-price-prediction-most-significant-breakout-ahead-or-another-painful-rejection/",
-      "published_at": "2026-04-27T15:44:05+00:00",
-      "source": "cryptopotato.com",
-      "score": 2,
-      "ntitle": "ethereum price prediction most significant breakout ahead or another painful rejection",
-      "coins": [
-        "ETH"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "China Blocks Meta's $2 Billion Acquisition of AI Startup Manus",
-      "link": "https://decrypt.co/365644/china-blocks-meta-2-billion-acquisition-ai-startup-manus",
-      "published_at": "2026-04-27T15:38:46+00:00",
-      "source": "decrypt.co",
-      "score": 1,
-      "ntitle": "china blocks meta s 2 billion acquisition ai startup manus",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    }
-  ],
-  "day": [
-    {
-      "title": "Aave recovery effort nears $161M — but not all contributions are donations",
-      "link": "https://ambcrypto.com/aave-recovery-effort-nears-161m-but-not-all-contributions-are-donations/",
-      "published_at": "2026-04-27T15:17:46+00:00",
-      "source": "ambcrypto.com",
-      "score": 1,
-      "ntitle": "aave recovery effort nears 161m but not all contributions donations",
-      "coins": [
-        "AAVE"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Microsoft Stock Price Drops Sharply After OpenAI Revises Partnership",
-      "link": "https://beincrypto.com/openai-microsoft-cloud-exclusivity-ends/",
-      "published_at": "2026-04-27T15:08:23+00:00",
-      "source": "beincrypto.com",
-      "score": 3,
-      "ntitle": "microsoft stock price drops sharply after openai revises partnership",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Unstaking Move By Ethereum Foundation Draws Market Focus, A Sell-Off On The Horizon?",
-      "link": "https://bitcoinist.com/ethereum-unstaking-move/",
-      "published_at": "2026-04-27T14:00:26+00:00",
-      "source": "bitcoinist.com",
-      "score": 2,
-      "ntitle": "unstaking move ethereum foundation draws market focus sell off horizon",
-      "coins": [
-        "ETH"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Strive Expands Bitcoin Treasury With $61.4 Million Purchase, Holdings Reach 14,557 BTC",
-      "link": "https://bitcoinmagazine.com/news/strive-expands-bitcoin-treasury",
-      "published_at": "2026-04-27T14:15:03+00:00",
-      "source": "bitcoinmagazine.com",
-      "score": 4,
-      "ntitle": "strive expands bitcoin treasury 61 4 million purchase holdings reach 14 557 btc",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": true,
-      "agency": "Treasury"
-    },
-    {
-      "title": "Aave Pushes Arbitrum to Release Frozen $73M ETH Post-Kelp Hack",
-      "link": "https://Blockchain.News/news/aave-arbitrum-unfreeze-eth-kelp-dao-hack",
-      "published_at": "2026-04-27T03:38:43+00:00",
-      "source": "blockchain.news",
-      "score": 1,
-      "ntitle": "aave pushes arbitrum release frozen 73m eth post kelp hack",
-      "coins": [
-        "AAVE",
-        "ARB",
-        "ETH"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Circle Ventures Strengthens AAVE Support Amid DeFi United’s rsETH Recovery Initiative",
-      "link": "https://blockonomi.com/circle-ventures-strengthens-aave-support-amid-defi-uniteds-rseth-recovery-initiative/",
-      "published_at": "2026-04-27T15:13:57+00:00",
-      "source": "blockonomi.com",
-      "score": 4,
-      "ntitle": "circle ventures strengthens aave support amid defi united s rseth recovery initiative",
-      "coins": [
-        "AAVE"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Capital B Increases Bitcoin Holdings to 2,943 Following €0.4 Million Purchase",
-      "link": "https://btctimes.com/capital-b-increases-bitcoin-holdings-to-2-943-following-eu0-4-million-purchase/",
-      "published_at": "2026-04-27T11:00:04+00:00",
-      "source": "btctimes.com",
-      "score": 3,
-      "ntitle": "capital b increases bitcoin holdings 2 943 following 0 4 million purchase",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Prediction markets prepare to invade one of crypto’s biggest and riskiest trades",
-      "link": "https://www.cnbc.com/2026/04/27/prediction-markets-prepare-to-invade-one-of-cryptos-biggest-and-riskiest-trades.html",
-      "published_at": "2026-04-27T15:07:27+00:00",
-      "source": "cnbc.com",
-      "score": 4,
-      "ntitle": "prediction markets prepare invade one crypto s biggest riskiest trades",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Canada’s crypto donation ban clears key vote with support from Conservatives",
-      "link": "https://www.coindesk.com/policy/2026/04/27/canada-s-crypto-donation-ban-clears-key-vote-with-support-from-conservatives",
-      "published_at": "2026-04-27T15:05:56+00:00",
-      "source": "coindesk.com",
-      "score": 1,
-      "ntitle": "canada s crypto donation ban clears key vote support conservatives",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Regulatory"
-    },
-    {
-      "title": "Just-In: Vivek Ramaswamy’s Strive Boosts Bitcoin Holdings With $61M BTC Purchase",
-      "link": "https://coingape.com/vivek-ramaswamy-strive-boosts-bitcoin-holdings-with-61m-btc-purchase/",
-      "published_at": "2026-04-27T15:06:55+00:00",
-      "source": "coingape.com",
-      "score": 4,
-      "ntitle": "just vivek ramaswamy s strive boosts bitcoin holdings 61m btc purchase",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Western Union CEO hints at Solana-based stablecoin USDPT launch in May",
-      "link": "https://coinjournal.net/news/western-union-ceo-hints-at-solana-based-stablecoin-usdpt-launch-in-may/",
-      "published_at": "2026-04-27T13:16:23+00:00",
-      "source": "coinjournal.net",
-      "score": 5,
-      "ntitle": "western union ceo hints solana based stablecoin usdpt launch may",
-      "coins": [
-        "SOL"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Michael Saylor’s Strategy adds 3.2K Bitcoin at nearly $78K per BTC",
-      "link": "https://cointelegraph.com/news/michael-saylor-s-strategy-adds-3-2k-bitcoin-at-nearly-78k-per-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-04-27T14:05:14+00:00",
-      "source": "cointelegraph.com",
-      "score": 1,
-      "ntitle": "michael saylor s strategy adds 3 2k bitcoin nearly 78k per btc",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "The Block’s new CEO bet: Azuki’s Steve Chung and a $10M institutional push",
-      "link": "https://crypto.news/the-blocks-new-ceo-bet-azukis-steve-chung-and-a-10m-institutional-push/",
-      "published_at": "2026-04-27T15:05:39+00:00",
-      "source": "crypto.news",
-      "score": 3,
-      "ntitle": "block s new ceo bet azuki s steve chung 10m institutional push",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Iran proposes ending Hormuz attacks, lifting blockade, delaying nuclear talks",
-      "link": "https://cryptobriefing.com/iran-proposes-ending-hormuz-attacks-lifting-blockade-delaying-nuclear-talks/",
-      "published_at": "2026-04-27T15:25:10+00:00",
-      "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "iran proposes ending hormuz attacks lifting blockade delaying nuclear talks",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Fuutura Launches as Blockchain Infrastructure Company Building a Compliance-First Financial Ecosystem",
-      "link": "https://cryptopotato.com/fuutura-launches-as-blockchain-infrastructure-company-building-a-compliance-first-financial-ecosystem/",
-      "published_at": "2026-04-27T14:28:16+00:00",
-      "source": "cryptopotato.com",
-      "score": 6,
-      "ntitle": "fuutura launches blockchain infrastructure company building compliance first financial ecosystem",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": true,
-      "agency": "Regulatory"
-    },
-    {
-      "title": "Latest $290M exploit hit DeFi so hard it forced Aave onto Solana as part of rescue efforts",
-      "link": "https://cryptoslate.com/latest-290m-exploit-hit-defi-so-hard-it-forced-aave-onto-solana-as-part-of-rescue-efforts/",
-      "published_at": "2026-04-27T14:00:09+00:00",
-      "source": "cryptoslate.com",
-      "score": 4,
-      "ntitle": "latest 290m exploit hit defi so hard it forced aave onto solana part rescue efforts",
-      "coins": [
-        "AAVE",
-        "SOL"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
       "title": "PoW to PoS to PoB: Nexus AiCOS Defines “Proofs of Behavior” as the On-Chain Credit Standard on Base",
       "link": "https://dailyhodl.com/2026/04/27/pow-to-pos-to-pob-nexus-aicos-defines-proofs-of-behavior-as-the-on-chain-credit-standard-on-base/",
       "published_at": "2026-04-27T13:04:22+00:00",
@@ -530,14 +534,16 @@
       "agency": null
     },
     {
-      "title": "Microsoft and OpenAI Rework AI Deal, Cutting Exclusivity and AGI Provisions",
-      "link": "https://decrypt.co/365630/microsoft-openai-rework-ai-deal-cutting-exclusivity-agi-provisions",
-      "published_at": "2026-04-27T14:57:43+00:00",
+      "title": "Litecoin Rewrites Transaction History After Exploit, Apologizes for Social Posts",
+      "link": "https://decrypt.co/365648/litecoin-rewrites-transaction-history-exploit-apologizes-social-posts",
+      "published_at": "2026-04-27T16:40:50+00:00",
       "source": "decrypt.co",
-      "score": 1,
-      "ntitle": "microsoft openai rework ai deal cutting exclusivity agi provisions",
-      "coins": [],
-      "sentiment": "neutral",
+      "score": 2,
+      "ntitle": "litecoin rewrites transaction history after exploit apologizes social posts",
+      "coins": [
+        "LTC"
+      ],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -580,28 +586,26 @@
       "agency": null
     },
     {
-      "title": "Bitcoin ETFs Draw $824M as Blackrock’s IBIT Dominates Weekly Crypto Fund Inflows",
-      "link": "https://news.bitcoin.com/bitcoin-etfs-draw-824m-as-blackrocks-ibit-dominates-weekly-crypto-fund-inflows/",
-      "published_at": "2026-04-27T14:44:11+00:00",
+      "title": "Romania Blocks 300 Sites and Launches €5M Treatment Fund as Polymarket Ban Holds in Court",
+      "link": "https://news.bitcoin.com/romania-blocks-300-sites-and-launches-e5m-treatment-fund-as-polymarket-ban-holds-in-court/",
+      "published_at": "2026-04-27T15:44:48+00:00",
       "source": "news.bitcoin.com",
-      "score": 9,
-      "ntitle": "bitcoin etfs draw 824m blackrock s ibit dominates weekly crypto fund inflows",
-      "coins": [
-        "BTC"
-      ],
+      "score": 4,
+      "ntitle": "romania blocks 300 sites launches 5m treatment fund polymarket ban holds court",
+      "coins": [],
       "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
+      "is_regulation": true,
+      "agency": "Regulatory"
     },
     {
-      "title": "‘The Beat Goes On’ – Saylor Hints At Another Bitcoin Buying Spree",
-      "link": "https://www.newsbtc.com/news/bitcoin/the-beat-goes-on-saylor-hints-at-another-bitcoin-buying-spree/",
-      "published_at": "2026-04-27T14:00:58+00:00",
+      "title": "XRP’s 900% Move To $15: Pundit Flags The Retest That Will Trigger It",
+      "link": "https://www.newsbtc.com/analysis/xrp/xrp-900-move-to-15-trigger/",
+      "published_at": "2026-04-27T15:30:01+00:00",
       "source": "newsbtc.com",
-      "score": 10,
-      "ntitle": "beat goes saylor hints another bitcoin buying spree",
+      "score": 6,
+      "ntitle": "xrp s 900 move 15 pundit flags retest that will trigger it",
       "coins": [
-        "BTC"
+        "XRP"
       ],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -632,13 +636,15 @@
       "agency": "CFTC"
     },
     {
-      "title": "Shibarium Crosses 1 Billion Transactions as User Growth Hits 2026 High",
-      "link": "https://u.today/shibarium-crosses-1-billion-transactions-as-user-growth-hits-2026-high",
-      "published_at": "2026-04-27T14:11:05+00:00",
+      "title": "Saylor's $1 Million BTC Dream Crumbles, Schiff Claims",
+      "link": "https://u.today/saylors-1-million-btc-dream-crumbles-schiff-claims",
+      "published_at": "2026-04-27T16:37:06+00:00",
       "source": "u.today",
-      "score": 3,
-      "ntitle": "shibarium crosses 1 billion transactions user growth hits 2026 high",
-      "coins": [],
+      "score": 1,
+      "ntitle": "saylor s 1 million btc dream crumbles schiff claims",
+      "coins": [
+        "BTC"
+      ],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
@@ -658,40 +664,40 @@
       "agency": null
     },
     {
-      "title": "‘Altcoin season definitely possible’ – Why analysts eye an upcoming rally",
-      "link": "https://ambcrypto.com/altcoin-season-definitely-possible-why-analysts-eye-an-upcoming-rally/",
-      "published_at": "2026-04-27T15:00:43+00:00",
+      "title": "Tether expands into Bitcoin mining infrastructure with launch of open-source MDK framework",
+      "link": "https://ambcrypto.com/tether-expands-into-bitcoin-mining-infrastructure-with-launch-of-open-source-mdk-framework/",
+      "published_at": "2026-04-27T16:03:39+00:00",
       "source": "ambcrypto.com",
-      "score": 3,
-      "ntitle": "altcoin season definitely possible why analysts eye upcoming rally",
+      "score": 6,
+      "ntitle": "tether expands into bitcoin mining infrastructure launch open source mdk framework",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": true,
+      "agency": "Regulatory"
+    },
+    {
+      "title": "Meme Coin Based on White House Shooter Conspiracy Rallies 320%",
+      "link": "https://beincrypto.com/meme-coin-white-house-shooter-cole-allen-pepe-conspiracy/",
+      "published_at": "2026-04-27T16:11:17+00:00",
+      "source": "beincrypto.com",
+      "score": 1,
+      "ntitle": "meme coin based white house shooter conspiracy rallies 320",
       "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Telegram Username “Boss” Sells for 500,000 USDT in TON NFT Resale",
-      "link": "https://beincrypto.com/telegram-username-sells-500k-usdt/",
-      "published_at": "2026-04-27T14:20:47+00:00",
-      "source": "beincrypto.com",
-      "score": 1,
-      "ntitle": "telegram username boss sells 500 000 usdt ton nft resale",
-      "coins": [
-        "TON"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Here’s What Happened In The Donald Trump Crypto Meeting With $TRUMP Holders",
-      "link": "https://bitcoinist.com/donald-trump-crypto-meeting/",
-      "published_at": "2026-04-27T12:30:14+00:00",
+      "title": "Unstaking Move By Ethereum Foundation Draws Market Focus, A Sell-Off On The Horizon?",
+      "link": "https://bitcoinist.com/ethereum-unstaking-move/",
+      "published_at": "2026-04-27T14:00:26+00:00",
       "source": "bitcoinist.com",
-      "score": 1,
-      "ntitle": "here s what happened donald trump crypto meeting trump holders",
+      "score": 2,
+      "ntitle": "unstaking move ethereum foundation draws market focus sell off horizon",
       "coins": [
-        "TRUMP"
+        "ETH"
       ],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -738,16 +744,16 @@
       "agency": null
     },
     {
-      "title": "Survey Finds 36% of Crypto Traders Cut Spending Amid BTC Slump",
-      "link": "https://Blockchain.News/news/crypto-traders-cut-spending-btc-slump",
-      "published_at": "2026-04-26T13:25:39+00:00",
+      "title": "Litecoin (LTC) Exploited: 13-Block Reorg Triggers Finality Debate",
+      "link": "https://Blockchain.News/news/litecoin-13-block-reorg-finality-debate",
+      "published_at": "2026-04-26T17:30:29+00:00",
       "source": "blockchain.news",
       "score": 1,
-      "ntitle": "survey finds 36 crypto traders cut spending amid btc slump",
+      "ntitle": "litecoin ltc exploited 13 block reorg triggers finality debate",
       "coins": [
-        "BTC"
+        "LTC"
       ],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -840,20 +846,6 @@
       "ntitle": "market conditions force 1 3 crypto traders cut everyday spending survey",
       "coins": [],
       "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Michael Saylor teases Bitcoin buy, but bulls may get less",
-      "link": "https://crypto.news/michael-saylor-teases-bitcoin-buy-but-bulls-may-get-less/",
-      "published_at": "2026-04-26T16:00:00+00:00",
-      "source": "crypto.news",
-      "score": 1,
-      "ntitle": "michael saylor teases bitcoin buy but bulls may get less",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -1037,26 +1029,14 @@
       "agency": null
     },
     {
-      "title": "DOJ Drops Criminal Probe of Fed Chair Powell, Clearing Path for Warsh",
-      "link": "https://bitcoinmagazine.com/news/doj-drops-probe-of-fed-chair-powell",
-      "published_at": "2026-04-24T17:13:14+00:00",
-      "source": "bitcoinmagazine.com",
-      "score": 1,
-      "ntitle": "doj drops criminal probe fed chair powell clearing path warsh",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Ethereum Foundation Unstakes 17K ETH, Raising Strategy Questions",
-      "link": "https://Blockchain.News/news/ethereum-foundation-unstakes-17k-eth-strategy",
-      "published_at": "2026-04-26T11:24:40+00:00",
+      "title": "Survey Finds 36% of Crypto Traders Cut Spending Amid BTC Slump",
+      "link": "https://Blockchain.News/news/crypto-traders-cut-spending-btc-slump",
+      "published_at": "2026-04-26T13:25:39+00:00",
       "source": "blockchain.news",
       "score": 1,
-      "ntitle": "ethereum foundation unstakes 17k eth raising strategy questions",
+      "ntitle": "survey finds 36 crypto traders cut spending amid btc slump",
       "coins": [
-        "ETH"
+        "BTC"
       ],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -1082,6 +1062,34 @@
       "score": 1,
       "ntitle": "ascendex earn guide earn upto 14 apr stablecoins",
       "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Why DeFi isn't dead despite massive exploits and $13 billion investor exodus",
+      "link": "https://www.coindesk.com/business/2026/04/26/why-defi-isn-t-dead-despite-massive-exploits-and-usd13-billion-investor-exodus",
+      "published_at": "2026-04-26T16:00:00+00:00",
+      "source": "coindesk.com",
+      "score": 3,
+      "ntitle": "why defi isn t dead despite massive exploits 13 billion investor exodus",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Weekly Crypto Prediction: Bitcoin, Ethereum, and XRP Price Ahead of April 28-27 FOMC",
+      "link": "https://coingape.com/markets/weekly-crypto-prediction-bitcoin-ethereum-and-xrp-price-ahead-of-april-28-27-fomc/",
+      "published_at": "2026-04-26T15:06:43+00:00",
+      "source": "coingape.com",
+      "score": 9,
+      "ntitle": "weekly crypto prediction bitcoin ethereum xrp price ahead april 28 27 fomc",
+      "coins": [
+        "BTC",
+        "ETH",
+        "XRP"
+      ],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
@@ -1229,12 +1237,12 @@
       "agency": "SEC"
     },
     {
-      "title": "Hardware Wallet Tangem Announces Global Rollout of Its Retail Payments Service",
-      "link": "https://thedefiant.io/news/infrastructure/tangem-announces-global-rollout-of-tangem-pay",
-      "published_at": "2026-04-20T13:00:00+00:00",
+      "title": "Dune Analytics Reveals 47% of LayerZero OApps Use Minimal DVN Security Following KelpDAO Hack",
+      "link": "https://thedefiant.io/news/security/dune-layerzero-oapp-dvn-security-analysis-1bklaq",
+      "published_at": "2026-04-20T16:46:22+00:00",
       "source": "thedefiant.io",
-      "score": 1,
-      "ntitle": "hardware wallet tangem announces global rollout retail payments service",
+      "score": 2,
+      "ntitle": "dune analytics reveals 47 layerzero oapps use minimal dvn security following kelpdao hack",
       "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
@@ -1327,16 +1335,13 @@
       "agency": "SEC"
     },
     {
-      "title": "DeFi Contagion Spreads Beyond Aave as LayerZero, Lido, Ethena Suffer Sharp Declines: Santiment",
-      "link": "https://thedefiant.io/news/defi/defi-tokens-plunge-aave-layerzero-lido-ethena-contagion-hvywbw",
-      "published_at": "2026-04-20T11:46:26+00:00",
+      "title": "Hardware Wallet Tangem Announces Global Rollout of Its Retail Payments Service",
+      "link": "https://thedefiant.io/news/infrastructure/tangem-announces-global-rollout-of-tangem-pay",
+      "published_at": "2026-04-20T13:00:00+00:00",
       "source": "thedefiant.io",
-      "score": 4,
-      "ntitle": "defi contagion spreads beyond aave layerzero lido ethena suffer sharp declines santiment",
-      "coins": [
-        "AAVE",
-        "ENA"
-      ],
+      "score": 1,
+      "ntitle": "hardware wallet tangem announces global rollout retail payments service",
+      "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
@@ -1344,119 +1349,93 @@
   ],
   "clusters": [
     {
-      "id": 25,
-      "title": "Strive Expands Bitcoin Treasury With $61.4 Million Purchase, Holdings Reach 14,557 BTC",
-      "link": "https://bitcoinmagazine.com/news/strive-expands-bitcoin-treasury",
-      "source": "bitcoinmagazine.com",
-      "published_at": "2026-04-27T14:15:03+00:00",
-      "sentiment": "bullish",
+      "id": 14,
+      "title": "Capital B Increases Bitcoin Holdings to 2,943 Following €0.4 Million Purchase",
+      "link": "https://btctimes.com/capital-b-increases-bitcoin-holdings-to-2-943-following-eu0-4-million-purchase/",
+      "source": "btctimes.com",
+      "published_at": "2026-04-27T11:00:04+00:00",
+      "sentiment": "neutral",
       "coins": [
         "BTC"
       ],
       "sources": [
-        "bitcoinmagazine.com",
-        "coingape.com",
-        "btctimes.com"
+        "u.today",
+        "btctimes.com",
+        "crypto.news"
       ],
       "count": 3,
       "members": [
         {
-          "title": "Strive Expands Bitcoin Treasury With $61.4 Million Purchase, Holdings Reach 14,557 BTC",
-          "link": "https://bitcoinmagazine.com/news/strive-expands-bitcoin-treasury",
-          "source": "bitcoinmagazine.com",
-          "published_at": "2026-04-27T14:15:03+00:00"
+          "title": "Strategy Tops Bitcoin Holdings With $255 Million Purchase",
+          "link": "https://u.today/strategy-tops-bitcoin-holdings-with-255-million-purchase",
+          "source": "u.today",
+          "published_at": "2026-04-27T17:08:21+00:00"
+        },
+        {
+          "title": "Strategy Bitcoin Buy: Saylor Adds $255 Million in His Fourth Purchase This Month",
+          "link": "https://crypto.news/strategy-bitcoin-buy-hits-255m/",
+          "source": "crypto.news",
+          "published_at": "2026-04-27T17:25:03+00:00"
         },
         {
           "title": "Capital B Increases Bitcoin Holdings to 2,943 Following €0.4 Million Purchase",
           "link": "https://btctimes.com/capital-b-increases-bitcoin-holdings-to-2-943-following-eu0-4-million-purchase/",
           "source": "btctimes.com",
           "published_at": "2026-04-27T11:00:04+00:00"
-        },
-        {
-          "title": "Just-In: Vivek Ramaswamy’s Strive Boosts Bitcoin Holdings With $61M BTC Purchase",
-          "link": "https://coingape.com/vivek-ramaswamy-strive-boosts-bitcoin-holdings-with-61m-btc-purchase/",
-          "source": "coingape.com",
-          "published_at": "2026-04-27T15:06:55+00:00"
         }
       ]
     },
     {
-      "id": 19,
-      "title": "Microsoft, OpenAI end AGI deal; GPT-5.5 market remains steady",
-      "link": "https://cryptobriefing.com/microsoft-openai-end-agi-deal-gpt-55-market-remains-steady/",
-      "source": "cryptobriefing.com",
-      "published_at": "2026-04-27T16:22:56+00:00",
+      "id": 11,
+      "title": "Consensys and Joe Lubin Join DeFi United Recovery Effort With up to 30,000 ETH in Support",
+      "link": "https://news.bitcoin.com/consensys-and-joe-lubin-join-defi-united-recovery-effort-with-up-to-30000-eth-in-support/",
+      "source": "news.bitcoin.com",
+      "published_at": "2026-04-27T16:50:01+00:00",
       "sentiment": "neutral",
-      "coins": [],
-      "sources": [
-        "cryptobriefing.com",
-        "decrypt.co"
-      ],
-      "count": 2,
-      "members": [
-        {
-          "title": "Microsoft, OpenAI end AGI deal; GPT-5.5 market remains steady",
-          "link": "https://cryptobriefing.com/microsoft-openai-end-agi-deal-gpt-55-market-remains-steady/",
-          "source": "cryptobriefing.com",
-          "published_at": "2026-04-27T16:22:56+00:00"
-        },
-        {
-          "title": "Microsoft and OpenAI Rework AI Deal, Cutting Exclusivity and AGI Provisions",
-          "link": "https://decrypt.co/365630/microsoft-openai-rework-ai-deal-cutting-exclusivity-agi-provisions",
-          "source": "decrypt.co",
-          "published_at": "2026-04-27T14:57:43+00:00"
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "title": "Tether expands into Bitcoin mining infrastructure with launch of open-source MDK framework",
-      "link": "https://ambcrypto.com/tether-expands-into-bitcoin-mining-infrastructure-with-launch-of-open-source-mdk-framework/",
-      "source": "ambcrypto.com",
-      "published_at": "2026-04-27T16:03:39+00:00",
-      "sentiment": "bullish",
       "coins": [
-        "BTC"
+        "TRX",
+        "SOL",
+        "ETH"
       ],
       "sources": [
-        "crypto.news",
-        "ambcrypto.com"
+        "news.bitcoin.com",
+        "thedefiant.io"
       ],
       "count": 2,
       "members": [
         {
-          "title": "Tether expands into Bitcoin mining infrastructure with launch of open-source MDK framework",
-          "link": "https://ambcrypto.com/tether-expands-into-bitcoin-mining-infrastructure-with-launch-of-open-source-mdk-framework/",
-          "source": "ambcrypto.com",
-          "published_at": "2026-04-27T16:03:39+00:00"
+          "title": "Consensys and Joe Lubin Join DeFi United Recovery Effort With up to 30,000 ETH in Support",
+          "link": "https://news.bitcoin.com/consensys-and-joe-lubin-join-defi-united-recovery-effort-with-up-to-30000-eth-in-support/",
+          "source": "news.bitcoin.com",
+          "published_at": "2026-04-27T16:50:01+00:00"
         },
         {
-          "title": "Tether’s new open-source mining kit is a power grab over Bitcoin’s industrial stack",
-          "link": "https://crypto.news/tethers-new-open-source-mining-kit-is-a-power-grab-over-bitcoins-industrial-stack/",
-          "source": "crypto.news",
-          "published_at": "2026-04-27T15:41:05+00:00"
+          "title": "DeFi United Hits Recovery Target as Consensys, Solana, TRON Pledge Support",
+          "link": "https://thedefiant.io/news/defi/defi-united-hits-recovery-target-as-consensys-solana-tron-pledge-support",
+          "source": "thedefiant.io",
+          "published_at": "2026-04-27T17:37:24+00:00"
         }
       ]
     }
   ],
   "trending": [
     {
-      "tag": "#XRP",
+      "tag": "#Ai",
       "count": 61,
-      "type": "coin",
+      "type": "topic",
       "pct": 100
     },
     {
-      "tag": "#Ai",
+      "tag": "#XRP",
       "count": 60,
-      "type": "topic",
+      "type": "coin",
       "pct": 98
     },
     {
       "tag": "#Xrp",
-      "count": 55,
+      "count": 53,
       "type": "topic",
-      "pct": 90
+      "pct": 87
     },
     {
       "tag": "#Defi",
@@ -1466,28 +1445,28 @@
     },
     {
       "tag": "#Bitcoin",
-      "count": 38,
+      "count": 40,
       "type": "topic",
-      "pct": 62
+      "pct": 66
     },
     {
       "tag": "#BTC",
-      "count": 35,
+      "count": 37,
       "type": "coin",
-      "pct": 57
+      "pct": 61
     },
     {
       "tag": "#Etf",
-      "count": 19,
+      "count": 17,
       "type": "topic",
-      "pct": 31
+      "pct": 28
     },
     {
-      "tag": "#XDC",
-      "count": 10,
+      "tag": "#ETH",
+      "count": 11,
       "type": "coin",
-      "pct": 16
+      "pct": 18
     }
   ],
-  "generated_at": "2026-04-27T16:25:13.966844+00:00"
+  "generated_at": "2026-04-27T17:46:59.552838+00:00"
 }
