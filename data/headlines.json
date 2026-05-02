@@ -2,65 +2,80 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "SIREN holds $0.70 support as price compresses below $0.90: Is $1.04 next?",
-      "link": "https://ambcrypto.com/siren-holds-0-70-support-as-price-compresses-below-0-90-is-1-04-next/",
-      "published_at": "2026-05-02T20:00:33+00:00",
+      "title": "a16z backs CFTC’s push for clear rules on prediction markets: ‘They’re information machines!’",
+      "link": "https://ambcrypto.com/a16z-backs-cftcs-push-for-clear-rules-on-prediction-markets-theyre-information-machines/",
+      "published_at": "2026-05-02T21:00:39+00:00",
       "source": "ambcrypto.com",
-      "score": 1,
-      "ntitle": "siren holds 0 70 support price compresses below 0 90 1 04 next",
+      "score": 2,
+      "ntitle": "a16z backs cftc s push clear rules prediction markets they re information machines",
       "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "CFTC"
     },
     {
-      "title": "ONDO Finance Leads RWA Space With Strong Q1 2026 Fundamentals and Institutional Partnerships",
-      "link": "https://blockonomi.com/ondo-finance-leads-rwa-space-with-strong-q1-2026-fundamentals-and-institutional-partnerships/",
-      "published_at": "2026-05-02T20:56:17+00:00",
-      "source": "blockonomi.com",
-      "score": 12,
-      "ntitle": "ondo finance leads rwa space strong q1 2026 fundamentals institutional partnerships",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "QFEX Review: Best Perpetual Futures Exchange?",
-      "link": "https://coincodecap.com/qfex-review?utm_source=rss&utm_medium=rss&utm_campaign=qfex-review",
-      "published_at": "2026-05-02T20:12:26+00:00",
-      "source": "coincodecap.com",
-      "score": 1,
-      "ntitle": "qfex review best perpetual futures exchange",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Solana Co-founder Says Ethereum L2s Warns Prone To Quantum Risk",
-      "link": "https://coingape.com/solana-co-founder-says-ethereum-l2s-warns-prone-to-quantum-risk/",
-      "published_at": "2026-05-02T20:07:16+00:00",
-      "source": "coingape.com",
-      "score": 1,
-      "ntitle": "solana co founder says ethereum l2s warns prone quantum risk",
+      "title": "Ethereum Foundation Moves 10K ETH In Latest Bitmine Transfer – Details",
+      "link": "https://bitcoinist.com/ethereum-foundation-10k-eth-in-bitmine-transfer/",
+      "published_at": "2026-05-02T21:00:57+00:00",
+      "source": "bitcoinist.com",
+      "score": 5,
+      "ntitle": "ethereum foundation moves 10k eth latest bitmine transfer details",
       "coins": [
-        "ETH",
-        "SOL"
+        "ETH"
       ],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Iran’s oil strategy may prevent WTI crude from hitting $150 in May 2026",
-      "link": "https://cryptobriefing.com/irans-oil-strategy-may-prevent-wti-crude-from-hitting-150-in-may-2026/",
-      "published_at": "2026-05-02T20:53:40+00:00",
+      "title": "Sui Blockchain Is Rewriting the Rules of Transaction Speed, Security, and Institutional DeFi",
+      "link": "https://blockonomi.com/sui-blockchain-is-rewriting-the-rules-of-transaction-speed-security-and-institutional-defi/",
+      "published_at": "2026-05-02T21:25:56+00:00",
+      "source": "blockonomi.com",
+      "score": 6,
+      "ntitle": "sui blockchain rewriting rules transaction speed security institutional defi",
+      "coins": [
+        "SUI"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Just-In: Michael Saylor’s STRC Team Fires Back At Peter Schiff Over Bitcoin Criticism",
+      "link": "https://coingape.com/michael-saylor-strc-team-fires-back-at-peter-schiff-over-bitcoin-criticism/",
+      "published_at": "2026-05-02T21:03:13+00:00",
+      "source": "coingape.com",
+      "score": 2,
+      "ntitle": "just michael saylor s strc team fires back peter schiff over bitcoin criticism",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "US defense vulnerabilities reduce likelihood of Iran invasion: WSJ",
+      "link": "https://cryptobriefing.com/us-defense-vulnerabilities-reduce-likelihood-of-iran-invasion-wsj/",
+      "published_at": "2026-05-02T21:22:37+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "iran s oil strategy may prevent wti crude hitting 150 may 2026",
+      "ntitle": "us defense vulnerabilities reduce likelihood iran invasion wsj",
       "coins": [],
       "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "KelpDAO and Drift Lead Devastating $650M Crypto Hack Wave of April",
+      "link": "https://cryptopotato.com/kelpdao-and-drift-lead-devastating-650m-crypto-hack-wave-of-april/",
+      "published_at": "2026-05-02T21:28:58+00:00",
+      "source": "cryptopotato.com",
+      "score": 1,
+      "ntitle": "kelpdao drift lead devastating 650m crypto hack wave april",
+      "coins": [],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -77,42 +92,28 @@
       "agency": "SEC"
     },
     {
-      "title": "Dogecoin Hits Highest Monthly Gains in 9 Months, Outpaces Bitcoin and XRP",
-      "link": "https://u.today/dogecoin-hits-highest-monthly-gains-in-9-months-outpaces-bitcoin-and-xrp",
-      "published_at": "2026-05-02T20:02:00+00:00",
-      "source": "u.today",
-      "score": 6,
-      "ntitle": "dogecoin hits highest monthly gains 9 months outpaces bitcoin xrp",
-      "coins": [
-        "BTC",
-        "DOGE",
-        "XRP"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Berkshire Hathaway Hits Record $397.4 Billion Cash Reserve in First Earnings Report Without Buffett",
-      "link": "https://blockonomi.com/berkshire-hathaway-hits-record-397-4-billion-cash-reserve-in-first-earnings-report-without-buffett/",
-      "published_at": "2026-05-02T20:32:51+00:00",
+      "title": "Stablecoin Dominance Holds Firm While Crypto Rally Faces Bull Trap Risks",
+      "link": "https://blockonomi.com/stablecoin-dominance-holds-firm-while-crypto-rally-faces-bull-trap-risks/",
+      "published_at": "2026-05-02T21:11:01+00:00",
       "source": "blockonomi.com",
-      "score": 4,
-      "ntitle": "berkshire hathaway hits record 397 4 billion cash reserve first earnings report without buffett",
+      "score": 1,
+      "ntitle": "stablecoin dominance holds firm while crypto rally faces bull trap risks",
       "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "OPEC+ boosts output amid Hormuz closure, oil prices surge past $125",
-      "link": "https://cryptobriefing.com/opec-boosts-output-amid-hormuz-closure-oil-prices-surge-past-125/",
-      "published_at": "2026-05-02T20:51:40+00:00",
+      "title": "CryptoQuant warns Bitcoin’s April surge speculative, correction risk looms",
+      "link": "https://cryptobriefing.com/cryptoquant-warns-bitcoins-april-surge-speculative-correction-risk-looms/",
+      "published_at": "2026-05-02T21:13:39+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "opec boosts output amid hormuz closure oil prices surge past 125",
-      "coins": [],
-      "sentiment": "bullish",
+      "ntitle": "cryptoquant warns bitcoin s april surge speculative correction risk looms",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     }
@@ -131,15 +132,13 @@
       "agency": null
     },
     {
-      "title": "Injective’s bias remains bearish despite 8% weekend rally – Here’s why",
-      "link": "https://ambcrypto.com/injectives-bias-remains-bearish-despite-8-weekend-rally-heres-why/",
-      "published_at": "2026-05-02T19:00:57+00:00",
+      "title": "SIREN holds $0.70 support as price compresses below $0.90: Is $1.04 next?",
+      "link": "https://ambcrypto.com/siren-holds-0-70-support-as-price-compresses-below-0-90-is-1-04-next/",
+      "published_at": "2026-05-02T20:00:33+00:00",
       "source": "ambcrypto.com",
       "score": 1,
-      "ntitle": "injective s bias remains bearish despite 8 weekend rally here s why",
-      "coins": [
-        "INJ"
-      ],
+      "ntitle": "siren holds 0 70 support price compresses below 0 90 1 04 next",
+      "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
@@ -199,12 +198,12 @@
       "agency": null
     },
     {
-      "title": "Polymarket April Fees Hit $43.36M as On-Chain Prediction Markets Surge",
-      "link": "https://blockonomi.com/polymarket-april-fees-hit-43-36m-as-on-chain-prediction-markets-surge/",
-      "published_at": "2026-05-02T17:45:31+00:00",
+      "title": "Berkshire Hathaway Hits Record $397.4 Billion Cash Reserve in First Earnings Report Without Buffett",
+      "link": "https://blockonomi.com/berkshire-hathaway-hits-record-397-4-billion-cash-reserve-in-first-earnings-report-without-buffett/",
+      "published_at": "2026-05-02T20:32:51+00:00",
       "source": "blockonomi.com",
-      "score": 1,
-      "ntitle": "polymarket april fees hit 43 36m chain prediction markets surge",
+      "score": 4,
+      "ntitle": "berkshire hathaway hits record 397 4 billion cash reserve first earnings report without buffett",
       "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -223,12 +222,12 @@
       "agency": null
     },
     {
-      "title": "Architect Exchange Review: Best Perpetual Futures platform!",
-      "link": "https://coincodecap.com/architect-exchange-review?utm_source=rss&utm_medium=rss&utm_campaign=architect-exchange-review",
-      "published_at": "2026-05-02T18:50:13+00:00",
+      "title": "QFEX Review: Best Perpetual Futures Exchange?",
+      "link": "https://coincodecap.com/qfex-review?utm_source=rss&utm_medium=rss&utm_campaign=qfex-review",
+      "published_at": "2026-05-02T20:12:26+00:00",
       "source": "coincodecap.com",
       "score": 1,
-      "ntitle": "architect exchange review best perpetual futures platform",
+      "ntitle": "qfex review best perpetual futures exchange",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -247,17 +246,17 @@
       "agency": null
     },
     {
-      "title": "Flare Founder Reveals Why XRP Ledger Could Dominate RWA Issuance",
-      "link": "https://coingape.com/flare-founder-reveals-why-xrp-ledger-could-dominate-rwa-issuance/",
-      "published_at": "2026-05-02T16:13:18+00:00",
+      "title": "Solana Co-founder Says Ethereum L2s Warns Prone To Quantum Risk",
+      "link": "https://coingape.com/solana-co-founder-says-ethereum-l2s-warns-prone-to-quantum-risk/",
+      "published_at": "2026-05-02T20:07:16+00:00",
       "source": "coingape.com",
-      "score": 16,
-      "ntitle": "flare founder reveals why xrp ledger could dominate rwa issuance",
+      "score": 1,
+      "ntitle": "solana co founder says ethereum l2s warns prone quantum risk",
       "coins": [
-        "FLR",
-        "XRP"
+        "ETH",
+        "SOL"
       ],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -286,16 +285,14 @@
       "agency": null
     },
     {
-      "title": "Pharos Network FDV may exceed $50M post-$PROS launch on Aerodrome",
-      "link": "https://cryptobriefing.com/pharos-network-fdv-may-exceed-50m-post-pros-launch-on-aerodrome/",
-      "published_at": "2026-05-02T19:50:01+00:00",
+      "title": "Iran maintains Hormuz blockade, impacting global oil shipments",
+      "link": "https://cryptobriefing.com/iran-maintains-hormuz-blockade-impacting-global-oil-shipments/",
+      "published_at": "2026-05-02T20:22:27+00:00",
       "source": "cryptobriefing.com",
-      "score": 5,
-      "ntitle": "pharos network fdv may exceed 50m post pros launch aerodrome",
-      "coins": [
-        "PROS"
-      ],
-      "sentiment": "bullish",
+      "score": 1,
+      "ntitle": "iran maintains hormuz blockade impacting global oil shipments",
+      "coins": [],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -392,13 +389,15 @@
       "agency": null
     },
     {
-      "title": "26% XRP Move Incoming? Key Breakout Levels to Watch",
-      "link": "https://u.today/26-xrp-move-incoming-key-breakout-levels-to-watch",
-      "published_at": "2026-05-02T13:50:00+00:00",
+      "title": "Dogecoin Hits Highest Monthly Gains in 9 Months, Outpaces Bitcoin and XRP",
+      "link": "https://u.today/dogecoin-hits-highest-monthly-gains-in-9-months-outpaces-bitcoin-and-xrp",
+      "published_at": "2026-05-02T20:02:00+00:00",
       "source": "u.today",
       "score": 6,
-      "ntitle": "26 xrp move incoming key breakout levels watch",
+      "ntitle": "dogecoin hits highest monthly gains 9 months outpaces bitcoin xrp",
       "coins": [
+        "BTC",
+        "DOGE",
         "XRP"
       ],
       "sentiment": "bullish",
@@ -406,16 +405,16 @@
       "agency": null
     },
     {
-      "title": "May records strongest BTC ETF inflows in 2026: Is this the boost Bitcoin needs?",
-      "link": "https://ambcrypto.com/may-records-strongest-btc-etf-inflows-in-2026-is-this-the-boost-bitcoin-needs/",
-      "published_at": "2026-05-02T18:00:05+00:00",
+      "title": "Injective’s bias remains bearish despite 8% weekend rally – Here’s why",
+      "link": "https://ambcrypto.com/injectives-bias-remains-bearish-despite-8-weekend-rally-heres-why/",
+      "published_at": "2026-05-02T19:00:57+00:00",
       "source": "ambcrypto.com",
-      "score": 5,
-      "ntitle": "may records strongest btc etf inflows 2026 this boost bitcoin needs",
+      "score": 1,
+      "ntitle": "injective s bias remains bearish despite 8 weekend rally here s why",
       "coins": [
-        "BTC"
+        "INJ"
       ],
-      "sentiment": "bullish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -474,14 +473,17 @@
       "agency": null
     },
     {
-      "title": "TOTAL2 Altcoin Market Cap Compression Signals Potential Breakout Formation",
-      "link": "https://blockonomi.com/total2-altcoin-market-cap-compression-signals-potential-breakout-formation/",
-      "published_at": "2026-05-02T17:31:58+00:00",
+      "title": "XRP Exchange Reserves on Binance Fall to 2.75B as Selling Pressure Eases",
+      "link": "https://blockonomi.com/xrp-exchange-reserves-on-binance-fall-to-2-75b-as-selling-pressure-eases/",
+      "published_at": "2026-05-02T19:59:33+00:00",
       "source": "blockonomi.com",
-      "score": 1,
-      "ntitle": "total2 altcoin market cap compression signals potential breakout formation",
-      "coins": [],
-      "sentiment": "bullish",
+      "score": 6,
+      "ntitle": "xrp exchange reserves binance fall 2 75b selling pressure eases",
+      "coins": [
+        "BNB",
+        "XRP"
+      ],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -498,15 +500,13 @@
       "agency": null
     },
     {
-      "title": "Derp.Trade Review: Best Place to Trade Any Solana Asset",
-      "link": "https://coincodecap.com/derp-trade-review?utm_source=rss&utm_medium=rss&utm_campaign=derp-trade-review",
-      "published_at": "2026-05-02T18:14:13+00:00",
+      "title": "Architect Exchange Review: Best Perpetual Futures platform!",
+      "link": "https://coincodecap.com/architect-exchange-review?utm_source=rss&utm_medium=rss&utm_campaign=architect-exchange-review",
+      "published_at": "2026-05-02T18:50:13+00:00",
       "source": "coincodecap.com",
       "score": 1,
-      "ntitle": "derp trade review best place trade any solana asset",
-      "coins": [
-        "SOL"
-      ],
+      "ntitle": "architect exchange review best perpetual futures platform",
+      "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
@@ -617,18 +617,16 @@
       "agency": null
     },
     {
-      "title": "Ethereum Foundation finalizes sale of 10,000 ether to BitMine as part of its treasury strategy",
-      "link": "https://www.coindesk.com/business/2026/05/01/ethereum-foundation-finalizes-sale-of-10-000-ether-to-bitmine-as-part-of-its-treasury-strategy",
-      "published_at": "2026-05-01T18:16:40+00:00",
+      "title": "Clarity Act text lets crypto firms offer stablecoin rewards while shielding bank yield",
+      "link": "https://www.coindesk.com/policy/2026/05/01/clarity-act-text-lets-crypto-firms-offer-stablecoin-rewards-while-shielding-bank-yield",
+      "published_at": "2026-05-01T21:33:27+00:00",
       "source": "coindesk.com",
       "score": 4,
-      "ntitle": "ethereum foundation finalizes sale 10 000 ether bitmine part treasury strategy",
-      "coins": [
-        "ETH"
-      ],
-      "sentiment": "neutral",
+      "ntitle": "clarity act text lets crypto firms offer stablecoin rewards while shielding bank yield",
+      "coins": [],
+      "sentiment": "bearish",
       "is_regulation": true,
-      "agency": "Treasury"
+      "agency": "Congress"
     },
     {
       "title": "Visa Taps Japanese Ripple Affiliate To Offer BTC, ETH, XRP Rewards Via Credit Cards",
@@ -659,42 +657,40 @@
       "agency": null
     },
     {
-      "title": "XRP sentiment hits 2-year high, but why is price stuck?",
-      "link": "https://cointelegraph.com/markets/xrp-sentiment-hits-2-year-high-but-why-is-price-stuck?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-05-01T19:22:16+00:00",
+      "title": "Three Bitcoin data points suggest a rally to $80K is imminent",
+      "link": "https://cointelegraph.com/markets/3-bitcoin-data-points-suggest-rally-to-80k-is-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-05-01T21:14:23+00:00",
       "source": "cointelegraph.com",
-      "score": 10,
-      "ntitle": "xrp sentiment hits 2 year high but why price stuck",
+      "score": 1,
+      "ntitle": "three bitcoin data points suggest rally 80k imminent",
       "coins": [
-        "XRP"
+        "BTC"
       ],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "137 Ventures reloads with $700m to chase AI agents and space",
-      "link": "https://crypto.news/137-ventures-reloads-with-700m-to-chase-ai-agents-and-space/",
-      "published_at": "2026-05-01T20:00:00+00:00",
+      "title": "Crypto VC shrinks to $659m in April, lowest since 2024",
+      "link": "https://crypto.news/crypto-vc-shrinks-to-659m-in-april-lowest-since-2024/",
+      "published_at": "2026-05-01T21:00:00+00:00",
       "source": "crypto.news",
-      "score": 1,
-      "ntitle": "137 ventures reloads 700m chase ai agents space",
+      "score": 3,
+      "ntitle": "crypto vc shrinks 659m april lowest since 2024",
       "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Dogecoin (DOGE) Whales Quietly Accumulate as Holdings Hit Record Levels",
-      "link": "https://cryptopotato.com/dogecoin-doge-whales-quietly-accumulate-as-holdings-hit-record-levels/",
-      "published_at": "2026-05-01T19:12:55+00:00",
+      "title": "MSTR Snaps 9-Month Losing Streak With 33% Gain in April",
+      "link": "https://cryptopotato.com/mstr-snaps-9-month-losing-streak-with-33-gain-in-april/",
+      "published_at": "2026-05-01T21:21:14+00:00",
       "source": "cryptopotato.com",
-      "score": 1,
-      "ntitle": "dogecoin doge whales quietly accumulate holdings hit record levels",
-      "coins": [
-        "DOGE"
-      ],
-      "sentiment": "bullish",
+      "score": 3,
+      "ntitle": "mstr snaps 9 month losing streak 33 gain april",
+      "coins": [],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -725,18 +721,16 @@
       "agency": null
     },
     {
-      "title": "Ethereum Foundation Sells $23 Million More in ETH to Tom Lee's BitMine",
-      "link": "https://decrypt.co/366385/ethereum-foundation-sells-23-million-more-eth-tom-lee-bitmine",
-      "published_at": "2026-05-01T18:55:21+00:00",
+      "title": "Minnesota Moves to Ban AI Apps That Generate Fake Nude Images",
+      "link": "https://decrypt.co/366388/minnesota-moves-ban-ai-apps-generate-fake-nude-images",
+      "published_at": "2026-05-01T21:16:03+00:00",
       "source": "decrypt.co",
-      "score": 3,
-      "ntitle": "ethereum foundation sells 23 million more eth tom lee s bitmine",
-      "coins": [
-        "ETH"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
+      "score": 1,
+      "ntitle": "minnesota moves ban ai apps that generate fake nude images",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "Regulatory"
     },
     {
       "title": "Agencies issue host state loan-to-deposit ratios",
@@ -775,14 +769,17 @@
       "agency": null
     },
     {
-      "title": "Tether slows gold purchases to 6 tons in first quarter",
-      "link": "https://www.investing.com/news/cryptocurrency-news/tether-slows-gold-purchases-to-6-tons-in-first-quarter-93CH-4654280",
-      "published_at": "2026-05-01T19:47:24+00:00",
+      "title": "Bitcoin climbs back near $78k as stock markets rally; Iran risks cap gains",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-above-77k-as-stock-markets-rally-iran-risks-cap-upside-4651950",
+      "published_at": "2026-05-01T21:18:50+00:00",
       "source": "investing.com",
       "score": 1,
-      "ntitle": "tether slows gold purchases 6 tons first quarter",
-      "coins": [],
-      "sentiment": "neutral",
+      "ntitle": "bitcoin climbs back near 78k stock markets rally iran risks cap gains",
+      "coins": [
+        "BTC",
+        "NEAR"
+      ],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -1150,7 +1147,7 @@
   ],
   "clusters": [
     {
-      "id": 7,
+      "id": 12,
       "title": "Berkshire Hathaway Hits Record $397.4 Billion Cash Reserve in First Earnings Report Without Buffett",
       "link": "https://blockonomi.com/berkshire-hathaway-hits-record-397-4-billion-cash-reserve-in-first-earnings-report-without-buffett/",
       "source": "blockonomi.com",
@@ -1160,27 +1157,27 @@
         "BTC"
       ],
       "sources": [
-        "blockonomi.com",
-        "beincrypto.com"
+        "beincrypto.com",
+        "blockonomi.com"
       ],
       "count": 2,
       "members": [
-        {
-          "title": "Berkshire Hathaway Hits Record $397.4 Billion Cash Reserve in First Earnings Report Without Buffett",
-          "link": "https://blockonomi.com/berkshire-hathaway-hits-record-397-4-billion-cash-reserve-in-first-earnings-report-without-buffett/",
-          "source": "blockonomi.com",
-          "published_at": "2026-05-02T20:32:51+00:00"
-        },
         {
           "title": "Berkshire Cash Hits Record $397 Billion as Abel Keeps Buffett’s Anti-Bitcoin Stance",
           "link": "https://beincrypto.com/berkshire-cash-record-abel-bitcoin-skepticism/",
           "source": "beincrypto.com",
           "published_at": "2026-05-02T16:41:13+00:00"
+        },
+        {
+          "title": "Berkshire Hathaway Hits Record $397.4 Billion Cash Reserve in First Earnings Report Without Buffett",
+          "link": "https://blockonomi.com/berkshire-hathaway-hits-record-397-4-billion-cash-reserve-in-first-earnings-report-without-buffett/",
+          "source": "blockonomi.com",
+          "published_at": "2026-05-02T20:32:51+00:00"
         }
       ]
     },
     {
-      "id": 2,
+      "id": 16,
       "title": "QFEX Review: Best Perpetual Futures Exchange?",
       "link": "https://coincodecap.com/qfex-review?utm_source=rss&utm_medium=rss&utm_campaign=qfex-review",
       "source": "coincodecap.com",
@@ -1210,52 +1207,52 @@
   "trending": [
     {
       "tag": "#XRP",
-      "count": 74,
+      "count": 72,
       "type": "coin",
       "pct": 100
     },
     {
       "tag": "#Xrp",
-      "count": 70,
+      "count": 68,
       "type": "topic",
-      "pct": 95
+      "pct": 94
     },
     {
       "tag": "#Ai",
-      "count": 53,
+      "count": 55,
       "type": "topic",
-      "pct": 72
+      "pct": 76
     },
     {
       "tag": "#Defi",
-      "count": 36,
+      "count": 38,
       "type": "topic",
-      "pct": 49
-    },
-    {
-      "tag": "#BTC",
-      "count": 34,
-      "type": "coin",
-      "pct": 46
+      "pct": 53
     },
     {
       "tag": "#Bitcoin",
-      "count": 32,
+      "count": 31,
       "type": "topic",
       "pct": 43
+    },
+    {
+      "tag": "#BTC",
+      "count": 29,
+      "type": "coin",
+      "pct": 40
     },
     {
       "tag": "#ETH",
       "count": 15,
       "type": "coin",
-      "pct": 20
+      "pct": 21
     },
     {
-      "tag": "#HYPE",
-      "count": 12,
-      "type": "coin",
-      "pct": 16
+      "tag": "#Stablecoin",
+      "count": 13,
+      "type": "topic",
+      "pct": 18
     }
   ],
-  "generated_at": "2026-05-02T20:57:16.685307+00:00"
+  "generated_at": "2026-05-02T21:33:28.924511+00:00"
 }
