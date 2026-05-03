@@ -27,15 +27,6 @@
     "coins": []
   },
   {
-    "title": "Iranian supertanker evades US blockade, challenges enforcement",
-    "link": "https://cryptobriefing.com/iranian-supertanker-evades-us-blockade-challenges-enforcement/",
-    "source": "cryptobriefing.com",
-    "published_at": "2026-05-03T09:53:10+00:00",
-    "agency": "Regulatory",
-    "sentiment": "neutral",
-    "coins": []
-  },
-  {
     "title": "Iran crypto giant Nobitex hit by sanctions questions: Reuters",
     "link": "https://crypto.news/iran-crypto-giant-nobitex-hit-by-sanctions-questions-reuters/",
     "source": "crypto.news",
@@ -54,26 +45,6 @@
     "coins": [
       "BTC"
     ]
-  },
-  {
-    "title": "Ethereum (ETH) Whales Accumulate $322M as CLARITY Act Nears Senate Markup",
-    "link": "https://blockonomi.com/ethereum-eth-whales-accumulate-322m-as-clarity-act-nears-senate-markup/",
-    "source": "blockonomi.com",
-    "published_at": "2026-05-03T08:13:27+00:00",
-    "agency": "Congress",
-    "sentiment": "neutral",
-    "coins": [
-      "ETH"
-    ]
-  },
-  {
-    "title": "CLARITY Act Nears Critical Senate Vote as Stablecoin Yield Deal Emerges",
-    "link": "https://blockonomi.com/clarity-act-nears-critical-senate-vote-as-stablecoin-yield-deal-emerges/",
-    "source": "blockonomi.com",
-    "published_at": "2026-05-03T08:12:45+00:00",
-    "agency": "Congress",
-    "sentiment": "neutral",
-    "coins": []
   },
   {
     "title": "A16z enters CFTC battle over state prediction market bans",
@@ -141,19 +112,6 @@
     "agency": "Regulatory",
     "sentiment": "bearish",
     "coins": []
-  },
-  {
-    "title": "The SEC Just Elevated XRP To A Status Previously Reserved For Bitcoin And Ethereum",
-    "link": "https://bitcoinist.com/the-sec-just-elevated-xrp-status/",
-    "source": "bitcoinist.com",
-    "published_at": "2026-05-02T18:00:40+00:00",
-    "agency": "SEC",
-    "sentiment": "bullish",
-    "coins": [
-      "BTC",
-      "ETH",
-      "XRP"
-    ]
   },
   {
     "title": "Crypto industry backs CLARITY Act yield compromise, pushes Senate Banking for markup",
@@ -284,5 +242,49 @@
     "agency": "Congress",
     "sentiment": "bearish",
     "coins": []
+  },
+  {
+    "title": "Ethereum Foundation finalizes sale of 10,000 ether to BitMine as part of its treasury strategy",
+    "link": "https://www.coindesk.com/business/2026/05/01/ethereum-foundation-finalizes-sale-of-10-000-ether-to-bitmine-as-part-of-its-treasury-strategy",
+    "source": "coindesk.com",
+    "published_at": "2026-05-01T18:16:40+00:00",
+    "agency": "Treasury",
+    "sentiment": "neutral",
+    "coins": [
+      "ETH"
+    ]
+  },
+  {
+    "title": "Agencies issue host state loan-to-deposit ratios",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260501a.htm",
+    "source": "federalreserve.gov",
+    "published_at": "2026-05-01T15:00:00+00:00",
+    "agency": "Fed",
+    "sentiment": "neutral",
+    "coins": []
+  },
+  {
+    "title": "XRP Disrupts Korean Banking With High-Compliance KRW Stablecoin Breakthrough",
+    "link": "https://u.today/xrp-disrupts-korean-banking-with-high-compliance-krw-stablecoin-breakthrough",
+    "source": "u.today",
+    "published_at": "2026-05-01T13:35:30+00:00",
+    "agency": "Regulatory",
+    "sentiment": "bearish",
+    "coins": [
+      "XRP"
+    ]
+  },
+  {
+    "title": "OpenAI Foundation CFO Joins $1 Billion XRP Treasury; Bitcoin's Worst Case by May 2026 Detailed by Expert Trader; $183 Million 'Capital Flight' Hits Ethereum ETFs Amid DeFi Hack Wave - Morning Crypto Report",
+    "link": "https://u.today/openai-foundation-cfo-joins-1-billion-xrp-treasury-bitcoins-worst-case-by-may-2026-detailed-by",
+    "source": "u.today",
+    "published_at": "2026-05-01T12:27:15+00:00",
+    "agency": "Treasury",
+    "sentiment": "bearish",
+    "coins": [
+      "BTC",
+      "ETH",
+      "XRP"
+    ]
   }
 ]
