@@ -1,5 +1,23 @@
 [
   {
+    "title": "Oil prices fall below $100 as U.S. waits for Iran response to framework deal",
+    "link": "https://www.cnbc.com/2026/05/07/oil-prices-today-trump-iran-strait-of-hormuz-us-crude-brent-.html",
+    "source": "cnbc.com",
+    "published_at": "2026-05-07T15:17:13+00:00",
+    "agency": "Regulatory",
+    "sentiment": "bearish",
+    "coins": []
+  },
+  {
+    "title": "DOJ, CFTC Probe $2.6B Oil Trades Before Trump and Iran Statements: Report",
+    "link": "https://news.bitcoin.com/doj-cftc-probe-2-6b-oil-trades-before-trump-and-iran-statements-report/",
+    "source": "news.bitcoin.com",
+    "published_at": "2026-05-07T14:04:23+00:00",
+    "agency": "CFTC",
+    "sentiment": "bearish",
+    "coins": []
+  },
+  {
     "title": "Bitcoin treasury firms outline $3 trillion opportunity in BTC-backed digital credit at Consensus",
     "link": "https://www.coindesk.com/markets/2026/05/07/bitcoin-treasury-firms-outline-usd3-trillion-opportunity-in-btc-backed-digital-credit-at-consensus",
     "source": "coindesk.com",
@@ -93,15 +111,6 @@
     ]
   },
   {
-    "title": "Prediction Market Fight Deepens as 40 States Push Back on CFTC",
-    "link": "https://news.bitcoin.com/prediction-market-fight-deepens-as-40-states-push-back-on-cftc/",
-    "source": "news.bitcoin.com",
-    "published_at": "2026-05-07T02:30:41+00:00",
-    "agency": "CFTC",
-    "sentiment": "bullish",
-    "coins": []
-  },
-  {
     "title": "JPMorgan, Mastercard make first cross-border US Treasury transfer via XRP Ledger",
     "link": "https://cointelegraph.com/news/jpmorgan-mastercard-first-cross-border-us-treasury-settlement-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "source": "cointelegraph.com",
@@ -113,31 +122,22 @@
     ]
   },
   {
+    "title": "JPMorgan and Mastercard Use XRP Ledger for US Treasury Pilot",
+    "link": "https://Blockchain.News/news/jpmorgan-mastercard-us-treasury-xrp-ledger",
+    "source": "blockchain.news",
+    "published_at": "2026-05-07T01:35:10+00:00",
+    "agency": "Treasury",
+    "sentiment": "neutral",
+    "coins": [
+      "XRP"
+    ]
+  },
+  {
     "title": "SEC Charges 21 Individuals with Alleged Wide-Reaching Insider Trading Scheme",
     "link": "https://www.sec.gov/newsroom/press-releases/2026-44-sec-charges-21-individuals-alleged-wide-reaching-insider-trading-scheme",
     "source": "sec.gov",
     "published_at": "2026-05-06T23:24:19+00:00",
     "agency": "SEC",
-    "sentiment": "neutral",
-    "coins": []
-  },
-  {
-    "title": "Grant Cardone says bitcoin-real estate strategy could outperform REITs, adds more BTC to treasury",
-    "link": "https://www.coindesk.com/business/2026/05/06/bitcoin-real-estate-strategy-could-outperform-reits-says-grant-cardone-he-adds-btc-to-treasury",
-    "source": "coindesk.com",
-    "published_at": "2026-05-06T22:32:30+00:00",
-    "agency": "Treasury",
-    "sentiment": "neutral",
-    "coins": [
-      "BTC"
-    ]
-  },
-  {
-    "title": "Will Elon Musk win his lawsuit against Sam Altman's OpenAI? Here's what prediction markets think",
-    "link": "https://www.cnbc.com/2026/05/06/elon-musk-odds-low-to-win-openai-suit.html",
-    "source": "cnbc.com",
-    "published_at": "2026-05-06T21:28:02+00:00",
-    "agency": "Regulatory",
     "sentiment": "neutral",
     "coins": []
   },
@@ -216,15 +216,6 @@
     "coins": []
   },
   {
-    "title": "Arthur Hayes rejects crypto regulation at Consensus Miami",
-    "link": "https://crypto.news/arthur-hayes-rejects-the-clarity-act-at-consensus/",
-    "source": "crypto.news",
-    "published_at": "2026-05-06T18:15:00+00:00",
-    "agency": "Regulatory",
-    "sentiment": "neutral",
-    "coins": []
-  },
-  {
     "title": "Banking lobby attempts to kill Clarity Act’s stablecoin progress as markup is scheduled for next week",
     "link": "https://cryptoslate.com/banking-lobby-attempts-to-kill-clarity-act-stablecoin-progress-as-markup-is-scheduled-for-next-week/",
     "source": "cryptoslate.com",
@@ -254,29 +245,6 @@
     "coins": []
   },
   {
-    "title": "French Chipmaker Sequans Dumps Half Its Bitcoin as Treasury Hype Meets Reality",
-    "link": "https://decrypt.co/366834/french-chipmaker-sequans-dumps-bitcoin",
-    "source": "decrypt.co",
-    "published_at": "2026-05-05T17:39:39+00:00",
-    "agency": "Treasury",
-    "sentiment": "bearish",
-    "coins": [
-      "BTC",
-      "HYPE"
-    ]
-  },
-  {
-    "title": "Iggy Azalea Faces Lawsuit Over Solana Meme Coin",
-    "link": "https://decrypt.co/366832/iggy-azalea-lawsuit-solana-mother-meme-coin",
-    "source": "decrypt.co",
-    "published_at": "2026-05-05T17:26:19+00:00",
-    "agency": "Regulatory",
-    "sentiment": "bearish",
-    "coins": [
-      "SOL"
-    ]
-  },
-  {
     "title": "Drift Sets Out Token-Based Recovery Framework for $295M April Exploit",
     "link": "https://thedefiant.io/news/defi/drift-sets-out-token-based-recovery-framework-for-usd295m-april-exploit",
     "source": "thedefiant.io",
@@ -292,6 +260,35 @@
     "published_at": "2026-05-05T15:54:00+00:00",
     "agency": "SEC",
     "sentiment": "neutral",
+    "coins": []
+  },
+  {
+    "title": "K Wave Abandons Bitcoin Treasury Plan, Shifts to AI Infrastructure Play with $485M War Chest",
+    "link": "https://bitcoinmagazine.com/news/k-wave-abandons-bitcoin-treasury-plan",
+    "source": "bitcoinmagazine.com",
+    "published_at": "2026-05-05T14:09:23+00:00",
+    "agency": "Treasury",
+    "sentiment": "bearish",
+    "coins": [
+      "BTC"
+    ]
+  },
+  {
+    "title": "New Bill Could Pause Crypto Mining in Michigan",
+    "link": "https://u.today/new-bill-could-pause-crypto-mining-in-michigan",
+    "source": "u.today",
+    "published_at": "2026-05-04T20:58:22+00:00",
+    "agency": "Regulatory",
+    "sentiment": "neutral",
+    "coins": []
+  },
+  {
+    "title": "Securitize Becomes First Broker-Dealer Approved to Custody Tokenized Securities: FINRA",
+    "link": "https://thedefiant.io/news/regulation/securitize-finra-approval-tokenized-securities-custody-5hk9d7",
+    "source": "thedefiant.io",
+    "published_at": "2026-05-04T14:01:42+00:00",
+    "agency": "SEC",
+    "sentiment": "bullish",
     "coins": []
   }
 ]
