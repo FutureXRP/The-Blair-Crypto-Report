@@ -1,5 +1,34 @@
 [
   {
+    "title": "‘Still working on ethics’ – Crypto market awaits CLARITY Act breakthrough",
+    "link": "https://ambcrypto.com/still-working-on-ethics-crypto-market-awaits-clarity-act-breakthrough/",
+    "source": "ambcrypto.com",
+    "published_at": "2026-05-07T21:00:58+00:00",
+    "agency": "Congress",
+    "sentiment": "neutral",
+    "coins": []
+  },
+  {
+    "title": "Clarity Act edges toward Senate markup as stablecoin fight narrows options for crypto yield",
+    "link": "https://crypto.news/clarity-act-edges-toward-senate-markup-as-stablecoin-fight-narrows-options-for-crypto-yield/",
+    "source": "crypto.news",
+    "published_at": "2026-05-07T20:30:00+00:00",
+    "agency": "Congress",
+    "sentiment": "bearish",
+    "coins": []
+  },
+  {
+    "title": "XRP Price Trails as ONDO Gains 29% on Treasury News",
+    "link": "https://blockonomi.com/xrp-price-trails-as-ondo-gains-29-on-treasury-news/",
+    "source": "blockonomi.com",
+    "published_at": "2026-05-07T20:20:53+00:00",
+    "agency": "Treasury",
+    "sentiment": "bullish",
+    "coins": [
+      "XRP"
+    ]
+  },
+  {
     "title": "Binance receives Treasury letter over potential sanctions violations tied to Iran",
     "link": "https://cryptobriefing.com/binance-treasury-scrutiny-iran-violations/",
     "source": "cryptobriefing.com",
@@ -82,15 +111,6 @@
     ]
   },
   {
-    "title": "CLARITY Act Draws Bipartisan Backing as Senate Panel Plans Markup Next Week",
-    "link": "https://coingape.com/clarity-act-gains-support-across-party-lines-ahead-of-expected-may-markup/",
-    "source": "coingape.com",
-    "published_at": "2026-05-07T17:01:40+00:00",
-    "agency": "Congress",
-    "sentiment": "neutral",
-    "coins": []
-  },
-  {
     "title": "BNB Price Drops As Treasury Pressures Binance After Iran Crypto Reports",
     "link": "https://beincrypto.com/treasury-pressures-binance-after-iran-crypto-reports/",
     "source": "beincrypto.com",
@@ -108,15 +128,6 @@
     "published_at": "2026-05-07T14:04:23+00:00",
     "agency": "CFTC",
     "sentiment": "bearish",
-    "coins": []
-  },
-  {
-    "title": "CLARITY Act 2026: What Investors Need to Know Before the Next Crypto Rally",
-    "link": "https://coingape.com/trending/clarity-act-2026-what-investors-need-to-know-before-the-next-crypto-rally/",
-    "source": "coingape.com",
-    "published_at": "2026-05-07T12:45:21+00:00",
-    "agency": "Congress",
-    "sentiment": "bullish",
     "coins": []
   },
   {
@@ -180,28 +191,6 @@
     "coins": []
   },
   {
-    "title": "JPMorgan, Mastercard and Ripple test tokenized Treasury settlement on XRPL",
-    "link": "https://crypto.news/jpmorgan-mastercard-and-ripple-test-tokenized-treasury-settlement-on-xrpl/",
-    "source": "crypto.news",
-    "published_at": "2026-05-07T05:38:23+00:00",
-    "agency": "Treasury",
-    "sentiment": "bearish",
-    "coins": [
-      "XRP"
-    ]
-  },
-  {
-    "title": "JPMorgan, Mastercard make first cross-border US Treasury transfer via XRP Ledger",
-    "link": "https://cointelegraph.com/news/jpmorgan-mastercard-first-cross-border-us-treasury-settlement-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "cointelegraph.com",
-    "published_at": "2026-05-07T02:05:55+00:00",
-    "agency": "Treasury",
-    "sentiment": "bearish",
-    "coins": [
-      "XRP"
-    ]
-  },
-  {
     "title": "JPMorgan and Mastercard Use XRP Ledger for US Treasury Pilot",
     "link": "https://Blockchain.News/news/jpmorgan-mastercard-us-treasury-xrp-ledger",
     "source": "blockchain.news",
@@ -220,17 +209,6 @@
     "agency": "SEC",
     "sentiment": "neutral",
     "coins": []
-  },
-  {
-    "title": "Bitcoin Treasury Firm Votes In Favor of Strategy’s STRC Dividend Proposal",
-    "link": "https://coingape.com/bitcoin-treasury-firm-votes-in-favor-of-strategy-strc-dividend-proposal/",
-    "source": "coingape.com",
-    "published_at": "2026-05-06T21:06:50+00:00",
-    "agency": "Treasury",
-    "sentiment": "neutral",
-    "coins": [
-      "BTC"
-    ]
   },
   {
     "title": "Can Congress Get CLARITY Across the Line?",
@@ -280,23 +258,41 @@
     "coins": []
   },
   {
-    "title": "JPMorgan, Ripple, Ondo Complete First Cross-Border Tokenized Treasury Settlement Using XRP Ledger",
-    "link": "https://coingape.com/jpmorgan-ripple-ondo-complete-first-cross-border-tokenized-treasury-settlement-using-xrp-ledger/",
-    "source": "coingape.com",
-    "published_at": "2026-05-06T16:48:50+00:00",
-    "agency": "Treasury",
-    "sentiment": "neutral",
-    "coins": [
-      "XRP"
-    ]
-  },
-  {
     "title": "Banking lobby attempts to kill Clarity Act’s stablecoin progress as markup is scheduled for next week",
     "link": "https://cryptoslate.com/banking-lobby-attempts-to-kill-clarity-act-stablecoin-progress-as-markup-is-scheduled-for-next-week/",
     "source": "cryptoslate.com",
     "published_at": "2026-05-06T15:00:07+00:00",
     "agency": "Congress",
     "sentiment": "bearish",
+    "coins": []
+  },
+  {
+    "title": "Kelp DAO Claims LayerZero Approved the Setup It Blamed for $292 Million Hack, Migrates to Chainlink",
+    "link": "https://unchainedcrypto.com/kelp-dao-claims-layerzero-approved-the-setup-it-blamed-for-292-million-hack-migrates-to-chainlink/",
+    "source": "unchainedcrypto.com",
+    "published_at": "2026-05-06T08:46:40+00:00",
+    "agency": "Regulatory",
+    "sentiment": "bearish",
+    "coins": [
+      "LINK"
+    ]
+  },
+  {
+    "title": "SEC Divisions of Investment Management and Corporation Finance Issue Staff Guidance Supporting Retirement Plans for Small Businesses",
+    "link": "https://www.sec.gov/newsroom/press-releases/2026-43-sec-divisions-investment-management-corporation-finance-issue-staff-guidance-supporting-retirement",
+    "source": "sec.gov",
+    "published_at": "2026-05-05T20:23:55+00:00",
+    "agency": "SEC",
+    "sentiment": "neutral",
+    "coins": []
+  },
+  {
+    "title": "Drift Sets Out Token-Based Recovery Framework for $295M April Exploit",
+    "link": "https://thedefiant.io/news/defi/drift-sets-out-token-based-recovery-framework-for-usd295m-april-exploit",
+    "source": "thedefiant.io",
+    "published_at": "2026-05-05T16:29:00+00:00",
+    "agency": "Regulatory",
+    "sentiment": "neutral",
     "coins": []
   }
 ]
