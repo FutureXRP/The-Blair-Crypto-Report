@@ -1,5 +1,25 @@
 [
   {
+    "title": "Bitcoin treasury firms outline $3 trillion opportunity in BTC-backed digital credit at Consensus",
+    "link": "https://www.coindesk.com/markets/2026/05/07/bitcoin-treasury-firms-outline-usd3-trillion-opportunity-in-btc-backed-digital-credit-at-consensus",
+    "source": "coindesk.com",
+    "published_at": "2026-05-07T12:25:47+00:00",
+    "agency": "Treasury",
+    "sentiment": "neutral",
+    "coins": [
+      "BTC"
+    ]
+  },
+  {
+    "title": "White House Targets July 4 for Clarity Act Passage: Crypto Adviser",
+    "link": "https://decrypt.co/367075/white-house-targets-july-4-for-clarity-act-passage-crypto-adviser",
+    "source": "decrypt.co",
+    "published_at": "2026-05-07T12:07:38+00:00",
+    "agency": "Congress",
+    "sentiment": "bearish",
+    "coins": []
+  },
+  {
     "title": "The “never sell” Bitcoin treasury trade is seriously starting to crack",
     "link": "https://cryptoslate.com/the-never-sell-bitcoin-treasury-trade-is-seriously-starting-to-crack/",
     "source": "cryptoslate.com",
@@ -82,34 +102,12 @@
     "coins": []
   },
   {
-    "title": "Ripple, JPMorgan & Mastercard Pull Off First Tokenized Treasury Deal",
-    "link": "https://beincrypto.com/ripple-jpmorgan-mastercard-tokenized-treasury-pilot/",
-    "source": "beincrypto.com",
-    "published_at": "2026-05-07T02:30:00+00:00",
-    "agency": "Treasury",
-    "sentiment": "bearish",
-    "coins": [
-      "XRP"
-    ]
-  },
-  {
     "title": "JPMorgan, Mastercard make first cross-border US Treasury transfer via XRP Ledger",
     "link": "https://cointelegraph.com/news/jpmorgan-mastercard-first-cross-border-us-treasury-settlement-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "source": "cointelegraph.com",
     "published_at": "2026-05-07T02:05:55+00:00",
     "agency": "Treasury",
     "sentiment": "bearish",
-    "coins": [
-      "XRP"
-    ]
-  },
-  {
-    "title": "Evernorth Adding Ripple Legal Chief to Board Ahead of XRP Treasury Push",
-    "link": "https://news.bitcoin.com/evernorth-adding-ripple-legal-chief-to-board-ahead-of-xrp-treasury-push/",
-    "source": "news.bitcoin.com",
-    "published_at": "2026-05-07T01:05:28+00:00",
-    "agency": "Treasury",
-    "sentiment": "bullish",
     "coins": [
       "XRP"
     ]
@@ -144,15 +142,6 @@
     "coins": []
   },
   {
-    "title": "White House targets July 4 for Clarity Act passage, says crypto adviser Patrick Witt",
-    "link": "https://www.coindesk.com/policy/2026/05/06/white-house-targets-july-4-for-clarity-act-passage-says-crypto-adviser-patrick-witt",
-    "source": "coindesk.com",
-    "published_at": "2026-05-06T21:16:54+00:00",
-    "agency": "Congress",
-    "sentiment": "neutral",
-    "coins": []
-  },
-  {
     "title": "Can Congress Get CLARITY Across the Line?",
     "link": "https://www.bankless.com/read/can-congress-get-clarity-across-the-line",
     "source": "bankless.com",
@@ -160,17 +149,6 @@
     "agency": "Congress",
     "sentiment": "bearish",
     "coins": []
-  },
-  {
-    "title": "Solana treasury firm invests $25 mln into OnRe yield strategy: ‘Natural extension’",
-    "link": "https://ambcrypto.com/solana-treasury-firm-invests-25-mln-into-onre-yield-strategy-natural-extension/",
-    "source": "ambcrypto.com",
-    "published_at": "2026-05-06T20:00:07+00:00",
-    "agency": "Treasury",
-    "sentiment": "bullish",
-    "coins": [
-      "SOL"
-    ]
   },
   {
     "title": "Ondo, JPMorgan, Mastercard and Ripple complete tokenized Treasury pilot on XRP Ledger",
@@ -247,15 +225,6 @@
     "coins": []
   },
   {
-    "title": "The time is now: the Senate must act on crypto market structure legislation",
-    "link": "https://www.coindesk.com/opinion/2026/05/06/the-time-is-now-the-senate-must-act-on-crypto-market-structure-legislation",
-    "source": "coindesk.com",
-    "published_at": "2026-05-06T17:25:31+00:00",
-    "agency": "Congress",
-    "sentiment": "neutral",
-    "coins": []
-  },
-  {
     "title": "Banking lobby attempts to kill Clarity Act’s stablecoin progress as markup is scheduled for next week",
     "link": "https://cryptoslate.com/banking-lobby-attempts-to-kill-clarity-act-stablecoin-progress-as-markup-is-scheduled-for-next-week/",
     "source": "cryptoslate.com",
@@ -295,5 +264,34 @@
       "BTC",
       "HYPE"
     ]
+  },
+  {
+    "title": "Iggy Azalea Faces Lawsuit Over Solana Meme Coin",
+    "link": "https://decrypt.co/366832/iggy-azalea-lawsuit-solana-mother-meme-coin",
+    "source": "decrypt.co",
+    "published_at": "2026-05-05T17:26:19+00:00",
+    "agency": "Regulatory",
+    "sentiment": "bearish",
+    "coins": [
+      "SOL"
+    ]
+  },
+  {
+    "title": "Drift Sets Out Token-Based Recovery Framework for $295M April Exploit",
+    "link": "https://thedefiant.io/news/defi/drift-sets-out-token-based-recovery-framework-for-usd295m-april-exploit",
+    "source": "thedefiant.io",
+    "published_at": "2026-05-05T16:29:00+00:00",
+    "agency": "Regulatory",
+    "sentiment": "neutral",
+    "coins": []
+  },
+  {
+    "title": "SEC Proposes Amendments to Permit Optional Semiannual Reporting by Public Companies",
+    "link": "https://www.sec.gov/newsroom/press-releases/2026-42-sec-proposes-amendments-permit-optional-semiannual-reporting-public-companies",
+    "source": "sec.gov",
+    "published_at": "2026-05-05T15:54:00+00:00",
+    "agency": "SEC",
+    "sentiment": "neutral",
+    "coins": []
   }
 ]
