@@ -2,18 +2,44 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "Solana: Amid rising ETF inflows and whale demand, will SOL break $97?",
-      "link": "https://ambcrypto.com/solana-amid-rising-etf-inflows-and-whale-demand-will-sol-break-97/",
-      "published_at": "2026-05-09T21:00:39+00:00",
+      "title": "Aave stabilizes liquidity after rsETH exploit – Are risks fully contained now?",
+      "link": "https://ambcrypto.com/aave-stabilizes-liquidity-after-rseth-exploit-are-risks-fully-contained-now/",
+      "published_at": "2026-05-09T22:00:27+00:00",
       "source": "ambcrypto.com",
-      "score": 3,
-      "ntitle": "solana amid rising etf inflows whale demand will sol break 97",
+      "score": 1,
+      "ntitle": "aave stabilizes liquidity after rseth exploit risks fully contained now",
       "coins": [
-        "SOL"
+        "AAVE"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "New Fed Era Approaches: What Bitcoin Investors Should Expect Under Warsh",
+      "link": "https://bitcoinist.com/new-fed-what-bitcoin-investors-should-expect-warsh/",
+      "published_at": "2026-05-09T21:30:30+00:00",
+      "source": "bitcoinist.com",
+      "score": 1,
+      "ntitle": "new fed era approaches what bitcoin investors should expect under warsh",
+      "coins": [
+        "BTC"
       ],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
+    },
+    {
+      "title": "Crypto News Today Shows CLARITY Act Nearing Finish Line While Pepeto’s Listing Could Trigger the Biggest Meme Coin Returns of 2026",
+      "link": "https://blockonomi.com/crypto-news-today-shows-clarity-act-nearing-finish-line-while-pepetos-listing-could-trigger-the-biggest-meme-coin-returns-of-2026/",
+      "published_at": "2026-05-09T22:00:10+00:00",
+      "source": "blockonomi.com",
+      "score": 7,
+      "ntitle": "crypto news today shows clarity act nearing finish line while pepeto s listing could trigger biggest meme coin returns 2026",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "Congress"
     },
     {
       "title": "Strategy’s STRC Returns To $100 Par Value, Will Michael Saylor Resume Bitcoin Buying?",
@@ -30,12 +56,12 @@
       "agency": null
     },
     {
-      "title": "Marco Rubio and Steve Witkoff meet Qatari PM in Miami as Middle East diplomacy intensifies",
-      "link": "https://cryptobriefing.com/rubio-witkoff-qatari-pm-miami-meeting/",
-      "published_at": "2026-05-09T21:32:50+00:00",
+      "title": "Vitalik Buterin signals ZK payments as the next standard for the agent era",
+      "link": "https://cryptobriefing.com/vitalik-buterin-zk-payments-agent-era/",
+      "published_at": "2026-05-09T22:21:50+00:00",
       "source": "cryptobriefing.com",
-      "score": 2,
-      "ntitle": "marco rubio steve witkoff meet qatari pm miami middle east diplomacy intensifies",
+      "score": 1,
+      "ntitle": "vitalik buterin signals zk payments next standard agent era",
       "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -70,30 +96,46 @@
       "agency": null
     },
     {
-      "title": "xAI leases Colossus 1 supercomputer to Anthropic for $5B ahead of planned IPO",
-      "link": "https://cryptobriefing.com/xai-leases-colossus-anthropic-ipo/",
-      "published_at": "2026-05-09T21:32:39+00:00",
+      "title": "XRP Price Eyes Breakout, TON Jumps 69%, Bollinger Finally Bullish on Bitcoin — Top Weekly Crypto News",
+      "link": "https://u.today/xrp-price-eyes-breakout-ton-jumps-69-bollinger-finally-bullish-on-bitcoin-top-weekly-crypto-news",
+      "published_at": "2026-05-09T22:00:00+00:00",
+      "source": "u.today",
+      "score": 4,
+      "ntitle": "xrp price eyes breakout ton jumps 69 bollinger finally bullish bitcoin top weekly crypto news",
+      "coins": [
+        "BTC",
+        "TON",
+        "XRP"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Vladimir Putin proposes Iran and US store enriched uranium in Russia",
+      "link": "https://cryptobriefing.com/putin-proposes-iran-us-uranium-storage-russia/",
+      "published_at": "2026-05-09T22:21:50+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "xai leases colossus 1 supercomputer anthropic 5b ahead planned ipo",
+      "ntitle": "vladimir putin proposes iran us store enriched uranium russia",
       "coins": [],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     }
   ],
   "day": [
     {
-      "title": "Equity markets boom – What it means for Bitcoin’s next move",
-      "link": "https://ambcrypto.com/equity-markets-boom-what-it-means-for-bitcoins-next-move/",
-      "published_at": "2026-05-09T20:00:13+00:00",
+      "title": "Solana: Amid rising ETF inflows and whale demand, will SOL break $97?",
+      "link": "https://ambcrypto.com/solana-amid-rising-etf-inflows-and-whale-demand-will-sol-break-97/",
+      "published_at": "2026-05-09T21:00:39+00:00",
       "source": "ambcrypto.com",
-      "score": 1,
-      "ntitle": "equity markets boom what it means bitcoin s next move",
+      "score": 3,
+      "ntitle": "solana amid rising etf inflows whale demand will sol break 97",
       "coins": [
-        "BTC"
+        "SOL"
       ],
-      "sentiment": "neutral",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -132,34 +174,6 @@
       "ntitle": "tether ramps up wallet freezes blocking over 500m usdt",
       "coins": [],
       "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "What does Bitcoin “Power Projection” mean to the U.S. Military?",
-      "link": "https://bitcoinmagazine.com/politics/what-does-bitcoin-power-projection-mean-to-the-u-s-military",
-      "published_at": "2026-05-08T21:45:05+00:00",
-      "source": "bitcoinmagazine.com",
-      "score": 1,
-      "ntitle": "what does bitcoin power projection mean u s military",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "AAVE Price Prediction: Bulls Eye $105 Breakout as DeFi Momentum Builds",
-      "link": "https://Blockchain.News/news/20260509-price-prediction-aave-bulls-eye-105-breakout-as-defi",
-      "published_at": "2026-05-09T08:43:39+00:00",
-      "source": "blockchain.news",
-      "score": 3,
-      "ntitle": "aave price prediction bulls eye 105 breakout defi momentum builds",
-      "coins": [
-        "AAVE"
-      ],
-      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -218,16 +232,18 @@
       "agency": null
     },
     {
-      "title": "The CLARITY Act will help reshore the crypto industry in the US — Attorney",
-      "link": "https://cointelegraph.com/news/clarity-act-reshore-crypto-industry-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-05-09T19:00:05+00:00",
+      "title": "Strategy CEO Phong Le says company will sell BTC only in specific cases",
+      "link": "https://cointelegraph.com/news/strategy-ceo-phong-le-strategy-selling-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-05-09T21:21:00+00:00",
       "source": "cointelegraph.com",
       "score": 1,
-      "ntitle": "clarity act will help reshore crypto industry us attorney",
-      "coins": [],
+      "ntitle": "strategy ceo phong le says company will sell btc only specific cases",
+      "coins": [
+        "BTC"
+      ],
       "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Congress"
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "MoonPay says stablecoin regulation opened the door but infrastructure must follow",
@@ -242,12 +258,12 @@
       "agency": "Regulatory"
     },
     {
-      "title": "Venezuela transfers 13.5 kilograms of enriched uranium to US with UK support",
-      "link": "https://cryptobriefing.com/venezuela-enriched-uranium-transfer-us/",
-      "published_at": "2026-05-09T20:12:31+00:00",
+      "title": "Iran’s IRGC ready to strike US targets amid rising tensions",
+      "link": "https://cryptobriefing.com/irans-irgc-ready-to-strike-us-targets-amid-rising-tensions/",
+      "published_at": "2026-05-09T21:24:39+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "venezuela transfers 13 5 kilograms enriched uranium us uk support",
+      "ntitle": "iran s irgc ready strike us targets amid rising tensions",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -365,14 +381,16 @@
       "agency": "Regulatory"
     },
     {
-      "title": "DeepBook up 23% after Predict debut: Can DEEP escape its 100-day rut?",
-      "link": "https://ambcrypto.com/deepbook-up-23-after-predict-debut-can-deep-escape-its-100-day-rut/",
-      "published_at": "2026-05-09T19:00:05+00:00",
+      "title": "Equity markets boom – What it means for Bitcoin’s next move",
+      "link": "https://ambcrypto.com/equity-markets-boom-what-it-means-for-bitcoins-next-move/",
+      "published_at": "2026-05-09T20:00:13+00:00",
       "source": "ambcrypto.com",
       "score": 1,
-      "ntitle": "deepbook up 23 after predict debut can deep escape 100 day rut",
-      "coins": [],
-      "sentiment": "bullish",
+      "ntitle": "equity markets boom what it means bitcoin s next move",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -399,18 +417,6 @@
         "BNB",
         "BTC"
       ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "LDO Price Prediction: $0.50 Target Emerges as Smart Money Defies Retail Sentiment",
-      "link": "https://Blockchain.News/news/20260509-price-prediction-target-ldo-050-emerges-as-smart-money-defies",
-      "published_at": "2026-05-09T08:39:52+00:00",
-      "source": "blockchain.news",
-      "score": 4,
-      "ntitle": "ldo price prediction 0 50 target emerges smart money defies retail sentiment",
-      "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
@@ -468,13 +474,51 @@
       "agency": null
     },
     {
-      "title": "The Nobitex dilemma: How Iran's biggest crypto exchange stays off the OFAC blacklist",
-      "link": "https://cointelegraph.com/features/the-nobitex-dilemma-how-irans-biggest-crypto-exchange-stays-off-the-ofac-blacklist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-05-09T17:42:09+00:00",
+      "title": "The CLARITY Act will help reshore the crypto industry in the US — Attorney",
+      "link": "https://cointelegraph.com/news/clarity-act-reshore-crypto-industry-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-05-09T19:00:05+00:00",
       "source": "cointelegraph.com",
-      "score": 2,
-      "ntitle": "nobitex dilemma how iran s biggest crypto exchange stays off ofac blacklist",
+      "score": 1,
+      "ntitle": "clarity act will help reshore crypto industry us attorney",
       "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Congress"
+    },
+    {
+      "title": "US banks reject CLARITY Act stablecoin deal days before Senate vote",
+      "link": "https://crypto.news/banks-try-to-kill-the-clarity-act/",
+      "published_at": "2026-05-09T15:28:27+00:00",
+      "source": "crypto.news",
+      "score": 3,
+      "ntitle": "us banks reject clarity act stablecoin deal days before senate vote",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "Congress"
+    },
+    {
+      "title": "Rubio, Witkoff meet Qatari PM in Miami to negotiate Iran deal",
+      "link": "https://cryptobriefing.com/rubio-witkoff-qatar-iran-deal-miami/",
+      "published_at": "2026-05-09T21:04:34+00:00",
+      "source": "cryptobriefing.com",
+      "score": 1,
+      "ntitle": "rubio witkoff meet qatari pm miami negotiate iran deal",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Hacker Drains $5.9M From Ethereum Liquidity Provider TrustedVolumes",
+      "link": "https://cryptopotato.com/hacker-drains-5-9m-from-ethereum-liquidity-provider-trustedvolumes/",
+      "published_at": "2026-05-09T17:49:44+00:00",
+      "source": "cryptopotato.com",
+      "score": 1,
+      "ntitle": "hacker drains 5 9m ethereum liquidity provider trustedvolumes",
+      "coins": [
+        "ETH"
+      ],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
@@ -523,26 +567,16 @@
       "agency": null
     },
     {
-      "title": "ANTPOOL, Block Inc, F2Pool, Foundry, Spiderpool, MARA Foundation & DMND Join Stratum v2 Working Group",
-      "link": "https://bitcoinmagazine.com/news/antpool-block-inc-f2pool-foundry-spiderpool-dmnd-join-stratum-v2-working-group",
-      "published_at": "2026-05-07T14:00:00+00:00",
+      "title": "What does Bitcoin “Power Projection” mean to the U.S. Military?",
+      "link": "https://bitcoinmagazine.com/politics/what-does-bitcoin-power-projection-mean-to-the-u-s-military",
+      "published_at": "2026-05-08T21:45:05+00:00",
       "source": "bitcoinmagazine.com",
-      "score": 2,
-      "ntitle": "antpool block inc f2pool foundry spiderpool mara foundation dmnd join stratum v2 working group",
-      "coins": [],
+      "score": 1,
+      "ntitle": "what does bitcoin power projection mean u s military",
+      "coins": [
+        "BTC"
+      ],
       "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Zondacrypto (formerly BitBay) Faces Estonia FSA Warning",
-      "link": "https://Blockchain.News/news/zondacrypto-estonia-fsa-warning",
-      "published_at": "2026-05-08T21:27:58+00:00",
-      "source": "blockchain.news",
-      "score": 3,
-      "ntitle": "zondacrypto formerly bitbay faces estonia fsa warning",
-      "coins": [],
-      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -637,14 +671,14 @@
       "agency": null
     },
     {
-      "title": "S&P 500 at record 7,400 underlines a full‑risk‑on backdrop for crypto",
-      "link": "https://crypto.news/sp-500-at-record-7400-underlines-a-full-risk-on-backdrop-for-crypto/",
-      "published_at": "2026-05-08T21:30:00+00:00",
+      "title": "Oxford finds warmer AI chatbots make more mistakes",
+      "link": "https://crypto.news/oxford-study-finds-warmer-ai-chatbots-tell-more-lies/",
+      "published_at": "2026-05-08T22:00:00+00:00",
       "source": "crypto.news",
       "score": 1,
-      "ntitle": "s p 500 record 7 400 underlines full risk backdrop crypto",
+      "ntitle": "oxford finds warmer ai chatbots make more mistakes",
       "coins": [],
-      "sentiment": "bullish",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -701,18 +735,16 @@
       "agency": null
     },
     {
-      "title": "TeraWulf's AI Compute Revenue Outpaces Bitcoin Mining Amid $427 Million Loss",
-      "link": "https://decrypt.co/367309/terawulfs-ai-compute-revenue-outpaces-bitcoin-mining-amid-427-million-loss",
-      "published_at": "2026-05-08T20:29:14+00:00",
+      "title": "Banking Industry Says Clarity Act Stablecoin Proposal Would Enable 'Evasion'",
+      "link": "https://decrypt.co/367351/banking-industry-clarity-act-stablecoin-evasion",
+      "published_at": "2026-05-08T21:47:36+00:00",
       "source": "decrypt.co",
-      "score": 1,
-      "ntitle": "terawulf s ai compute revenue outpaces bitcoin mining amid 427 million loss",
-      "coins": [
-        "BTC"
-      ],
+      "score": 3,
+      "ntitle": "banking industry says clarity act stablecoin proposal would enable evasion",
+      "coins": [],
       "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
+      "is_regulation": true,
+      "agency": "Congress"
     },
     {
       "title": "Federal Reserve Board announces approval of related applications by Columbia Bank MHC, and Columbia Financial, Inc.",
@@ -860,6 +892,18 @@
       "coins": [
         "ETH"
       ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "ANTPOOL, Block Inc, F2Pool, Foundry, Spiderpool, MARA Foundation & DMND Join Stratum v2 Working Group",
+      "link": "https://bitcoinmagazine.com/news/antpool-block-inc-f2pool-foundry-spiderpool-dmnd-join-stratum-v2-working-group",
+      "published_at": "2026-05-07T14:00:00+00:00",
+      "source": "bitcoinmagazine.com",
+      "score": 2,
+      "ntitle": "antpool block inc f2pool foundry spiderpool mara foundation dmnd join stratum v2 working group",
+      "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
@@ -1066,53 +1110,53 @@
   "clusters": [],
   "trending": [
     {
-      "tag": "#Ai",
-      "count": 58,
-      "type": "topic",
+      "tag": "#XRP",
+      "count": 55,
+      "type": "coin",
       "pct": 100
     },
     {
-      "tag": "#XRP",
-      "count": 57,
-      "type": "coin",
-      "pct": 98
+      "tag": "#Ai",
+      "count": 52,
+      "type": "topic",
+      "pct": 95
     },
     {
       "tag": "#Xrp",
-      "count": 52,
+      "count": 50,
       "type": "topic",
-      "pct": 90
+      "pct": 91
     },
     {
       "tag": "#Defi",
       "count": 34,
       "type": "topic",
-      "pct": 59
+      "pct": 62
     },
     {
       "tag": "#Bitcoin",
-      "count": 29,
+      "count": 34,
       "type": "topic",
-      "pct": 50
+      "pct": 62
     },
     {
       "tag": "#BTC",
-      "count": 28,
+      "count": 30,
       "type": "coin",
-      "pct": 48
+      "pct": 55
     },
     {
       "tag": "#Stablecoin",
-      "count": 15,
+      "count": 18,
       "type": "topic",
-      "pct": 26
+      "pct": 33
     },
     {
-      "tag": "#XDC",
-      "count": 10,
+      "tag": "#ETH",
+      "count": 12,
       "type": "coin",
-      "pct": 17
+      "pct": 22
     }
   ],
-  "generated_at": "2026-05-09T21:37:55.926208+00:00"
+  "generated_at": "2026-05-09T22:24:57.340411+00:00"
 }
