@@ -2,42 +2,315 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "Immunefi takes over Code4rena’s ‘wardens’ — Can DeFi survive 2026 exploit surge?",
-      "link": "https://ambcrypto.com/immunefi-takes-over-code4renas-wardens-can-defi-survive-2026-exploit-surge/",
-      "published_at": "2026-05-14T11:00:39+00:00",
+      "title": "Jane Street cuts Bitcoin ETF exposure by 71% – Analyst sees a bullish upside",
+      "link": "https://ambcrypto.com/jane-street-cuts-bitcoin-etf-exposure-by-71-analyst-sees-a-bullish-upside/",
+      "published_at": "2026-05-14T13:00:59+00:00",
       "source": "ambcrypto.com",
-      "score": 4,
-      "ntitle": "immunefi takes over code4rena s wardens can defi survive 2026 exploit surge",
+      "score": 3,
+      "ntitle": "jane street cuts bitcoin etf exposure 71 analyst sees bullish upside",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Coinbase Takes Over USDH as Hyperliquid Shifts to USDC",
+      "link": "https://beincrypto.com/coinbase-usdh-hyperliquid-shifts-to-usdc/",
+      "published_at": "2026-05-14T12:23:37+00:00",
+      "source": "beincrypto.com",
+      "score": 3,
+      "ntitle": "coinbase takes over usdh hyperliquid shifts usdc",
+      "coins": [
+        "HYPE"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "What Makes XRP Unique? Ripple CEO Explains",
+      "link": "https://bitcoinist.com/what-makes-xrp-unique-ripple-ceo/",
+      "published_at": "2026-05-14T13:00:16+00:00",
+      "source": "bitcoinist.com",
+      "score": 10,
+      "ntitle": "what makes xrp unique ripple ceo explains",
+      "coins": [
+        "XRP"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "POET Technologies (POET) Shares Soar on Massive $500M Lumilens Partnership",
+      "link": "https://blockonomi.com/poet-technologies-poet-shares-soar-on-massive-500m-lumilens-partnership/",
+      "published_at": "2026-05-14T13:03:11+00:00",
+      "source": "blockonomi.com",
+      "score": 3,
+      "ntitle": "poet technologies poet shares soar massive 500m lumilens partnership",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "BlackRock, Janus Henderson tokenized funds get instant redemptions with new $1 billion facility",
+      "link": "https://www.coindesk.com/business/2026/05/14/blackrock-janus-henderson-tokenized-funds-get-instant-redemptions-with-new-usd1-billion-facility",
+      "published_at": "2026-05-14T13:00:00+00:00",
+      "source": "coindesk.com",
+      "score": 6,
+      "ntitle": "blackrock janus henderson tokenized funds get instant redemptions new 1 billion facility",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Chainlink price tests major S/R zone at $10, will bulls regain momentum?",
+      "link": "https://crypto.news/chainlink-price-tests-major-s-r-zone-at-10-will-bulls-regain-momentum/",
+      "published_at": "2026-05-14T12:50:00+00:00",
+      "source": "crypto.news",
+      "score": 8,
+      "ntitle": "chainlink price tests major s r zone 10 will bulls regain momentum",
+      "coins": [
+        "LINK"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "PancakeSwap integrates Hypernative Labs for real-time exploit detection",
+      "link": "https://cryptobriefing.com/pancakeswap-hypernative-exploit-detection/",
+      "published_at": "2026-05-14T13:10:12+00:00",
+      "source": "cryptobriefing.com",
+      "score": 5,
+      "ntitle": "pancakeswap integrates hypernative labs real time exploit detection",
       "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "XRP Leans on Institutional Flows for 12% Price Breakout Push",
-      "link": "https://beincrypto.com/xrp-price-institutional-flows-breakout-forecast/",
-      "published_at": "2026-05-14T11:00:00+00:00",
-      "source": "beincrypto.com",
-      "score": 12,
-      "ntitle": "xrp leans institutional flows 12 price breakout push",
+      "title": "Bitcoin traders brace for $1 billion liquidation trap after inflation shock breaks $80,000",
+      "link": "https://cryptoslate.com/bitcoin-traders-brace-for-1-billion-liquidation-trap-after-inflation-shock-breaks-80000/",
+      "published_at": "2026-05-14T12:20:19+00:00",
+      "source": "cryptoslate.com",
+      "score": 2,
+      "ntitle": "bitcoin traders brace 1 billion liquidation trap after inflation shock breaks 80 000",
       "coins": [
-        "XRP"
+        "BTC"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Bank of England Softens ‘Overly Conservative’ Stablecoin Plans Amid Industry Pressure",
+      "link": "https://decrypt.co/367831/bank-of-england-softens-overly-conservative-stablecoin-plans-amid-industry-pressure",
+      "published_at": "2026-05-14T13:10:39+00:00",
+      "source": "decrypt.co",
+      "score": 4,
+      "ntitle": "bank england softens overly conservative stablecoin plans amid industry pressure",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "CFTC Drops Swap Reporting Duties for Prediction Market Operators Across the US",
+      "link": "https://news.bitcoin.com/cftc-drops-swap-reporting-duties-for-prediction-market-operators-across-the-us/",
+      "published_at": "2026-05-14T12:38:33+00:00",
+      "source": "news.bitcoin.com",
+      "score": 1,
+      "ntitle": "cftc drops swap reporting duties prediction market operators across us",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "CFTC"
+    },
+    {
+      "title": "Ethereum Leverage Tells Two Different Stories On Binance And OKX: Traders Face A Fragile Setup",
+      "link": "https://www.newsbtc.com/ethereum-news/ethereum-leverage-tells-two-different-stories-on-binance-and-okx-traders-face-a-fragile-setup/",
+      "published_at": "2026-05-14T13:00:55+00:00",
+      "source": "newsbtc.com",
+      "score": 9,
+      "ntitle": "ethereum leverage tells two different stories binance okx traders face fragile setup",
+      "coins": [
+        "BNB",
+        "ETH"
       ],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "XRP Network Sets New Record: 10,000+ Token Wallets At Highest Ever",
-      "link": "https://bitcoinist.com/xrp-network-new-record-10000-token-highest-ever/",
-      "published_at": "2026-05-14T11:00:40+00:00",
-      "source": "bitcoinist.com",
+      "title": "8 best AI stock trading bots for beginners in 2026: Which one actually delivers passive income?",
+      "link": "https://ambcrypto.com/8-best-ai-stock-trading-bots-for-beginners-in-2026-which-one-actually-delivers-passive-income/",
+      "published_at": "2026-05-14T13:00:40+00:00",
+      "source": "ambcrypto.com",
+      "score": 2,
+      "ntitle": "8 best ai stock trading bots beginners 2026 which one actually delivers passive income",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "OpenAI Faces Class Action Lawsuit Over ChatGPT Data Sharing With Meta and Google",
+      "link": "https://beincrypto.com/openai-chatgpt-data-sharing-lawsuit/",
+      "published_at": "2026-05-14T12:20:52+00:00",
+      "source": "beincrypto.com",
+      "score": 2,
+      "ntitle": "openai faces class action lawsuit over chatgpt data sharing meta google",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "Regulatory"
+    },
+    {
+      "title": "Coinbase (COIN) Stock Slides After Becoming Hyperliquid’s USDC Treasury Deployer",
+      "link": "https://blockonomi.com/coinbase-coin-stock-slides-after-becoming-hyperliquids-usdc-treasury-deployer/",
+      "published_at": "2026-05-14T13:00:15+00:00",
+      "source": "blockonomi.com",
       "score": 6,
-      "ntitle": "xrp network sets new record 10 000 token wallets highest ever",
+      "ntitle": "coinbase coin stock slides after becoming hyperliquid s usdc treasury deployer",
       "coins": [
-        "XRP"
+        "HYPE"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Treasury"
+    },
+    {
+      "title": "Stablecoin-powered neobank Fasset raises $51 million to expand across emerging markets",
+      "link": "https://www.coindesk.com/business/2026/05/14/stablecoin-powered-neobank-fasset-raises-usd51-million-to-expand-across-emerging-markets",
+      "published_at": "2026-05-14T13:00:00+00:00",
+      "source": "coindesk.com",
+      "score": 4,
+      "ntitle": "stablecoin powered neobank fasset raises 51 million expand across emerging markets",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "LAB insiders tighten grip as ZachXBT rips into exchange-fueled token game",
+      "link": "https://crypto.news/lab-insiders-tighten-grip-as-zachxbt-rips-into-exchange-fueled-token-game/",
+      "published_at": "2026-05-14T12:38:25+00:00",
+      "source": "crypto.news",
+      "score": 1,
+      "ntitle": "lab insiders tighten grip zachxbt rips into exchange fueled token game",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "UK borrowing costs hit 18-year high as leadership uncertainty rattles gilt markets",
+      "link": "https://cryptobriefing.com/uk-borrowing-costs-18-year-high-bitcoin/",
+      "published_at": "2026-05-14T12:45:06+00:00",
+      "source": "cryptobriefing.com",
+      "score": 2,
+      "ntitle": "uk borrowing costs hit 18 year high leadership uncertainty rattles gilt markets",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Tezos Tests Post-Quantum Privacy as Founder Slams 'Half-Baked' Bitcoin Quantum Theories",
+      "link": "https://decrypt.co/367795/tezos-post-quantum-privacy-founder-slams-half-baked-bitcoin-theories",
+      "published_at": "2026-05-14T13:01:03+00:00",
+      "source": "decrypt.co",
+      "score": 2,
+      "ntitle": "tezos tests post quantum privacy founder slams half baked bitcoin quantum theories",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "From $120 To $900,000: The Ethereum Trade That Just Surfaced On-Chain",
+      "link": "https://www.newsbtc.com/news/ethereum/from-120-to-900000-the-ethereum-trade-that-just-surfaced-on-chain/",
+      "published_at": "2026-05-14T12:57:41+00:00",
+      "source": "newsbtc.com",
+      "score": 3,
+      "ntitle": "120 900 000 ethereum trade that just surfaced chain",
+      "coins": [
+        "ETH"
       ],
       "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    }
+  ],
+  "day": [
+    {
+      "title": "Announcement – Certified AI Agents Manager (CAIAM)™ Certification Launched",
+      "link": "https://101blockchains.com/certified-ai-agents-manager-certification-launched/",
+      "published_at": "2026-05-14T08:35:59+00:00",
+      "source": "101blockchains.com",
+      "score": 5,
+      "ntitle": "announcement certified ai agents manager caiam certification launched",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "TRON hits new transactions peak of 13.11 mln – Will TRX break out now?",
+      "link": "https://ambcrypto.com/tron-hits-new-transactions-peak-of-13-11-mln-will-trx-break-out-now/",
+      "published_at": "2026-05-14T12:00:36+00:00",
+      "source": "ambcrypto.com",
+      "score": 1,
+      "ntitle": "tron hits new transactions peak 13 11 mln will trx break out now",
+      "coins": [
+        "TRX"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "How Congress Wants to Grade Crypto Decentralization",
+      "link": "https://www.bankless.com/read/how-congress-wants-to-grade-crypt-decentralization",
+      "published_at": "2026-05-13T21:55:26+00:00",
+      "source": "bankless.com",
+      "score": 1,
+      "ntitle": "how congress wants grade crypto decentralization",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Congress"
+    },
+    {
+      "title": "BitMEX Launches the Copy and Conquer Campaign Featuring a 50,000 USDT Prize Pool",
+      "link": "https://beincrypto.com/bitmex-launches-copy-and-conquer-campaign/",
+      "published_at": "2026-05-14T12:00:00+00:00",
+      "source": "beincrypto.com",
+      "score": 4,
+      "ntitle": "bitmex launches copy conquer campaign featuring 50 000 usdt prize pool",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Bitcoin Under $80,000: Warsh Confirmed As Next Fed Chair—Here’s The Likely Impact",
+      "link": "https://bitcoinist.com/bitcoin-under-80000-warsh-confirmed-as-fed-chair/",
+      "published_at": "2026-05-14T12:00:07+00:00",
+      "source": "bitcoinist.com",
+      "score": 2,
+      "ntitle": "bitcoin under 80 000 warsh confirmed next fed chair here s likely impact",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -54,14 +327,26 @@
       "agency": null
     },
     {
-      "title": "China’s Yuan Hits 3-Year High as Trump-Xi Summit Shapes Market Sentiment",
-      "link": "https://blockonomi.com/chinas-yuan-hits-3-year-high-as-trump-xi-summit-shapes-market-sentiment/",
-      "published_at": "2026-05-14T11:23:23+00:00",
-      "source": "blockonomi.com",
+      "title": "Render Network Powers 18K Art at NYC’s ARTECHOUSE",
+      "link": "https://Blockchain.News/news/render-network-artechouse-18k",
+      "published_at": "2026-05-14T00:17:31+00:00",
+      "source": "blockchain.news",
       "score": 1,
-      "ntitle": "china s yuan hits 3 year high trump xi summit shapes market sentiment",
+      "ntitle": "render network powers 18k art nyc s artechouse",
       "coins": [],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Apple (AAPL) Stock Surges as Tim Cook Joins Trump’s China Delegation and Institutions Pile In",
+      "link": "https://blockonomi.com/apple-aapl-stock-surges-as-tim-cook-joins-trumps-china-delegation-and-institutions-pile-in/",
+      "published_at": "2026-05-14T12:11:11+00:00",
+      "source": "blockonomi.com",
+      "score": 4,
+      "ntitle": "apple aapl stock surges tim cook joins trump s china delegation institutions pile",
+      "coins": [],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -78,26 +363,68 @@
       "agency": null
     },
     {
-      "title": "Clarity Act markup leaves bitcoin unstirred",
-      "link": "https://www.coindesk.com/daybook-us/2026/05/14/clarity-act-markup-leaves-bitcoin-unstirred",
-      "published_at": "2026-05-14T11:26:43+00:00",
-      "source": "coindesk.com",
+      "title": "Judge delays Aave’s bid to unfreeze $71 million in ETH tied to Kelp Dao Hack",
+      "link": "https://coincodecap.com/judge-delays-aaves-bid-to-unfreeze-71-million-in-eth-tied-to-kelp-dao-hack?utm_source=rss&utm_medium=rss&utm_campaign=judge-delays-aaves-bid-to-unfreeze-71-million-in-eth-tied-to-kelp-dao-hack",
+      "published_at": "2026-05-14T08:38:55+00:00",
+      "source": "coincodecap.com",
       "score": 1,
-      "ntitle": "clarity act markup leaves bitcoin unstirred",
+      "ntitle": "judge delays aave s bid unfreeze 71 million eth tied kelp dao hack",
       "coins": [
-        "BTC"
+        "AAVE",
+        "ETH"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Coinbase backs Hyperliquid stablecoin push as DeFi trading volumes climb",
+      "link": "https://www.coindesk.com/markets/2026/05/13/coinbase-backs-hyperliquid-stablecoin-push-as-defi-trading-volumes-climb",
+      "published_at": "2026-05-14T12:13:35+00:00",
+      "source": "coindesk.com",
+      "score": 3,
+      "ntitle": "coinbase backs hyperliquid stablecoin push defi trading volumes climb",
+      "coins": [
+        "HYPE"
       ],
       "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Bitcoin and Ethereum price Outlook Ahead of U.S. Senate Banking Committee Vote on the CLARITY Act Today",
+      "link": "https://coingape.com/markets/bitcoin-and-ethereum-price-outlook-ahead-of-u-s-senate-banking-committee-vote-on-the-clarity-act-today/",
+      "published_at": "2026-05-14T12:12:56+00:00",
+      "source": "coingape.com",
+      "score": 6,
+      "ntitle": "bitcoin ethereum price outlook ahead u s senate banking committee vote clarity act today",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "sentiment": "bearish",
       "is_regulation": true,
       "agency": "Congress"
     },
     {
-      "title": "PI faces increased selling pressure, risks further decline below $0.1700",
-      "link": "https://coinjournal.net/news/pi-faces-increased-selling-pressure-risks-further-decline-below-0-1700/",
-      "published_at": "2026-05-14T11:03:18+00:00",
+      "title": "Quant (QNT) extends gains toward $80, testing breakout resistance",
+      "link": "https://coinjournal.net/news/quant-qnt-extends-gains-toward-80-testing-breakout-resistance/",
+      "published_at": "2026-05-14T11:36:17+00:00",
       "source": "coinjournal.net",
       "score": 1,
-      "ntitle": "pi faces increased selling pressure risks further decline below 0 1700",
+      "ntitle": "quant qnt extends gains toward 80 testing breakout resistance",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Law firm Fenwick & West sued for $525M over alleged role in FTX collapse",
+      "link": "https://cointelegraph.com/news/law-firm-fenwick-west-sued-for-525m-over-alleged-role-in-ftx-collapse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-05-14T11:27:23+00:00",
+      "source": "cointelegraph.com",
+      "score": 1,
+      "ntitle": "law firm fenwick west sued 525m over alleged role ftx collapse",
       "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
@@ -118,18 +445,18 @@
       "agency": null
     },
     {
-      "title": "Hot inflation data dims Federal Reserve rate cut prospects, Bitcoin slips 1.2%",
-      "link": "https://cryptobriefing.com/inflation-data-dims-fed-rate-cut-bitcoin-slips/",
-      "published_at": "2026-05-14T11:26:41+00:00",
+      "title": "Tether, TRON and TRM Labs freeze $450 million in illicit crypto assets across 23 jurisdictions",
+      "link": "https://cryptobriefing.com/tether-tron-trm-labs-freeze-450-million-illicit-crypto-assets/",
+      "published_at": "2026-05-14T11:59:45+00:00",
       "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "hot inflation data dims federal reserve rate cut prospects bitcoin slips 1 2",
+      "score": 4,
+      "ntitle": "tether tron trm labs freeze 450 million illicit crypto assets across 23 jurisdictions",
       "coins": [
-        "BTC"
+        "TRX"
       ],
-      "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Fed"
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Bitcoin’s Drop Below $80K Was Not Random: Here Are the 3 Hidden Triggers",
@@ -160,345 +487,6 @@
       "agency": null
     },
     {
-      "title": "Bitcoin ETFs Shed $630M in Largest Daily Exit Since January",
-      "link": "https://decrypt.co/367822/bitcoin-etfs-shed-630m-in-largest-daily-exit-since-january",
-      "published_at": "2026-05-14T10:56:18+00:00",
-      "source": "decrypt.co",
-      "score": 5,
-      "ntitle": "bitcoin etfs shed 630m largest daily exit since january",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Dogecoin Fisher Transform Turns Bullish: The Last Setups Were Explosive",
-      "link": "https://www.newsbtc.com/news/dogecoin/dogecoins-fisher-transform-turns-bullish/",
-      "published_at": "2026-05-14T11:15:23+00:00",
-      "source": "newsbtc.com",
-      "score": 1,
-      "ntitle": "dogecoin fisher transform turns bullish last setups were explosive",
-      "coins": [
-        "DOGE"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "BlackRock Moves $287 Million in Suspected Bitcoin Sales",
-      "link": "https://u.today/blackrock-moves-287-million-in-suspected-bitcoin-sales",
-      "published_at": "2026-05-14T10:49:50+00:00",
-      "source": "u.today",
-      "score": 1,
-      "ntitle": "blackrock moves 287 million suspected bitcoin sales",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Game Changer London 2.0: Trust, Ai And The New Architecture Of Decision-Making",
-      "link": "https://beincrypto.com/game-changer-london-2-trust-ai-decision-making/",
-      "published_at": "2026-05-14T10:42:00+00:00",
-      "source": "beincrypto.com",
-      "score": 3,
-      "ntitle": "game changer london 2 0 trust ai new architecture decision making",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Bitcoin Faces $853M Selloff as Hot PPI Data Fuels Stagflation Fears",
-      "link": "https://blockonomi.com/bitcoin-faces-853m-selloff-as-hot-ppi-data-fuels-stagflation-fears/",
-      "published_at": "2026-05-14T11:02:59+00:00",
-      "source": "blockonomi.com",
-      "score": 1,
-      "ntitle": "bitcoin faces 853m selloff hot ppi data fuels stagflation fears",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Bullish misses first-quarter revenue estimates as transaction revenue slips",
-      "link": "https://www.coindesk.com/markets/2026/05/13/bullish-misses-first-quarter-revenue-estimates-as-transaction-revenue-slips",
-      "published_at": "2026-05-14T11:16:41+00:00",
-      "source": "coindesk.com",
-      "score": 1,
-      "ntitle": "bullish misses first quarter revenue estimates transaction revenue slips",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "North Korean hackers linked to major South Korean crypto hacks since 2018",
-      "link": "https://crypto.news/north-korean-hackers-linked-to-major-south-korean-crypto-hacks-since-2018/",
-      "published_at": "2026-05-14T11:04:58+00:00",
-      "source": "crypto.news",
-      "score": 3,
-      "ntitle": "north korean hackers linked major south korean crypto hacks since 2018",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Trump proposes federal gasoline tax pause amid Iran war energy costs",
-      "link": "https://cryptobriefing.com/trump-federal-gasoline-tax-pause-iran/",
-      "published_at": "2026-05-14T11:24:40+00:00",
-      "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "trump proposes federal gasoline tax pause amid iran war energy costs",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    }
-  ],
-  "day": [
-    {
-      "title": "Announcement – Certified AI Agents Manager (CAIAM)™ Certification Launched",
-      "link": "https://101blockchains.com/certified-ai-agents-manager-certification-launched/",
-      "published_at": "2026-05-14T08:35:59+00:00",
-      "source": "101blockchains.com",
-      "score": 5,
-      "ntitle": "announcement certified ai agents manager caiam certification launched",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Bitcoin’s $78K trap: Why a minor BTC dip can revive short-term holder panic",
-      "link": "https://ambcrypto.com/bitcoins-78k-trap-why-a-minor-btc-dip-can-revive-short-term-holder-panic/",
-      "published_at": "2026-05-14T09:00:19+00:00",
-      "source": "ambcrypto.com",
-      "score": 1,
-      "ntitle": "bitcoin s 78k trap why minor btc dip can revive short term holder panic",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "How Congress Wants to Grade Crypto Decentralization",
-      "link": "https://www.bankless.com/read/how-congress-wants-to-grade-crypt-decentralization",
-      "published_at": "2026-05-13T21:55:26+00:00",
-      "source": "bankless.com",
-      "score": 1,
-      "ntitle": "how congress wants grade crypto decentralization",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Congress"
-    },
-    {
-      "title": "30-Year Treasury Auction Clears Above 5%, Highest Yield Since 2007",
-      "link": "https://beincrypto.com/30-year-treasury-auction-5-percent-yield/",
-      "published_at": "2026-05-14T08:47:11+00:00",
-      "source": "beincrypto.com",
-      "score": 3,
-      "ntitle": "30 year treasury auction clears above 5 highest yield since 2007",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Treasury"
-    },
-    {
-      "title": "Crypto Billionaire’s $7M Gift Puts UK Reform Leader Under Ethics Spotlight",
-      "link": "https://bitcoinist.com/crypto-billionaires-7m-gift-puts-uk-reform-leader-under-ethics-spotlight/",
-      "published_at": "2026-05-14T10:00:22+00:00",
-      "source": "bitcoinist.com",
-      "score": 1,
-      "ntitle": "crypto billionaire s 7m gift puts uk reform leader under ethics spotlight",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Senate Confirms Bitcoin Friendly Kevin Warsh As Fed Chair Ahead of Clarity Act Vote",
-      "link": "https://bitcoinmagazine.com/news/senate-confirms-bitcoin-friendly-warsh",
-      "published_at": "2026-05-13T20:01:18+00:00",
-      "source": "bitcoinmagazine.com",
-      "score": 2,
-      "ntitle": "senate confirms bitcoin friendly kevin warsh fed chair ahead clarity act vote",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Fed"
-    },
-    {
-      "title": "Coinbase CEO Backs CLARITY Act Ahead of Key Senate Vote",
-      "link": "https://Blockchain.News/news/coinbase-ceo-clarity-act-senate-vote",
-      "published_at": "2026-05-13T22:23:47+00:00",
-      "source": "blockchain.news",
-      "score": 1,
-      "ntitle": "coinbase ceo backs clarity act ahead key senate vote",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": true,
-      "agency": "Congress"
-    },
-    {
-      "title": "Bitcoin Crash Wipes Out $109.7M in Long Positions as Outflows Dry Up and Shorts Dominate",
-      "link": "https://blockonomi.com/bitcoin-crash-wipes-out-109-7m-in-long-positions-as-outflows-dry-up-and-shorts-dominate/",
-      "published_at": "2026-05-14T10:15:10+00:00",
-      "source": "blockonomi.com",
-      "score": 2,
-      "ntitle": "bitcoin crash wipes out 109 7m long positions outflows dry up shorts dominate",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Trade wars to extended truce: Analysts expect ‘stabilization’ in U.S.-China ties as Trump-Xi meet",
-      "link": "https://www.cnbc.com/2026/05/14/trump-xi-summit-us-china-trade-taiwan-iran-nvidia.html",
-      "published_at": "2026-05-14T08:10:11+00:00",
-      "source": "cnbc.com",
-      "score": 2,
-      "ntitle": "trade wars extended truce analysts expect stabilization u s china ties trump xi meet",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Judge delays Aave’s bid to unfreeze $71 million in ETH tied to Kelp Dao Hack",
-      "link": "https://coincodecap.com/judge-delays-aaves-bid-to-unfreeze-71-million-in-eth-tied-to-kelp-dao-hack?utm_source=rss&utm_medium=rss&utm_campaign=judge-delays-aaves-bid-to-unfreeze-71-million-in-eth-tied-to-kelp-dao-hack",
-      "published_at": "2026-05-14T08:38:55+00:00",
-      "source": "coincodecap.com",
-      "score": 1,
-      "ntitle": "judge delays aave s bid unfreeze 71 million eth tied kelp dao hack",
-      "coins": [
-        "AAVE",
-        "ETH"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Moody’s awards top rating to Fidelity and BlackRock's tokenized money market funds",
-      "link": "https://www.coindesk.com/markets/2026/05/14/moody-s-awards-top-rating-to-fidelity-and-blackrock-s-tokenized-money-market-funds",
-      "published_at": "2026-05-14T08:49:07+00:00",
-      "source": "coindesk.com",
-      "score": 6,
-      "ntitle": "moody s awards top rating fidelity blackrock s tokenized money market funds",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "3 Reasons Why Dogecoin Price is Up Today Despite Crypto Market Crash",
-      "link": "https://coingape.com/markets/3-reasons-why-dogecoin-price-is-up-today-despite-crypto-market-crash/",
-      "published_at": "2026-05-14T08:58:36+00:00",
-      "source": "coingape.com",
-      "score": 1,
-      "ntitle": "3 reasons why dogecoin price up today despite crypto market crash",
-      "coins": [
-        "DOGE"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Cardano price forecast: is $0.40 next as $ADA flashes buy signal?",
-      "link": "https://coinjournal.net/news/cardano-price-forecast-is-0-40-next-as-ada-flashes-buy-signal/",
-      "published_at": "2026-05-14T10:24:32+00:00",
-      "source": "coinjournal.net",
-      "score": 1,
-      "ntitle": "cardano price forecast 0 40 next ada flashes buy signal",
-      "coins": [
-        "ADA"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Altcoin season ‘quietly’ starting? Analysts spot three bullish indicators",
-      "link": "https://cointelegraph.com/markets/altcoin-quietly-starting-analysts-spot-three-bullish-indicators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-05-14T10:25:56+00:00",
-      "source": "cointelegraph.com",
-      "score": 1,
-      "ntitle": "altcoin season quietly starting analysts spot three bullish indicators",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Tether freezes $213m linked to Gurhan Kiziloz in Brazil tax dispute over gambling, crypto sales",
-      "link": "https://crypto.news/tether-freezes-213m-linked-to-gurhan-kiziloz-in-brazil-tax-dispute-over-gambling-crypto-sales/",
-      "published_at": "2026-05-14T10:15:01+00:00",
-      "source": "crypto.news",
-      "score": 6,
-      "ntitle": "tether freezes 213m linked gurhan kiziloz brazil tax dispute over gambling crypto sales",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "NASDAQ 100 futures fall 1% as US April CPI meets expectations",
-      "link": "https://cryptobriefing.com/nasdaq-100-futures-fall-april-cpi/",
-      "published_at": "2026-05-14T10:09:42+00:00",
-      "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "nasdaq 100 futures fall 1 us april cpi meets expectations",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Cardano Whales Keep Buying as ADA Crashes 71% in 9 Months",
-      "link": "https://cryptopotato.com/cardano-whales-keep-buying-as-ada-crashes-71-in-9-months/",
-      "published_at": "2026-05-14T09:20:56+00:00",
-      "source": "cryptopotato.com",
-      "score": 1,
-      "ntitle": "cardano whales keep buying ada crashes 71 9 months",
-      "coins": [
-        "ADA"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "JPMorgan’s $30 billion Strategy call exposes Bitcoin’s new market fault line",
-      "link": "https://cryptoslate.com/jpmorgans-30-billion-strategy-call-exposes-bitcoins-new-market-fault-line/",
-      "published_at": "2026-05-14T08:51:24+00:00",
-      "source": "cryptoslate.com",
-      "score": 5,
-      "ntitle": "jpmorgan s 30 billion strategy call exposes bitcoin s new market fault line",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
       "title": "$400,000,000 Seized From Crypto Ponzi Scheme Now Available To Compensate Victims, Says DOJ",
       "link": "https://dailyhodl.com/2026/05/14/400000000-seized-from-crypto-ponzi-scheme-now-available-to-compensate-victims-says-doj/",
       "published_at": "2026-05-14T09:04:53+00:00",
@@ -511,15 +499,13 @@
       "agency": null
     },
     {
-      "title": "Bitcoin Owner Claims Claude AI Cracked Lost Wallet Password, Netting $400K in BTC",
-      "link": "https://decrypt.co/367796/claude-ai-cracked-lost-bitcoin-wallet-owner-claims",
-      "published_at": "2026-05-13T22:06:29+00:00",
+      "title": "Morning Minute: What’s At Stake with Trump in Beijing",
+      "link": "https://decrypt.co/367825/morning-minute-whats-at-stake-with-trump-in-beijing",
+      "published_at": "2026-05-14T11:57:13+00:00",
       "source": "decrypt.co",
-      "score": 2,
-      "ntitle": "bitcoin owner claims claude ai cracked lost wallet password netting 400k btc",
-      "coins": [
-        "BTC"
-      ],
+      "score": 1,
+      "ntitle": "morning minute what s stake trump beijing",
+      "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
@@ -537,14 +523,14 @@
       "agency": "Fed"
     },
     {
-      "title": "Rally Without Conviction",
-      "link": "https://insights.glassnode.com/the-week-onchain-week-19-2026/",
-      "published_at": "2026-05-13T14:38:31+00:00",
+      "title": "IBIT Options Metrics Live on Glassnode",
+      "link": "https://insights.glassnode.com/ibit-options-metrics-live-on-glassnode/",
+      "published_at": "2026-05-14T09:00:00+00:00",
       "source": "insights.glassnode.com",
       "score": 2,
-      "ntitle": "rally without conviction",
+      "ntitle": "ibit options metrics live glassnode",
       "coins": [],
-      "sentiment": "bullish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -573,32 +559,30 @@
       "agency": null
     },
     {
-      "title": "Bitcoin Faces Major Test As 37% Recovery Collides With Bear Resistance",
-      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-faces-major-test-as-37-recovery-collides-with-bear-resistance/",
-      "published_at": "2026-05-14T09:00:27+00:00",
+      "title": "Dogecoin Fisher Transform Turns Bullish: The Last Setups Were Explosive",
+      "link": "https://www.newsbtc.com/news/dogecoin/dogecoins-fisher-transform-turns-bullish/",
+      "published_at": "2026-05-14T11:15:23+00:00",
       "source": "newsbtc.com",
-      "score": 10,
-      "ntitle": "bitcoin faces major test 37 recovery collides bear resistance",
+      "score": 1,
+      "ntitle": "dogecoin fisher transform turns bullish last setups were explosive",
       "coins": [
-        "BTC"
+        "DOGE"
       ],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Largest Solana treasury stock lost $1B while earning 6.7% staking rewards",
-      "link": "https://protos.com/largest-solana-treasury-stock-lost-1b-while-earning-6-7-staking-rewards/",
-      "published_at": "2026-05-13T19:37:23+00:00",
+      "title": "Nakamoto lost $238M in Q1 while exec compensation soared 7x",
+      "link": "https://protos.com/nakamoto-lost-238m-in-q1-while-exec-compensation-soared-7x/",
+      "published_at": "2026-05-14T12:09:14+00:00",
       "source": "protos.com",
-      "score": 5,
-      "ntitle": "largest solana treasury stock lost 1b while earning 6 7 staking rewards",
-      "coins": [
-        "SOL"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Treasury"
+      "score": 1,
+      "ntitle": "nakamoto lost 238m q1 while exec compensation soared 7x",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "BNB Chain Unveils On-Chain Agent Identity and Payment Framework With ERC-8004 Standard",
@@ -615,13 +599,16 @@
       "agency": "Regulatory"
     },
     {
-      "title": "Almost 3,000 New XRP Ledger Users per Day: Can It Turn Around Trend?",
-      "link": "https://u.today/almost-3000-new-xrp-ledger-users-per-day-can-it-turn-around-trend",
-      "published_at": "2026-05-14T10:19:00+00:00",
+      "title": "Bitcoin at $4.2 Million Puts Saylor Ahead of Elon Musk; XRP Rally Stalls After Hyperliquid ETF Launch; Cardano Hits Millionaire Milestone - Morning Crypto Report",
+      "link": "https://u.today/bitcoin-at-42-million-puts-saylor-ahead-of-elon-musk-xrp-rally-stalls-after-hyperliquid-etf-launch",
+      "published_at": "2026-05-14T12:00:00+00:00",
       "source": "u.today",
-      "score": 6,
-      "ntitle": "almost 3 000 new xrp ledger users per day can it turn around trend",
+      "score": 12,
+      "ntitle": "bitcoin 4 2 million puts saylor ahead elon musk xrp rally stalls after hyperliquid etf launch cardano hits millionaire milestone morning crypto report",
       "coins": [
+        "ADA",
+        "BTC",
+        "HYPE",
         "XRP"
       ],
       "sentiment": "bullish",
@@ -629,30 +616,28 @@
       "agency": null
     },
     {
-      "title": "Bitcoin Slips Below $80,000 as Spot ETFs Bleed $635 Million in a Day",
-      "link": "https://unchainedcrypto.com/bitcoin-slips-below-80000-as-spot-etfs-bleed-635-million-in-a-day/",
-      "published_at": "2026-05-14T10:03:07+00:00",
+      "title": "T3 Financial Crime Unit Says It Has Frozen More Than $450 Million in Illicit Crypto Globally",
+      "link": "https://unchainedcrypto.com/t3-financial-crime-unit-says-it-has-frozen-more-than-450-million-in-illicit-crypto-globally/",
+      "published_at": "2026-05-14T12:00:00+00:00",
       "source": "unchainedcrypto.com",
-      "score": 5,
-      "ntitle": "bitcoin slips below 80 000 spot etfs bleed 635 million day",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Regulatory"
-    },
-    {
-      "title": "Crypto regulations hang in the balance as CLARITY Act markup vote looms – Details",
-      "link": "https://ambcrypto.com/crypto-regulations-hang-in-the-balance-as-clarity-act-markup-vote-looms-details/",
-      "published_at": "2026-05-14T08:30:57+00:00",
-      "source": "ambcrypto.com",
-      "score": 4,
-      "ntitle": "crypto regulations hang balance clarity act markup vote looms details",
+      "score": 2,
+      "ntitle": "t3 financial crime unit says it has frozen more than 450 million illicit crypto globally",
       "coins": [],
       "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Congress"
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Immunefi takes over Code4rena’s ‘wardens’ — Can DeFi survive 2026 exploit surge?",
+      "link": "https://ambcrypto.com/immunefi-takes-over-code4renas-wardens-can-defi-survive-2026-exploit-surge/",
+      "published_at": "2026-05-14T11:00:39+00:00",
+      "source": "ambcrypto.com",
+      "score": 4,
+      "ntitle": "immunefi takes over code4rena s wardens can defi survive 2026 exploit surge",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
     }
   ],
   "week": [
@@ -683,29 +668,28 @@
       "agency": "Regulatory"
     },
     {
-      "title": "What’s Really at Stake in the Market Structure Debate: The BRCA",
-      "link": "https://bitcoinmagazine.com/legal/whats-really-at-stake-in-the-market-structure-debate-the-brca",
-      "published_at": "2026-05-12T19:04:33+00:00",
+      "title": "$11.77 Trillion Brokerage Giant Charles Schwab Launches Spot Bitcoin Trading Platform",
+      "link": "https://bitcoinmagazine.com/news/charles-schwab-launches-spot-bitcoin",
+      "published_at": "2026-05-13T13:11:14+00:00",
       "source": "bitcoinmagazine.com",
-      "score": 1,
-      "ntitle": "what s really stake market structure debate brca",
-      "coins": [],
-      "sentiment": "neutral",
+      "score": 4,
+      "ntitle": "11 77 trillion brokerage giant charles schwab launches spot bitcoin trading platform",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Jane Street Cuts Bitcoin ETFs, Doubles Down on Ether Funds",
-      "link": "https://Blockchain.News/news/jane-street-cuts-bitcoin-etfs-boosts-ether-funds",
-      "published_at": "2026-05-13T11:14:44+00:00",
+      "title": "Nigel Farage Faces Probe Over $7M Crypto Donation",
+      "link": "https://Blockchain.News/news/farage-crypto-donation-probe",
+      "published_at": "2026-05-13T13:11:52+00:00",
       "source": "blockchain.news",
-      "score": 3,
-      "ntitle": "jane street cuts bitcoin etfs doubles down ether funds",
-      "coins": [
-        "BTC",
-        "ETH"
-      ],
-      "sentiment": "bearish",
+      "score": 1,
+      "ntitle": "nigel farage faces probe over 7m crypto donation",
+      "coins": [],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -716,6 +700,18 @@
       "source": "chainalysis.com",
       "score": 2,
       "ntitle": "crypto prediction markets explained how blockchain reshaping forecasting",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Mortgage rates move to highest level in 5 weeks, but homebuyers shake it off",
+      "link": "https://www.cnbc.com/2026/05/13/mortgage-rates-move-to-highest-level-in-5-weeks.html",
+      "published_at": "2026-05-13T11:33:04+00:00",
+      "source": "cnbc.com",
+      "score": 1,
+      "ntitle": "mortgage rates move highest level 5 weeks but homebuyers shake it off",
       "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -734,58 +730,66 @@
       "agency": null
     },
     {
-      "title": "Will Cardano Price Rally as Hoskinson Confirms Revised CLARITY Act Recognizes ADA’s Non-Security Status?",
-      "link": "https://coingape.com/markets/cardano-price-as-hoskinson-confirms-revised-clarity-act-recognizes-adas-non-security/",
-      "published_at": "2026-05-13T11:28:28+00:00",
+      "title": "BREAKING: First Eagle Becomes Strategy Inc’s (MSTR) Largest Investor, Surpassing Vanguard",
+      "link": "https://coingape.com/first-eagle-becomes-strategy-inc-mstr-largest-invetsor-surpassing-vanguard/",
+      "published_at": "2026-05-13T12:17:48+00:00",
       "source": "coingape.com",
-      "score": 2,
-      "ntitle": "will cardano price rally hoskinson confirms revised clarity act recognizes ada s non security status",
-      "coins": [
-        "ADA"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": true,
-      "agency": "Congress"
-    },
-    {
-      "title": "XRP price forecast as more whales bet on bounce",
-      "link": "https://coinjournal.net/news/xrp-price-forecast-as-more-whales-bet-on-bounce/",
-      "published_at": "2026-05-13T07:11:47+00:00",
-      "source": "coinjournal.net",
-      "score": 6,
-      "ntitle": "xrp price forecast more whales bet bounce",
-      "coins": [
-        "XRP"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Why Ripple (XRP) Accumulation Continued Despite Market Fear and Liquidations",
-      "link": "https://cryptopotato.com/why-ripple-xrp-accumulation-continued-despite-market-fear-and-liquidations/",
-      "published_at": "2026-05-13T10:59:00+00:00",
-      "source": "cryptopotato.com",
-      "score": 8,
-      "ntitle": "why ripple xrp accumulation continued despite market fear liquidations",
-      "coins": [
-        "XRP"
-      ],
+      "score": 4,
+      "ntitle": "breaking first eagle becomes strategy inc s mstr largest investor surpassing vanguard",
+      "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Bitcoin was waiting for cuts. Hot CPI inflation data just put hikes back on the table",
-      "link": "https://cryptoslate.com/bitcoin-was-waiting-for-cuts-hot-cpi-just-put-hikes-back-on-the-table/",
-      "published_at": "2026-05-13T10:30:08+00:00",
-      "source": "cryptoslate.com",
-      "score": 2,
-      "ntitle": "bitcoin was waiting cuts hot cpi inflation data just put hikes back table",
+      "title": "Danish ice hockey team partners with Concordium for AI identity pilot",
+      "link": "https://coinjournal.net/news/danish-ice-hockey-team-partners-with-concordium-for-ai-identity-pilot/",
+      "published_at": "2026-05-13T13:00:32+00:00",
+      "source": "coinjournal.net",
+      "score": 7,
+      "ntitle": "danish ice hockey team partners concordium ai identity pilot",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Metaplanet Q1 profit jumps, but Bitcoin losses hit bottom line",
+      "link": "https://cointelegraph.com/news/metaplanet-reports-strong-q1-operating-income-wider-loss-on-bitcoin-revaluation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-05-13T13:10:42+00:00",
+      "source": "cointelegraph.com",
+      "score": 1,
+      "ntitle": "metaplanet q1 profit jumps but bitcoin losses hit bottom line",
       "coins": [
         "BTC"
       ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Pi Network (PI) Price Predictions for This Week, May 13",
+      "link": "https://cryptopotato.com/pi-network-pi-price-predictions-for-this-week-may-13/",
+      "published_at": "2026-05-13T13:05:48+00:00",
+      "source": "cryptopotato.com",
+      "score": 1,
+      "ntitle": "pi network pi price predictions this week may 13",
+      "coins": [],
       "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Bitcoin holders can now hide more of their activity, but only by trusting new middlemen",
+      "link": "https://cryptoslate.com/bitcoin-holders-can-now-hide-more-of-their-activity-but-only-by-trusting-new-middlemen/",
+      "published_at": "2026-05-13T12:10:08+00:00",
+      "source": "cryptoslate.com",
+      "score": 4,
+      "ntitle": "bitcoin holders can now hide more their activity but only trusting new middlemen",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -916,16 +920,16 @@
       "agency": null
     },
     {
-      "title": "XRP ETFs Pull in Biggest Inflow since January",
-      "link": "https://u.today/xrp-etfs-pull-in-biggest-inflow-since-january",
-      "published_at": "2026-05-13T10:33:06+00:00",
+      "title": "'Neither Privacy nor Business': Top Solana and Zcash Proponent Urges Crypto Industry to Quit Telegram",
+      "link": "https://u.today/neither-privacy-nor-business-top-solana-and-zcash-proponent-urges-crypto-industry-to-quit-telegram",
+      "published_at": "2026-05-13T12:25:00+00:00",
       "source": "u.today",
-      "score": 10,
-      "ntitle": "xrp etfs pull biggest inflow since january",
+      "score": 2,
+      "ntitle": "neither privacy nor business top solana zcash proponent urges crypto industry quit telegram",
       "coins": [
-        "XRP"
+        "SOL"
       ],
-      "sentiment": "bullish",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -970,32 +974,31 @@
       "agency": null
     },
     {
-      "title": "Square Crosses 1 Million Bitcoin-Enabled Merchants as Real-World Adoption Continues to Grow",
-      "link": "https://bitcoinmagazine.com/news/square-crosses-1-million-bitcoin-merchants",
-      "published_at": "2026-05-12T18:40:33+00:00",
+      "title": "What’s Really at Stake in the Market Structure Debate: The BRCA",
+      "link": "https://bitcoinmagazine.com/legal/whats-really-at-stake-in-the-market-structure-debate-the-brca",
+      "published_at": "2026-05-12T19:04:33+00:00",
       "source": "bitcoinmagazine.com",
-      "score": 4,
-      "ntitle": "square crosses 1 million bitcoin enabled merchants real world adoption continues grow",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bullish",
+      "score": 1,
+      "ntitle": "what s really stake market structure debate brca",
+      "coins": [],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Iran's OFAC-Sanctioned Tron Wallets Mapped by Arkham",
-      "link": "https://Blockchain.News/news/iran-tron-wallets-mapped-arkham",
-      "published_at": "2026-05-13T11:07:44+00:00",
+      "title": "Jane Street Cuts Bitcoin ETFs, Doubles Down on Ether Funds",
+      "link": "https://Blockchain.News/news/jane-street-cuts-bitcoin-etfs-boosts-ether-funds",
+      "published_at": "2026-05-13T11:14:44+00:00",
       "source": "blockchain.news",
-      "score": 5,
-      "ntitle": "iran s ofac sanctioned tron wallets mapped arkham",
+      "score": 3,
+      "ntitle": "jane street cuts bitcoin etfs doubles down ether funds",
       "coins": [
-        "TRX"
+        "BTC",
+        "ETH"
       ],
       "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Regulatory"
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "8 Best Books To Read On Blockchains And Cryptocurrencies",
@@ -1010,40 +1013,18 @@
       "agency": null
     },
     {
-      "title": "Bitget UEX Report: Retail Investors Move Beyond Crypto as 52% Add Equities And 51% Use AI",
-      "link": "https://coingape.com/bitget-uex-report-retail-investors-move-beyond-crypto-as-52-add-equities-and-51-use-ai/",
-      "published_at": "2026-05-13T11:00:34+00:00",
+      "title": "Will Cardano Price Rally as Hoskinson Confirms Revised CLARITY Act Recognizes ADA’s Non-Security Status?",
+      "link": "https://coingape.com/markets/cardano-price-as-hoskinson-confirms-revised-clarity-act-recognizes-adas-non-security/",
+      "published_at": "2026-05-13T11:28:28+00:00",
       "source": "coingape.com",
       "score": 2,
-      "ntitle": "bitget uex report retail investors move beyond crypto 52 add equities 51 use ai",
-      "coins": [],
+      "ntitle": "will cardano price rally hoskinson confirms revised clarity act recognizes ada s non security status",
+      "coins": [
+        "ADA"
+      ],
       "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "BASIS.pro Is Live: Base58Labs Officially Launches Crypto Arbitrage Platform",
-      "link": "https://cryptopotato.com/basis-pro-is-live-base58labs-officially-launches-crypto-arbitrage-platform/",
-      "published_at": "2026-05-13T10:55:17+00:00",
-      "source": "cryptopotato.com",
-      "score": 3,
-      "ntitle": "basis pro live base58labs officially launches crypto arbitrage platform",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "DuoSpin Promo Code Where To Enter And Unlock Bonuses",
-      "link": "https://www.cryptovantage.com/news/duospin-promo-code-where-to-enter-and-unlock-bonuses/",
-      "published_at": "2026-05-08T07:42:42+00:00",
-      "source": "cryptovantage.com",
-      "score": 1,
-      "ntitle": "duospin promo code where enter unlock bonuses",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
+      "is_regulation": true,
+      "agency": "Congress"
     }
   ],
   "month": [
@@ -1132,16 +1113,16 @@
       "agency": "SEC"
     },
     {
-      "title": "Gnosis Treasury Redemption Vote Swings as Whale Counters Cofounder",
-      "link": "https://thedefiant.io/news/defi/gnosis-treasury-redemption-vote-swings-as-whale-counters-cofounder",
-      "published_at": "2026-05-06T19:56:51+00:00",
+      "title": "Bitwise to Take Over Superstate's $267M Tokenized Crypto Carry Fund",
+      "link": "https://thedefiant.io/news/defi/bitwise-to-take-over-superstate-s-usd267m-tokenized-crypto-carry-fund",
+      "published_at": "2026-05-07T13:00:05+00:00",
       "source": "thedefiant.io",
-      "score": 3,
-      "ntitle": "gnosis treasury redemption vote swings whale counters cofounder",
+      "score": 5,
+      "ntitle": "bitwise take over superstate s 267m tokenized crypto carry fund",
       "coins": [],
       "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Treasury"
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "How Crypto Audits Prevent Fraud and Financial Risk?",
@@ -1230,99 +1211,70 @@
       "agency": "SEC"
     },
     {
-      "title": "Kraken Launches Spot Margin Trading for US Clients",
-      "link": "https://thedefiant.io/news/cefi/kraken-launches-spot-margin-trading-for-us-clients",
-      "published_at": "2026-05-06T18:34:29+00:00",
+      "title": "1inch Resolver TrustedVolumes Drained for $6.7M on Ethereum",
+      "link": "https://thedefiant.io/news/defi/1inch-resolver-trustedvolumes-drained-for-usd6-7m-on-ethereum",
+      "published_at": "2026-05-07T12:16:48+00:00",
       "source": "thedefiant.io",
       "score": 3,
-      "ntitle": "kraken launches spot margin trading us clients",
-      "coins": [],
-      "sentiment": "bullish",
+      "ntitle": "1inch resolver trustedvolumes drained 6 7m ethereum",
+      "coins": [
+        "ETH"
+      ],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     }
   ],
-  "clusters": [
-    {
-      "id": 25,
-      "title": "Senate Confirms Bitcoin Friendly Kevin Warsh As Fed Chair Ahead of Clarity Act Vote",
-      "link": "https://bitcoinmagazine.com/news/senate-confirms-bitcoin-friendly-warsh",
-      "source": "bitcoinmagazine.com",
-      "published_at": "2026-05-13T20:01:18+00:00",
-      "sentiment": "bearish",
-      "coins": [
-        "BTC"
-      ],
-      "sources": [
-        "blockchain.news",
-        "bitcoinmagazine.com"
-      ],
-      "count": 2,
-      "members": [
-        {
-          "title": "Senate Confirms Bitcoin Friendly Kevin Warsh As Fed Chair Ahead of Clarity Act Vote",
-          "link": "https://bitcoinmagazine.com/news/senate-confirms-bitcoin-friendly-warsh",
-          "source": "bitcoinmagazine.com",
-          "published_at": "2026-05-13T20:01:18+00:00"
-        },
-        {
-          "title": "Coinbase CEO Backs CLARITY Act Ahead of Key Senate Vote",
-          "link": "https://Blockchain.News/news/coinbase-ceo-clarity-act-senate-vote",
-          "source": "blockchain.news",
-          "published_at": "2026-05-13T22:23:47+00:00"
-        }
-      ]
-    }
-  ],
+  "clusters": [],
   "trending": [
     {
       "tag": "#Ai",
-      "count": 56,
+      "count": 54,
       "type": "topic",
       "pct": 100
     },
     {
       "tag": "#XRP",
-      "count": 46,
+      "count": 47,
       "type": "coin",
-      "pct": 82
+      "pct": 87
     },
     {
       "tag": "#Xrp",
       "count": 43,
       "type": "topic",
-      "pct": 77
+      "pct": 80
     },
     {
       "tag": "#Defi",
       "count": 40,
       "type": "topic",
-      "pct": 71
+      "pct": 74
     },
     {
       "tag": "#Bitcoin",
-      "count": 31,
+      "count": 30,
       "type": "topic",
-      "pct": 55
+      "pct": 56
     },
     {
       "tag": "#BTC",
-      "count": 29,
+      "count": 28,
       "type": "coin",
       "pct": 52
     },
     {
       "tag": "#Etf",
-      "count": 18,
+      "count": 21,
       "type": "topic",
-      "pct": 32
+      "pct": 39
     },
     {
       "tag": "#ETH",
-      "count": 15,
+      "count": 16,
       "type": "coin",
-      "pct": 27
+      "pct": 30
     }
   ],
-  "generated_at": "2026-05-14T11:29:14.602175+00:00"
+  "generated_at": "2026-05-14T13:14:16.237036+00:00"
 }
