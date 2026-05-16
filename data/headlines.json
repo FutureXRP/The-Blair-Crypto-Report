@@ -2,6 +2,72 @@
   "x_breaking": [],
   "breaking": [
     {
+      "title": "Bitcoin volatility cools as network activity begins recovering – Shock ahead?",
+      "link": "https://ambcrypto.com/bitcoin-volatility-cools-as-network-activity-begins-recovering-shock-ahead/",
+      "published_at": "2026-05-16T20:00:35+00:00",
+      "source": "ambcrypto.com",
+      "score": 1,
+      "ntitle": "bitcoin volatility cools network activity begins recovering shock ahead",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Ten Stocks Are Holding the S&P 500 Together While the Rest of the Market Lags Behind",
+      "link": "https://blockonomi.com/ten-stocks-are-holding-the-sp-500-together-while-the-rest-of-the-market-lags-behind/",
+      "published_at": "2026-05-16T19:37:52+00:00",
+      "source": "blockonomi.com",
+      "score": 2,
+      "ntitle": "ten stocks holding s p 500 together while rest market lags behind",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Iran reopens stock market on Tuesday after 80-day closure",
+      "link": "https://cryptobriefing.com/iran-stock-market-reopens-80-day-closure/",
+      "published_at": "2026-05-16T20:16:09+00:00",
+      "source": "cryptobriefing.com",
+      "score": 1,
+      "ntitle": "iran reopens stock market tuesday after 80 day closure",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "The Compute Cartel: How Microsoft, Amazon, and Google Control Every Major AI Lab",
+      "link": "https://blockonomi.com/the-compute-cartel-how-microsoft-amazon-and-google-control-every-major-ai-lab/",
+      "published_at": "2026-05-16T19:29:56+00:00",
+      "source": "blockonomi.com",
+      "score": 2,
+      "ntitle": "compute cartel how microsoft amazon google control every major ai lab",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Hyperliquid discusses onchain derivatives regulation with US policymakers",
+      "link": "https://cryptobriefing.com/hyperliquid-onchain-derivatives-us-regulation/",
+      "published_at": "2026-05-16T19:42:24+00:00",
+      "source": "cryptobriefing.com",
+      "score": 5,
+      "ntitle": "hyperliquid discusses onchain derivatives regulation us policymakers",
+      "coins": [
+        "HYPE"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Regulatory"
+    }
+  ],
+  "day": [
+    {
       "title": "Coinbase reacts to CLARITY Act advancing in Senate – ‘More work left’",
       "link": "https://ambcrypto.com/coinbase-reacts-to-clarity-act-advancing-in-senate-more-work-left/",
       "published_at": "2026-05-16T19:00:43+00:00",
@@ -12,6 +78,20 @@
       "sentiment": "neutral",
       "is_regulation": true,
       "agency": "Congress"
+    },
+    {
+      "title": "Ethereum's Fix for Blind Signing",
+      "link": "https://www.bankless.com/read/ethereums-fix-for-blind-signing",
+      "published_at": "2026-05-16T10:46:55+00:00",
+      "source": "bankless.com",
+      "score": 0,
+      "ntitle": "ethereum s fix blind signing",
+      "coins": [
+        "ETH"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Bitwise CEO Pitches Crypto to Tech Workers Facing AI Layoffs",
@@ -38,176 +118,6 @@
       "agency": null
     },
     {
-      "title": "Ten Stocks Are Holding the S&P 500 Together While the Rest of the Market Lags Behind",
-      "link": "https://blockonomi.com/ten-stocks-are-holding-the-sp-500-together-while-the-rest-of-the-market-lags-behind/",
-      "published_at": "2026-05-16T19:37:52+00:00",
-      "source": "blockonomi.com",
-      "score": 2,
-      "ntitle": "ten stocks holding s p 500 together while rest market lags behind",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Strategy to repurchase $1.5B of 2029 convertible notes",
-      "link": "https://cointelegraph.com/news/strategy-repurchase-15b-2029-convertible-notes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-05-16T19:03:08+00:00",
-      "source": "cointelegraph.com",
-      "score": 1,
-      "ntitle": "strategy repurchase 1 5b 2029 convertible notes",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Trump threatens military escalation against Iran, dismisses peace offer",
-      "link": "https://cryptobriefing.com/trump-iran-military-escalation-crypto-impact/",
-      "published_at": "2026-05-16T19:20:19+00:00",
-      "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "trump threatens military escalation against iran dismisses peace offer",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "DHI CEO Says Bhutan Has No Recollection of Selling BTC Despite Balance Drop Flagged by Arkham",
-      "link": "https://news.bitcoin.com/dhi-ceo-says-bhutan-has-no-recollection-of-selling-btc-despite-balance-drop-flagged-by-arkham/",
-      "published_at": "2026-05-16T19:25:21+00:00",
-      "source": "news.bitcoin.com",
-      "score": 4,
-      "ntitle": "dhi ceo says bhutan has no recollection selling btc despite balance drop flagged arkham",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Analyst Says Don’t Buy Bitcoin Until This Happens",
-      "link": "https://www.newsbtc.com/news/bitcoin/dont-buy-bitcoin-until-this/",
-      "published_at": "2026-05-16T19:00:47+00:00",
-      "source": "newsbtc.com",
-      "score": 1,
-      "ntitle": "analyst says don t buy bitcoin until this happens",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Is Hyperliquid Worth All the Recent Hype?",
-      "link": "https://u.today/opinions/is-hyperliquid-worth-all-the-recent-hype",
-      "published_at": "2026-05-16T19:00:00+00:00",
-      "source": "u.today",
-      "score": 1,
-      "ntitle": "hyperliquid worth all recent hype",
-      "coins": [
-        "HYPE"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Why Ripple’s XRP Is A Better Transaction Choice Compared To SWIFT",
-      "link": "https://bitcoinist.com/ripples-xrp-better-than-swift/",
-      "published_at": "2026-05-16T19:00:46+00:00",
-      "source": "bitcoinist.com",
-      "score": 12,
-      "ntitle": "why ripple s xrp better transaction choice compared swift",
-      "coins": [
-        "XRP"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "The Compute Cartel: How Microsoft, Amazon, and Google Control Every Major AI Lab",
-      "link": "https://blockonomi.com/the-compute-cartel-how-microsoft-amazon-and-google-control-every-major-ai-lab/",
-      "published_at": "2026-05-16T19:29:56+00:00",
-      "source": "blockonomi.com",
-      "score": 2,
-      "ntitle": "compute cartel how microsoft amazon google control every major ai lab",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "US pending home sales rise 9.6% year-over-year, hitting highest level since September 2022",
-      "link": "https://cryptobriefing.com/us-pending-home-sales-highest-since-2022/",
-      "published_at": "2026-05-16T19:18:58+00:00",
-      "source": "cryptobriefing.com",
-      "score": 2,
-      "ntitle": "us pending home sales rise 9 6 year over year hitting highest level since september 2022",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    }
-  ],
-  "day": [
-    {
-      "title": "Dogecoin eyes breakout as whales buy and DOGE ETFs inflows return",
-      "link": "https://ambcrypto.com/dogecoin-eyes-breakout-as-whales-buy-and-doge-etfs-inflows-return/",
-      "published_at": "2026-05-16T18:00:42+00:00",
-      "source": "ambcrypto.com",
-      "score": 3,
-      "ntitle": "dogecoin eyes breakout whales buy doge etfs inflows return",
-      "coins": [
-        "DOGE"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Ethereum's Fix for Blind Signing",
-      "link": "https://www.bankless.com/read/ethereums-fix-for-blind-signing",
-      "published_at": "2026-05-16T10:46:55+00:00",
-      "source": "bankless.com",
-      "score": 0,
-      "ntitle": "ethereum s fix blind signing",
-      "coins": [
-        "ETH"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Gambling Layoffs Increase as Prediction Markets and AI Reshape Sports Betting",
-      "link": "https://beincrypto.com/gambling-layoffs-prediction-markets-ai-shakeout/",
-      "published_at": "2026-05-16T18:00:00+00:00",
-      "source": "beincrypto.com",
-      "score": 1,
-      "ntitle": "gambling layoffs increase prediction markets ai reshape sports betting",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Tether Urged To Transfer $344M In Frozen USDT To Terror Victims",
-      "link": "https://bitcoinist.com/tether-faces-calls-to-block-344-million-in-usdt-linked-to-terror-activity/",
-      "published_at": "2026-05-16T17:00:56+00:00",
-      "source": "bitcoinist.com",
-      "score": 1,
-      "ntitle": "tether urged transfer 344m frozen usdt terror victims",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
       "title": "Bitcoin Open Heads to Iconic Glen Abbey Golf Club for June 8, 2026 Event",
       "link": "https://bitcoinmagazine.com/culture/bitcoin-open-heads-to-iconic-glen-abbey-golf-club-for-june-8-2026-event",
       "published_at": "2026-05-15T21:09:38+00:00",
@@ -222,26 +132,24 @@
       "agency": null
     },
     {
-      "title": "ATOM Price Prediction: $2.20 Target Within 30 Days as Whales Position for Breakout",
-      "link": "https://Blockchain.News/news/20260516-price-prediction-target-atom-220-within-30-days-as-whales",
-      "published_at": "2026-05-16T07:38:23+00:00",
+      "title": "FILE Price Prediction: $1.10 Recovery Target Despite 5.24% Daily Decline",
+      "link": "https://Blockchain.News/news/20260516-price-prediction-target-file-110-recovery-despite-524-daily-decline",
+      "published_at": "2026-05-16T08:25:01+00:00",
       "source": "blockchain.news",
-      "score": 2,
-      "ntitle": "atom price prediction 2 20 target within 30 days whales position breakout",
-      "coins": [
-        "ATOM"
-      ],
-      "sentiment": "bullish",
+      "score": 1,
+      "ntitle": "file price prediction 1 10 recovery target despite 5 24 daily decline",
+      "coins": [],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Stablecoin Infrastructure Has Gone Regional: The $400B Map Reshaping Cross-Border Payments",
-      "link": "https://blockonomi.com/stablecoin-infrastructure-has-gone-regional-the-400b-map-reshaping-cross-border-payments/",
-      "published_at": "2026-05-16T14:41:04+00:00",
+      "title": "BlackRock in Talks to Invest Up to $10 Billion in SpaceX IPO Ahead of June Listing",
+      "link": "https://blockonomi.com/blackrock-in-talks-to-invest-up-to-10-billion-in-spacex-ipo-ahead-of-june-listing/",
+      "published_at": "2026-05-16T19:07:13+00:00",
       "source": "blockonomi.com",
-      "score": 2,
-      "ntitle": "stablecoin infrastructure has gone regional 400b map reshaping cross border payments",
+      "score": 4,
+      "ntitle": "blackrock talks invest up 10 billion spacex ipo ahead june listing",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -290,16 +198,14 @@
       "agency": null
     },
     {
-      "title": "Bitcoin analysis sees 'bear trap' as BTC price passes two-week lows under $78K",
-      "link": "https://cointelegraph.com/markets/bitcoin-analysis-bear-trap-btc-price-passes-two-week-lows-under-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-05-16T17:07:39+00:00",
+      "title": "Strategy to repurchase $1.5B of 2029 convertible notes",
+      "link": "https://cointelegraph.com/news/strategy-repurchase-15b-2029-convertible-notes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-05-16T19:03:08+00:00",
       "source": "cointelegraph.com",
       "score": 1,
-      "ntitle": "bitcoin analysis sees bear trap btc price passes two week lows under 78k",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
+      "ntitle": "strategy repurchase 1 5b 2029 convertible notes",
+      "coins": [],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -318,14 +224,14 @@
       "agency": null
     },
     {
-      "title": "IDF officer killed in Lebanon as Israeli strikes likelihood rises",
-      "link": "https://cryptobriefing.com/idf-officer-killed-in-lebanon-as-israeli-strikes-likelihood-rises/",
-      "published_at": "2026-05-16T18:35:50+00:00",
+      "title": "Trump threatens military escalation against Iran, dismisses peace offer",
+      "link": "https://cryptobriefing.com/trump-iran-military-escalation-crypto-impact/",
+      "published_at": "2026-05-16T19:20:19+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "idf officer killed lebanon israeli strikes likelihood rises",
+      "ntitle": "trump threatens military escalation against iran dismisses peace offer",
       "coins": [],
-      "sentiment": "bullish",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -408,109 +314,110 @@
       "agency": null
     },
     {
-      "title": "Multicoin Capital Sends Entire AAVE Stack to Coinbase Prime After $40M Loss Deepens",
-      "link": "https://news.bitcoin.com/multicoin-capital-aave-coinbase-prime-2026/",
-      "published_at": "2026-05-16T18:10:50+00:00",
+      "title": "DHI CEO Says Bhutan Has No Recollection of Selling BTC Despite Balance Drop Flagged by Arkham",
+      "link": "https://news.bitcoin.com/dhi-ceo-says-bhutan-has-no-recollection-of-selling-btc-despite-balance-drop-flagged-by-arkham/",
+      "published_at": "2026-05-16T19:25:21+00:00",
       "source": "news.bitcoin.com",
       "score": 4,
-      "ntitle": "multicoin capital sends entire aave stack coinbase prime after 40m loss deepens",
+      "ntitle": "dhi ceo says bhutan has no recollection selling btc despite balance drop flagged arkham",
       "coins": [
-        "AAVE"
+        "BTC"
       ],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Solana Eyes $117 Breakout — If Bulls Can Crush This Key Resistance",
-      "link": "https://www.newsbtc.com/news/solana/solana-price-could-be-on-its-way-to-117/",
-      "published_at": "2026-05-16T17:00:38+00:00",
+      "title": "Analyst Says Don’t Buy Bitcoin Until This Happens",
+      "link": "https://www.newsbtc.com/news/bitcoin/dont-buy-bitcoin-until-this/",
+      "published_at": "2026-05-16T19:00:47+00:00",
       "source": "newsbtc.com",
-      "score": 7,
-      "ntitle": "solana eyes 117 breakout if bulls can crush this key resistance",
-      "coins": [
-        "SOL"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Ethereum Marks Poorest ETF Week Since January",
-      "link": "https://u.today/ethereum-marks-poorest-etf-week-since-january",
-      "published_at": "2026-05-16T17:34:27+00:00",
-      "source": "u.today",
-      "score": 3,
-      "ntitle": "ethereum marks poorest etf week since january",
-      "coins": [
-        "ETH"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "STABLE plummets 18% – Fakeout above $0.04 traps bulls",
-      "link": "https://ambcrypto.com/stable-plummets-18-fakeout-above-0-04-traps-bulls/",
-      "published_at": "2026-05-16T17:00:31+00:00",
-      "source": "ambcrypto.com",
       "score": 1,
-      "ntitle": "stable plummets 18 fakeout above 0 04 traps bulls",
-      "coins": [],
+      "ntitle": "analyst says don t buy bitcoin until this happens",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Is Hyperliquid Worth All the Recent Hype?",
+      "link": "https://u.today/opinions/is-hyperliquid-worth-all-the-recent-hype",
+      "published_at": "2026-05-16T19:00:00+00:00",
+      "source": "u.today",
+      "score": 1,
+      "ntitle": "hyperliquid worth all recent hype",
+      "coins": [
+        "HYPE"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Dogecoin eyes breakout as whales buy and DOGE ETFs inflows return",
+      "link": "https://ambcrypto.com/dogecoin-eyes-breakout-as-whales-buy-and-doge-etfs-inflows-return/",
+      "published_at": "2026-05-16T18:00:42+00:00",
+      "source": "ambcrypto.com",
+      "score": 3,
+      "ntitle": "dogecoin eyes breakout whales buy doge etfs inflows return",
+      "coins": [
+        "DOGE"
+      ],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Bitcoin Drops Below $78,000 as Iran Makes Latest Threat on Hormuz",
-      "link": "https://beincrypto.com/bitcoin-selloff-deepens-iran-hormuz-toll/",
-      "published_at": "2026-05-16T17:30:00+00:00",
+      "title": "Gambling Layoffs Increase as Prediction Markets and AI Reshape Sports Betting",
+      "link": "https://beincrypto.com/gambling-layoffs-prediction-markets-ai-shakeout/",
+      "published_at": "2026-05-16T18:00:00+00:00",
       "source": "beincrypto.com",
       "score": 1,
-      "ntitle": "bitcoin drops below 78 000 iran makes latest threat hormuz",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Crypto ATM Giant Bitcoin Depot Warns Of Possible Collapse",
-      "link": "https://bitcoinist.com/crypto-atm-giant-bitcoin-depot-warns-of-possible-collapse/",
-      "published_at": "2026-05-16T15:00:50+00:00",
-      "source": "bitcoinist.com",
-      "score": 1,
-      "ntitle": "crypto atm giant bitcoin depot warns possible collapse",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "BCH Price Prediction: $380 Target Looms as Critical Support Crumbles",
-      "link": "https://Blockchain.News/news/20260516-price-prediction-target-bch-380-looms-as-critical-support-crumbles",
-      "published_at": "2026-05-16T07:35:20+00:00",
-      "source": "blockchain.news",
-      "score": 1,
-      "ntitle": "bch price prediction 380 target looms critical support crumbles",
+      "ntitle": "gambling layoffs increase prediction markets ai reshape sports betting",
       "coins": [],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Intesa Sanpaolo Doubles Crypto Holdings to $235 Million in Q1 2026 With New ETH and XRP Positions",
-      "link": "https://blockonomi.com/intesa-sanpaolo-doubles-crypto-holdings-to-235-million-in-q1-2026-with-new-eth-and-xrp-positions/",
-      "published_at": "2026-05-16T13:30:17+00:00",
-      "source": "blockonomi.com",
-      "score": 9,
-      "ntitle": "intesa sanpaolo doubles crypto holdings 235 million q1 2026 new eth xrp positions",
+      "title": "Why Ripple’s XRP Is A Better Transaction Choice Compared To SWIFT",
+      "link": "https://bitcoinist.com/ripples-xrp-better-than-swift/",
+      "published_at": "2026-05-16T19:00:46+00:00",
+      "source": "bitcoinist.com",
+      "score": 12,
+      "ntitle": "why ripple s xrp better transaction choice compared swift",
       "coins": [
-        "ETH",
         "XRP"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "INJ Price Prediction: Bulls Target $6.20 as Whales Accumulate During 7% Correction",
+      "link": "https://Blockchain.News/news/20260516-price-prediction-target-inj-bulls-620-as-whales-accumulate-during",
+      "published_at": "2026-05-16T08:21:37+00:00",
+      "source": "blockchain.news",
+      "score": 2,
+      "ntitle": "inj price prediction bulls target 6 20 whales accumulate during 7 correction",
+      "coins": [
+        "INJ"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Bitcoin On-Chain Data Signals Bull Market Consolidation as Profit-Taking Pressure Eases",
+      "link": "https://blockonomi.com/bitcoin-on-chain-data-signals-bull-market-consolidation-as-profit-taking-pressure-eases/",
+      "published_at": "2026-05-16T18:53:25+00:00",
+      "source": "blockonomi.com",
+      "score": 2,
+      "ntitle": "bitcoin chain data signals bull market consolidation profit taking pressure eases",
+      "coins": [
+        "BTC"
       ],
       "sentiment": "bearish",
       "is_regulation": false,
@@ -595,15 +502,13 @@
       "agency": null
     },
     {
-      "title": "Bitwise Debuts HYPE Fund Amid Surging Institutional Interest",
-      "link": "https://Blockchain.News/news/bitwise-hype-fund-launch",
-      "published_at": "2026-05-15T18:00:46+00:00",
+      "title": "Grok Integrates with Open-Source Hermes Agent for AI Flexibility",
+      "link": "https://Blockchain.News/news/grok-hermes-integration",
+      "published_at": "2026-05-15T20:02:50+00:00",
       "source": "blockchain.news",
-      "score": 5,
-      "ntitle": "bitwise debuts hype fund amid surging institutional interest",
-      "coins": [
-        "HYPE"
-      ],
+      "score": 3,
+      "ntitle": "grok integrates open source hermes agent ai flexibility",
+      "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
@@ -635,12 +540,12 @@
       "agency": null
     },
     {
-      "title": "Saudi Arabia is tokenizing its multi-trillion dollar economy to protect its wealth from global shocks",
-      "link": "https://www.coindesk.com/business/2026/05/15/saudi-arabia-is-tokenizing-its-multi-trillion-dollar-economy-to-protect-its-wealth-from-global-shocks",
-      "published_at": "2026-05-15T16:37:31+00:00",
+      "title": "SpaceX targets June 11 IPO pricing, picks Nasdaq for historic market debut",
+      "link": "https://www.coindesk.com/markets/2026/05/15/spacex-targets-june-11-ipo-pricing-picks-nasdaq-for-historic-market-debut",
+      "published_at": "2026-05-15T19:50:00+00:00",
       "source": "coindesk.com",
-      "score": 2,
-      "ntitle": "saudi arabia tokenizing multi trillion dollar economy protect wealth global shocks",
+      "score": 1,
+      "ntitle": "spacex targets june 11 ipo pricing picks nasdaq historic market debut",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -687,16 +592,13 @@
       "agency": null
     },
     {
-      "title": "Flare Network leads altcoins as Bitcoin stalls",
-      "link": "https://crypto.news/flare-network-rallies-14percent-on-fassets-upgrade/",
-      "published_at": "2026-05-15T19:30:00+00:00",
+      "title": "Bitget’s AI trading stack tops 1 million users and $1.2B in volume",
+      "link": "https://crypto.news/bitgets-ai-trading-stack-tops-1-million-users-and-1-2b-in-volume/",
+      "published_at": "2026-05-15T20:00:00+00:00",
       "source": "crypto.news",
-      "score": 14,
-      "ntitle": "flare network leads altcoins bitcoin stalls",
-      "coins": [
-        "BTC",
-        "FLR"
-      ],
+      "score": 3,
+      "ntitle": "bitget s ai trading stack tops 1 million users 1 2b volume",
+      "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
@@ -754,16 +656,18 @@
       "agency": null
     },
     {
-      "title": "Packs of Empty Waymos Are Weirding Out Atlanta Neighborhood",
-      "link": "https://decrypt.co/368058/atlanta-residents-wake-up-to-empty-waymos-circling-their-neighborhood",
-      "published_at": "2026-05-15T18:56:26+00:00",
+      "title": "Hyperliquid Policy Arm Rejects Market Integrity Concerns Amid Oil Futures Surge",
+      "link": "https://decrypt.co/368101/hyperliquid-rejects-market-integrity-concerns-oil-futures-surge",
+      "published_at": "2026-05-15T20:24:04+00:00",
       "source": "decrypt.co",
       "score": 1,
-      "ntitle": "packs empty waymos weirding out atlanta neighborhood",
-      "coins": [],
+      "ntitle": "hyperliquid policy arm rejects market integrity concerns amid oil futures surge",
+      "coins": [
+        "HYPE"
+      ],
       "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
+      "is_regulation": true,
+      "agency": "Regulatory"
     },
     {
       "title": "Stephen I. Miran submits his resignation as a member of the Federal Reserve Board, effective when or shortly before his successor on the Board is sworn in",
@@ -854,18 +758,18 @@
       "agency": null
     },
     {
-      "title": "Most Pro-Bitcoin Federal Reserve Board to Date Could Boost Crypto Industry",
-      "link": "https://u.today/most-pro-bitcoin-federal-reserve-board-to-date-could-boost-crypto-industry",
-      "published_at": "2026-05-15T18:43:20+00:00",
+      "title": "Strive's Bitcoin Buy Rivals Strategy",
+      "link": "https://u.today/strives-bitcoin-buy-rivals-strategy",
+      "published_at": "2026-05-15T19:57:04+00:00",
       "source": "u.today",
-      "score": 1,
-      "ntitle": "most pro bitcoin federal reserve board date could boost crypto industry",
+      "score": 2,
+      "ntitle": "strive s bitcoin buy rivals strategy",
       "coins": [
         "BTC"
       ],
       "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Fed"
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Bitcoin’s Price Has Been Outperforming the S&P 500 in Times of War. Here’s Why",
@@ -920,15 +824,14 @@
       "agency": null
     },
     {
-      "title": "BlackRock, Binance, Ripple Execs on Crypto’s 2026 Future",
-      "link": "https://Blockchain.News/news/blackrock-binance-ripple-crypto-2026-insights",
-      "published_at": "2026-05-15T17:46:08+00:00",
+      "title": "Bitwise Debuts HYPE Fund Amid Surging Institutional Interest",
+      "link": "https://Blockchain.News/news/bitwise-hype-fund-launch",
+      "published_at": "2026-05-15T18:00:46+00:00",
       "source": "blockchain.news",
-      "score": 7,
-      "ntitle": "blackrock binance ripple execs crypto s 2026 future",
+      "score": 5,
+      "ntitle": "bitwise debuts hype fund amid surging institutional interest",
       "coins": [
-        "BNB",
-        "XRP"
+        "HYPE"
       ],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -1152,52 +1055,52 @@
   "trending": [
     {
       "tag": "#Ai",
-      "count": 70,
+      "count": 73,
       "type": "topic",
       "pct": 100
     },
     {
       "tag": "#XRP",
-      "count": 56,
+      "count": 55,
       "type": "coin",
-      "pct": 80
+      "pct": 75
     },
     {
       "tag": "#Xrp",
-      "count": 52,
+      "count": 51,
       "type": "topic",
-      "pct": 74
-    },
-    {
-      "tag": "#BTC",
-      "count": 34,
-      "type": "coin",
-      "pct": 49
+      "pct": 70
     },
     {
       "tag": "#Defi",
-      "count": 31,
+      "count": 41,
       "type": "topic",
-      "pct": 44
+      "pct": 56
+    },
+    {
+      "tag": "#BTC",
+      "count": 30,
+      "type": "coin",
+      "pct": 41
     },
     {
       "tag": "#Bitcoin",
-      "count": 31,
+      "count": 30,
       "type": "topic",
-      "pct": 44
+      "pct": 41
     },
     {
       "tag": "#Etf",
       "count": 20,
       "type": "topic",
-      "pct": 29
+      "pct": 27
     },
     {
       "tag": "#HYPE",
-      "count": 16,
+      "count": 15,
       "type": "coin",
-      "pct": 23
+      "pct": 21
     }
   ],
-  "generated_at": "2026-05-16T19:41:55.346506+00:00"
+  "generated_at": "2026-05-16T20:27:03.428298+00:00"
 }
