@@ -2,6 +2,75 @@
   "x_breaking": [],
   "breaking": [
     {
+      "title": "Solana stablecoin supply near $16B ATH: Early Q2 rally signal?",
+      "link": "https://ambcrypto.com/solana-stablecoin-supply-near-16b-ath-early-q2-rally-signal/",
+      "published_at": "2026-05-16T21:00:49+00:00",
+      "source": "ambcrypto.com",
+      "score": 3,
+      "ntitle": "solana stablecoin supply near 16b ath early q2 rally signal",
+      "coins": [
+        "NEAR",
+        "SOL"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Global inventory race intensifies amid fears of energy crunch from Iran war",
+      "link": "https://cryptobriefing.com/global-inventory-race-iran-war-energy-crunch/",
+      "published_at": "2026-05-16T20:39:16+00:00",
+      "source": "cryptobriefing.com",
+      "score": 1,
+      "ntitle": "global inventory race intensifies amid fears energy crunch iran war",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Grayscale and Vaneck Both Update Spot BNB ETF Filings as US SEC Review Heats Up",
+      "link": "https://news.bitcoin.com/grayscale-vaneck-bnb-etf-sec-amendment-2026/",
+      "published_at": "2026-05-16T20:30:55+00:00",
+      "source": "news.bitcoin.com",
+      "score": 3,
+      "ntitle": "grayscale vaneck both update spot bnb etf filings us sec review heats up",
+      "coins": [
+        "BNB"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "SEC"
+    },
+    {
+      "title": "Why Bitcoin Price Could Be Forming A Consolidation Structure Around $80,000",
+      "link": "https://www.newsbtc.com/news/bitcoin/why-bitcoin-price-could-be-forming-consolidation/",
+      "published_at": "2026-05-16T21:00:17+00:00",
+      "source": "newsbtc.com",
+      "score": 5,
+      "ntitle": "why bitcoin price could be forming consolidation structure around 80 000",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Nous Research integrates Grok subscriptions into Hermes Agent, ditching API key friction",
+      "link": "https://cryptobriefing.com/nous-research-grok-hermes-agent-integration/",
+      "published_at": "2026-05-16T20:39:06+00:00",
+      "source": "cryptobriefing.com",
+      "score": 4,
+      "ntitle": "nous research integrates grok subscriptions into hermes agent ditching api key friction",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    }
+  ],
+  "day": [
+    {
       "title": "Bitcoin volatility cools as network activity begins recovering – Shock ahead?",
       "link": "https://ambcrypto.com/bitcoin-volatility-cools-as-network-activity-begins-recovering-shock-ahead/",
       "published_at": "2026-05-16T20:00:35+00:00",
@@ -14,70 +83,6 @@
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
-    },
-    {
-      "title": "Ten Stocks Are Holding the S&P 500 Together While the Rest of the Market Lags Behind",
-      "link": "https://blockonomi.com/ten-stocks-are-holding-the-sp-500-together-while-the-rest-of-the-market-lags-behind/",
-      "published_at": "2026-05-16T19:37:52+00:00",
-      "source": "blockonomi.com",
-      "score": 2,
-      "ntitle": "ten stocks holding s p 500 together while rest market lags behind",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Iran reopens stock market on Tuesday after 80-day closure",
-      "link": "https://cryptobriefing.com/iran-stock-market-reopens-80-day-closure/",
-      "published_at": "2026-05-16T20:16:09+00:00",
-      "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "iran reopens stock market tuesday after 80 day closure",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "The Compute Cartel: How Microsoft, Amazon, and Google Control Every Major AI Lab",
-      "link": "https://blockonomi.com/the-compute-cartel-how-microsoft-amazon-and-google-control-every-major-ai-lab/",
-      "published_at": "2026-05-16T19:29:56+00:00",
-      "source": "blockonomi.com",
-      "score": 2,
-      "ntitle": "compute cartel how microsoft amazon google control every major ai lab",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Hyperliquid discusses onchain derivatives regulation with US policymakers",
-      "link": "https://cryptobriefing.com/hyperliquid-onchain-derivatives-us-regulation/",
-      "published_at": "2026-05-16T19:42:24+00:00",
-      "source": "cryptobriefing.com",
-      "score": 5,
-      "ntitle": "hyperliquid discusses onchain derivatives regulation us policymakers",
-      "coins": [
-        "HYPE"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Regulatory"
-    }
-  ],
-  "day": [
-    {
-      "title": "Coinbase reacts to CLARITY Act advancing in Senate – ‘More work left’",
-      "link": "https://ambcrypto.com/coinbase-reacts-to-clarity-act-advancing-in-senate-more-work-left/",
-      "published_at": "2026-05-16T19:00:43+00:00",
-      "source": "ambcrypto.com",
-      "score": 1,
-      "ntitle": "coinbase reacts clarity act advancing senate more work left",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Congress"
     },
     {
       "title": "Ethereum's Fix for Blind Signing",
@@ -132,26 +137,28 @@
       "agency": null
     },
     {
-      "title": "FILE Price Prediction: $1.10 Recovery Target Despite 5.24% Daily Decline",
-      "link": "https://Blockchain.News/news/20260516-price-prediction-target-file-110-recovery-despite-524-daily-decline",
-      "published_at": "2026-05-16T08:25:01+00:00",
+      "title": "AAVE Price Prediction: $82 Support Test Before July Rally to $110",
+      "link": "https://Blockchain.News/news/20260516-price-prediction-aave-82-support-test-before-july-rally",
+      "published_at": "2026-05-16T08:43:03+00:00",
       "source": "blockchain.news",
       "score": 1,
-      "ntitle": "file price prediction 1 10 recovery target despite 5 24 daily decline",
-      "coins": [],
+      "ntitle": "aave price prediction 82 support test before july rally 110",
+      "coins": [
+        "AAVE"
+      ],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "BlackRock in Talks to Invest Up to $10 Billion in SpaceX IPO Ahead of June Listing",
-      "link": "https://blockonomi.com/blackrock-in-talks-to-invest-up-to-10-billion-in-spacex-ipo-ahead-of-june-listing/",
-      "published_at": "2026-05-16T19:07:13+00:00",
+      "title": "Ten Stocks Are Holding the S&P 500 Together While the Rest of the Market Lags Behind",
+      "link": "https://blockonomi.com/ten-stocks-are-holding-the-sp-500-together-while-the-rest-of-the-market-lags-behind/",
+      "published_at": "2026-05-16T19:37:52+00:00",
       "source": "blockonomi.com",
-      "score": 4,
-      "ntitle": "blackrock talks invest up 10 billion spacex ipo ahead june listing",
+      "score": 2,
+      "ntitle": "ten stocks holding s p 500 together while rest market lags behind",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -224,16 +231,18 @@
       "agency": null
     },
     {
-      "title": "Trump threatens military escalation against Iran, dismisses peace offer",
-      "link": "https://cryptobriefing.com/trump-iran-military-escalation-crypto-impact/",
-      "published_at": "2026-05-16T19:20:19+00:00",
+      "title": "Hyperliquid discusses onchain derivatives regulation with US policymakers",
+      "link": "https://cryptobriefing.com/hyperliquid-onchain-derivatives-us-regulation/",
+      "published_at": "2026-05-16T19:42:24+00:00",
       "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "trump threatens military escalation against iran dismisses peace offer",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
+      "score": 5,
+      "ntitle": "hyperliquid discusses onchain derivatives regulation us policymakers",
+      "coins": [
+        "HYPE"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Regulatory"
     },
     {
       "title": "Bitcoin Price Analysis: What Does the Rejection at $80K Mean for BTC’s Future?",
@@ -286,18 +295,6 @@
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
-    },
-    {
-      "title": "Federal Reserve Board names Jerome H. Powell as chair pro tempore; Powell will serve as chair pro tempore until Kevin M. Warsh is sworn in as the new chair",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm",
-      "published_at": "2026-05-15T21:00:00+00:00",
-      "source": "federalreserve.gov",
-      "score": 3,
-      "ntitle": "federal reserve board names jerome h powell chair pro tempore powell will serve chair pro tempore until kevin m warsh sworn new chair",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Fed"
     },
     {
       "title": "Bitcoin drops to $78,000 as rate hike fears trigger massive $550M long flush",
@@ -356,18 +353,16 @@
       "agency": null
     },
     {
-      "title": "Dogecoin eyes breakout as whales buy and DOGE ETFs inflows return",
-      "link": "https://ambcrypto.com/dogecoin-eyes-breakout-as-whales-buy-and-doge-etfs-inflows-return/",
-      "published_at": "2026-05-16T18:00:42+00:00",
+      "title": "Coinbase reacts to CLARITY Act advancing in Senate – ‘More work left’",
+      "link": "https://ambcrypto.com/coinbase-reacts-to-clarity-act-advancing-in-senate-more-work-left/",
+      "published_at": "2026-05-16T19:00:43+00:00",
       "source": "ambcrypto.com",
-      "score": 3,
-      "ntitle": "dogecoin eyes breakout whales buy doge etfs inflows return",
-      "coins": [
-        "DOGE"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
+      "score": 1,
+      "ntitle": "coinbase reacts clarity act advancing senate more work left",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Congress"
     },
     {
       "title": "Gambling Layoffs Increase as Prediction Markets and AI Reshape Sports Betting",
@@ -396,30 +391,26 @@
       "agency": null
     },
     {
-      "title": "INJ Price Prediction: Bulls Target $6.20 as Whales Accumulate During 7% Correction",
-      "link": "https://Blockchain.News/news/20260516-price-prediction-target-inj-bulls-620-as-whales-accumulate-during",
-      "published_at": "2026-05-16T08:21:37+00:00",
+      "title": "LDO Price Prediction: $0.31 Support Test Imminent as Bears Control Futures",
+      "link": "https://Blockchain.News/news/20260516-price-prediction-ldo-031-support-test-imminent-as-bears",
+      "published_at": "2026-05-16T08:39:43+00:00",
       "source": "blockchain.news",
-      "score": 2,
-      "ntitle": "inj price prediction bulls target 6 20 whales accumulate during 7 correction",
-      "coins": [
-        "INJ"
-      ],
-      "sentiment": "bullish",
+      "score": 1,
+      "ntitle": "ldo price prediction 0 31 support test imminent bears control futures",
+      "coins": [],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Bitcoin On-Chain Data Signals Bull Market Consolidation as Profit-Taking Pressure Eases",
-      "link": "https://blockonomi.com/bitcoin-on-chain-data-signals-bull-market-consolidation-as-profit-taking-pressure-eases/",
-      "published_at": "2026-05-16T18:53:25+00:00",
+      "title": "The Compute Cartel: How Microsoft, Amazon, and Google Control Every Major AI Lab",
+      "link": "https://blockonomi.com/the-compute-cartel-how-microsoft-amazon-and-google-control-every-major-ai-lab/",
+      "published_at": "2026-05-16T19:29:56+00:00",
       "source": "blockonomi.com",
       "score": 2,
-      "ntitle": "bitcoin chain data signals bull market consolidation profit taking pressure eases",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
+      "ntitle": "compute cartel how microsoft amazon google control every major ai lab",
+      "coins": [],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -456,6 +447,20 @@
       "ntitle": "top crypto stocks watch ahead may 20 fomc minutes mstr coin crcl",
       "coins": [],
       "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Bitcoin analysis sees 'bear trap' as BTC price passes two-week lows under $78K",
+      "link": "https://cointelegraph.com/markets/bitcoin-analysis-bear-trap-btc-price-passes-two-week-lows-under-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-05-16T17:07:39+00:00",
+      "source": "cointelegraph.com",
+      "score": 1,
+      "ntitle": "bitcoin analysis sees bear trap btc price passes two week lows under 78k",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     }
@@ -502,14 +507,16 @@
       "agency": null
     },
     {
-      "title": "Grok Integrates with Open-Source Hermes Agent for AI Flexibility",
-      "link": "https://Blockchain.News/news/grok-hermes-integration",
-      "published_at": "2026-05-15T20:02:50+00:00",
+      "title": "ICE, CME Push U.S. Regulators to Target Hyperliquid's Commodity Perps",
+      "link": "https://Blockchain.News/news/ice-cme-hyperliquid-commodity-regulation",
+      "published_at": "2026-05-15T21:08:18+00:00",
       "source": "blockchain.news",
       "score": 3,
-      "ntitle": "grok integrates open source hermes agent ai flexibility",
-      "coins": [],
-      "sentiment": "bullish",
+      "ntitle": "ice cme push u s regulators target hyperliquid s commodity perps",
+      "coins": [
+        "HYPE"
+      ],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -592,16 +599,16 @@
       "agency": null
     },
     {
-      "title": "Bitget’s AI trading stack tops 1 million users and $1.2B in volume",
-      "link": "https://crypto.news/bitgets-ai-trading-stack-tops-1-million-users-and-1-2b-in-volume/",
-      "published_at": "2026-05-15T20:00:00+00:00",
+      "title": "a16z says CLARITY Act’s Senate breakthrough could be crypto’s 1933 moment",
+      "link": "https://crypto.news/a16z-says-clarity-acts-senate-breakthrough-could-be-cryptos-1933-moment/",
+      "published_at": "2026-05-15T21:00:00+00:00",
       "source": "crypto.news",
-      "score": 3,
-      "ntitle": "bitget s ai trading stack tops 1 million users 1 2b volume",
+      "score": 5,
+      "ntitle": "a16z says clarity act s senate breakthrough could be crypto s 1933 moment",
       "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "Congress"
     },
     {
       "title": "This Indicator Correctly Called Major Ethereum Moves – Here’s What It’s Flashing Now",
@@ -656,28 +663,29 @@
       "agency": null
     },
     {
-      "title": "Hyperliquid Policy Arm Rejects Market Integrity Concerns Amid Oil Futures Surge",
-      "link": "https://decrypt.co/368101/hyperliquid-rejects-market-integrity-concerns-oil-futures-surge",
-      "published_at": "2026-05-15T20:24:04+00:00",
+      "title": "Lombard Finance Dumps LayerZero, Will Use Chainlink to Power $1 Billion in Bitcoin Assets",
+      "link": "https://decrypt.co/368100/lombard-finance-dumps-layerzero-chainlink-1-billion-bitcoin-assets",
+      "published_at": "2026-05-15T20:54:03+00:00",
       "source": "decrypt.co",
-      "score": 1,
-      "ntitle": "hyperliquid policy arm rejects market integrity concerns amid oil futures surge",
+      "score": 8,
+      "ntitle": "lombard finance dumps layerzero will use chainlink power 1 billion bitcoin assets",
       "coins": [
-        "HYPE"
+        "BTC",
+        "LINK"
       ],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Regulatory"
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
     },
     {
-      "title": "Stephen I. Miran submits his resignation as a member of the Federal Reserve Board, effective when or shortly before his successor on the Board is sworn in",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514b.htm",
-      "published_at": "2026-05-14T18:00:00+00:00",
+      "title": "Federal Reserve Board names Jerome H. Powell as chair pro tempore; Powell will serve as chair pro tempore until Kevin M. Warsh is sworn in as the new chair",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm",
+      "published_at": "2026-05-15T21:00:00+00:00",
       "source": "federalreserve.gov",
       "score": 3,
-      "ntitle": "stephen i miran submits his resignation member federal reserve board effective when or shortly before his successor board sworn",
+      "ntitle": "federal reserve board names jerome h powell chair pro tempore powell will serve chair pro tempore until kevin m warsh sworn new chair",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "is_regulation": true,
       "agency": "Fed"
     },
@@ -824,18 +832,16 @@
       "agency": null
     },
     {
-      "title": "Bitwise Debuts HYPE Fund Amid Surging Institutional Interest",
-      "link": "https://Blockchain.News/news/bitwise-hype-fund-launch",
-      "published_at": "2026-05-15T18:00:46+00:00",
+      "title": "CLARITY Act Advances in Senate, Faces Ethics Hurdles Before Vote",
+      "link": "https://Blockchain.News/news/clarity-act-advances-senate-ethics-hurdles",
+      "published_at": "2026-05-15T21:01:18+00:00",
       "source": "blockchain.news",
-      "score": 5,
-      "ntitle": "bitwise debuts hype fund amid surging institutional interest",
-      "coins": [
-        "HYPE"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
+      "score": 3,
+      "ntitle": "clarity act advances senate faces ethics hurdles before vote",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "Congress"
     },
     {
       "title": "Sandglass Markets Review",
@@ -1055,52 +1061,52 @@
   "trending": [
     {
       "tag": "#Ai",
-      "count": 73,
+      "count": 69,
       "type": "topic",
       "pct": 100
     },
     {
       "tag": "#XRP",
-      "count": 55,
+      "count": 54,
       "type": "coin",
-      "pct": 75
+      "pct": 78
     },
     {
       "tag": "#Xrp",
-      "count": 51,
+      "count": 50,
       "type": "topic",
-      "pct": 70
+      "pct": 72
     },
     {
       "tag": "#Defi",
       "count": 41,
       "type": "topic",
-      "pct": 56
+      "pct": 59
     },
     {
       "tag": "#BTC",
-      "count": 30,
+      "count": 31,
       "type": "coin",
-      "pct": 41
+      "pct": 45
     },
     {
       "tag": "#Bitcoin",
-      "count": 30,
+      "count": 31,
       "type": "topic",
-      "pct": 41
+      "pct": 45
     },
     {
       "tag": "#Etf",
       "count": 20,
       "type": "topic",
-      "pct": 27
+      "pct": 29
     },
     {
       "tag": "#HYPE",
       "count": 15,
       "type": "coin",
-      "pct": 21
+      "pct": 22
     }
   ],
-  "generated_at": "2026-05-16T20:27:03.428298+00:00"
+  "generated_at": "2026-05-16T21:09:24.836364+00:00"
 }
