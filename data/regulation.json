@@ -1,37 +1,46 @@
 [
   {
-    "title": "US sanctions four activists linked to Gaza flotilla campaigns",
-    "link": "https://cryptobriefing.com/us-sanctions-gaza-flotilla-activists/",
-    "source": "cryptobriefing.com",
-    "published_at": "2026-05-20T20:46:44+00:00",
-    "agency": "Regulatory",
+    "title": "US Treasury Cracks Down Drug Lord’s Crypto Money-Laundering Ring Linked To Sinaloa Cartel",
+    "link": "https://bitcoinist.com/us-treasury-crypto-laundering-ring-sinaloa-cartel/",
+    "source": "bitcoinist.com",
+    "published_at": "2026-05-20T22:37:54+00:00",
+    "agency": "Treasury",
+    "sentiment": "bearish",
+    "coins": []
+  },
+  {
+    "title": "Federal Reserve proposes limited master accounts long pursued by crypto firms",
+    "link": "https://www.coindesk.com/policy/2026/05/20/federal-reserve-proposes-limited-master-accounts-long-pursued-by-crypto-firms",
+    "source": "coindesk.com",
+    "published_at": "2026-05-20T22:11:10+00:00",
+    "agency": "Fed",
     "sentiment": "neutral",
     "coins": []
   },
   {
-    "title": "Trump informs Netanyahu of mediation efforts to draft framework ending US-Iran conflict",
-    "link": "https://cryptobriefing.com/trump-netanyahu-us-iran-mediation-framework/",
+    "title": "Federal Reserve proposes skinny master accounts for fintech and crypto firms",
+    "link": "https://cryptobriefing.com/fed-skinny-master-accounts-fintech-crypto/",
     "source": "cryptobriefing.com",
-    "published_at": "2026-05-20T20:41:49+00:00",
+    "published_at": "2026-05-20T21:51:58+00:00",
+    "agency": "Fed",
+    "sentiment": "bearish",
+    "coins": []
+  },
+  {
+    "title": "Coinbase rebuilds compliance operations with AI, handling 55% of US fraud cases",
+    "link": "https://cryptobriefing.com/coinbase-rebuilds-compliance-ai-fraud/",
+    "source": "cryptobriefing.com",
+    "published_at": "2026-05-20T21:31:56+00:00",
     "agency": "Regulatory",
-    "sentiment": "neutral",
+    "sentiment": "bearish",
     "coins": []
   },
   {
-    "title": "Senator McCormick expects CLARITY Act to pass this summer",
-    "link": "https://cryptobriefing.com/clarity-act-expected-pass-summer/",
+    "title": "Federal Reserve proposes new ‘skinny’ payment accounts with major restrictions for eligible institutions",
+    "link": "https://cryptobriefing.com/fed-skinny-payment-account-proposal/",
     "source": "cryptobriefing.com",
-    "published_at": "2026-05-20T20:23:43+00:00",
-    "agency": "Congress",
-    "sentiment": "bullish",
-    "coins": []
-  },
-  {
-    "title": "SEC chair seeks public comments on prediction market ETFs as regulatory turf war heats up",
-    "link": "https://cryptobriefing.com/sec-public-comments-prediction-market-etfs/",
-    "source": "cryptobriefing.com",
-    "published_at": "2026-05-20T20:21:54+00:00",
-    "agency": "SEC",
+    "published_at": "2026-05-20T21:21:26+00:00",
+    "agency": "Fed",
     "sentiment": "bearish",
     "coins": []
   },
@@ -50,15 +59,6 @@
     "source": "decrypt.co",
     "published_at": "2026-05-20T19:54:26+00:00",
     "agency": "Treasury",
-    "sentiment": "bearish",
-    "coins": []
-  },
-  {
-    "title": "Federal Reserve Bank of Atlanta reports rising business inflation expectations for third month",
-    "link": "https://cryptobriefing.com/atlanta-fed-business-inflation-expectations-rising/",
-    "source": "cryptobriefing.com",
-    "published_at": "2026-05-20T19:18:11+00:00",
-    "agency": "Fed",
     "sentiment": "bearish",
     "coins": []
   },
@@ -255,33 +255,31 @@
     ]
   },
   {
-    "title": "Bitcoin, ether, XRP rebound as Senate curbs Trump's Iran war powers",
-    "link": "https://www.coindesk.com/markets/2026/05/20/bitcoin-ether-xrp-rebound-as-senate-curbs-trump-s-iran-war-powers",
-    "source": "coindesk.com",
-    "published_at": "2026-05-20T07:00:27+00:00",
-    "agency": "Congress",
-    "sentiment": "neutral",
-    "coins": [
-      "BTC",
-      "ETH",
-      "XRP"
-    ]
-  },
-  {
-    "title": "Galaxy’s Alex Thorn lifts CLARITY Act odds to 75%",
-    "link": "https://crypto.news/galaxys-alex-thorn-lifts-clarity-act-odds-to-75/",
-    "source": "crypto.news",
-    "published_at": "2026-05-20T06:19:08+00:00",
-    "agency": "Congress",
-    "sentiment": "neutral",
-    "coins": []
-  },
-  {
     "title": "US Senate advances resolution to curb Trump’s Iran war powers",
     "link": "https://cointelegraph.com/news/us-senate-advances-resolution-to-end-trumps-iran-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "source": "cointelegraph.com",
     "published_at": "2026-05-20T04:58:03+00:00",
     "agency": "Congress",
+    "sentiment": "bearish",
+    "coins": []
+  },
+  {
+    "title": "Senator Warren Questions OCC Crypto Bank Approvals For Ripple, Coinbase",
+    "link": "https://coingape.com/senator-warren-questions-occ-crypto-bank-approvals-for-ripple-coinbase/",
+    "source": "coingape.com",
+    "published_at": "2026-05-20T00:17:31+00:00",
+    "agency": "Regulatory",
+    "sentiment": "bearish",
+    "coins": [
+      "XRP"
+    ]
+  },
+  {
+    "title": "CFTC sues Minnesota, Governor Tim Walz over prediction markets ban",
+    "link": "https://cointelegraph.com/news/cftc-lawsuit-minnesota-prediction-markets-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "cointelegraph.com",
+    "published_at": "2026-05-19T22:01:41+00:00",
+    "agency": "CFTC",
     "sentiment": "bearish",
     "coins": []
   }
