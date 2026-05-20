@@ -1,5 +1,41 @@
 [
   {
+    "title": "OFAC Sanctions Sinaloa Cartel Fentanyl Trafficking and Crypto Laundering Network",
+    "link": "https://www.chainalysis.com/blog/sinaloa-cartel-fentanyl-trafficking-crypto-laundering-may-2026/",
+    "source": "chainalysis.com",
+    "published_at": "2026-05-20T23:36:03+00:00",
+    "agency": "Regulatory",
+    "sentiment": "neutral",
+    "coins": []
+  },
+  {
+    "title": "CFTC probes $800M in suspicious oil trades placed before Trump social media post",
+    "link": "https://cryptobriefing.com/cftc-probes-oil-trades-trump-post/",
+    "source": "cryptobriefing.com",
+    "published_at": "2026-05-20T23:26:02+00:00",
+    "agency": "CFTC",
+    "sentiment": "neutral",
+    "coins": []
+  },
+  {
+    "title": "Polymarket moves to list parlays while SEC seeks public input on prediction market ETFs",
+    "link": "https://www.coindesk.com/policy/2026/05/20/polymarket-moves-to-list-parlays-while-sec-seeks-public-input-on-prediction-market-etfs",
+    "source": "coindesk.com",
+    "published_at": "2026-05-20T22:55:53+00:00",
+    "agency": "SEC",
+    "sentiment": "neutral",
+    "coins": []
+  },
+  {
+    "title": "Congress moves to limit Trump’s Iran war powers, impacting conflict likelihood",
+    "link": "https://cryptobriefing.com/congress-moves-to-limit-trumps-iran-war-powers-impacting-conflict-likelihood/",
+    "source": "cryptobriefing.com",
+    "published_at": "2026-05-20T22:53:15+00:00",
+    "agency": "Congress",
+    "sentiment": "bearish",
+    "coins": []
+  },
+  {
     "title": "US Treasury Cracks Down Drug Lord’s Crypto Money-Laundering Ring Linked To Sinaloa Cartel",
     "link": "https://bitcoinist.com/us-treasury-crypto-laundering-ring-sinaloa-cartel/",
     "source": "bitcoinist.com",
@@ -18,28 +54,21 @@
     "coins": []
   },
   {
+    "title": "Ripple CLO Alderoty says Clarity Act unlocks $2T market",
+    "link": "https://crypto.news/clarity-act-could-unlock-2t-says-ripple-clo/",
+    "source": "crypto.news",
+    "published_at": "2026-05-20T21:55:00+00:00",
+    "agency": "Congress",
+    "sentiment": "bearish",
+    "coins": [
+      "XRP"
+    ]
+  },
+  {
     "title": "Federal Reserve proposes skinny master accounts for fintech and crypto firms",
     "link": "https://cryptobriefing.com/fed-skinny-master-accounts-fintech-crypto/",
     "source": "cryptobriefing.com",
     "published_at": "2026-05-20T21:51:58+00:00",
-    "agency": "Fed",
-    "sentiment": "bearish",
-    "coins": []
-  },
-  {
-    "title": "Coinbase rebuilds compliance operations with AI, handling 55% of US fraud cases",
-    "link": "https://cryptobriefing.com/coinbase-rebuilds-compliance-ai-fraud/",
-    "source": "cryptobriefing.com",
-    "published_at": "2026-05-20T21:31:56+00:00",
-    "agency": "Regulatory",
-    "sentiment": "bearish",
-    "coins": []
-  },
-  {
-    "title": "Federal Reserve proposes new ‘skinny’ payment accounts with major restrictions for eligible institutions",
-    "link": "https://cryptobriefing.com/fed-skinny-payment-account-proposal/",
-    "source": "cryptobriefing.com",
-    "published_at": "2026-05-20T21:21:26+00:00",
     "agency": "Fed",
     "sentiment": "bearish",
     "coins": []
@@ -253,34 +282,5 @@
     "coins": [
       "BTC"
     ]
-  },
-  {
-    "title": "US Senate advances resolution to curb Trump’s Iran war powers",
-    "link": "https://cointelegraph.com/news/us-senate-advances-resolution-to-end-trumps-iran-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "cointelegraph.com",
-    "published_at": "2026-05-20T04:58:03+00:00",
-    "agency": "Congress",
-    "sentiment": "bearish",
-    "coins": []
-  },
-  {
-    "title": "Senator Warren Questions OCC Crypto Bank Approvals For Ripple, Coinbase",
-    "link": "https://coingape.com/senator-warren-questions-occ-crypto-bank-approvals-for-ripple-coinbase/",
-    "source": "coingape.com",
-    "published_at": "2026-05-20T00:17:31+00:00",
-    "agency": "Regulatory",
-    "sentiment": "bearish",
-    "coins": [
-      "XRP"
-    ]
-  },
-  {
-    "title": "CFTC sues Minnesota, Governor Tim Walz over prediction markets ban",
-    "link": "https://cointelegraph.com/news/cftc-lawsuit-minnesota-prediction-markets-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "cointelegraph.com",
-    "published_at": "2026-05-19T22:01:41+00:00",
-    "agency": "CFTC",
-    "sentiment": "bearish",
-    "coins": []
   }
 ]
