@@ -2,16 +2,170 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "SEC’s tokenized stock delay highlights growing divide over synthetic exposure",
-      "link": "https://ambcrypto.com/secs-tokenized-stock-delay-highlights-growing-divide-over-synthetic-exposure/",
-      "published_at": "2026-05-22T19:38:12+00:00",
-      "source": "ambcrypto.com",
-      "score": 5,
-      "ntitle": "sec s tokenized stock delay highlights growing divide over synthetic exposure",
+      "title": "Bitcoin Is Repeating This Midterm Pattern That Sends Price Tumbling 15% On Average",
+      "link": "https://bitcoinist.com/bitcoin-midterm-pattern-repeat/",
+      "published_at": "2026-05-22T20:30:00+00:00",
+      "source": "bitcoinist.com",
+      "score": 2,
+      "ntitle": "bitcoin repeating this midterm pattern that sends price tumbling 15 average",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "New lawsuits against Trump's DOJ 'lawfare' fund",
+      "link": "https://www.cnbc.com/2026/05/22/trump-doj-fund-republicans.html",
+      "published_at": "2026-05-22T20:56:04+00:00",
+      "source": "cnbc.com",
+      "score": 1,
+      "ntitle": "new lawsuits against trump s doj lawfare fund",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "Regulatory"
+    },
+    {
+      "title": "US Court Rules Against Polymarket & Kalshi In Nevada, Washington Lawsuit",
+      "link": "https://coingape.com/us-court-rules-against-polymarket-kalshi-in-nevada-washington-lawsuit/",
+      "published_at": "2026-05-22T20:43:28+00:00",
+      "source": "coingape.com",
+      "score": 3,
+      "ntitle": "us court rules against polymarket kalshi nevada washington lawsuit",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Regulatory"
+    },
+    {
+      "title": "Kevin Warsh sworn in as Fed chair with Bitcoin at $77,400",
+      "link": "https://crypto.news/kevin-warsh-sworn-in-as-fed-chair-at-white-house/",
+      "published_at": "2026-05-22T20:21:06+00:00",
+      "source": "crypto.news",
+      "score": 1,
+      "ntitle": "kevin warsh sworn fed chair bitcoin 77 400",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Consumer sentiment falls to record low as Iran war fuels inflation fears",
+      "link": "https://cryptobriefing.com/consumer-sentiment-record-low-iran-war-inflation/",
+      "published_at": "2026-05-22T20:58:33+00:00",
+      "source": "cryptobriefing.com",
+      "score": 1,
+      "ntitle": "consumer sentiment falls record low iran war fuels inflation fears",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Ethereum Layer 2 Zero Network Pulls the Plug After Just 1.5 Years",
+      "link": "https://cryptopotato.com/ethereum-layer-2-zero-network-pulls-the-plug-after-just-1-5-years/",
+      "published_at": "2026-05-22T20:02:24+00:00",
+      "source": "cryptopotato.com",
+      "score": 3,
+      "ntitle": "ethereum layer 2 zero network pulls plug after just 1 5 years",
+      "coins": [
+        "ETH"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "SEC Delays Tokenized Stocks Innovation Exemption Amid Concerns: Bloomberg",
+      "link": "https://decrypt.co/368855/sec-delays-tokenized-stocks-innovation-exemption-amid-concerns-bloomberg",
+      "published_at": "2026-05-22T20:46:37+00:00",
+      "source": "decrypt.co",
+      "score": 7,
+      "ntitle": "sec delays tokenized stocks innovation exemption amid concerns bloomberg",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Kevin Warsh takes oath of office as chairman and a member of the Board of Governors of the Federal Reserve System, and the Federal Open Market Committee unanimously selects Warsh as its chairman",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260522a.htm",
+      "published_at": "2026-05-22T20:15:00+00:00",
+      "source": "federalreserve.gov",
+      "score": 3,
+      "ntitle": "kevin warsh takes oath office chairman member board governors federal reserve system federal open market committee unanimously selects warsh chairman",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Fed"
+    },
+    {
+      "title": "Bitcoin slips below $76k, set for weekly loss amid liquidations, rate volatility",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-ticks-down-near-77k-set-for-weekly-loss-amid-iran-peace-uncertainty-4705862",
+      "published_at": "2026-05-22T20:40:49+00:00",
+      "source": "investing.com",
+      "score": 2,
+      "ntitle": "bitcoin slips below 76k set weekly loss amid liquidations rate volatility",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Trump swears in Kevin Warsh as Federal Reserve chair, seeks rate cuts",
+      "link": "https://cryptobriefing.com/trump-swears-in-warsh-fed-chair/",
+      "published_at": "2026-05-22T20:56:42+00:00",
+      "source": "cryptobriefing.com",
+      "score": 1,
+      "ntitle": "trump swears kevin warsh federal reserve chair seeks rate cuts",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "Fed"
+    },
+    {
+      "title": "Microsoft's Free AI Just Beat OpenAI and Google at Browsing the Web",
+      "link": "https://decrypt.co/368807/microsoft-fara15-open-source-ai-beats-openai-gemini",
+      "published_at": "2026-05-22T20:31:03+00:00",
+      "source": "decrypt.co",
+      "score": 1,
+      "ntitle": "microsoft s free ai just beat openai google browsing web",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
+    }
+  ],
+  "day": [
+    {
+      "title": "Blockchain Use Cases beyond Crypto",
+      "link": "https://101blockchains.com/blockchain-use-cases-beyond-crypto/",
+      "published_at": "2026-05-22T09:55:10+00:00",
+      "source": "101blockchains.com",
+      "score": 0,
+      "ntitle": "blockchain use cases beyond crypto",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "‘Not for synthetics’ – SEC to limit innovation exemption scope for tokenized stocks",
+      "link": "https://ambcrypto.com/not-for-synthetics-sec-to-limit-innovation-exemption-scope-for-tokenized-stocks/",
+      "published_at": "2026-05-22T20:00:36+00:00",
+      "source": "ambcrypto.com",
+      "score": 8,
+      "ntitle": "not synthetics sec limit innovation exemption scope tokenized stocks",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "SEC"
     },
     {
       "title": "Can Crypto Save the Internet?",
@@ -22,6 +176,18 @@
       "ntitle": "can crypto save internet",
       "coins": [],
       "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "SEC Delays Crypto Stock Tokens Amid Wall Street Pushback",
+      "link": "https://beincrypto.com/sec-delays-crypto-stock-tokens-pushback/",
+      "published_at": "2026-05-22T18:44:44+00:00",
+      "source": "beincrypto.com",
+      "score": 5,
+      "ntitle": "sec delays crypto stock tokens amid wall street pushback",
+      "coins": [],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -52,250 +218,14 @@
       "agency": null
     },
     {
-      "title": "Robinhood Crypto COO Tanya Denisova is leaving company amid revenue slowdown",
-      "link": "https://www.coindesk.com/business/2026/05/22/robinhood-crypto-coo-tanya-denisova-is-leaving-company-amid-revenue-slowdown",
-      "published_at": "2026-05-22T19:40:15+00:00",
-      "source": "coindesk.com",
-      "score": 1,
-      "ntitle": "robinhood crypto coo tanya denisova leaving company amid revenue slowdown",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Fed’s Waller warns inflation may force new hikes, rattling risk assets",
-      "link": "https://crypto.news/feds-waller-warns-inflation-may-force-new-hikes-rattling-risk-assets/",
-      "published_at": "2026-05-22T19:00:00+00:00",
-      "source": "crypto.news",
-      "score": 1,
-      "ntitle": "fed s waller warns inflation may force new hikes rattling risk assets",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Congress probes Polymarket, Kalshi over Iran strike insider trading allegations",
-      "link": "https://cryptobriefing.com/congress-probes-polymarket-kalshi-over-iran-strike-insider-trading-allegations/",
-      "published_at": "2026-05-22T19:26:06+00:00",
-      "source": "cryptobriefing.com",
-      "score": 3,
-      "ntitle": "congress probes polymarket kalshi over iran strike insider trading allegations",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Congress"
-    },
-    {
-      "title": "Cardano founder warns network could lose its scientists in Input Output’s $46.8M funding vote fails",
-      "link": "https://cryptoslate.com/cardano-founder-warns-network-could-lose-its-scientists-in-input-outputs-46-8m-funding-vote-fails/",
-      "published_at": "2026-05-22T19:35:05+00:00",
-      "source": "cryptoslate.com",
-      "score": 6,
-      "ntitle": "cardano founder warns network could lose scientists input output s 46 8m funding vote fails",
-      "coins": [
-        "ADA"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Bitcoin Billionaire Books First SpaceX Mars Mission",
-      "link": "https://decrypt.co/368804/bitcoin-billionaire-spacex-mars",
-      "published_at": "2026-05-22T19:23:47+00:00",
-      "source": "decrypt.co",
-      "score": 1,
-      "ntitle": "bitcoin billionaire books first spacex mars mission",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Bitcoin Erases $77K Level as Bears Eye Negative May Close",
-      "link": "https://news.bitcoin.com/bitcoin-erases-77k-level-as-bears-eye-negative-may-close/",
-      "published_at": "2026-05-22T19:26:04+00:00",
-      "source": "news.bitcoin.com",
-      "score": 1,
-      "ntitle": "bitcoin erases 77k level bears eye negative may close",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Bitcoin Upper Trendline Resistance Is Holding Price Back, Can It Push It Below $60,000? Analyst Answers",
-      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-upper-trendline-resistance/",
-      "published_at": "2026-05-22T19:30:02+00:00",
-      "source": "newsbtc.com",
-      "score": 6,
-      "ntitle": "bitcoin upper trendline resistance holding price back can it push it below 60 000 analyst answers",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "What crypto expects as Kevin Warsh is sworn in",
-      "link": "https://protos.com/what-crypto-expects-as-kevin-warsh-is-sworn-in/",
-      "published_at": "2026-05-22T19:02:25+00:00",
-      "source": "protos.com",
-      "score": 1,
-      "ntitle": "what crypto expects kevin warsh sworn",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "'Tightest Ever': Bitcoin's Monthly Bollinger Bands Could Predict Massive Move",
-      "link": "https://u.today/tightest-ever-bitcoins-monthly-bollinger-bands-could-predict-massive-move",
-      "published_at": "2026-05-22T18:59:37+00:00",
-      "source": "u.today",
-      "score": 1,
-      "ntitle": "tightest ever bitcoin s monthly bollinger bands could predict massive move",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "A Freshman Congressman from Nashville Wants to Make the National Bitcoin Reserve Permanent",
-      "link": "https://bitcoinmagazine.com/news/a-freshman-congressman-national-bitcoin",
-      "published_at": "2026-05-22T18:54:55+00:00",
-      "source": "bitcoinmagazine.com",
-      "score": 2,
-      "ntitle": "freshman congressman nashville wants make national bitcoin reserve permanent",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": true,
-      "agency": "Congress"
-    },
-    {
-      "title": "Kalshi launches advocacy group with Trump aide backing",
-      "link": "https://crypto.news/kalshi-launches-advocacy-group-with-trump-aide/",
-      "published_at": "2026-05-22T18:47:46+00:00",
-      "source": "crypto.news",
-      "score": 5,
-      "ntitle": "kalshi launches advocacy group trump aide backing",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Switzerland adopts most of EU’s 20th sanctions package against Russia, including crypto restrictions",
-      "link": "https://cryptobriefing.com/switzerland-eu-russia-sanctions-crypto/",
-      "published_at": "2026-05-22T19:23:21+00:00",
-      "source": "cryptobriefing.com",
-      "score": 4,
-      "ntitle": "switzerland adopts most eu s 20th sanctions package against russia including crypto restrictions",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": true,
-      "agency": "Regulatory"
-    }
-  ],
-  "day": [
-    {
-      "title": "Blockchain Use Cases beyond Crypto",
-      "link": "https://101blockchains.com/blockchain-use-cases-beyond-crypto/",
-      "published_at": "2026-05-22T09:55:10+00:00",
-      "source": "101blockchains.com",
-      "score": 0,
-      "ntitle": "blockchain use cases beyond crypto",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Worldcoin rallies 10% within a day, but here’s why the move is a bull trap",
-      "link": "https://ambcrypto.com/worldcoin-rallies-10-within-a-day-but-heres-why-the-move-is-a-bull-trap/",
-      "published_at": "2026-05-22T18:00:16+00:00",
-      "source": "ambcrypto.com",
-      "score": 1,
-      "ntitle": "worldcoin rallies 10 within day but here s why move bull trap",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "HYPE Hits All-Time High Above $62 as ETF Flows Grow",
-      "link": "https://www.bankless.com/read/news/hype-hits-all-time-high-above-62-as-etf-flows-grow",
-      "published_at": "2026-05-21T20:39:06+00:00",
-      "source": "bankless.com",
-      "score": 3,
-      "ntitle": "hype hits all time high above 62 etf flows grow",
-      "coins": [
-        "HYPE"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "SEC Delays Crypto Stock Tokens Amid Wall Street Pushback",
-      "link": "https://beincrypto.com/sec-delays-crypto-stock-tokens-pushback/",
-      "published_at": "2026-05-22T18:44:44+00:00",
-      "source": "beincrypto.com",
-      "score": 5,
-      "ntitle": "sec delays crypto stock tokens amid wall street pushback",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "More Bitcoin Is Moving Into The Hands Of Long-Term Investors Amid Sideways Price Performance",
-      "link": "https://bitcoinist.com/bitcoin-moving-into-lths-hands/",
-      "published_at": "2026-05-22T17:30:11+00:00",
-      "source": "bitcoinist.com",
-      "score": 2,
-      "ntitle": "more bitcoin moving into hands long term investors amid sideways price performance",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Trump Media (DJT) Moves to Sell Bitcoin as Losses Reach $455 Million",
-      "link": "https://bitcoinmagazine.com/news/trump-media-djt-moves-to-sell-bitcoin-as-losses-reach-455-million",
-      "published_at": "2026-05-22T16:19:52+00:00",
-      "source": "bitcoinmagazine.com",
-      "score": 1,
-      "ntitle": "trump media djt moves sell bitcoin losses reach 455 million",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "SOL Price Prediction: Bulls Eye $95 Breakout as Bears Threaten $81 Floor",
-      "link": "https://Blockchain.News/news/20260522-price-prediction-sol-bulls-eye-95-breakout-as-bears",
-      "published_at": "2026-05-22T07:40:28+00:00",
+      "title": "XLM Price Prediction: $0.12 Breakdown Risk as Support Crumbles",
+      "link": "https://Blockchain.News/news/20260522-xlm-price-prediction-012-breakdown-risk-as-support-crumbles",
+      "published_at": "2026-05-22T08:53:01+00:00",
       "source": "blockchain.news",
-      "score": 1,
-      "ntitle": "sol price prediction bulls eye 95 breakout bears threaten 81 floor",
+      "score": 6,
+      "ntitle": "xlm price prediction 0 12 breakdown risk support crumbles",
       "coins": [
-        "SOL"
+        "XLM"
       ],
       "sentiment": "bearish",
       "is_regulation": false,
@@ -326,25 +256,27 @@
       "agency": null
     },
     {
-      "title": "Trump defends DOJ fund after Senate Republicans push back",
-      "link": "https://www.cnbc.com/2026/05/22/trump-doj-fund-republicans.html",
-      "published_at": "2026-05-22T18:12:49+00:00",
+      "title": "Iran war leaves U.S. gas prices at highest levels in nearly four years ahead of Memorial Day",
+      "link": "https://www.cnbc.com/2026/05/22/gas-price-iran-war-strait-hormuz-memorial-day.html",
+      "published_at": "2026-05-22T15:26:23+00:00",
       "source": "cnbc.com",
-      "score": 1,
-      "ntitle": "trump defends doj fund after senate republicans push back",
+      "score": 2,
+      "ntitle": "iran war leaves u s gas prices highest levels nearly four years ahead memorial day",
       "coins": [],
       "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Congress"
+      "is_regulation": false,
+      "agency": null
     },
     {
-      "title": "SEC Commissioner Peirce counters views that crypto rule will foster synthetic tokens",
-      "link": "https://www.coindesk.com/news-analysis/2026/05/22/sec-commissioner-peirce-counters-views-that-crypto-rule-will-foster-synthetic-tokens",
-      "published_at": "2026-05-22T18:20:32+00:00",
+      "title": "F2Pool founder who controls 11% of bitcoin's hashrate to lead first SpaceX mission to Mars",
+      "link": "https://www.coindesk.com/business/2026/05/22/f2pool-founder-who-controls-11-of-bitcoin-s-hashrate-to-lead-first-spacex-mission-to-mars",
+      "published_at": "2026-05-22T19:47:09+00:00",
       "source": "coindesk.com",
       "score": 2,
-      "ntitle": "sec commissioner peirce counters views that crypto rule will foster synthetic tokens",
-      "coins": [],
+      "ntitle": "f2pool founder who controls 11 bitcoin s hashrate lead first spacex mission mars",
+      "coins": [
+        "BTC"
+      ],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
@@ -374,64 +306,77 @@
       "agency": null
     },
     {
-      "title": "US House lawmakers launch probe into Kalshi, Polymarket insider trading",
-      "link": "https://cointelegraph.com/news/us-house-probe-kalshi-polymarket-insider-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-05-22T17:20:49+00:00",
+      "title": "Price predictions 5/22: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
+      "link": "https://cointelegraph.com/markets/price-predictions-522-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-05-22T19:33:51+00:00",
       "source": "cointelegraph.com",
-      "score": 5,
-      "ntitle": "us house lawmakers launch probe into kalshi polymarket insider trading",
-      "coins": [],
-      "sentiment": "bullish",
+      "score": 8,
+      "ntitle": "price predictions 5 22 btc eth bnb xrp sol doge hype ada zec bch",
+      "coins": [
+        "ADA",
+        "BNB",
+        "BTC",
+        "DOGE",
+        "ETH",
+        "HYPE",
+        "SOL",
+        "XRP"
+      ],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Tom Emmer dismisses 2 key Clarity Act concerns",
-      "link": "https://crypto.news/tom-emmer-dismisses-2-key-clarity-act-concerns/",
-      "published_at": "2026-05-22T18:25:17+00:00",
+      "title": "Gold slips below $4,500 as Fed fears rattle record run",
+      "link": "https://crypto.news/gold-slips-below-4500-as-fed-fears-rattle-record-run/",
+      "published_at": "2026-05-22T20:00:00+00:00",
       "source": "crypto.news",
       "score": 1,
-      "ntitle": "tom emmer dismisses 2 key clarity act concerns",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Congress"
-    },
-    {
-      "title": "Polymarket hit by $700K exploit of internal top-up wallet",
-      "link": "https://cryptobriefing.com/polymarket-700k-exploit-reward-wallet/",
-      "published_at": "2026-05-22T18:24:08+00:00",
-      "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "polymarket hit 700k exploit internal top up wallet",
+      "ntitle": "gold slips below 4 500 fed fears rattle record run",
       "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Verus Bridge Exploiter Returns $8.5M, Keeps $2.8M as Bounty Reward",
-      "link": "https://cryptopotato.com/verus-bridge-exploiter-returns-8-5m-keeps-2-8m-as-bounty-reward/",
-      "published_at": "2026-05-22T18:21:46+00:00",
+      "title": "Aptos unveils encrypted mempool to protect transaction intent until block confirmation",
+      "link": "https://cryptobriefing.com/aptos-encrypted-mempool-transaction-privacy/",
+      "published_at": "2026-05-22T19:59:27+00:00",
+      "source": "cryptobriefing.com",
+      "score": 4,
+      "ntitle": "aptos unveils encrypted mempool protect transaction intent until block confirmation",
+      "coins": [
+        "APT"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Bitcoin Price Crashes Below $76K as Kevin Warsh Sworn In as Next Fed Chair",
+      "link": "https://cryptopotato.com/bitcoin-price-crashes-below-76k-as-kevin-warsh-sworn-in-as-next-fed-chair/",
+      "published_at": "2026-05-22T19:52:41+00:00",
       "source": "cryptopotato.com",
       "score": 1,
-      "ntitle": "verus bridge exploiter returns 8 5m keeps 2 8m bounty reward",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Mark Cuban’s Bitcoin sale tests the gap between a failed hedge and a surviving monetary bet",
-      "link": "https://cryptoslate.com/mark-cuban-says-bitcoin-failed-as-a-hedge-but-it-didnt-fail-as-bitcoin/",
-      "published_at": "2026-05-22T16:55:53+00:00",
-      "source": "cryptoslate.com",
-      "score": 2,
-      "ntitle": "mark cuban s bitcoin sale tests gap between failed hedge surviving monetary bet",
+      "ntitle": "bitcoin price crashes below 76k kevin warsh sworn next fed chair",
       "coins": [
         "BTC"
       ],
       "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Cardano founder warns network could lose its scientists in Input Output’s 33M ADA funding vote fails",
+      "link": "https://cryptoslate.com/cardano-founder-warns-network-could-lose-its-scientists-in-input-outputs-46-8m-funding-vote-fails/",
+      "published_at": "2026-05-22T19:35:05+00:00",
+      "source": "cryptoslate.com",
+      "score": 6,
+      "ntitle": "cardano founder warns network could lose scientists input output s 33m ada funding vote fails",
+      "coins": [
+        "ADA"
+      ],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -448,16 +393,28 @@
       "agency": null
     },
     {
-      "title": "GameStop Seeks to Boost Share Count as eBay Pursuit Continues After Rejection",
-      "link": "https://decrypt.co/368796/gamestop-seeks-boost-share-count-ebay-pursuit-continues-after-rejection",
-      "published_at": "2026-05-22T18:42:42+00:00",
+      "title": "Two Men Federally Charged Over AI Deepfake Porn Under the Take It Down Act",
+      "link": "https://decrypt.co/368797/two-men-federally-charged-ai-deepfake-porn-take-down-act",
+      "published_at": "2026-05-22T19:52:15+00:00",
       "source": "decrypt.co",
       "score": 1,
-      "ntitle": "gamestop seeks boost share count ebay pursuit continues after rejection",
+      "ntitle": "two men federally charged over ai deepfake porn under take it down act",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
+    },
+    {
+      "title": "Agencies publish resolution plan feedback letters for certain domestic and foreign banking organizations",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260522a.htm",
+      "published_at": "2026-05-22T20:00:00+00:00",
+      "source": "federalreserve.gov",
+      "score": 4,
+      "ntitle": "agencies publish resolution plan feedback letters certain domestic foreign banking organizations",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "Fed"
     },
     {
       "title": "FTAV’s further reading",
@@ -496,14 +453,13 @@
       "agency": null
     },
     {
-      "title": "Canary Leads XRP ETF Gains as Bitcoin ETFs Lose $101M",
-      "link": "https://news.bitcoin.com/canary-leads-xrp-etf-gains-as-bitcoin-etfs-lose-101m/",
-      "published_at": "2026-05-22T18:06:49+00:00",
+      "title": "XRP Whales are Accumulating SurgeXRP’s Token as the XRPL Real Estate Marketplace Fills 10% Of Softcap in Hours",
+      "link": "https://news.bitcoin.com/xrp-whales-are-accumulating-surgexrps-token-as-the-xrpl-real-estate-marketplace-fills-10-of-softcap-in-hours/",
+      "published_at": "2026-05-22T20:00:06+00:00",
       "source": "news.bitcoin.com",
-      "score": 8,
-      "ntitle": "canary leads xrp etf gains bitcoin etfs lose 101m",
+      "score": 15,
+      "ntitle": "xrp whales accumulating surgexrp s token xrpl real estate marketplace fills 10 softcap hours",
       "coins": [
-        "BTC",
         "XRP"
       ],
       "sentiment": "bullish",
@@ -511,32 +467,30 @@
       "agency": null
     },
     {
-      "title": "XRP Primary Elliot Wave Remains Intact And It’s Pointing Above $8",
-      "link": "https://www.newsbtc.com/analysis/xrp/xrp-primary-elliot-wave/",
-      "published_at": "2026-05-22T18:00:03+00:00",
+      "title": "Bitcoin Upper Trendline Resistance Is Holding Price Back, Can It Push It Below $60,000? Analyst Answers",
+      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-upper-trendline-resistance/",
+      "published_at": "2026-05-22T19:30:02+00:00",
       "source": "newsbtc.com",
-      "score": 8,
-      "ntitle": "xrp primary elliot wave remains intact it s pointing above 8",
+      "score": 6,
+      "ntitle": "bitcoin upper trendline resistance holding price back can it push it below 60 000 analyst answers",
       "coins": [
-        "XRP"
+        "BTC"
       ],
-      "sentiment": "bullish",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Binance served Iranian national days before he was sanctioned, report",
-      "link": "https://protos.com/binance-served-iranian-national-days-before-he-was-sanctioned-report/",
-      "published_at": "2026-05-22T17:40:42+00:00",
+      "title": "What crypto expects as Kevin Warsh is sworn in",
+      "link": "https://protos.com/what-crypto-expects-as-kevin-warsh-is-sworn-in/",
+      "published_at": "2026-05-22T19:02:25+00:00",
       "source": "protos.com",
-      "score": 3,
-      "ntitle": "binance served iranian national days before he was sanctioned report",
-      "coins": [
-        "BNB"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Regulatory"
+      "score": 1,
+      "ntitle": "what crypto expects kevin warsh sworn",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "SEC Commissioner Hester Peirce Clarifies Distinction Between Tokenized Securities and Synthetic Instruments",
@@ -551,12 +505,12 @@
       "agency": null
     },
     {
-      "title": "Bitcoin Unlikely to Hit $100,000 This Year: Kalshi",
-      "link": "https://u.today/bitcoin-unlikely-to-hit-100000-this-year-kalshi",
-      "published_at": "2026-05-22T16:49:08+00:00",
+      "title": "'Tightest Ever': Bitcoin's Monthly Bollinger Bands Could Predict Massive Move",
+      "link": "https://u.today/tightest-ever-bitcoins-monthly-bollinger-bands-could-predict-massive-move",
+      "published_at": "2026-05-22T18:59:37+00:00",
       "source": "u.today",
       "score": 1,
-      "ntitle": "bitcoin unlikely hit 100 000 this year kalshi",
+      "ntitle": "tightest ever bitcoin s monthly bollinger bands could predict massive move",
       "coins": [
         "BTC"
       ],
@@ -577,18 +531,6 @@
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
-    },
-    {
-      "title": "The current crypto rally is a narrative-driven rotation, not a bull run: Here’s why",
-      "link": "https://ambcrypto.com/the-current-crypto-rally-is-a-narrative-driven-rotation-not-a-bull-run-heres-why/",
-      "published_at": "2026-05-22T17:00:57+00:00",
-      "source": "ambcrypto.com",
-      "score": 2,
-      "ntitle": "current crypto rally narrative driven rotation not bull run here s why",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
     }
   ],
   "week": [
@@ -605,28 +547,30 @@
       "agency": null
     },
     {
-      "title": "The Art of Making Onchain Objects Last",
-      "link": "https://www.bankless.com/read/art-of-making-onchain-objects-last",
-      "published_at": "2026-05-21T06:59:38+00:00",
+      "title": "HYPE Hits All-Time High Above $62 as ETF Flows Grow",
+      "link": "https://www.bankless.com/read/news/hype-hits-all-time-high-above-62-as-etf-flows-grow",
+      "published_at": "2026-05-21T20:39:06+00:00",
       "source": "bankless.com",
-      "score": 2,
-      "ntitle": "art making onchain objects last",
-      "coins": [],
-      "sentiment": "neutral",
+      "score": 3,
+      "ntitle": "hype hits all time high above 62 etf flows grow",
+      "coins": [
+        "HYPE"
+      ],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "U.S. Lawmaker Unveils Bill to Codify Strategic Bitcoin Reserve, Draws Bipartisan Support",
-      "link": "https://bitcoinmagazine.com/news/us-bill-codify-strategic-bitcoin-reserve",
-      "published_at": "2026-05-21T15:53:01+00:00",
+      "title": "Mark Cuban Sells Most of His Bitcoin, Calls It a Failed Hedge",
+      "link": "https://bitcoinmagazine.com/news/mark-cuban-sells-most-of-his-bitcoin",
+      "published_at": "2026-05-21T20:49:56+00:00",
       "source": "bitcoinmagazine.com",
-      "score": 2,
-      "ntitle": "u s lawmaker unveils bill codify strategic bitcoin reserve draws bipartisan support",
+      "score": 1,
+      "ntitle": "mark cuban sells most his bitcoin calls it failed hedge",
       "coins": [
         "BTC"
       ],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "is_regulation": true,
       "agency": "Regulatory"
     },
@@ -697,26 +641,40 @@
       "agency": null
     },
     {
-      "title": "Petition to scrap South Korea's crypto tax reaches 50K threshold",
-      "link": "https://cointelegraph.com/news/petition-scrap-south-korea-crypto-tax-50k-threshold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-05-21T18:44:45+00:00",
+      "title": "Crypto PAC backed by Anchorage and Chainlink announces endorsements for 2026 midterms",
+      "link": "https://cointelegraph.com/news/crypto-pac-anchorage-chainlink-2026-candidates-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-05-21T20:48:52+00:00",
       "source": "cointelegraph.com",
-      "score": 1,
-      "ntitle": "petition scrap south korea s crypto tax reaches 50k threshold",
+      "score": 6,
+      "ntitle": "crypto pac backed anchorage chainlink announces endorsements 2026 midterms",
+      "coins": [
+        "LINK"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "WLFI Holders Dump 1.8B Tokens in Record Profit Event",
+      "link": "https://cryptopotato.com/wlfi-holders-dump-1-8b-tokens-in-record-profit-event/",
+      "published_at": "2026-05-21T19:51:47+00:00",
+      "source": "cryptopotato.com",
+      "score": 3,
+      "ntitle": "wlfi holders dump 1 8b tokens record profit event",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Zcash (ZEC) Soars 27% Weekly: 3 AIs Debate Whether It Can Break Into the Top 10 in 2026",
-      "link": "https://cryptopotato.com/zcash-zec-soars-27-weekly-3-ais-debate-whether-it-can-break-into-the-top-10-in-2026/",
-      "published_at": "2026-05-21T18:14:57+00:00",
-      "source": "cryptopotato.com",
-      "score": 2,
-      "ntitle": "zcash zec soars 27 weekly 3 ais debate whether it can break into top 10 2026",
+      "title": "World Liberty Financial rebound gives dormant WLFI holders an exit as AI Financial warns of survival risk",
+      "link": "https://cryptoslate.com/world-liberty-financial-wlfi-rebound-ai-financial-risk/",
+      "published_at": "2026-05-21T20:10:45+00:00",
+      "source": "cryptoslate.com",
+      "score": 4,
+      "ntitle": "world liberty financial rebound gives dormant wlfi holders exit ai financial warns survival risk",
       "coins": [],
-      "sentiment": "bullish",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -733,18 +691,16 @@
       "agency": null
     },
     {
-      "title": "Mark Cuban Says He Sold Most of His Bitcoin",
-      "link": "https://decrypt.co/368678/mark-cuban-sold-most-his-bitcoin",
-      "published_at": "2026-05-21T19:23:34+00:00",
+      "title": "Young Adults Involved in AI Romance Hide Full Use From Partners 69% of the Time",
+      "link": "https://decrypt.co/368686/young-adults-involved-ai-romance-hide-from-human-partners",
+      "published_at": "2026-05-21T20:56:20+00:00",
       "source": "decrypt.co",
-      "score": 1,
-      "ntitle": "mark cuban says he sold most his bitcoin",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Regulatory"
+      "score": 3,
+      "ntitle": "young adults involved ai romance hide full use partners 69 time",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Federal Reserve Board issues enforcement action with former employee of Commerce Bank",
@@ -865,30 +821,32 @@
       "agency": null
     },
     {
-      "title": "Ethereum Is Going to Bat for Privacy Protocols",
-      "link": "https://www.bankless.com/read/ethereum-is-going-to-bat-for-privacy-protocols",
-      "published_at": "2026-05-20T20:22:01+00:00",
+      "title": "Crypto PAC Backed by Chainlink and Anchorage Makes First Endorsements",
+      "link": "https://www.bankless.com/read/news/crypto-pac-backed-by-chainlink-and-anchorage-makes-first-endorsements",
+      "published_at": "2026-05-21T20:25:55+00:00",
       "source": "bankless.com",
-      "score": 1,
-      "ntitle": "ethereum going bat privacy protocols",
+      "score": 7,
+      "ntitle": "crypto pac backed chainlink anchorage makes first endorsements",
       "coins": [
-        "ETH"
+        "LINK"
       ],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Blockchain.com Confidentially Files for U.S. IPO, Joining Wave of Crypto Listings",
-      "link": "https://bitcoinmagazine.com/news/blockchain-com-confidentially-files-ipo",
-      "published_at": "2026-05-21T14:30:17+00:00",
+      "title": "U.S. Lawmaker Unveils Bill to Codify Strategic Bitcoin Reserve, Draws Bipartisan Support",
+      "link": "https://bitcoinmagazine.com/news/us-bill-codify-strategic-bitcoin-reserve",
+      "published_at": "2026-05-21T15:53:01+00:00",
       "source": "bitcoinmagazine.com",
-      "score": 4,
-      "ntitle": "blockchain com confidentially files u s ipo joining wave crypto listings",
-      "coins": [],
+      "score": 2,
+      "ntitle": "u s lawmaker unveils bill codify strategic bitcoin reserve draws bipartisan support",
+      "coins": [
+        "BTC"
+      ],
       "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
+      "is_regulation": true,
+      "agency": "Regulatory"
     },
     {
       "title": "How Blockchain Intelligence Uncovered a Million-Euro Bitcoin Ordinals Tax Fraud Scheme",
@@ -945,44 +903,30 @@
       "agency": null
     },
     {
-      "title": "Analyst: Ethereum Facing Silent Crisis, Hit by 55% Drawdown With No Dip Buyers",
-      "link": "https://cryptopotato.com/analyst-ethereum-facing-silent-crisis-hit-by-55-drawdown-with-no-dip-buyers/",
-      "published_at": "2026-05-21T16:29:22+00:00",
-      "source": "cryptopotato.com",
-      "score": 3,
-      "ntitle": "analyst ethereum facing silent crisis hit 55 drawdown no dip buyers",
-      "coins": [
-        "ETH"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Nvidia Pours $1,855,217,000 Into One Stock That’s Exploded 370%+ in Just One Year As Value of Investment Portfolio Balloons",
-      "link": "https://dailyhodl.com/2026/05/21/nvidia-pours-1855217000-into-one-stock-thats-exploded-370-in-just-one-year-as-value-of-investment-portfolio-balloons/",
-      "published_at": "2026-05-21T17:01:59+00:00",
-      "source": "dailyhodl.com",
-      "score": 3,
-      "ntitle": "nvidia pours 1 855 217 000 into one stock that s exploded 370 just one year value investment portfolio balloons",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Proposed ARMA Bill Aims to Enshrine Strategic Bitcoin Reserve Into Law",
-      "link": "https://decrypt.co/368662/proposed-arma-bill-aims-enshrine-strategic-bitcoin-reserve-law",
-      "published_at": "2026-05-21T18:08:49+00:00",
-      "source": "decrypt.co",
-      "score": 3,
-      "ntitle": "proposed arma bill aims enshrine strategic bitcoin reserve into law",
+      "title": "Chance of new Bitcoin lows ‘extremely slim’ as long-term holders’ supply tops 15M BTC",
+      "link": "https://cointelegraph.com/markets/new-bitcoin-lows-look-extremely-slim-as-long-term-holders-add-supply?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-05-21T20:39:54+00:00",
+      "source": "cointelegraph.com",
+      "score": 2,
+      "ntitle": "chance new bitcoin lows extremely slim long term holders supply tops 15m btc",
       "coins": [
         "BTC"
       ],
       "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Regulatory"
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Zcash (ZEC) Soars 27% Weekly: 3 AIs Debate Whether It Can Break Into the Top 10 in 2026",
+      "link": "https://cryptopotato.com/zcash-zec-soars-27-weekly-3-ais-debate-whether-it-can-break-into-the-top-10-in-2026/",
+      "published_at": "2026-05-21T18:14:57+00:00",
+      "source": "cryptopotato.com",
+      "score": 2,
+      "ntitle": "zcash zec soars 27 weekly 3 ais debate whether it can break into top 10 2026",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     }
   ],
   "month": [
@@ -1049,14 +993,14 @@
       "agency": null
     },
     {
-      "title": "Federal Reserve Board announces termination of enforcement actions with UBS Group AG, Credit Suisse AG, Credit Suisse Holdings (USA), Inc., and Credit Suisse AG, New York Branch",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260515a.htm",
-      "published_at": "2026-05-15T15:00:00+00:00",
+      "title": "Federal Reserve Board names Jerome H. Powell as chair pro tempore; Powell will serve as chair pro tempore until Kevin M. Warsh is sworn in as the new chair",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm",
+      "published_at": "2026-05-15T21:00:00+00:00",
       "source": "federalreserve.gov",
       "score": 3,
-      "ntitle": "federal reserve board announces termination enforcement actions ubs group ag credit suisse ag credit suisse holdings usa inc credit suisse ag new york branch",
+      "ntitle": "federal reserve board names jerome h powell chair pro tempore powell will serve chair pro tempore until kevin m warsh sworn new chair",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "is_regulation": true,
       "agency": "Fed"
     },
@@ -1185,14 +1129,14 @@
       "agency": null
     },
     {
-      "title": "Stephen I. Miran submits his resignation as a member of the Federal Reserve Board, effective when or shortly before his successor on the Board is sworn in",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514b.htm",
-      "published_at": "2026-05-14T18:00:00+00:00",
+      "title": "Federal Reserve Board announces it does not object to the conversion of United Texas Bank, of Dallas, Texas, from a bank supervised by the Federal Reserve to a national bank supervised by the Office of the Comptroller of the Currency",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260515b.htm",
+      "published_at": "2026-05-15T20:30:00+00:00",
       "source": "federalreserve.gov",
-      "score": 3,
-      "ntitle": "stephen i miran submits his resignation member federal reserve board effective when or shortly before his successor board sworn",
+      "score": 5,
+      "ntitle": "federal reserve board announces it does not object conversion united texas bank dallas texas bank supervised federal reserve national bank supervised office comptroller currency",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "is_regulation": true,
       "agency": "Fed"
     },
@@ -1235,30 +1179,67 @@
   ],
   "clusters": [
     {
+      "id": 3,
+      "title": "Kevin Warsh sworn in as Fed chair with Bitcoin at $77,400",
+      "link": "https://crypto.news/kevin-warsh-sworn-in-as-fed-chair-at-white-house/",
+      "source": "crypto.news",
+      "published_at": "2026-05-22T20:21:06+00:00",
+      "sentiment": "bearish",
+      "coins": [
+        "BTC"
+      ],
+      "sources": [
+        "cryptopotato.com",
+        "crypto.news",
+        "protos.com"
+      ],
+      "count": 3,
+      "members": [
+        {
+          "title": "Kevin Warsh sworn in as Fed chair with Bitcoin at $77,400",
+          "link": "https://crypto.news/kevin-warsh-sworn-in-as-fed-chair-at-white-house/",
+          "source": "crypto.news",
+          "published_at": "2026-05-22T20:21:06+00:00"
+        },
+        {
+          "title": "Bitcoin Price Crashes Below $76K as Kevin Warsh Sworn In as Next Fed Chair",
+          "link": "https://cryptopotato.com/bitcoin-price-crashes-below-76k-as-kevin-warsh-sworn-in-as-next-fed-chair/",
+          "source": "cryptopotato.com",
+          "published_at": "2026-05-22T19:52:41+00:00"
+        },
+        {
+          "title": "What crypto expects as Kevin Warsh is sworn in",
+          "link": "https://protos.com/what-crypto-expects-as-kevin-warsh-is-sworn-in/",
+          "source": "protos.com",
+          "published_at": "2026-05-22T19:02:25+00:00"
+        }
+      ]
+    },
+    {
       "id": 6,
-      "title": "US House lawmakers launch probe into Kalshi, Polymarket insider trading",
-      "link": "https://cointelegraph.com/news/us-house-probe-kalshi-polymarket-insider-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "published_at": "2026-05-22T17:20:49+00:00",
-      "sentiment": "bullish",
+      "title": "‘Not for synthetics’ – SEC to limit innovation exemption scope for tokenized stocks",
+      "link": "https://ambcrypto.com/not-for-synthetics-sec-to-limit-innovation-exemption-scope-for-tokenized-stocks/",
+      "source": "ambcrypto.com",
+      "published_at": "2026-05-22T20:00:36+00:00",
+      "sentiment": "neutral",
       "coins": [],
       "sources": [
-        "cointelegraph.com",
-        "cryptobriefing.com"
+        "decrypt.co",
+        "ambcrypto.com"
       ],
       "count": 2,
       "members": [
         {
-          "title": "Congress probes Polymarket, Kalshi over Iran strike insider trading allegations",
-          "link": "https://cryptobriefing.com/congress-probes-polymarket-kalshi-over-iran-strike-insider-trading-allegations/",
-          "source": "cryptobriefing.com",
-          "published_at": "2026-05-22T19:26:06+00:00"
+          "title": "SEC Delays Tokenized Stocks Innovation Exemption Amid Concerns: Bloomberg",
+          "link": "https://decrypt.co/368855/sec-delays-tokenized-stocks-innovation-exemption-amid-concerns-bloomberg",
+          "source": "decrypt.co",
+          "published_at": "2026-05-22T20:46:37+00:00"
         },
         {
-          "title": "US House lawmakers launch probe into Kalshi, Polymarket insider trading",
-          "link": "https://cointelegraph.com/news/us-house-probe-kalshi-polymarket-insider-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "cointelegraph.com",
-          "published_at": "2026-05-22T17:20:49+00:00"
+          "title": "‘Not for synthetics’ – SEC to limit innovation exemption scope for tokenized stocks",
+          "link": "https://ambcrypto.com/not-for-synthetics-sec-to-limit-innovation-exemption-scope-for-tokenized-stocks/",
+          "source": "ambcrypto.com",
+          "published_at": "2026-05-22T20:00:36+00:00"
         }
       ]
     }
@@ -1266,52 +1247,52 @@
   "trending": [
     {
       "tag": "#Ai",
-      "count": 66,
+      "count": 68,
       "type": "topic",
       "pct": 100
     },
     {
       "tag": "#XRP",
-      "count": 52,
+      "count": 53,
       "type": "coin",
-      "pct": 79
+      "pct": 78
     },
     {
       "tag": "#Xrp",
-      "count": 52,
+      "count": 53,
       "type": "topic",
-      "pct": 79
+      "pct": 78
     },
     {
       "tag": "#Defi",
       "count": 40,
       "type": "topic",
-      "pct": 61
-    },
-    {
-      "tag": "#BTC",
-      "count": 25,
-      "type": "coin",
-      "pct": 38
+      "pct": 59
     },
     {
       "tag": "#Bitcoin",
-      "count": 22,
+      "count": 23,
       "type": "topic",
-      "pct": 33
+      "pct": 34
     },
     {
-      "tag": "#ETH",
-      "count": 16,
+      "tag": "#BTC",
+      "count": 22,
       "type": "coin",
-      "pct": 24
+      "pct": 32
     },
     {
       "tag": "#Etf",
       "count": 16,
       "type": "topic",
       "pct": 24
+    },
+    {
+      "tag": "#ETH",
+      "count": 14,
+      "type": "coin",
+      "pct": 21
     }
   ],
-  "generated_at": "2026-05-22T19:45:51.266901+00:00"
+  "generated_at": "2026-05-22T21:01:14.283189+00:00"
 }
