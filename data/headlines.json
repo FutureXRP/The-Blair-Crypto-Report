@@ -2,6 +2,129 @@
   "x_breaking": [],
   "breaking": [
     {
+      "title": "S&P 500’s 8-Week Rally Faces Historical Headwinds From Midterm Year Patterns",
+      "link": "https://blockonomi.com/sp-500s-8-week-rally-faces-historical-headwinds-from-midterm-year-patterns/",
+      "published_at": "2026-05-24T11:04:05+00:00",
+      "source": "blockonomi.com",
+      "score": 3,
+      "ntitle": "s p 500 s 8 week rally faces historical headwinds midterm year patterns",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "CFTC crypto oversight questioned after officials were pushed out",
+      "link": "https://crypto.news/cftc-crypto-oversight-questioned-after-officials-were-pushed-out/",
+      "published_at": "2026-05-24T11:52:20+00:00",
+      "source": "crypto.news",
+      "score": 1,
+      "ntitle": "cftc crypto oversight questioned after officials were pushed out",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "CFTC"
+    },
+    {
+      "title": "Charles Hoskinson reviews governance models from 11,000 DAOs to enhance Cardano’s conflict resolution",
+      "link": "https://cryptobriefing.com/hoskinson-reviews-dao-governance-cardano/",
+      "published_at": "2026-05-24T11:50:58+00:00",
+      "source": "cryptobriefing.com",
+      "score": 2,
+      "ntitle": "charles hoskinson reviews governance models 11 000 daos enhance cardano s conflict resolution",
+      "coins": [
+        "ADA"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Tether’s $141 billion Treasury pile reveals the stablecoin risk now embedded in US debt",
+      "link": "https://cryptoslate.com/tethers-141-billion-treasury-pile-reveals-the-stablecoin-risk-now-embedded-in-us-debt/",
+      "published_at": "2026-05-24T11:15:13+00:00",
+      "source": "cryptoslate.com",
+      "score": 4,
+      "ntitle": "tether s 141 billion treasury pile reveals stablecoin risk now embedded us debt",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "Treasury"
+    },
+    {
+      "title": "HYPE Brothers Wax, ETH Brothers Wane – Week In Review",
+      "link": "https://news.bitcoin.com/hype-brothers-wax-eth-brothers-wane-week-in-review/",
+      "published_at": "2026-05-24T11:30:24+00:00",
+      "source": "news.bitcoin.com",
+      "score": 3,
+      "ntitle": "hype brothers wax eth brothers wane week review",
+      "coins": [
+        "ETH",
+        "HYPE"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Ethereum Pullbacks Spark Accumulation Activity – Here’s Why",
+      "link": "https://www.newsbtc.com/news/ethereum/ethereum-pullbacks-spark-accumulation-activity-heres-why/",
+      "published_at": "2026-05-24T11:00:59+00:00",
+      "source": "newsbtc.com",
+      "score": 1,
+      "ntitle": "ethereum pullbacks spark accumulation activity here s why",
+      "coins": [
+        "ETH"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Did Mark Cuban Sell Bitcoin at the Bottom?",
+      "link": "https://u.today/did-mark-cuban-sell-bitcoin-at-the-bottom",
+      "published_at": "2026-05-24T11:30:40+00:00",
+      "source": "u.today",
+      "score": 1,
+      "ntitle": "did mark cuban sell bitcoin bottom",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Regulatory"
+    },
+    {
+      "title": "Ethereum Foundation defender says critics miss its real job",
+      "link": "https://crypto.news/ethereum-foundation-defender-says-critics-miss-its-real-job/",
+      "published_at": "2026-05-24T11:20:36+00:00",
+      "source": "crypto.news",
+      "score": 1,
+      "ntitle": "ethereum foundation defender says critics miss real job",
+      "coins": [
+        "ETH"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Bitcoin price surges past $77,000, market confidence grows",
+      "link": "https://cryptobriefing.com/bitcoin-price-surges-past-77000-market-confidence-grows/",
+      "published_at": "2026-05-24T11:21:20+00:00",
+      "source": "cryptobriefing.com",
+      "score": 1,
+      "ntitle": "bitcoin price surges past 77 000 market confidence grows",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    }
+  ],
+  "day": [
+    {
       "title": "How the StablR exploit drained $10.4M via unbacked stablecoin issuance",
       "link": "https://ambcrypto.com/how-the-stablr-exploit-triggered-10-4m-in-unbacked-stablecoin-sales/",
       "published_at": "2026-05-24T10:00:53+00:00",
@@ -28,136 +151,18 @@
       "agency": null
     },
     {
-      "title": "VELO Protocol Emerges as a Key Player in the Next Generation of Global Payment Infrastructure",
-      "link": "https://blockonomi.com/velo-protocol-emerges-as-a-key-player-in-the-next-generation-of-global-payment-infrastructure/",
-      "published_at": "2026-05-24T10:52:50+00:00",
-      "source": "blockonomi.com",
-      "score": 6,
-      "ntitle": "velo protocol emerges key player next generation global payment infrastructure",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Hyperliquid buybacks, not ETFs, may be driving HYPE’s record run",
-      "link": "https://crypto.news/hyperliquid-buybacks-not-etfs-may-be-driving-hypes-record-run/",
-      "published_at": "2026-05-24T10:52:55+00:00",
-      "source": "crypto.news",
-      "score": 3,
-      "ntitle": "hyperliquid buybacks not etfs may be driving hype s record run",
-      "coins": [
-        "HYPE"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Iran and US signal imminent deal to end war as $344M in crypto assets remain frozen",
-      "link": "https://cryptobriefing.com/iran-us-deal-crypto-sanctions/",
-      "published_at": "2026-05-24T10:50:19+00:00",
-      "source": "cryptobriefing.com",
-      "score": 4,
-      "ntitle": "iran us signal imminent deal end war 344m crypto assets remain frozen",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "'Mysterious' 300,000 XRP Users: Who Are They and Why Does XRP Ledger Look Unnatural",
-      "link": "https://u.today/mysterious-300000-xrp-users-who-are-they-and-why-does-xrp-ledger-look-unnatural",
-      "published_at": "2026-05-24T10:30:00+00:00",
-      "source": "u.today",
-      "score": 7,
-      "ntitle": "mysterious 300 000 xrp users who they why does xrp ledger look unnatural",
-      "coins": [
-        "XRP"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Russell 1000 Value Index Shakeup: Alphabet (GOOGL) and AMD (AMD) Exit in Major Rebalancing",
-      "link": "https://blockonomi.com/russell-1000-value-index-shakeup-alphabet-googl-and-amd-amd-exit-in-major-rebalancing/",
-      "published_at": "2026-05-24T10:30:58+00:00",
-      "source": "blockonomi.com",
+      "title": "Ethereum Smart Money Might Be Repeating This Playbook — ETH Soared 173% Last Time",
+      "link": "https://bitcoinist.com/ethereum-smart-money-might-be-repeat-this-playbook/",
+      "published_at": "2026-05-24T08:00:32+00:00",
+      "source": "bitcoinist.com",
       "score": 2,
-      "ntitle": "russell 1000 value index shakeup alphabet googl amd amd exit major rebalancing",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Cardano governance fight grows as Hoskinson audits 11,000 DAOs",
-      "link": "https://crypto.news/cardano-governance-fight-grows-as-hoskinson-audits-11000-daos/",
-      "published_at": "2026-05-24T10:13:34+00:00",
-      "source": "crypto.news",
-      "score": 1,
-      "ntitle": "cardano governance fight grows hoskinson audits 11 000 daos",
-      "coins": [
-        "ADA"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Huawei develops 122TB SSD using innovative packaging amid US export controls",
-      "link": "https://cryptobriefing.com/huawei-122tb-ssd-dob-packaging/",
-      "published_at": "2026-05-24T10:41:15+00:00",
-      "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "huawei develops 122tb ssd using innovative packaging amid us export controls",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    }
-  ],
-  "day": [
-    {
-      "title": "Is the market mispricing Ethereum? What ETH’s fee compression tells us",
-      "link": "https://ambcrypto.com/is-the-market-mispricing-ethereum-what-eths-fee-compression-tells-us/",
-      "published_at": "2026-05-24T09:00:06+00:00",
-      "source": "ambcrypto.com",
-      "score": 1,
-      "ntitle": "market mispricing ethereum what eth s fee compression tells us",
+      "ntitle": "ethereum smart money might be repeating this playbook eth soared 173 last time",
       "coins": [
         "ETH"
       ],
-      "sentiment": "neutral",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
-    },
-    {
-      "title": "StablR Stablecoins Depeg After $2.8 Million Exploit",
-      "link": "https://beincrypto.com/stablr-stablecoin-depeg-exploit/",
-      "published_at": "2026-05-24T08:50:28+00:00",
-      "source": "beincrypto.com",
-      "score": 1,
-      "ntitle": "stablr stablecoins depeg after 2 8 million exploit",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Bitcoin Spot ETFs Bleed $1.26 Billion In Largest Net Outflows In 3 Months – Details",
-      "link": "https://bitcoinist.com/bitcoin-spot-etfs-1-26-billion-largest-outflows-3-m/",
-      "published_at": "2026-05-24T05:00:58+00:00",
-      "source": "bitcoinist.com",
-      "score": 6,
-      "ntitle": "bitcoin spot etfs bleed 1 26 billion largest net outflows 3 months details",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Regulatory"
     },
     {
       "title": "The History and Future of Physical Bitcoin",
@@ -174,14 +179,14 @@
       "agency": null
     },
     {
-      "title": "Tema Space Innovators ETF (NASA) Reaches $1 Billion Milestone in Record Time",
-      "link": "https://blockonomi.com/tema-space-innovators-etf-nasa-reaches-1-billion-milestone-in-record-time/",
-      "published_at": "2026-05-24T09:53:28+00:00",
+      "title": "VELO Protocol Emerges as a Key Player in the Next Generation of Global Payment Infrastructure",
+      "link": "https://blockonomi.com/velo-protocol-emerges-as-a-key-player-in-the-next-generation-of-global-payment-infrastructure/",
+      "published_at": "2026-05-24T10:52:50+00:00",
       "source": "blockonomi.com",
-      "score": 3,
-      "ntitle": "tema space innovators etf nasa reaches 1 billion milestone record time",
+      "score": 6,
+      "ntitle": "velo protocol emerges key player next generation global payment infrastructure",
       "coins": [],
-      "sentiment": "bullish",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -243,28 +248,28 @@
       "agency": null
     },
     {
-      "title": "XRP users warned as fake Xaman airdrop scams spread",
-      "link": "https://crypto.news/xrp-users-warned-as-fake-xaman-airdrop-scams-spread/",
-      "published_at": "2026-05-24T09:55:39+00:00",
+      "title": "Hyperliquid buybacks, not ETFs, may be driving HYPE’s record run",
+      "link": "https://crypto.news/hyperliquid-buybacks-not-etfs-may-be-driving-hypes-record-run/",
+      "published_at": "2026-05-24T10:52:55+00:00",
       "source": "crypto.news",
-      "score": 5,
-      "ntitle": "xrp users warned fake xaman airdrop scams spread",
+      "score": 3,
+      "ntitle": "hyperliquid buybacks not etfs may be driving hype s record run",
       "coins": [
-        "XRP"
+        "HYPE"
       ],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Russia claims successful strikes on Ukraine with hypersonic, ballistic missiles",
-      "link": "https://cryptobriefing.com/russia-hypersonic-ballistic-missile-strikes-ukraine/",
-      "published_at": "2026-05-24T09:36:41+00:00",
+      "title": "Iran and US signal imminent deal to end war, but key issues remain unresolved",
+      "link": "https://cryptobriefing.com/iran-us-deal-crypto-market-impact/",
+      "published_at": "2026-05-24T10:57:05+00:00",
       "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "russia claims successful strikes ukraine hypersonic ballistic missiles",
+      "score": 3,
+      "ntitle": "iran us signal imminent deal end war but key issues remain unresolved",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -364,67 +369,67 @@
       "agency": null
     },
     {
-      "title": "1 Major Reason Cardano Creator Audits 11,000 DAOs Is Governance",
-      "link": "https://u.today/1-major-reason-cardano-creator-audits-11000-daos-is-governance",
-      "published_at": "2026-05-24T09:55:00+00:00",
+      "title": "Shiba Inu (SHIB) Outflows Spike Violently as Traders Rush to Self-Custody",
+      "link": "https://u.today/shiba-inu-shib-outflows-spike-violently-as-traders-rush-to-self-custody",
+      "published_at": "2026-05-24T10:57:00+00:00",
       "source": "u.today",
-      "score": 1,
-      "ntitle": "1 major reason cardano creator audits 11 000 daos governance",
-      "coins": [
-        "ADA"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "ZCash [ZEC] reclaims $613 despite $953M in crypto liquidations – Here’s how",
-      "link": "https://ambcrypto.com/zcash-zec-reclaims-613-despite-953m-in-crypto-liquidations-heres-how/",
-      "published_at": "2026-05-24T08:00:38+00:00",
-      "source": "ambcrypto.com",
-      "score": 1,
-      "ntitle": "zcash zec reclaims 613 despite 953m crypto liquidations here s how",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "ECB Pushes Back on Euro Stablecoin Proposals, Citing Bank Lending Risks",
-      "link": "https://beincrypto.com/ecb-euro-stablecoin-expansion-banking-risks/",
-      "published_at": "2026-05-24T08:00:00+00:00",
-      "source": "beincrypto.com",
       "score": 3,
-      "ntitle": "ecb pushes back euro stablecoin proposals citing bank lending risks",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Ethereum’s Consolidation Could Be Setting The Stage For Expansion",
-      "link": "https://bitcoinist.com/ethereums-setting-for-expansion/",
-      "published_at": "2026-05-23T22:00:34+00:00",
-      "source": "bitcoinist.com",
-      "score": 1,
-      "ntitle": "ethereum s consolidation could be setting stage expansion",
+      "ntitle": "shiba inu shib outflows spike violently traders rush self custody",
       "coins": [
-        "ETH"
+        "SHIB"
       ],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Binance Australia Mandates Sender and Beneficiary Info for All Crypto Transfers Starting July 1, 2026",
-      "link": "https://blockonomi.com/binance-australia-mandates-sender-and-beneficiary-info-for-all-crypto-transfers-starting-july-1-2026/",
-      "published_at": "2026-05-24T09:40:05+00:00",
+      "title": "Is the market mispricing Ethereum? What ETH’s fee compression tells us",
+      "link": "https://ambcrypto.com/is-the-market-mispricing-ethereum-what-eths-fee-compression-tells-us/",
+      "published_at": "2026-05-24T09:00:06+00:00",
+      "source": "ambcrypto.com",
+      "score": 1,
+      "ntitle": "market mispricing ethereum what eth s fee compression tells us",
+      "coins": [
+        "ETH"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "StablR Stablecoins Depeg After $2.8 Million Exploit",
+      "link": "https://beincrypto.com/stablr-stablecoin-depeg-exploit/",
+      "published_at": "2026-05-24T08:50:28+00:00",
+      "source": "beincrypto.com",
+      "score": 1,
+      "ntitle": "stablr stablecoins depeg after 2 8 million exploit",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Bitcoin Spot ETFs Bleed $1.26 Billion In Largest Net Outflows In 3 Months – Details",
+      "link": "https://bitcoinist.com/bitcoin-spot-etfs-1-26-billion-largest-outflows-3-m/",
+      "published_at": "2026-05-24T05:00:58+00:00",
+      "source": "bitcoinist.com",
+      "score": 6,
+      "ntitle": "bitcoin spot etfs bleed 1 26 billion largest net outflows 3 months details",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "Regulatory"
+    },
+    {
+      "title": "Russell 1000 Value Index Shakeup: Alphabet (GOOGL) and AMD (AMD) Exit in Major Rebalancing",
+      "link": "https://blockonomi.com/russell-1000-value-index-shakeup-alphabet-googl-and-amd-amd-exit-in-major-rebalancing/",
+      "published_at": "2026-05-24T10:30:58+00:00",
       "source": "blockonomi.com",
       "score": 2,
-      "ntitle": "binance australia mandates sender beneficiary info all crypto transfers starting july 1 2026",
-      "coins": [
-        "BNB"
-      ],
+      "ntitle": "russell 1000 value index shakeup alphabet googl amd amd exit major rebalancing",
+      "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
@@ -484,28 +489,26 @@
       "agency": null
     },
     {
-      "title": "Bank of America picks Bitcoin ETF over Ether and Solana in Q1",
-      "link": "https://crypto.news/bank-of-america-picks-bitcoin-etf-over-ether-and-solana-in-q1/",
-      "published_at": "2026-05-24T09:08:23+00:00",
+      "title": "Cardano governance fight grows as Hoskinson audits 11,000 DAOs",
+      "link": "https://crypto.news/cardano-governance-fight-grows-as-hoskinson-audits-11000-daos/",
+      "published_at": "2026-05-24T10:13:34+00:00",
       "source": "crypto.news",
-      "score": 5,
-      "ntitle": "bank america picks bitcoin etf over ether solana q1",
+      "score": 1,
+      "ntitle": "cardano governance fight grows hoskinson audits 11 000 daos",
       "coins": [
-        "BTC",
-        "ETH",
-        "SOL"
+        "ADA"
       ],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Hezbollah shells Israeli vehicles, escalating tensions with Israel",
-      "link": "https://cryptobriefing.com/hezbollah-shells-israeli-vehicles-escalating-tensions-with-israel/",
-      "published_at": "2026-05-24T09:34:51+00:00",
+      "title": "Huawei develops 122TB SSD using innovative packaging amid US export controls",
+      "link": "https://cryptobriefing.com/huawei-122tb-ssd-dob-packaging/",
+      "published_at": "2026-05-24T10:41:15+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "hezbollah shells israeli vehicles escalating tensions israel",
+      "ntitle": "huawei develops 122tb ssd using innovative packaging amid us export controls",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -668,15 +671,14 @@
       "agency": null
     },
     {
-      "title": "Bitcoin Sees New Monthly Low, Ethereum Dips to $2K: Weekend Watch",
-      "link": "https://cryptopotato.com/bitcoin-sees-new-monthly-low-ethereum-dips-to-2k-weekend-watch/",
-      "published_at": "2026-05-23T09:03:58+00:00",
+      "title": "We Asked 3 AIs: Will XRP Ever Break Above $2? The Answers Were Not What We Expected",
+      "link": "https://cryptopotato.com/we-asked-3-ais-will-xrp-ever-break-above-2-the-answers-were-not-what-we-expected/",
+      "published_at": "2026-05-23T11:27:16+00:00",
       "source": "cryptopotato.com",
-      "score": 1,
-      "ntitle": "bitcoin sees new monthly low ethereum dips 2k weekend watch",
+      "score": 7,
+      "ntitle": "we asked 3 ais will xrp ever break above 2 answers were not what we expected",
       "coins": [
-        "BTC",
-        "ETH"
+        "XRP"
       ],
       "sentiment": "bearish",
       "is_regulation": false,
@@ -1137,32 +1139,62 @@
   ],
   "clusters": [
     {
-      "id": 7,
-      "title": "Cardano governance fight grows as Hoskinson audits 11,000 DAOs",
-      "link": "https://crypto.news/cardano-governance-fight-grows-as-hoskinson-audits-11000-daos/",
-      "source": "crypto.news",
-      "published_at": "2026-05-24T10:13:34+00:00",
+      "id": 2,
+      "title": "Charles Hoskinson reviews governance models from 11,000 DAOs to enhance Cardano’s conflict resolution",
+      "link": "https://cryptobriefing.com/hoskinson-reviews-dao-governance-cardano/",
+      "source": "cryptobriefing.com",
+      "published_at": "2026-05-24T11:50:58+00:00",
       "sentiment": "neutral",
       "coins": [
         "ADA"
       ],
       "sources": [
-        "crypto.news",
-        "u.today"
+        "cryptobriefing.com",
+        "crypto.news"
       ],
       "count": 2,
       "members": [
+        {
+          "title": "Charles Hoskinson reviews governance models from 11,000 DAOs to enhance Cardano’s conflict resolution",
+          "link": "https://cryptobriefing.com/hoskinson-reviews-dao-governance-cardano/",
+          "source": "cryptobriefing.com",
+          "published_at": "2026-05-24T11:50:58+00:00"
+        },
         {
           "title": "Cardano governance fight grows as Hoskinson audits 11,000 DAOs",
           "link": "https://crypto.news/cardano-governance-fight-grows-as-hoskinson-audits-11000-daos/",
           "source": "crypto.news",
           "published_at": "2026-05-24T10:13:34+00:00"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Blockchain researcher defends Ethereum Foundation, says it’s ‘exactly’ doing its job",
+      "link": "https://cointelegraph.com/news/blockchain-researcher-defends-ethereum-foundation-says-its-exactly-doing-its-job?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "published_at": "2026-05-24T09:22:16+00:00",
+      "sentiment": "neutral",
+      "coins": [
+        "ETH"
+      ],
+      "sources": [
+        "cointelegraph.com",
+        "crypto.news"
+      ],
+      "count": 2,
+      "members": [
+        {
+          "title": "Ethereum Foundation defender says critics miss its real job",
+          "link": "https://crypto.news/ethereum-foundation-defender-says-critics-miss-its-real-job/",
+          "source": "crypto.news",
+          "published_at": "2026-05-24T11:20:36+00:00"
         },
         {
-          "title": "1 Major Reason Cardano Creator Audits 11,000 DAOs Is Governance",
-          "link": "https://u.today/1-major-reason-cardano-creator-audits-11000-daos-is-governance",
-          "source": "u.today",
-          "published_at": "2026-05-24T09:55:00+00:00"
+          "title": "Blockchain researcher defends Ethereum Foundation, says it’s ‘exactly’ doing its job",
+          "link": "https://cointelegraph.com/news/blockchain-researcher-defends-ethereum-foundation-says-its-exactly-doing-its-job?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "cointelegraph.com",
+          "published_at": "2026-05-24T09:22:16+00:00"
         }
       ]
     },
@@ -1178,8 +1210,8 @@
         "NEAR"
       ],
       "sources": [
-        "coingape.com",
-        "investing.com"
+        "investing.com",
+        "coingape.com"
       ],
       "count": 2,
       "members": [
@@ -1225,21 +1257,21 @@
     },
     {
       "tag": "#BTC",
-      "count": 25,
-      "type": "coin",
-      "pct": 37
-    },
-    {
-      "tag": "#Bitcoin",
       "count": 24,
-      "type": "topic",
+      "type": "coin",
       "pct": 36
     },
     {
+      "tag": "#Bitcoin",
+      "count": 23,
+      "type": "topic",
+      "pct": 34
+    },
+    {
       "tag": "#ETH",
-      "count": 16,
+      "count": 17,
       "type": "coin",
-      "pct": 24
+      "pct": 25
     },
     {
       "tag": "#Etf",
@@ -1248,5 +1280,5 @@
       "pct": 22
     }
   ],
-  "generated_at": "2026-05-24T10:56:55.535086+00:00"
+  "generated_at": "2026-05-24T11:58:42.604121+00:00"
 }
