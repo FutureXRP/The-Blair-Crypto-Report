@@ -2,6 +2,130 @@
   "x_breaking": [],
   "breaking": [
     {
+      "title": "3 Things to Know About Kevin Warsh, the New Fed Chair",
+      "link": "https://beincrypto.com/3-things-kevin-warsh-fed-chair/",
+      "published_at": "2026-05-25T22:00:00+00:00",
+      "source": "beincrypto.com",
+      "score": 1,
+      "ntitle": "3 things know about kevin warsh new fed chair",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Bitcoin’s Current Volatility Pushes Supply Held In Profit Below Historic Bull Thresholds",
+      "link": "https://bitcoinist.com/bitcoins-supply-in-profit-drops/",
+      "published_at": "2026-05-25T22:00:30+00:00",
+      "source": "bitcoinist.com",
+      "score": 2,
+      "ntitle": "bitcoin s current volatility pushes supply held profit below historic bull thresholds",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Chris Larsen XRP wallets go active ahead of US midterms",
+      "link": "https://crypto.news/chris-larsen-xrp-wallets-go-active-near-midterms/",
+      "published_at": "2026-05-25T22:37:00+00:00",
+      "source": "crypto.news",
+      "score": 8,
+      "ntitle": "chris larsen xrp wallets go active ahead us midterms",
+      "coins": [
+        "XRP"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Iran accuses US of deadly missile strike killing 24 in Lamerd during joint operations with Israel",
+      "link": "https://cryptobriefing.com/iran-accuses-us-missile-strike-lamerd/",
+      "published_at": "2026-05-25T22:44:36+00:00",
+      "source": "cryptobriefing.com",
+      "score": 2,
+      "ntitle": "iran accuses us deadly missile strike killing 24 lamerd during joint operations israel",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Bitcoin ETFs Lose $1.26B as XRP and HYPE Funds Attract Fresh Inflows",
+      "link": "https://news.bitcoin.com/bitcoin-etfs-lose-1-26b-as-xrp-and-hype-funds-attract-fresh-inflows/",
+      "published_at": "2026-05-25T22:01:08+00:00",
+      "source": "news.bitcoin.com",
+      "score": 12,
+      "ntitle": "bitcoin etfs lose 1 26b xrp hype funds attract fresh inflows",
+      "coins": [
+        "BTC",
+        "HYPE",
+        "XRP"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "The Bitcoin Billion-Dollar Dump: Here’s Why The BTC Price Keeps Crashing",
+      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-billion-dollar-dump/",
+      "published_at": "2026-05-25T22:30:06+00:00",
+      "source": "newsbtc.com",
+      "score": 3,
+      "ntitle": "bitcoin billion dollar dump here s why btc price keeps crashing",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Ethereum Foundation's Kohaku Initiative Launches SDK for Wallet-Level Privacy Integration",
+      "link": "https://thedefiant.io/news/blockchains/ethereum-foundation-kohaku-sdk-privacy-wallet-integration-bb4t52",
+      "published_at": "2026-05-25T22:24:55+00:00",
+      "source": "thedefiant.io",
+      "score": 6,
+      "ntitle": "ethereum foundation s kohaku initiative launches sdk wallet level privacy integration",
+      "coins": [
+        "ETH"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Trader Linked to Whale now down $128 million after ETH wipeout",
+      "link": "https://crypto.news/trader-linked-to-whale-now-down-128-million-after-eth-wipeout/",
+      "published_at": "2026-05-25T22:00:00+00:00",
+      "source": "crypto.news",
+      "score": 5,
+      "ntitle": "trader linked whale now down 128 million after eth wipeout",
+      "coins": [
+        "ETH"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Rising Treasury yields tied to Iran conflict could add billions to US interest payments: FT",
+      "link": "https://cryptobriefing.com/treasury-yields-iran-conflict-us-interest-payments/",
+      "published_at": "2026-05-25T22:44:19+00:00",
+      "source": "cryptobriefing.com",
+      "score": 4,
+      "ntitle": "rising treasury yields tied iran conflict could add billions us interest payments ft",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": true,
+      "agency": "Treasury"
+    }
+  ],
+  "day": [
+    {
       "title": "KelpDAO says rsETH recovery completed as backing returns above 100%",
       "link": "https://ambcrypto.com/kelpdao-says-rseth-recovery-completed-as-backing-returns-above-100/",
       "published_at": "2026-05-25T21:16:44+00:00",
@@ -22,127 +146,6 @@
       "ntitle": "coinbase execs drop crypto s most bullish stablecoin message yet clarity bill",
       "coins": [],
       "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "SHIBA INU futures netflow plunges 306% in CoinGlass data",
-      "link": "https://crypto.news/shib-futures-flow-falls-306percnt-as-traders-pull-back/",
-      "published_at": "2026-05-25T21:30:00+00:00",
-      "source": "crypto.news",
-      "score": 3,
-      "ntitle": "shiba inu futures netflow plunges 306 coinglass data",
-      "coins": [
-        "SHIB"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Trump says Iran talks are proceeding nicely as deal nears, and crypto markets are paying attention",
-      "link": "https://cryptobriefing.com/trump-iran-deal-crypto-market-rally/",
-      "published_at": "2026-05-25T21:47:57+00:00",
-      "source": "cryptobriefing.com",
-      "score": 2,
-      "ntitle": "trump says iran talks proceeding nicely deal nears crypto markets paying attention",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Aave DAO Faces Vote on Native BTC Collateral as Babylon Labs Files Temp Check",
-      "link": "https://news.bitcoin.com/aave-dao-faces-vote-on-native-btc-collateral-as-babylon-labs-files-temp-check/",
-      "published_at": "2026-05-25T21:02:07+00:00",
-      "source": "news.bitcoin.com",
-      "score": 3,
-      "ntitle": "aave dao faces vote native btc collateral babylon labs files temp check",
-      "coins": [
-        "AAVE",
-        "BTC"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Crypto Today Looks Like Nvidia Before AI Went Mainstream, Jeff Park Says",
-      "link": "https://www.newsbtc.com/news/crypto-like-nvidia-before-ai-mainstream-jeff-park/",
-      "published_at": "2026-05-25T21:00:51+00:00",
-      "source": "newsbtc.com",
-      "score": 23,
-      "ntitle": "crypto today looks like nvidia before ai went mainstream jeff park says",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "‘Conviction’ test ahead – Can Hyperliquid survive a 7.8M HYPE unlock?",
-      "link": "https://ambcrypto.com/conviction-test-ahead-can-hyperliquid-survive-a-7-8m-hype-unlock/",
-      "published_at": "2026-05-25T21:00:11+00:00",
-      "source": "ambcrypto.com",
-      "score": 1,
-      "ntitle": "conviction test ahead can hyperliquid survive 7 8m hype unlock",
-      "coins": [
-        "HYPE"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Wadoozie Ethereum signal network launches today in Austin",
-      "link": "https://crypto.news/wadoozie-ethereum-token-launches-today-via-uniswap/",
-      "published_at": "2026-05-25T21:06:19+00:00",
-      "source": "crypto.news",
-      "score": 3,
-      "ntitle": "wadoozie ethereum signal network launches today austin",
-      "coins": [
-        "ETH"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Hyperliquid sees $2.5B open interest as demand for tokenized equities surges",
-      "link": "https://cryptobriefing.com/hyperliquid-open-interest-tokenized-equities/",
-      "published_at": "2026-05-25T21:45:30+00:00",
-      "source": "cryptobriefing.com",
-      "score": 5,
-      "ntitle": "hyperliquid sees 2 5b open interest demand tokenized equities surges",
-      "coins": [
-        "HYPE"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    }
-  ],
-  "day": [
-    {
-      "title": "Polymarket scrutiny grows as CFTC suspensions raise oversight concerns",
-      "link": "https://ambcrypto.com/polymarket-scrutiny-grows-as-cftc-suspensions-raise-oversight-concerns/",
-      "published_at": "2026-05-25T19:00:04+00:00",
-      "source": "ambcrypto.com",
-      "score": 1,
-      "ntitle": "polymarket scrutiny grows cftc suspensions raise oversight concerns",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "CFTC"
-    },
-    {
-      "title": "Huawei Cracks the AI Chip Scarcity Story Behind Nvidia’s Massive Valuation",
-      "link": "https://beincrypto.com/huawei-tau-scaling-law-nvidia-challenge/",
-      "published_at": "2026-05-25T20:00:00+00:00",
-      "source": "beincrypto.com",
-      "score": 1,
-      "ntitle": "huawei cracks ai chip scarcity story behind nvidia s massive valuation",
-      "coins": [],
-      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -242,27 +245,29 @@
       "agency": null
     },
     {
-      "title": "Tokenized real world assets triple to $34 billion as Treasuries and Ethereum lead",
-      "link": "https://crypto.news/tokenized-real-world-assets-triple-to-34-billion-as-treasuries-and-ethereum-lead/",
-      "published_at": "2026-05-25T20:00:00+00:00",
+      "title": "SHIBA INU futures netflow plunges 306% in CoinGlass data",
+      "link": "https://crypto.news/shib-futures-flow-falls-306percnt-as-traders-pull-back/",
+      "published_at": "2026-05-25T21:30:00+00:00",
       "source": "crypto.news",
-      "score": 6,
-      "ntitle": "tokenized real world assets triple 34 billion treasuries ethereum lead",
+      "score": 3,
+      "ntitle": "shiba inu futures netflow plunges 306 coinglass data",
       "coins": [
-        "ETH"
+        "SHIB"
       ],
-      "sentiment": "bullish",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Qatari mediation secures US-Iran agreement on frozen assets worth $12 billion",
-      "link": "https://cryptobriefing.com/qatar-mediates-us-iran-frozen-assets/",
-      "published_at": "2026-05-25T20:27:14+00:00",
+      "title": "Hyperliquid sees $2.5B open interest as demand for tokenized equities surges",
+      "link": "https://cryptobriefing.com/hyperliquid-open-interest-tokenized-equities/",
+      "published_at": "2026-05-25T21:45:30+00:00",
       "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "qatari mediation secures us iran agreement frozen assets worth 12 billion",
-      "coins": [],
+      "score": 5,
+      "ntitle": "hyperliquid sees 2 5b open interest demand tokenized equities surges",
+      "coins": [
+        "HYPE"
+      ],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
@@ -344,27 +349,28 @@
       "agency": null
     },
     {
-      "title": "Pope Leo XIV Condemns Sacrificing Jobs for AI Profits in Landmark Encyclical",
-      "link": "https://news.bitcoin.com/pope-leo-xiv-condemns-sacrificing-jobs-for-ai-profits-in-landmark-encyclical/",
-      "published_at": "2026-05-25T20:05:07+00:00",
+      "title": "Aave DAO Faces Vote on Native BTC Collateral as Babylon Labs Files Temp Check",
+      "link": "https://news.bitcoin.com/aave-dao-faces-vote-on-native-btc-collateral-as-babylon-labs-files-temp-check/",
+      "published_at": "2026-05-25T21:02:07+00:00",
       "source": "news.bitcoin.com",
-      "score": 1,
-      "ntitle": "pope leo xiv condemns sacrificing jobs ai profits landmark encyclical",
-      "coins": [],
-      "sentiment": "neutral",
+      "score": 3,
+      "ntitle": "aave dao faces vote native btc collateral babylon labs files temp check",
+      "coins": [
+        "AAVE",
+        "BTC"
+      ],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "XRP Channel Pattern Points To $5, Says Korean Analyst",
-      "link": "https://www.newsbtc.com/altcoin/xrp-channel-pattern-points-to-5-says-korean-analyst/",
-      "published_at": "2026-05-25T19:30:58+00:00",
+      "title": "Crypto Today Looks Like Nvidia Before AI Went Mainstream, Jeff Park Says",
+      "link": "https://www.newsbtc.com/news/crypto-like-nvidia-before-ai-mainstream-jeff-park/",
+      "published_at": "2026-05-25T21:00:51+00:00",
       "source": "newsbtc.com",
-      "score": 8,
-      "ntitle": "xrp channel pattern points 5 says korean analyst",
-      "coins": [
-        "XRP"
-      ],
+      "score": 23,
+      "ntitle": "crypto today looks like nvidia before ai went mainstream jeff park says",
+      "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
@@ -408,29 +414,28 @@
       "agency": null
     },
     {
-      "title": "Babylon and Aave push for Bitcoin-backed DeFi lending without wrapped BTC",
-      "link": "https://ambcrypto.com/babylon-and-aave-push-for-bitcoin-backed-defi-lending-without-wrapped-btc/",
-      "published_at": "2026-05-25T17:31:50+00:00",
+      "title": "‘Conviction’ test ahead – Can Hyperliquid survive a 7.8M HYPE unlock?",
+      "link": "https://ambcrypto.com/conviction-test-ahead-can-hyperliquid-survive-a-7-8m-hype-unlock/",
+      "published_at": "2026-05-25T21:00:11+00:00",
       "source": "ambcrypto.com",
-      "score": 3,
-      "ntitle": "babylon aave push bitcoin backed defi lending without wrapped btc",
+      "score": 1,
+      "ntitle": "conviction test ahead can hyperliquid survive 7 8m hype unlock",
       "coins": [
-        "AAVE",
-        "BTC"
+        "HYPE"
       ],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "3 Altcoins Within Striking Distance of New All-Time Highs This Week",
-      "link": "https://beincrypto.com/3-altcoins-within-striking-distance-of-new-all-time-highs/",
-      "published_at": "2026-05-25T18:00:00+00:00",
+      "title": "Huawei Cracks the AI Chip Scarcity Story Behind Nvidia’s Massive Valuation",
+      "link": "https://beincrypto.com/huawei-tau-scaling-law-nvidia-challenge/",
+      "published_at": "2026-05-25T20:00:00+00:00",
       "source": "beincrypto.com",
       "score": 1,
-      "ntitle": "3 altcoins within striking distance new all time highs this week",
+      "ntitle": "huawei cracks ai chip scarcity story behind nvidia s massive valuation",
       "coins": [],
-      "sentiment": "bullish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -626,16 +631,16 @@
       "agency": null
     },
     {
-      "title": "Buterin fires back at Ethereum Foundation critics, recommits to neutrality",
-      "link": "https://cointelegraph.com/news/buterin-fires-back-ef-critics-neutrality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-05-24T20:43:42+00:00",
+      "title": "Soaring bond prices signal 'structural' shift and Bitcoin 'supercycle': Analyst",
+      "link": "https://cointelegraph.com/news/soaring-bond-prices-structural-shift-bitcoin-supercycle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-05-24T22:12:55+00:00",
       "source": "cointelegraph.com",
       "score": 1,
-      "ntitle": "buterin fires back ethereum foundation critics recommits neutrality",
+      "ntitle": "soaring bond prices signal structural shift bitcoin supercycle analyst",
       "coins": [
-        "ETH"
+        "BTC"
       ],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -1123,52 +1128,52 @@
   "trending": [
     {
       "tag": "#Ai",
-      "count": 60,
+      "count": 58,
       "type": "topic",
       "pct": 100
     },
     {
       "tag": "#XRP",
-      "count": 53,
+      "count": 54,
       "type": "coin",
-      "pct": 88
+      "pct": 93
     },
     {
       "tag": "#Xrp",
-      "count": 52,
+      "count": 53,
       "type": "topic",
-      "pct": 87
+      "pct": 91
     },
     {
       "tag": "#Defi",
-      "count": 37,
+      "count": 38,
       "type": "topic",
-      "pct": 62
+      "pct": 66
     },
     {
       "tag": "#BTC",
-      "count": 30,
+      "count": 28,
       "type": "coin",
-      "pct": 50
+      "pct": 48
     },
     {
       "tag": "#Bitcoin",
       "count": 27,
       "type": "topic",
-      "pct": 45
+      "pct": 47
     },
     {
       "tag": "#Etf",
       "count": 18,
       "type": "topic",
-      "pct": 30
+      "pct": 31
     },
     {
       "tag": "#ETH",
       "count": 16,
       "type": "coin",
-      "pct": 27
+      "pct": 28
     }
   ],
-  "generated_at": "2026-05-25T21:51:30.806466+00:00"
+  "generated_at": "2026-05-25T22:46:46.487277+00:00"
 }
