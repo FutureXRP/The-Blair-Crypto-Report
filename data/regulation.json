@@ -1,5 +1,90 @@
 [
   {
+    "title": "Tom Lee’s Bitmine Adds 26,497 ETH, Pushing Treasury to 5.42M Coins Worth $10.85B",
+    "link": "https://news.bitcoin.com/tom-lees-bitmine-adds-26497-eth-pushing-treasury-to-5-42m-coins-worth-10-85b/",
+    "source": "news.bitcoin.com",
+    "published_at": "2026-06-01T21:10:38+00:00",
+    "agency": "Treasury",
+    "sentiment": "bearish",
+    "coins": [
+      "ETH"
+    ]
+  },
+  {
+    "title": "Dimon fight deepens as Coinbase pushes for CLARITY Act passage",
+    "link": "https://crypto.news/dimon-fight-deepens-as-coinbase-pushes-for-clarity-act-passage/",
+    "source": "crypto.news",
+    "published_at": "2026-06-01T21:01:52+00:00",
+    "agency": "Congress",
+    "sentiment": "neutral",
+    "coins": []
+  },
+  {
+    "title": "Japan’s LDP Calls For Crypto ETF Framework, Yen Stablecoin Push In New Proposal",
+    "link": "https://bitcoinist.com/japan-ldp-crypto-etf-framework-yen-stablecoin-push/",
+    "source": "bitcoinist.com",
+    "published_at": "2026-06-01T20:08:11+00:00",
+    "agency": "Regulatory",
+    "sentiment": "neutral",
+    "coins": []
+  },
+  {
+    "title": "Brendan Greeley: Understanding the Federal Reserve’s role as a bank, the historical roots of the dollar, and the challenges of achieving monetary sovereignty | Macro Musings",
+    "link": "https://cryptobriefing.com/brendan-greeley-understanding-the-federal-reserves-role-as-a-bank-the-historical-roots-of-the-dollar-and-the-challenges-of-achieving-monetary-sovereignty-macro-musings/",
+    "source": "cryptobriefing.com",
+    "published_at": "2026-06-01T19:39:48+00:00",
+    "agency": "Fed",
+    "sentiment": "bearish",
+    "coins": []
+  },
+  {
+    "title": "Swan Bitcoin Drops Federal Lawsuit Against Proton After UK Court Concession Kills Its Core Claims",
+    "link": "https://news.bitcoin.com/swan-bitcoin-drops-federal-lawsuit-against-proton-after-uk-court-concession-kills-its-core-claims/",
+    "source": "news.bitcoin.com",
+    "published_at": "2026-06-01T19:21:39+00:00",
+    "agency": "Regulatory",
+    "sentiment": "bearish",
+    "coins": [
+      "BTC"
+    ]
+  },
+  {
+    "title": "Coinbase Exec Sees Path to Crypto’s ‘Dodd-Frank Moment’ as CLARITY Act Heads for Senate Floor",
+    "link": "https://bitcoinmagazine.com/news/coinbase-exec-sees-path-to-cryptos",
+    "source": "bitcoinmagazine.com",
+    "published_at": "2026-06-01T19:15:45+00:00",
+    "agency": "Congress",
+    "sentiment": "neutral",
+    "coins": []
+  },
+  {
+    "title": "White House reviews SEC, CFTC proposal to revisit swaps reporting requirements",
+    "link": "https://cryptobriefing.com/white-house-reviews-sec-cftc-swaps-reporting/",
+    "source": "cryptobriefing.com",
+    "published_at": "2026-06-01T19:04:09+00:00",
+    "agency": "CFTC",
+    "sentiment": "neutral",
+    "coins": []
+  },
+  {
+    "title": "France intercepts sanctioned Tagor tanker linked to Russian oil trade",
+    "link": "https://cryptobriefing.com/france-intercepts-sanctioned-tagor-tanker-russia/",
+    "source": "cryptobriefing.com",
+    "published_at": "2026-06-01T18:55:12+00:00",
+    "agency": "Regulatory",
+    "sentiment": "bullish",
+    "coins": []
+  },
+  {
+    "title": "Japan’s ruling party pushes crypto ETFs, yen-denominated stablecoins",
+    "link": "https://cointelegraph.com/news/japans-ruling-party-crypto-etfs-yen-denominated-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "cointelegraph.com",
+    "published_at": "2026-06-01T18:33:41+00:00",
+    "agency": "Regulatory",
+    "sentiment": "neutral",
+    "coins": []
+  },
+  {
     "title": "OpenAI Faces Historic Lawsuit from Florida Over ChatGPT Safety Risks to Children",
     "link": "https://blockonomi.com/openai-faces-historic-lawsuit-from-florida-over-chatgpt-safety-risks-to-children/",
     "source": "blockonomi.com",
@@ -7,6 +92,17 @@
     "agency": "Regulatory",
     "sentiment": "bearish",
     "coins": []
+  },
+  {
+    "title": "Strategy's BTC sale turns Bitcoin treasury into market stress test",
+    "link": "https://cointelegraph.com/news/strategy-bitcoin-sale-btc-treasury-company-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "cointelegraph.com",
+    "published_at": "2026-06-01T18:20:40+00:00",
+    "agency": "Treasury",
+    "sentiment": "neutral",
+    "coins": [
+      "BTC"
+    ]
   },
   {
     "title": "CFTC upgrades filing system so exchanges can bundle product certifications",
@@ -24,6 +120,15 @@
     "published_at": "2026-06-01T17:47:41+00:00",
     "agency": "CFTC",
     "sentiment": "bullish",
+    "coins": []
+  },
+  {
+    "title": "SEC Announces Four New Members of Investor Advisory Committee",
+    "link": "https://www.sec.gov/newsroom/press-releases/2026-50-sec-announces-four-new-members-investor-advisory-committee",
+    "source": "sec.gov",
+    "published_at": "2026-06-01T16:39:44+00:00",
+    "agency": "SEC",
+    "sentiment": "neutral",
     "coins": []
   },
   {
@@ -189,114 +294,5 @@
     "coins": [
       "ADA"
     ]
-  },
-  {
-    "title": "Kraken seeks Bitcoin perps edge after CFTC clears Kalshi contract",
-    "link": "https://crypto.news/kraken-seeks-bitcoin-perps-edge-after-cftc-clears-kalshi-contract/",
-    "source": "crypto.news",
-    "published_at": "2026-06-01T05:19:59+00:00",
-    "agency": "CFTC",
-    "sentiment": "neutral",
-    "coins": [
-      "BTC"
-    ]
-  },
-  {
-    "title": "Bitcoin extends slide as spot ETF outflows hit a record while Wall Street rips on AI",
-    "link": "https://www.coindesk.com/markets/2026/06/01/bitcoin-extends-slide-as-spot-etf-outflows-hit-a-record-while-wall-street-rips-on-ai",
-    "source": "coindesk.com",
-    "published_at": "2026-06-01T05:11:40+00:00",
-    "agency": "Regulatory",
-    "sentiment": "bullish",
-    "coins": [
-      "BTC"
-    ]
-  },
-  {
-    "title": "Crypto Market This Week: US Jobs Data, Global Inflation, CLARITY Act In Focus",
-    "link": "https://coingape.com/crypto-market-this-week-us-jobs-data-global-inflation-clarity-act-in-focus/",
-    "source": "coingape.com",
-    "published_at": "2026-05-31T22:50:22+00:00",
-    "agency": "Congress",
-    "sentiment": "bearish",
-    "coins": []
-  },
-  {
-    "title": "Cardano Summit Canceled After Treasury Funding Fails",
-    "link": "https://u.today/cardano-summit-canceled-after-treasury-funding-fails",
-    "source": "u.today",
-    "published_at": "2026-05-31T19:31:13+00:00",
-    "agency": "Treasury",
-    "sentiment": "neutral",
-    "coins": [
-      "ADA"
-    ]
-  },
-  {
-    "title": "UK treats crypto network like a sanctioned bank after claims it processed $90B for Russia",
-    "link": "https://cryptoslate.com/uk-treats-crypto-network-like-a-sanctioned-bank-after-claims-it-processed-90b-for-russia/",
-    "source": "cryptoslate.com",
-    "published_at": "2026-05-31T19:05:46+00:00",
-    "agency": "Regulatory",
-    "sentiment": "bearish",
-    "coins": []
-  },
-  {
-    "title": "Fed Gov. Eyes Stablecoins To Expand US Policy Reach Amid CLARITY Act Push",
-    "link": "https://coingape.com/fed-gov-eyes-stablecoins-to-expand-us-policy-reach-amid-clarity-act-push/",
-    "source": "coingape.com",
-    "published_at": "2026-05-31T18:30:16+00:00",
-    "agency": "Fed",
-    "sentiment": "bullish",
-    "coins": []
-  },
-  {
-    "title": "UK Sanctions 18 Crypto Firms Tied to Russia’s $90B War Network",
-    "link": "https://cryptopotato.com/uk-sanctions-18-crypto-firms-tied-to-russias-90b-war-network/",
-    "source": "cryptopotato.com",
-    "published_at": "2026-05-30T17:45:37+00:00",
-    "agency": "Regulatory",
-    "sentiment": "bearish",
-    "coins": []
-  },
-  {
-    "title": "Florida Candidate Liquidates $800K in Bitcoin to Bankroll Congressional Bid",
-    "link": "https://decrypt.co/369478/florida-candidate-liquidates-800k-bitcoin-bankroll-congressional-bid",
-    "source": "decrypt.co",
-    "published_at": "2026-05-30T15:44:30+00:00",
-    "agency": "Congress",
-    "sentiment": "bearish",
-    "coins": [
-      "BTC"
-    ]
-  },
-  {
-    "title": "CFTC nod for Bitcoin Perpetual Futures, Kalshi becomes first product to be listed",
-    "link": "https://coincodecap.com/cftc-nod-for-bitcoin-perpetual-futures-kalshi-becomes-first-product-to-be-listed?utm_source=rss&utm_medium=rss&utm_campaign=cftc-nod-for-bitcoin-perpetual-futures-kalshi-becomes-first-product-to-be-listed",
-    "source": "coincodecap.com",
-    "published_at": "2026-05-30T06:43:51+00:00",
-    "agency": "CFTC",
-    "sentiment": "neutral",
-    "coins": [
-      "BTC"
-    ]
-  },
-  {
-    "title": "'He’s Full of Shit': JP Morgan's Jamie Dimon Takes Aim at Coinbase CEO Over Clarity Act",
-    "link": "https://decrypt.co/369525/jp-morgan-ceo-jamie-dimon-takes-aim-coinbase-clarity-act",
-    "source": "decrypt.co",
-    "published_at": "2026-05-29T21:24:28+00:00",
-    "agency": "Congress",
-    "sentiment": "neutral",
-    "coins": []
-  },
-  {
-    "title": "Treasury Secretary Bessent Says US Has 'Grabbed' $1 Billion in Crypto From Iran",
-    "link": "https://decrypt.co/369522/treasurys-bessent-says-us-grabbed-1-billion-crypto-iran",
-    "source": "decrypt.co",
-    "published_at": "2026-05-29T20:40:37+00:00",
-    "agency": "Treasury",
-    "sentiment": "neutral",
-    "coins": []
   }
 ]
