@@ -2,14 +2,56 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "KITE climbs 10%: Can buyers push the token to $0.25?",
-      "link": "https://ambcrypto.com/kite-climbs-10-can-buyers-push-the-token-to-0-25/",
-      "published_at": "2026-05-31T23:30:13+00:00",
+      "title": "US Commerce Department closes loophole on Nvidia chip exports to China",
+      "link": "https://cryptobriefing.com/commerce-department-closes-nvidia-chip-export-loophole/",
+      "published_at": "2026-06-01T01:46:43+00:00",
+      "source": "cryptobriefing.com",
+      "score": 1,
+      "ntitle": "us commerce department closes loophole nvidia chip exports china",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Ripple Eyes Turkey’s $200B Crypto Boom and 4x UAE Lead",
+      "link": "https://news.bitcoin.com/ripple-eyes-turkeys-200b-crypto-boom-and-4x-uae-lead/",
+      "published_at": "2026-06-01T01:30:11+00:00",
+      "source": "news.bitcoin.com",
+      "score": 3,
+      "ntitle": "ripple eyes turkey s 200b crypto boom 4x uae lead",
+      "coins": [
+        "XRP"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Israel deepens Lebanon incursion, captures Beaufort Castle",
+      "link": "https://cryptobriefing.com/israel-deepens-lebanon-incursion-captures-beaufort-castle/",
+      "published_at": "2026-06-01T01:24:05+00:00",
+      "source": "cryptobriefing.com",
+      "score": 1,
+      "ntitle": "israel deepens lebanon incursion captures beaufort castle",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    }
+  ],
+  "day": [
+    {
+      "title": "$815K gone in 7 minutes – Inside Ethereum’s Alephium TokenBridge exploit",
+      "link": "https://ambcrypto.com/815k-gone-in-7-minutes-inside-ethereums-alephium-tokenbridge-exploit/",
+      "published_at": "2026-06-01T01:00:30+00:00",
       "source": "ambcrypto.com",
       "score": 1,
-      "ntitle": "kite climbs 10 can buyers push token 0 25",
-      "coins": [],
-      "sentiment": "bullish",
+      "ntitle": "815k gone 7 minutes inside ethereum s alephium tokenbridge exploit",
+      "coins": [
+        "ETH"
+      ],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -26,31 +68,53 @@
       "agency": null
     },
     {
-      "title": "Ethereum Bears In Pole Position: $1,850 Could Be The Next Landing Spot",
-      "link": "https://bitcoinist.com/ethereum-bears-in-pole-position-1850-landing-spot/",
-      "published_at": "2026-05-31T23:30:15+00:00",
+      "title": "Circle Targets Post-Quantum Security In Bold USDC Roadmap",
+      "link": "https://bitcoinist.com/circle-targets-post-quantum-security-in-bold-usdc-roadmap/",
+      "published_at": "2026-06-01T01:00:19+00:00",
       "source": "bitcoinist.com",
-      "score": 1,
-      "ntitle": "ethereum bears pole position 1 850 could be next landing spot",
-      "coins": [
-        "ETH"
-      ],
-      "sentiment": "bearish",
+      "score": 5,
+      "ntitle": "circle targets post quantum security bold usdc roadmap",
+      "coins": [],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "XRP Inflows to Binance Fall to Lowest Level Since Early 2026 as Holding Sentiment Grows",
-      "link": "https://blockonomi.com/xrp-inflows-to-binance-fall-to-lowest-level-since-early-2026-as-holding-sentiment-grows/",
-      "published_at": "2026-05-31T23:34:01+00:00",
+      "title": "Meta Leads AI-Model Race by End-June 2026, Market Sees Anthropic Edge",
+      "link": "https://Blockchain.News/news/meta-leads-ai-model-race-by-end-june-2026-market-sees-anthropic-edge-0hnlv1ipa0ps0",
+      "published_at": "2026-05-31T12:04:00+00:00",
+      "source": "blockchain.news",
+      "score": 1,
+      "ntitle": "meta leads ai model race end june 2026 market sees anthropic edge",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Ethereum (ETH) Builds Short Squeeze Potential Near $2,500 as Whales Accumulate",
+      "link": "https://blockonomi.com/ethereum-eth-builds-short-squeeze-potential-near-2500-as-whales-accumulate/",
+      "published_at": "2026-05-31T23:58:49+00:00",
       "source": "blockonomi.com",
-      "score": 7,
-      "ntitle": "xrp inflows binance fall lowest level since early 2026 holding sentiment grows",
+      "score": 1,
+      "ntitle": "ethereum eth builds short squeeze potential near 2 500 whales accumulate",
       "coins": [
-        "BNB",
-        "XRP"
+        "ETH",
+        "NEAR"
       ],
-      "sentiment": "bearish",
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "South Korea stocks hit fresh high amid mixed regional trade despite Trump's Iran deal caution",
+      "link": "https://www.cnbc.com/2026/06/01/asia-markets-nikkei-225-kospi-hang-seng-index.html",
+      "published_at": "2026-06-01T00:29:18+00:00",
+      "source": "cnbc.com",
+      "score": 2,
+      "ntitle": "south korea stocks hit fresh high amid mixed regional trade despite trump s iran deal caution",
+      "coins": [],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -79,12 +143,38 @@
       "agency": "Congress"
     },
     {
-      "title": "Iran, US negotiate 60-day ceasefire extension, Strait of Hormuz reopening",
-      "link": "https://cryptobriefing.com/iran-us-negotiate-60-day-ceasefire-extension-strait-of-hormuz-reopening/",
-      "published_at": "2026-05-31T23:05:11+00:00",
+      "title": "US, UK central bankers offer contrary views on stablecoins",
+      "link": "https://cointelegraph.com/news/us-uk-central-bankers-offer-contrary-views-on-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-05-31T21:11:35+00:00",
+      "source": "cointelegraph.com",
+      "score": 3,
+      "ntitle": "us uk central bankers offer contrary views stablecoins",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "XRP Ledger activity jumps 35% despite XRP price slump: Messari report",
+      "link": "https://crypto.news/xrp-ledger-activity-jumps-35-despite-xrp-price-slump-messari-report/",
+      "published_at": "2026-05-31T14:45:00+00:00",
+      "source": "crypto.news",
+      "score": 10,
+      "ntitle": "xrp ledger activity jumps 35 despite xrp price slump messari report",
+      "coins": [
+        "XRP"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Vast raises nearly $200M to become China’s latest AI unicorn",
+      "link": "https://cryptobriefing.com/vast-raises-200m-china-ai-unicorn/",
+      "published_at": "2026-06-01T01:00:33+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "iran us negotiate 60 day ceasefire extension strait hormuz reopening",
+      "ntitle": "vast raises nearly 200m become china s latest ai unicorn",
       "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -103,58 +193,118 @@
       "agency": null
     },
     {
-      "title": "XRP ‘North Star’ Thesis Gains Momentum Beyond Ripple",
-      "link": "https://news.bitcoin.com/xrp-north-star-thesis-gains-momentum-beyond-ripple/",
-      "published_at": "2026-05-31T23:05:33+00:00",
-      "source": "news.bitcoin.com",
-      "score": 10,
-      "ntitle": "xrp north star thesis gains momentum beyond ripple",
-      "coins": [
-        "XRP"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
+      "title": "UK treats crypto network like a sanctioned bank after claims it processed $90B for Russia",
+      "link": "https://cryptoslate.com/uk-treats-crypto-network-like-a-sanctioned-bank-after-claims-it-processed-90b-for-russia/",
+      "published_at": "2026-05-31T19:05:46+00:00",
+      "source": "cryptoslate.com",
+      "score": 8,
+      "ntitle": "uk treats crypto network like sanctioned bank after claims it processed 90b russia",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "Regulatory"
     },
     {
-      "title": "Hyperliquid prices rally – Is Arthur Hayes’ $150 HYPE target within reach?",
-      "link": "https://ambcrypto.com/hyperliquid-prices-rally-is-arthur-hayes-150-hype-target-within-reach/",
-      "published_at": "2026-05-31T23:00:39+00:00",
-      "source": "ambcrypto.com",
-      "score": 1,
-      "ntitle": "hyperliquid prices rally arthur hayes 150 hype target within reach",
-      "coins": [
-        "HYPE"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Steve Sosnick: Crypto ETFs are fueling performance chasing, the critical role of money flow in market dynamics, and the reliance on faith over fundamentals in the stock rally | Unchained",
-      "link": "https://cryptobriefing.com/steve-sosnick-crypto-etfs-are-fueling-performance-chasing-the-critical-role-of-money-flow-in-market-dynamics-and-the-reliance-on-faith-over-fundamentals-in-the-stock-rally-unchained/",
-      "published_at": "2026-05-31T23:04:22+00:00",
-      "source": "cryptobriefing.com",
+      "title": "Malware Targets 180 Banking, Financial and Crypto Apps, Displays Fake Screens To Capture PINs and Take Over Accounts: Cyble",
+      "link": "https://dailyhodl.com/2026/05/31/malware-targets-180-banking-financial-and-crypto-apps-displays-fake-screens-to-capture-pins-and-take-over-accounts-cyble/",
+      "published_at": "2026-05-31T23:28:37+00:00",
+      "source": "dailyhodl.com",
       "score": 5,
-      "ntitle": "steve sosnick crypto etfs fueling performance chasing critical role money flow market dynamics reliance faith over fundamentals stock rally unchained",
+      "ntitle": "malware targets 180 banking financial crypto apps displays fake screens capture pins take over accounts cyble",
       "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
-    }
-  ],
-  "day": [
+    },
     {
-      "title": "Crypto market’s weekly winners and losers – XLM, DEXE, ZEC, BCH",
-      "link": "https://ambcrypto.com/crypto-market-weekly-review-31-may/",
-      "published_at": "2026-05-31T22:00:58+00:00",
-      "source": "ambcrypto.com",
-      "score": 6,
-      "ntitle": "crypto market s weekly winners losers xlm dexe zec bch",
+      "title": "How President Trump’s Immigration Order Will Feed the Stablecoin Economy, Bitcoin ATMs",
+      "link": "https://decrypt.co/369479/how-president-trump-immigration-order-feed-stablecoin-bitcoin-atms",
+      "published_at": "2026-05-31T15:49:18+00:00",
+      "source": "decrypt.co",
+      "score": 4,
+      "ntitle": "how president trump s immigration order will feed stablecoin economy bitcoin atms",
       "coins": [
-        "XLM"
+        "BTC"
       ],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Premu Launches Decentralized Prediction Market Platform Featuring User-Created Markets and Leveraged Event Trading",
+      "link": "https://www.investing.com/news/cryptocurrency-news/premu-launches-decentralized-prediction-market-platform-featuring-usercreated-markets-and-leveraged-event-trading-4717929",
+      "published_at": "2026-05-31T17:00:37+00:00",
+      "source": "investing.com",
+      "score": 4,
+      "ntitle": "premu launches decentralized prediction market platform featuring user created markets leveraged event trading",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "US Senator Warns Clarity Act Delay Could Push Crypto Rules to 2030",
+      "link": "https://news.bitcoin.com/us-senator-warns-clarity-act-delay-could-push-crypto-rules-to-2030/",
+      "published_at": "2026-06-01T00:30:31+00:00",
+      "source": "news.bitcoin.com",
+      "score": 1,
+      "ntitle": "us senator warns clarity act delay could push crypto rules 2030",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "Congress"
+    },
+    {
+      "title": "Cardano Price Could Close May Below This Multi-Year Support — What’s Next?",
+      "link": "https://www.newsbtc.com/news/cardano-price-below-multi-year-support/",
+      "published_at": "2026-05-31T19:00:25+00:00",
+      "source": "newsbtc.com",
+      "score": 14,
+      "ntitle": "cardano price could close may below this multi year support what s next",
+      "coins": [
+        "ADA"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Argentine Prosecutors Arrest 24, Seize Over $8M in USDT in 'Fake Coins' Crypto-Fraud Sweep",
+      "link": "https://thedefiant.io/news/regulation/argentine-prosecutors-arrest-24-seize-8m-usdt-fake-coins",
+      "published_at": "2026-05-31T13:01:51+00:00",
+      "source": "thedefiant.io",
+      "score": 2,
+      "ntitle": "argentine prosecutors arrest 24 seize over 8m usdt fake coins crypto fraud sweep",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Another Shiba Inu (SHIB) Recovery Attempt, Bitcoin (BTC) Reaches 'Oversold' State, First Near Protocol (NEAR) Support Activation: Crypto Market Review",
+      "link": "https://u.today/another-shiba-inu-shib-recovery-attempt-bitcoin-btc-reaches-oversold-state-first-near-protocol-near",
+      "published_at": "2026-06-01T00:01:00+00:00",
+      "source": "u.today",
+      "score": 3,
+      "ntitle": "another shiba inu shib recovery attempt bitcoin btc reaches oversold state first near protocol near support activation crypto market review",
+      "coins": [
+        "BTC",
+        "NEAR",
+        "SHIB"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "ASTER hits a 2-month high – Are whales betting on a move to $0.90?",
+      "link": "https://ambcrypto.com/aster-hits-a-2-month-high-are-whales-betting-on-a-move-to-0-90/",
+      "published_at": "2026-06-01T00:00:09+00:00",
+      "source": "ambcrypto.com",
+      "score": 1,
+      "ntitle": "aster hits 2 month high whales betting move 0 90",
+      "coins": [],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -173,42 +323,43 @@
       "agency": null
     },
     {
-      "title": "Bitcoin ETFs Post $1.42B Weekly Outflows To Close May Bloodbath",
-      "link": "https://bitcoinist.com/bitcoin-etfs-1-42b-weekly-outflows-bloodbath-may/",
-      "published_at": "2026-05-31T21:30:53+00:00",
+      "title": "Ethereum Bears In Pole Position: $1,850 Could Be The Next Landing Spot",
+      "link": "https://bitcoinist.com/ethereum-bears-in-pole-position-1850-landing-spot/",
+      "published_at": "2026-05-31T23:30:15+00:00",
       "source": "bitcoinist.com",
-      "score": 2,
-      "ntitle": "bitcoin etfs post 1 42b weekly outflows close may bloodbath",
+      "score": 1,
+      "ntitle": "ethereum bears pole position 1 850 could be next landing spot",
       "coins": [
-        "BTC"
+        "ETH"
       ],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Vietnam May Allow SMEs to Use Digital Assets for Loans",
-      "link": "https://Blockchain.News/news/vietnam-smes-digital-assets-loan-collateral",
-      "published_at": "2026-05-31T10:06:13+00:00",
+      "title": "French election hedge nudges Bardella odds higher",
+      "link": "https://Blockchain.News/news/french-election-hedge-nudges-bardella-odds-higher-0hnlv1ik6f7s0",
+      "published_at": "2026-05-31T12:03:44+00:00",
       "source": "blockchain.news",
-      "score": 1,
-      "ntitle": "vietnam may allow smes use digital assets loans",
+      "score": 3,
+      "ntitle": "french election hedge nudges bardella odds higher",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Solana Records 97% Tokenized Equities Volume as SoFi, Cash App Join the Network",
-      "link": "https://blockonomi.com/solana-records-97-tokenized-equities-volume-as-sofi-cash-app-join-the-network/",
-      "published_at": "2026-05-31T19:32:32+00:00",
+      "title": "XRP Inflows to Binance Fall to Lowest Level Since Early 2026 as Holding Sentiment Grows",
+      "link": "https://blockonomi.com/xrp-inflows-to-binance-fall-to-lowest-level-since-early-2026-as-holding-sentiment-grows/",
+      "published_at": "2026-05-31T23:34:01+00:00",
       "source": "blockonomi.com",
-      "score": 9,
-      "ntitle": "solana records 97 tokenized equities volume sofi cash app join network",
+      "score": 7,
+      "ntitle": "xrp inflows binance fall lowest level since early 2026 holding sentiment grows",
       "coins": [
-        "SOL"
+        "BNB",
+        "XRP"
       ],
-      "sentiment": "bullish",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -251,239 +402,6 @@
       "agency": null
     },
     {
-      "title": "US, UK central bankers offer contrary views on stablecoins",
-      "link": "https://cointelegraph.com/news/us-uk-central-bankers-offer-contrary-views-on-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-05-31T21:11:35+00:00",
-      "source": "cointelegraph.com",
-      "score": 3,
-      "ntitle": "us uk central bankers offer contrary views stablecoins",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "XRP Ledger activity jumps 35% despite XRP price slump: Messari report",
-      "link": "https://crypto.news/xrp-ledger-activity-jumps-35-despite-xrp-price-slump-messari-report/",
-      "published_at": "2026-05-31T14:45:00+00:00",
-      "source": "crypto.news",
-      "score": 10,
-      "ntitle": "xrp ledger activity jumps 35 despite xrp price slump messari report",
-      "coins": [
-        "XRP"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "HongCoin investors recover $2M in locked ETH after nine years",
-      "link": "https://cryptobriefing.com/hongcoin-investors-recover-locked-eth-nine-years/",
-      "published_at": "2026-05-31T21:39:37+00:00",
-      "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "hongcoin investors recover 2m locked eth after nine years",
-      "coins": [
-        "ETH"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "XRP Ledger Activity Soars in Q1 Despite XRP Price Slump: Messari",
-      "link": "https://cryptopotato.com/xrp-ledger-activity-soars-in-q1-despite-xrp-price-slump-messari/",
-      "published_at": "2026-05-31T14:05:33+00:00",
-      "source": "cryptopotato.com",
-      "score": 10,
-      "ntitle": "xrp ledger activity soars q1 despite xrp price slump messari",
-      "coins": [
-        "XRP"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "UK treats crypto network like a sanctioned bank after claims it processed $90B for Russia",
-      "link": "https://cryptoslate.com/uk-treats-crypto-network-like-a-sanctioned-bank-after-claims-it-processed-90b-for-russia/",
-      "published_at": "2026-05-31T19:05:46+00:00",
-      "source": "cryptoslate.com",
-      "score": 8,
-      "ntitle": "uk treats crypto network like sanctioned bank after claims it processed 90b russia",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Regulatory"
-    },
-    {
-      "title": "How President Trump’s Immigration Order Will Feed the Stablecoin Economy, Bitcoin ATMs",
-      "link": "https://decrypt.co/369479/how-president-trump-immigration-order-feed-stablecoin-bitcoin-atms",
-      "published_at": "2026-05-31T15:49:18+00:00",
-      "source": "decrypt.co",
-      "score": 4,
-      "ntitle": "how president trump s immigration order will feed stablecoin economy bitcoin atms",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Premu Launches Decentralized Prediction Market Platform Featuring User-Created Markets and Leveraged Event Trading",
-      "link": "https://www.investing.com/news/cryptocurrency-news/premu-launches-decentralized-prediction-market-platform-featuring-usercreated-markets-and-leveraged-event-trading-4717929",
-      "published_at": "2026-05-31T17:00:37+00:00",
-      "source": "investing.com",
-      "score": 4,
-      "ntitle": "premu launches decentralized prediction market platform featuring user created markets leveraged event trading",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Animoca’s Yat Siu Warns $900B Ad Industry Faces Collapse as AI Agents Take Over Discovery",
-      "link": "https://news.bitcoin.com/animocas-yat-siu-warns-900b-ad-industry-faces-collapse-as-ai-agents-take-over-discovery/",
-      "published_at": "2026-05-31T22:04:36+00:00",
-      "source": "news.bitcoin.com",
-      "score": 2,
-      "ntitle": "animoca s yat siu warns 900b ad industry faces collapse ai agents take over discovery",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Cardano Price Could Close May Below This Multi-Year Support — What’s Next?",
-      "link": "https://www.newsbtc.com/news/cardano-price-below-multi-year-support/",
-      "published_at": "2026-05-31T19:00:25+00:00",
-      "source": "newsbtc.com",
-      "score": 14,
-      "ntitle": "cardano price could close may below this multi year support what s next",
-      "coins": [
-        "ADA"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Argentine Prosecutors Arrest 24, Seize Over $8M in USDT in 'Fake Coins' Crypto-Fraud Sweep",
-      "link": "https://thedefiant.io/news/regulation/argentine-prosecutors-arrest-24-seize-8m-usdt-fake-coins",
-      "published_at": "2026-05-31T13:01:51+00:00",
-      "source": "thedefiant.io",
-      "score": 2,
-      "ntitle": "argentine prosecutors arrest 24 seize over 8m usdt fake coins crypto fraud sweep",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Cardano Summit Canceled After Treasury Funding Fails",
-      "link": "https://u.today/cardano-summit-canceled-after-treasury-funding-fails",
-      "published_at": "2026-05-31T19:31:13+00:00",
-      "source": "u.today",
-      "score": 3,
-      "ntitle": "cardano summit canceled after treasury funding fails",
-      "coins": [
-        "ADA"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Treasury"
-    },
-    {
-      "title": "‘Caught in a crossfire’ – Why Circle froze Zama’s $12.6M confidential USDC contract",
-      "link": "https://ambcrypto.com/caught-in-a-crossfire-why-circle-froze-zamas-12-6m-confidential-usdc-contract/",
-      "published_at": "2026-05-31T21:00:11+00:00",
-      "source": "ambcrypto.com",
-      "score": 2,
-      "ntitle": "caught crossfire why circle froze zama s 12 6m confidential usdc contract",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Michael Saylor’s Post Fuels New Bitcoin Purchase Speculation for MicroStrategy",
-      "link": "https://beincrypto.com/saylor-microstrategy-bitcoin-purchase-tease/",
-      "published_at": "2026-05-31T21:00:00+00:00",
-      "source": "beincrypto.com",
-      "score": 1,
-      "ntitle": "michael saylor s post fuels new bitcoin purchase speculation microstrategy",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "‘Now Or Never’ For Crypto Clarity, CEO Warns Ahead Of Key June Push",
-      "link": "https://bitcoinist.com/now-or-never-for-crypto-clarity-ceo-warns-ahead-of-key-june-push/",
-      "published_at": "2026-05-31T19:30:08+00:00",
-      "source": "bitcoinist.com",
-      "score": 1,
-      "ntitle": "now or never crypto clarity ceo warns ahead key june push",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Gravity Bridge Halts After $5.4M Exploit Hits Cross-Chain Protocol",
-      "link": "https://Blockchain.News/news/gravity-bridge-halts-54m-exploit",
-      "published_at": "2026-05-31T09:05:57+00:00",
-      "source": "blockchain.news",
-      "score": 6,
-      "ntitle": "gravity bridge halts after 5 4m exploit hits cross chain protocol",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Binance Holds 66% of All Exchange LINK as Reserves Hit Multi-Year Lows",
-      "link": "https://blockonomi.com/binance-holds-66-of-all-exchange-link-as-reserves-hit-multi-year-lows/",
-      "published_at": "2026-05-31T19:21:12+00:00",
-      "source": "blockonomi.com",
-      "score": 10,
-      "ntitle": "binance holds 66 all exchange link reserves hit multi year lows",
-      "coins": [
-        "BNB",
-        "LINK"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "How the House Financial Services Committee is taking on tokenization: State of Crypto",
-      "link": "https://www.coindesk.com/policy/2026/05/31/how-the-house-financial-services-committee-is-taking-on-tokenization-state-of-crypto",
-      "published_at": "2026-05-31T18:30:00+00:00",
-      "source": "coindesk.com",
-      "score": 6,
-      "ntitle": "how house financial services committee taking tokenization state crypto",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Regulatory"
-    },
-    {
-      "title": "Fed Gov. Eyes Stablecoins To Expand US Policy Reach Amid CLARITY Act Push",
-      "link": "https://coingape.com/fed-gov-eyes-stablecoins-to-expand-us-policy-reach-amid-clarity-act-push/",
-      "published_at": "2026-05-31T18:30:16+00:00",
-      "source": "coingape.com",
-      "score": 1,
-      "ntitle": "fed gov eyes stablecoins expand us policy reach amid clarity act push",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": true,
-      "agency": "Fed"
-    },
-    {
       "title": "Strategy's Michael Saylor teases BTC buy with 'working better' tweet",
       "link": "https://cointelegraph.com/news/strategys-michael-saylor-says-working-better-tees-up-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published_at": "2026-05-31T20:00:12+00:00",
@@ -505,32 +423,6 @@
       "score": 1,
       "ntitle": "worldcoin price jumps 8 human only tickets spark wld rally",
       "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Iran war disrupts global oil supply, prices surge amid Strait of Hormuz crisis",
-      "link": "https://cryptobriefing.com/iran-war-disrupts-global-oil-supply-prices-surge-amid-strait-of-hormuz-crisis/",
-      "published_at": "2026-05-31T21:02:18+00:00",
-      "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "iran war disrupts global oil supply prices surge amid strait hormuz crisis",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Sam Altman-Backed Crypto Explodes 10% Today as Bitcoin Eyes $74K: Weekend Watch",
-      "link": "https://cryptopotato.com/sam-altman-backed-crypto-explodes-10-today-as-bitcoin-eyes-74k-weekend-watch/",
-      "published_at": "2026-05-31T11:53:19+00:00",
-      "source": "cryptopotato.com",
-      "score": 1,
-      "ntitle": "sam altman backed crypto explodes 10 today bitcoin eyes 74k weekend watch",
-      "coins": [
-        "BTC"
-      ],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
@@ -562,16 +454,16 @@
       "agency": null
     },
     {
-      "title": "Bitcoin Price Stays Range-Bound, But How Long Can It Hold? Watch This Level To Know",
-      "link": "https://bitcoinist.com/bitcoin-price-stays-range-bound-but-how-long/",
-      "published_at": "2026-05-30T22:30:23+00:00",
+      "title": "$1.88M Wiped Out As Sui Blockchain Suffers Third Outage Before Recovery",
+      "link": "https://bitcoinist.com/1-88m-wiped-out-as-sui-blockchain-suffers-third-outage-before-recovery/",
+      "published_at": "2026-05-31T00:00:53+00:00",
       "source": "bitcoinist.com",
-      "score": 2,
-      "ntitle": "bitcoin price stays range bound but how long can it hold watch this level know",
+      "score": 1,
+      "ntitle": "1 88m wiped out sui blockchain suffers third outage before recovery",
       "coins": [
-        "BTC"
+        "SUI"
       ],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -678,13 +570,15 @@
       "agency": null
     },
     {
-      "title": "Senator Lummis says China will 'write the rules' of the new financial era if CLARITY fails",
-      "link": "https://cointelegraph.com/news/senator-lummis-says-china-will-beat-the-us-to-the-punch-if-clarity-is-not-passed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-05-30T20:45:45+00:00",
+      "title": "Bitcoin is at ‘pivotal level’ as $65K downside risk looms: Analyst",
+      "link": "https://cointelegraph.com/news/bitcoin-is-at-pivotal-level-and-faces-threat-to-65k-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-05-31T00:58:32+00:00",
       "source": "cointelegraph.com",
-      "score": 4,
-      "ntitle": "senator lummis says china will write rules new financial era if clarity fails",
-      "coins": [],
+      "score": 1,
+      "ntitle": "bitcoin pivotal level 65k downside risk looms analyst",
+      "coins": [
+        "BTC"
+      ],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
@@ -706,16 +600,16 @@
       "agency": null
     },
     {
-      "title": "UK Sanctions 18 Crypto Firms Tied to Russia’s $90B War Network",
-      "link": "https://cryptopotato.com/uk-sanctions-18-crypto-firms-tied-to-russias-90b-war-network/",
-      "published_at": "2026-05-30T17:45:37+00:00",
+      "title": "South Korea Cracks Down on CatFi Rugpull: First-Ever Crypto Fraud Case Under New Investor Protection Law",
+      "link": "https://cryptopotato.com/south-korea-cracks-down-on-catfi-rugpull-first-ever-crypto-fraud-case-under-new-investor-protection-law/",
+      "published_at": "2026-05-30T23:45:37+00:00",
       "source": "cryptopotato.com",
-      "score": 1,
-      "ntitle": "uk sanctions 18 crypto firms tied russia s 90b war network",
+      "score": -1,
+      "ntitle": "south korea cracks down catfi rugpull first ever crypto fraud case under new investor protection law",
       "coins": [],
       "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Regulatory"
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "The US debt machine is getting harder to stabilize – So where does Bitcoin fit in?",
@@ -806,6 +700,20 @@
       "agency": null
     },
     {
+      "title": "Why The Bitcoin Price Won’t Hit $100,000 Again This Year",
+      "link": "https://www.newsbtc.com/news/bitcoin/why-the-bitcoin-price-wont-hit-100000-again-this-year/",
+      "published_at": "2026-05-31T02:00:53+00:00",
+      "source": "newsbtc.com",
+      "score": 3,
+      "ntitle": "why bitcoin price won t hit 100 000 again this year",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
       "title": "Hyperliquid SpaceX perp plummeted before Blue Origin explosion",
       "link": "https://protos.com/hyperliquid-spacex-perp-plummeted-before-blue-origin-explosion/",
       "published_at": "2026-05-29T17:27:15+00:00",
@@ -832,26 +740,26 @@
       "agency": "SEC"
     },
     {
-      "title": "Circle Freeze on Zama's Confidential USDC Locks $12.6M of User Funds in DeFi 'Crossfire'",
-      "link": "https://thedefiant.io/news/defi/circle-freeze-on-zamas-confidential-usdc-locks-12-6m-of-user-funds-in-defi-crossfire",
-      "published_at": "2026-05-30T16:42:00+00:00",
+      "title": "Polymarket Plugs Into OneFootball's 645M-Fan Network Two Weeks Before the World Cup",
+      "link": "https://thedefiant.io/news/tradfi-and-fintech/polymarket-plugs-into-onefootballs-645m-fan-network-two-weeks-before-the-world-cup",
+      "published_at": "2026-05-31T00:47:54+00:00",
       "source": "thedefiant.io",
-      "score": 4,
-      "ntitle": "circle freeze zama s confidential usdc locks 12 6m user funds defi crossfire",
+      "score": 2,
+      "ntitle": "polymarket plugs into onefootball s 645m fan network two weeks before world cup",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "XRP Burn Rate Drops 35% Despite Price Recovery Signal",
-      "link": "https://u.today/xrp-burn-rate-drops-35-despite-price-recovery-signal",
-      "published_at": "2026-05-30T16:17:12+00:00",
+      "title": "ADA Hits Make-or-Break Point Ahead of Bearish Monthly Close",
+      "link": "https://u.today/ada-hits-make-or-break-point-ahead-of-bearish-monthly-close",
+      "published_at": "2026-05-31T00:10:00+00:00",
       "source": "u.today",
-      "score": 3,
-      "ntitle": "xrp burn rate drops 35 despite price recovery signal",
+      "score": 1,
+      "ntitle": "ada hits make or break point ahead bearish monthly close",
       "coins": [
-        "XRP"
+        "ADA"
       ],
       "sentiment": "bearish",
       "is_regulation": false,
@@ -906,18 +814,6 @@
       "sentiment": "neutral",
       "is_regulation": true,
       "agency": "Treasury"
-    },
-    {
-      "title": "SEC Charges Texas Man for $12.3M Crypto Fraud Using Fake AI Bots",
-      "link": "https://Blockchain.News/news/sec-texas-man-12m-crypto-fraud-ai-bots",
-      "published_at": "2026-05-30T12:54:12+00:00",
-      "source": "blockchain.news",
-      "score": 1,
-      "ntitle": "sec charges texas man 12 3m crypto fraud using fake ai bots",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
     }
   ],
   "month": [
@@ -1180,87 +1076,56 @@
       "agency": null
     }
   ],
-  "clusters": [
-    {
-      "id": 20,
-      "title": "XRP Ledger activity jumps 35% despite XRP price slump: Messari report",
-      "link": "https://crypto.news/xrp-ledger-activity-jumps-35-despite-xrp-price-slump-messari-report/",
-      "source": "crypto.news",
-      "published_at": "2026-05-31T14:45:00+00:00",
-      "sentiment": "neutral",
-      "coins": [
-        "XRP"
-      ],
-      "sources": [
-        "crypto.news",
-        "cryptopotato.com"
-      ],
-      "count": 2,
-      "members": [
-        {
-          "title": "XRP Ledger activity jumps 35% despite XRP price slump: Messari report",
-          "link": "https://crypto.news/xrp-ledger-activity-jumps-35-despite-xrp-price-slump-messari-report/",
-          "source": "crypto.news",
-          "published_at": "2026-05-31T14:45:00+00:00"
-        },
-        {
-          "title": "XRP Ledger Activity Soars in Q1 Despite XRP Price Slump: Messari",
-          "link": "https://cryptopotato.com/xrp-ledger-activity-soars-in-q1-despite-xrp-price-slump-messari/",
-          "source": "cryptopotato.com",
-          "published_at": "2026-05-31T14:05:33+00:00"
-        }
-      ]
-    }
-  ],
+  "clusters": [],
   "trending": [
     {
-      "tag": "#XRP",
-      "count": 60,
-      "type": "coin",
+      "tag": "#Ai",
+      "count": 67,
+      "type": "topic",
       "pct": 100
     },
     {
-      "tag": "#Ai",
-      "count": 60,
-      "type": "topic",
-      "pct": 100
+      "tag": "#XRP",
+      "count": 59,
+      "type": "coin",
+      "pct": 88
     },
     {
       "tag": "#Xrp",
-      "count": 58,
+      "count": 57,
       "type": "topic",
-      "pct": 97
+      "pct": 85
     },
     {
       "tag": "#Defi",
-      "count": 33,
+      "count": 38,
       "type": "topic",
-      "pct": 55
-    },
-    {
-      "tag": "#BTC",
-      "count": 25,
-      "type": "coin",
-      "pct": 42
+      "pct": 57
     },
     {
       "tag": "#Bitcoin",
-      "count": 25,
+      "count": 24,
       "type": "topic",
-      "pct": 42
+      "pct": 36
     },
     {
       "tag": "#Etf",
       "count": 22,
       "type": "topic",
-      "pct": 37
+      "pct": 33
+    },
+    {
+      "tag": "#BTC",
+      "count": 20,
+      "type": "coin",
+      "pct": 30
     },
     {
       "tag": "#XLM",
-      "count": 19,
+      "count": 17,
       "type": "coin",
-      "pct": 32
+      "pct": 25
     }
   ],
-  "generated_at": "2026-05-31T23:44:19.077568+00:00"
+  "generated_at": "2026-06-01T02:01:27.726748+00:00"
 }
