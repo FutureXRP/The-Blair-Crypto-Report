@@ -1,20 +1,40 @@
 [
   {
+    "title": "US Treasury Secretary signals progress on Bitcoin reserve, CLARITY Act",
+    "link": "https://cointelegraph.com/news/us-treasury-secretary-clarity-act-bitcoin-reserve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "cointelegraph.com",
+    "published_at": "2026-06-03T21:53:00+00:00",
+    "agency": "Treasury",
+    "sentiment": "neutral",
+    "coins": [
+      "BTC"
+    ]
+  },
+  {
+    "title": "US Sanctions Iran’s Largest Crypto Exchange Nobitex in Major ‘Economic Fury’ Crackdown",
+    "link": "https://cryptopotato.com/us-sanctions-irans-largest-crypto-exchange-nobitex-in-major-economic-fury-crackdown/",
+    "source": "cryptopotato.com",
+    "published_at": "2026-06-03T21:41:31+00:00",
+    "agency": "Regulatory",
+    "sentiment": "bearish",
+    "coins": []
+  },
+  {
+    "title": "Cboe seeks to preserve dormant crypto exchange as CFTC grants temporary relief",
+    "link": "https://ambcrypto.com/cboe-seeks-to-preserve-dormant-crypto-exchange-as-cftc-grants-temporary-relief/",
+    "source": "ambcrypto.com",
+    "published_at": "2026-06-03T21:10:01+00:00",
+    "agency": "CFTC",
+    "sentiment": "neutral",
+    "coins": []
+  },
+  {
     "title": "Federal Reserve’s Beige Book shows steady employment, rising inflation pressures",
     "link": "https://cryptobriefing.com/fed-beige-book-inflation-employment-june-2026/",
     "source": "cryptobriefing.com",
     "published_at": "2026-06-03T19:17:35+00:00",
     "agency": "Fed",
     "sentiment": "neutral",
-    "coins": []
-  },
-  {
-    "title": "US Treasury Secretary Bessent calls inflation surge a short-term blip as Iran conflict drives prices higher",
-    "link": "https://cryptobriefing.com/bessent-inflation-blip-iran-crypto-sanctions/",
-    "source": "cryptobriefing.com",
-    "published_at": "2026-06-03T19:17:18+00:00",
-    "agency": "Treasury",
-    "sentiment": "bullish",
     "coins": []
   },
   {
@@ -27,15 +47,6 @@
     "coins": []
   },
   {
-    "title": "Charlie Warren: AI-native service companies will dominate the next decade, the ‘Sam Altman test’ is crucial for evaluating business models, and regulation can elevate founder expectations | Y Combinator Startup Podcast",
-    "link": "https://cryptobriefing.com/charlie-warren-ai-native-service-companies-will-dominate-the-next-decade-the-sam-altman-test-is-crucial-for-evaluating-business-models-and-regulation-can-elevate-founder-expectations-y-combin/",
-    "source": "cryptobriefing.com",
-    "published_at": "2026-06-03T18:53:57+00:00",
-    "agency": "Regulatory",
-    "sentiment": "bearish",
-    "coins": []
-  },
-  {
     "title": "BREAKING: Treasury Secretary Vows To Advance Strategic Bitcoin Reserve",
     "link": "https://coingape.com/treasury-secretary-vows-to-advance-strategic-bitcoin-reserve/",
     "source": "coingape.com",
@@ -45,24 +56,6 @@
     "coins": [
       "BTC"
     ]
-  },
-  {
-    "title": "Germany, France, UK plan to engage Putin in Ukraine negotiations as crypto sanctions tighten",
-    "link": "https://cryptobriefing.com/europe-e3-putin-ukraine-negotiations-crypto-sanctions/",
-    "source": "cryptobriefing.com",
-    "published_at": "2026-06-03T18:28:27+00:00",
-    "agency": "Regulatory",
-    "sentiment": "neutral",
-    "coins": []
-  },
-  {
-    "title": "Federal Reserve Beige Book shows stable outlook, moderate inflation as energy costs bite",
-    "link": "https://cryptobriefing.com/fed-beige-book-stable-outlook-inflation/",
-    "source": "cryptobriefing.com",
-    "published_at": "2026-06-03T18:27:04+00:00",
-    "agency": "Fed",
-    "sentiment": "bullish",
-    "coins": []
   },
   {
     "title": "Scott Bessent Backs Strategic Bitcoin Reserve, Urges Senate to Pass Clarity Act",
@@ -83,44 +76,6 @@
     "agency": "Congress",
     "sentiment": "bearish",
     "coins": []
-  },
-  {
-    "title": "Trump administration proposes up to 12.5% tariffs on 60 nations over forced labor enforcement failures",
-    "link": "https://cryptobriefing.com/trump-tariffs-forced-labor-60-nations/",
-    "source": "cryptobriefing.com",
-    "published_at": "2026-06-03T18:04:20+00:00",
-    "agency": "Regulatory",
-    "sentiment": "neutral",
-    "coins": []
-  },
-  {
-    "title": "Federal Reserve reports slight rise in US bank loan delinquencies in 2025",
-    "link": "https://cryptobriefing.com/fed-bank-loan-delinquencies-rise-2025/",
-    "source": "cryptobriefing.com",
-    "published_at": "2026-06-03T18:01:58+00:00",
-    "agency": "Fed",
-    "sentiment": "neutral",
-    "coins": []
-  },
-  {
-    "title": "Federal Reserve’s Kevin Warsh could disrupt FX markets at first policy meeting, Morgan Stanley warns",
-    "link": "https://cryptobriefing.com/warsh-first-fed-meeting-fx-disruption/",
-    "source": "cryptobriefing.com",
-    "published_at": "2026-06-03T17:59:09+00:00",
-    "agency": "Fed",
-    "sentiment": "bearish",
-    "coins": []
-  },
-  {
-    "title": "Saikat Chakrabarti loses congressional bid to candidate backed by Ripple’s Chris Larsen",
-    "link": "https://cryptobriefing.com/chakrabarti-loses-pelosi-seat-ripple-larsen/",
-    "source": "cryptobriefing.com",
-    "published_at": "2026-06-03T17:58:06+00:00",
-    "agency": "Congress",
-    "sentiment": "bearish",
-    "coins": [
-      "XRP"
-    ]
   },
   {
     "title": "Senator Lummis Fires Back At JPMorgan CEO For Opposing CLARITY Act",
@@ -280,5 +235,54 @@
     "agency": "Congress",
     "sentiment": "neutral",
     "coins": []
+  },
+  {
+    "title": "George Santos Referred to DOJ, CFTC Over State of the Union Kalshi Trades: Report",
+    "link": "https://decrypt.co/369838/george-santos-referred-to-doj-cftc-over-state-of-the-union-kalshi-trades-report",
+    "source": "decrypt.co",
+    "published_at": "2026-06-03T11:49:41+00:00",
+    "agency": "CFTC",
+    "sentiment": "bullish",
+    "coins": []
+  },
+  {
+    "title": "BREAKING: SEC Approves Grayscale Hyperliquid Staking ETF Application",
+    "link": "https://coingape.com/sec-approves-grayscale-hyperliquid-staking-etf-application/",
+    "source": "coingape.com",
+    "published_at": "2026-06-03T11:36:47+00:00",
+    "agency": "SEC",
+    "sentiment": "neutral",
+    "coins": [
+      "HYPE"
+    ]
+  },
+  {
+    "title": "US Treasury Sanctions Iran’s Largest Crypto Exchange Nobitex Along With Three Other Iranian Platforms Under Economic Fury Campaign",
+    "link": "https://unchainedcrypto.com/us-treasury-sanctions-irans-largest-crypto-exchange-nobitex-along-with-three-other-iranian-platforms-under-economic-fury-campaign/",
+    "source": "unchainedcrypto.com",
+    "published_at": "2026-06-03T10:35:45+00:00",
+    "agency": "Treasury",
+    "sentiment": "neutral",
+    "coins": []
+  },
+  {
+    "title": "Galaxy Digital Opens Institutional OTC Prediction Markets Trading With $10 Million Arca Trade on CLARITY Act Outcomes",
+    "link": "https://unchainedcrypto.com/galaxy-digital-opens-institutional-otc-prediction-markets-trading-with-10-million-arca-trade-on-clarity-act-outcomes/",
+    "source": "unchainedcrypto.com",
+    "published_at": "2026-06-03T10:33:09+00:00",
+    "agency": "Congress",
+    "sentiment": "bullish",
+    "coins": []
+  },
+  {
+    "title": "Bitcoin Slides to $65,000, Two-Month Low Amid MSTR’s 32 BTC Sale, Spot ETF Outflows",
+    "link": "https://unchainedcrypto.com/bitcoin-slides-to-65000-two-month-low-amid-mstrs-32-btc-sale-spot-etf-outflows/",
+    "source": "unchainedcrypto.com",
+    "published_at": "2026-06-03T10:31:57+00:00",
+    "agency": "Regulatory",
+    "sentiment": "neutral",
+    "coins": [
+      "BTC"
+    ]
   }
 ]
