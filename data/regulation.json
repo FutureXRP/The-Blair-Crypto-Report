@@ -1,19 +1,41 @@
 [
   {
-    "title": "Trump pressures John Thune to advance SAVE America Act, potentially stalling crypto legislation",
-    "link": "https://cryptobriefing.com/trump-thune-save-act-crypto-legislation/",
+    "title": "Janus Henderson acquires ENA, adds USDe to treasury, and explores crypto ETPs with Ethena",
+    "link": "https://cryptobriefing.com/janus-henderson-ethena-partnership-crypto-etps/",
     "source": "cryptobriefing.com",
-    "published_at": "2026-06-10T10:08:42+00:00",
+    "published_at": "2026-06-10T13:24:18+00:00",
+    "agency": "Treasury",
+    "sentiment": "neutral",
+    "coins": [
+      "ENA"
+    ]
+  },
+  {
+    "title": "Bitcoin Faces Record Institutional Outflow as Spot ETFs Bleed",
+    "link": "https://beincrypto.com/bitcoin-faces-largest-ever-institutional-outflow/",
+    "source": "beincrypto.com",
+    "published_at": "2026-06-10T13:15:54+00:00",
+    "agency": "Regulatory",
+    "sentiment": "bullish",
+    "coins": [
+      "BTC"
+    ]
+  },
+  {
+    "title": "New York DFS Proposes Updated Stablecoin Framework for GENIUS Act Compliance",
+    "link": "https://blockonomi.com/new-york-dfs-proposes-updated-stablecoin-framework-for-genius-act-compliance/",
+    "source": "blockonomi.com",
+    "published_at": "2026-06-10T13:12:40+00:00",
     "agency": "Regulatory",
     "sentiment": "neutral",
     "coins": []
   },
   {
-    "title": "Bank of Japan Governor Kazuo Ueda hospitalized, will miss critical policy meeting",
-    "link": "https://cryptobriefing.com/boj-governor-ueda-hospitalized-misses-policy-meeting/",
-    "source": "cryptobriefing.com",
-    "published_at": "2026-06-10T10:02:40+00:00",
-    "agency": "Regulatory",
+    "title": "Coinbase, Kraken, Bitwise Urge Senate To Pass CLARITY Act With Developer Protections Intact",
+    "link": "https://coingape.com/coinbase-kraken-bitwise-urge-senate-to-pass-clarity-act-with-developer-protections-intact/",
+    "source": "coingape.com",
+    "published_at": "2026-06-10T11:20:15+00:00",
+    "agency": "Congress",
     "sentiment": "bearish",
     "coins": []
   },
@@ -91,35 +113,6 @@
     "published_at": "2026-06-10T05:55:19+00:00",
     "agency": "Regulatory",
     "sentiment": "bearish",
-    "coins": []
-  },
-  {
-    "title": "Masspay Expands Circle Integration With USDC Payouts, Giving Firms New Treasury Options",
-    "link": "https://news.bitcoin.com/masspay-expands-circle-integration-with-usdc-payouts-giving-firms-new-treasury-options/",
-    "source": "news.bitcoin.com",
-    "published_at": "2026-06-10T04:30:56+00:00",
-    "agency": "Treasury",
-    "sentiment": "bullish",
-    "coins": []
-  },
-  {
-    "title": "CLARITY Act Could Clear This Year, Solana Policy Institute Says—But 4 Demands Remain To Be Met",
-    "link": "https://bitcoinist.com/clarity-act-could-clear-this-year-solana-institute/",
-    "source": "bitcoinist.com",
-    "published_at": "2026-06-10T03:30:30+00:00",
-    "agency": "Congress",
-    "sentiment": "neutral",
-    "coins": [
-      "SOL"
-    ]
-  },
-  {
-    "title": "61 Crypto Leaders Urge Senate to Pass CLARITY Act With Developer Protections",
-    "link": "https://news.bitcoin.com/61-crypto-leaders-urge-senate-to-pass-clarity-act-with-developer-protections/",
-    "source": "news.bitcoin.com",
-    "published_at": "2026-06-10T01:30:16+00:00",
-    "agency": "Congress",
-    "sentiment": "neutral",
     "coins": []
   },
   {
@@ -257,15 +250,6 @@
     "coins": []
   },
   {
-    "title": "Backpack US names former SEC acting chair Michael Piwowar to board",
-    "link": "https://crypto.news/backpack-us-names-former-sec-acting-chair-michael-piw/",
-    "source": "crypto.news",
-    "published_at": "2026-06-09T14:39:02+00:00",
-    "agency": "SEC",
-    "sentiment": "neutral",
-    "coins": []
-  },
-  {
     "title": "Blockchain researchers warn HTX sanctions may blur crypto risk signals",
     "link": "https://cointelegraph.com/news/blockchain-researchers-htx-sanctions-crypto-risk-signals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "source": "cointelegraph.com",
@@ -275,12 +259,36 @@
     "coins": []
   },
   {
-    "title": "HTX sanctions spark backlash as researchers question compliance fallout",
-    "link": "https://crypto.news/htx-sanctions-spark-backlash-as-researchers-question-compliance-fallout/",
-    "source": "crypto.news",
-    "published_at": "2026-06-09T14:22:01+00:00",
+    "title": "US Bitcoin Reserve Bill Text Locks Holdings for 20 Years and Mandates Quarterly Proof-of-Reserve Reports",
+    "link": "https://thedefiant.io/news/regulation/us-bitcoin-reserve-bill-arma-20-year-lockup-proof-of-reserve",
+    "source": "thedefiant.io",
+    "published_at": "2026-06-09T14:10:00+00:00",
+    "agency": "Regulatory",
+    "sentiment": "neutral",
+    "coins": [
+      "BTC"
+    ]
+  },
+  {
+    "title": "Privacy push as StarkWare and Sui move toward compliance-ready confidential transfers",
+    "link": "https://cointelegraph.com/news/privacy-starkware-sui-move-compliance-confidential-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "cointelegraph.com",
+    "published_at": "2026-06-09T14:01:11+00:00",
     "agency": "Regulatory",
     "sentiment": "bearish",
-    "coins": []
+    "coins": [
+      "SUI"
+    ]
+  },
+  {
+    "title": "BREAKING: Kalshi Files for Hyperliquid (HYPE) Perpetual Futures Trading with CFTC",
+    "link": "https://coingape.com/kalshi-files-for-hyperliquid-hype-perpetual-futures-trading-with-cftc/",
+    "source": "coingape.com",
+    "published_at": "2026-06-09T12:50:50+00:00",
+    "agency": "CFTC",
+    "sentiment": "bullish",
+    "coins": [
+      "HYPE"
+    ]
   }
 ]
