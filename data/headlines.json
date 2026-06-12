@@ -2,16 +2,116 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "Are Bitcoin bears not done yet? Analysts warn of a potential $53K BTC flush",
-      "link": "https://ambcrypto.com/are-bitcoin-bears-not-done-yet-analysts-warn-of-a-potential-53k-btc-flush/",
-      "published_at": "2026-06-11T23:00:46+00:00",
+      "title": "‘Risk has changed’: HTX moves $1.3B reserves to third-party amid sanctions",
+      "link": "https://ambcrypto.com/risk-has-changed-htx-moves-1-3b-reserves-to-third-party-amid-sanctions/",
+      "published_at": "2026-06-12T02:00:29+00:00",
       "source": "ambcrypto.com",
       "score": 1,
-      "ntitle": "bitcoin bears not done yet analysts warn potential 53k btc flush",
-      "coins": [
-        "BTC"
-      ],
+      "ntitle": "risk has changed htx moves 1 3b reserves third party amid sanctions",
+      "coins": [],
       "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "Regulatory"
+    },
+    {
+      "title": "US moves seized Alameda funds to Coinbase Prime",
+      "link": "https://crypto.news/us-moves-seized-alameda-funds-to-coinbase-prime/",
+      "published_at": "2026-06-12T01:30:54+00:00",
+      "source": "crypto.news",
+      "score": 3,
+      "ntitle": "us moves seized alameda funds coinbase prime",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "SpaceX raises $75B in the largest IPO in history, valued at $1.77 trillion",
+      "link": "https://cryptobriefing.com/spacex-75b-largest-ipo-ever/",
+      "published_at": "2026-06-12T01:54:56+00:00",
+      "source": "cryptobriefing.com",
+      "score": 1,
+      "ntitle": "spacex raises 75b largest ipo history valued 1 77 trillion",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "XRP Gets AI Agent Payment Support in Ripple’s XRPL AI Starter Kit as Executive Sees Billions Ahead",
+      "link": "https://news.bitcoin.com/xrp-gets-ai-agent-payment-support-in-ripples-xrpl-ai-starter-kit-as-executive-sees-billions-ahead/",
+      "published_at": "2026-06-12T01:30:24+00:00",
+      "source": "news.bitcoin.com",
+      "score": 13,
+      "ntitle": "xrp gets ai agent payment support ripple s xrpl ai starter kit executive sees billions ahead",
+      "coins": [
+        "XRP"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Crypto Volume Drops To 2-Year Low—Is A Relief Rally Next?",
+      "link": "https://www.newsbtc.com/news/crypto-volume-drops-to-2-year-low-relief-rally/",
+      "published_at": "2026-06-12T02:00:10+00:00",
+      "source": "newsbtc.com",
+      "score": 1,
+      "ntitle": "crypto volume drops 2 year low relief rally next",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Fidelity’s Dollar Stablecoin Taps Curve and Uniswap as Its DeFi Liquidity Layer",
+      "link": "https://thedefiant.io/converge/defi/fidelity-digital-dollar-curve-uniswap-defi-liquidity",
+      "published_at": "2026-06-12T02:02:31+00:00",
+      "source": "thedefiant.io",
+      "score": 3,
+      "ntitle": "fidelity s dollar stablecoin taps curve uniswap defi liquidity layer",
+      "coins": [
+        "UNI"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Nasdaq-100 adds CoreWeave, Rocket Lab, and three other AI-era companies in quarterly rebalance",
+      "link": "https://cryptobriefing.com/nasdaq-100-adds-corweave-rocket-lab-ai-rebalance/",
+      "published_at": "2026-06-12T01:53:11+00:00",
+      "source": "cryptobriefing.com",
+      "score": -1,
+      "ntitle": "nasdaq 100 adds coreweave rocket lab three other ai era companies quarterly rebalance",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    }
+  ],
+  "day": [
+    {
+      "title": "SKYAI’s 26% rally looks strong – Until you check THIS data",
+      "link": "https://ambcrypto.com/skyais-26-rally-looks-strong-until-you-check-this-data/",
+      "published_at": "2026-06-12T01:00:15+00:00",
+      "source": "ambcrypto.com",
+      "score": 1,
+      "ntitle": "skyai s 26 rally looks strong until you check this data",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Crypto's Formal Verification Moment",
+      "link": "https://www.bankless.com/read/cryptos-formal-verification-moment",
+      "published_at": "2026-06-11T16:49:04+00:00",
+      "source": "bankless.com",
+      "score": 0,
+      "ntitle": "crypto s formal verification moment",
+      "coins": [],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -30,237 +130,16 @@
       "agency": null
     },
     {
-      "title": "Teen Accused Of $13M Crypto Scam That Funded Miami Luxury",
-      "link": "https://bitcoinist.com/teen-accused-13m-crypto-scam/",
-      "published_at": "2026-06-11T23:30:46+00:00",
-      "source": "bitcoinist.com",
-      "score": 1,
-      "ntitle": "teen accused 13m crypto scam that funded miami luxury",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "US Officials Bust AudiA6 Crypto Mixer in $389M Money Case Investigation",
-      "link": "https://blockonomi.com/us-officials-bust-audia6-crypto-mixer-in-389m-money-case-investigation/",
-      "published_at": "2026-06-11T23:38:43+00:00",
-      "source": "blockonomi.com",
-      "score": 3,
-      "ntitle": "us officials bust audia6 crypto mixer 389m money case investigation",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "SpaceX raising $75 billion in record-setting IPO as Nasdaq debut awaits",
-      "link": "https://www.cnbc.com/2026/06/11/spacex-raises-75-billion-in-record-setting-ipo-ahead-of-nasdaq-debut.html",
-      "published_at": "2026-06-11T23:35:43+00:00",
-      "source": "cnbc.com",
-      "score": 1,
-      "ntitle": "spacex raising 75 billion record setting ipo nasdaq debut awaits",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Big Tech crash, oil volatility rattles markets: Will Bitcoin hold above $60K?",
-      "link": "https://cointelegraph.com/markets/big-tech-crash-oil-volatility-rattles-markets-will-bitcoin-hold-above-60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-06-11T22:58:52+00:00",
-      "source": "cointelegraph.com",
-      "score": 3,
-      "ntitle": "big tech crash oil volatility rattles markets will bitcoin hold above 60k",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Elon Musk fuels loan frenzy ahead of blockbuster SpaceX IPO",
-      "link": "https://crypto.news/elon-musk-fuels-loan-frenzy-ahead-of-blockbuster-spacex-ipo/",
-      "published_at": "2026-06-11T23:41:41+00:00",
-      "source": "crypto.news",
-      "score": 1,
-      "ntitle": "elon musk fuels loan frenzy ahead blockbuster spacex ipo",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "SpaceX IPO set for tomorrow, testing tokenized equity products",
-      "link": "https://cryptobriefing.com/spacex-ipo-tokenized-equity-test/",
-      "published_at": "2026-06-11T23:40:11+00:00",
-      "source": "cryptobriefing.com",
-      "score": 5,
-      "ntitle": "spacex ipo set tomorrow testing tokenized equity products",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "XRP Eyes $2 as Binance Data Shows No Aggressive Whale Selling",
-      "link": "https://news.bitcoin.com/xrp-eyes-2-as-binance-data-shows-no-aggressive-whale-selling/",
-      "published_at": "2026-06-11T23:45:13+00:00",
-      "source": "news.bitcoin.com",
-      "score": 6,
-      "ntitle": "xrp eyes 2 binance data shows no aggressive whale selling",
-      "coins": [
-        "BNB",
-        "XRP"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "The 3-Part Impulse That Shows Where The XRP Price Is Headed Next",
-      "link": "https://www.newsbtc.com/analysis/xrp/the-xrp-3-part-impulse/",
-      "published_at": "2026-06-11T23:00:17+00:00",
-      "source": "newsbtc.com",
-      "score": 10,
-      "ntitle": "3 part impulse that shows where xrp price headed next",
-      "coins": [
-        "XRP"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Fidelity’s Dollar Stablecoin Taps Curve and Uniswap as Its DeFi Liquidity Layer",
-      "link": "https://thedefiant.io/converge/defi/fidelity-digital-dollar-curve-uniswap-defi-liquidity",
-      "published_at": "2026-06-11T23:50:59+00:00",
-      "source": "thedefiant.io",
-      "score": 3,
-      "ntitle": "fidelity s dollar stablecoin taps curve uniswap defi liquidity layer",
-      "coins": [
-        "UNI"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "XRP Ledger Records Sub-$400 Fees as Transactions Remain Low Cost",
-      "link": "https://blockonomi.com/xrp-ledger-records-sub-400-fees-as-transactions-remain-low-cost/",
-      "published_at": "2026-06-11T23:29:35+00:00",
-      "source": "blockonomi.com",
-      "score": 10,
-      "ntitle": "xrp ledger records sub 400 fees transactions remain low cost",
-      "coins": [
-        "XRP"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "From startup to $1.8 trillion: The investors who took a chance on SpaceX now reap the rewards",
-      "link": "https://www.cnbc.com/2026/06/11/spacex-investors-reap-rewards-1-8-trillion-valuation.html",
-      "published_at": "2026-06-11T22:53:14+00:00",
-      "source": "cnbc.com",
-      "score": 2,
-      "ntitle": "startup 1 8 trillion investors who took chance spacex now reap rewards",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "BlackRock races Bitcoin income ETF toward potential launch",
-      "link": "https://crypto.news/blackrock-races-bitcoin-income-etf-toward-potential-launch/",
-      "published_at": "2026-06-11T23:16:11+00:00",
-      "source": "crypto.news",
-      "score": 5,
-      "ntitle": "blackrock races bitcoin income etf toward potential launch",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Dario Amodei warns of AI mastering final 10% of tasks in Bloomberg interview",
-      "link": "https://cryptobriefing.com/amodei-warns-ai-mastering-final-tasks/",
-      "published_at": "2026-06-11T23:39:34+00:00",
-      "source": "cryptobriefing.com",
-      "score": 3,
-      "ntitle": "dario amodei warns ai mastering final 10 tasks bloomberg interview",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Blackrock Files Final Pre-Launch Form for Bitcoin Covered-Call ETF, Analyst Gives 1-Week Window",
-      "link": "https://news.bitcoin.com/blackrock-files-final-pre-launch-form-for-bitcoin-covered-call-etf-analyst-gives-1-week-window/",
-      "published_at": "2026-06-11T23:05:34+00:00",
-      "source": "news.bitcoin.com",
-      "score": 6,
-      "ntitle": "blackrock files final pre launch form bitcoin covered call etf analyst gives 1 week window",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    }
-  ],
-  "day": [
-    {
-      "title": "October 2025’s blame game – Why the crypto crash was ‘game theory’ and Math in action",
-      "link": "https://ambcrypto.com/october-2025s-blame-game-why-the-crypto-crash-was-game-theory-and-math-in-action/",
-      "published_at": "2026-06-11T22:00:20+00:00",
-      "source": "ambcrypto.com",
-      "score": 2,
-      "ntitle": "october 2025 s blame game why crypto crash was game theory math action",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Crypto's Formal Verification Moment",
-      "link": "https://www.bankless.com/read/cryptos-formal-verification-moment",
-      "published_at": "2026-06-11T16:49:04+00:00",
-      "source": "bankless.com",
-      "score": 0,
-      "ntitle": "crypto s formal verification moment",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Crypto Just Put $2 Billion on the World Cup Winner, and It’s a Draw",
-      "link": "https://beincrypto.com/polymarket-kalshi-world-cup-2026-winner-prediction/",
-      "published_at": "2026-06-11T21:30:00+00:00",
-      "source": "beincrypto.com",
-      "score": 1,
-      "ntitle": "crypto just put 2 billion world cup winner it s draw",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Bitcoin Market Faces A Potential Profitability Reset As More Coins Slip Out Of Profit",
-      "link": "https://bitcoinist.com/bitcoin-profitability-reset/",
-      "published_at": "2026-06-11T22:00:49+00:00",
+      "title": "Bitcoin Price Just Entered The DCA Zone That Has Previously Triggered A 2,200% Rally To ATH",
+      "link": "https://bitcoinist.com/bitcoin-entered-the-dca-zone/",
+      "published_at": "2026-06-12T01:00:15+00:00",
       "source": "bitcoinist.com",
       "score": 2,
-      "ntitle": "bitcoin market faces potential profitability reset more coins slip out profit",
+      "ntitle": "bitcoin price just entered dca zone that has previously triggered 2 200 rally ath",
       "coins": [
         "BTC"
       ],
-      "sentiment": "bearish",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -279,29 +158,26 @@
       "agency": null
     },
     {
-      "title": "Google DeepMind Offers $10M for Multi-Agent AI Safety Research",
-      "link": "https://Blockchain.News/news/google-deepmind-multi-agent-ai-safety-funding",
-      "published_at": "2026-06-11T11:45:08+00:00",
+      "title": "GeForce NOW Summer Sale Offers Big Membership Discounts",
+      "link": "https://Blockchain.News/news/geforce-now-summer-sale-membership-discounts",
+      "published_at": "2026-06-11T13:56:45+00:00",
       "source": "blockchain.news",
-      "score": 3,
-      "ntitle": "google deepmind offers 10m multi agent ai safety research",
+      "score": 1,
+      "ntitle": "geforce now summer sale offers big membership discounts",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "ETH Futures Traders Load Longs as Binance OI hits 3.7M ETH Record",
-      "link": "https://blockonomi.com/eth-futures-traders-load-longs-as-binance-oi-hits-3-7m-eth-record/",
-      "published_at": "2026-06-11T22:50:03+00:00",
+      "title": "US Officials Bust AudiA6 Crypto Mixer in $389M Money Case Investigation",
+      "link": "https://blockonomi.com/us-officials-bust-audia6-crypto-mixer-in-389m-money-case-investigation/",
+      "published_at": "2026-06-11T23:38:43+00:00",
       "source": "blockonomi.com",
-      "score": 1,
-      "ntitle": "eth futures traders load longs binance oi hits 3 7m eth record",
-      "coins": [
-        "BNB",
-        "ETH"
-      ],
-      "sentiment": "bullish",
+      "score": 3,
+      "ntitle": "us officials bust audia6 crypto mixer 389m money case investigation",
+      "coins": [],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -318,14 +194,14 @@
       "agency": "Regulatory"
     },
     {
-      "title": "Warren questions SpaceX IPO oversight in new letter to stock indexes",
-      "link": "https://www.cnbc.com/2026/06/11/warren-spacex-ipo-exchanges.html",
-      "published_at": "2026-06-11T22:26:44+00:00",
+      "title": "SpaceX raising $75 billion in record-setting IPO as Nasdaq debut awaits",
+      "link": "https://www.cnbc.com/2026/06/11/spacex-raises-75-billion-in-record-setting-ipo-ahead-of-nasdaq-debut.html",
+      "published_at": "2026-06-11T23:35:43+00:00",
       "source": "cnbc.com",
       "score": 1,
-      "ntitle": "warren questions spacex ipo oversight new letter stock indexes",
+      "ntitle": "spacex raising 75 billion record setting ipo nasdaq debut awaits",
       "coins": [],
-      "sentiment": "bearish",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -380,42 +256,40 @@
       "agency": null
     },
     {
-      "title": "Citi launches blockchain marketplace for private companies shares: Report",
-      "link": "https://cointelegraph.com/news/citi-launches-blockchain-marketplace-private-company-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-06-11T21:24:56+00:00",
+      "title": "Big Tech crash, oil volatility rattles markets: Will Bitcoin hold above $60K?",
+      "link": "https://cointelegraph.com/markets/big-tech-crash-oil-volatility-rattles-markets-will-bitcoin-hold-above-60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-06-11T22:58:52+00:00",
       "source": "cointelegraph.com",
-      "score": 11,
-      "ntitle": "citi launches blockchain marketplace private companies shares report",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Charles Hoskinson plans Cardano community move from X to Discord",
-      "link": "https://crypto.news/charles-hoskinson-plans-cardano-community-move-fro/",
-      "published_at": "2026-06-11T22:44:33+00:00",
-      "source": "crypto.news",
-      "score": 1,
-      "ntitle": "charles hoskinson plans cardano community move x discord",
-      "coins": [
-        "ADA"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "US military was poised to strike Iran before Trump called it off, sending Bitcoin surging",
-      "link": "https://cryptobriefing.com/us-military-iran-strikes-trump-bitcoin-surge/",
-      "published_at": "2026-06-11T22:46:18+00:00",
-      "source": "cryptobriefing.com",
-      "score": 2,
-      "ntitle": "us military was poised strike iran before trump called it off sending bitcoin surging",
+      "score": 3,
+      "ntitle": "big tech crash oil volatility rattles markets will bitcoin hold above 60k",
       "coins": [
         "BTC"
       ],
-      "sentiment": "bullish",
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "US lawmakers propose new federal crypto crime task force",
+      "link": "https://crypto.news/us-lawmakers-propose-new-federal-crypto-crime-task-force/",
+      "published_at": "2026-06-12T01:01:06+00:00",
+      "source": "crypto.news",
+      "score": 1,
+      "ntitle": "us lawmakers propose new federal crypto crime task force",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Donald Trump announces deal with Iran to eliminate nuclear weapons",
+      "link": "https://cryptobriefing.com/trump-iran-nuclear-deal-announcement/",
+      "published_at": "2026-06-12T00:51:27+00:00",
+      "source": "cryptobriefing.com",
+      "score": 1,
+      "ntitle": "donald trump announces deal iran eliminate nuclear weapons",
+      "coins": [],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -508,26 +382,26 @@
       "agency": null
     },
     {
-      "title": "CFTC Says Sports Contracts Involve Gaming but Proposes to Allow Almost All of Them",
-      "link": "https://news.bitcoin.com/cftc-says-sports-contracts-involve-gaming-but-proposes-to-allow-almost-all-of-them/",
-      "published_at": "2026-06-11T22:10:47+00:00",
+      "title": "Millions Recovered in Crypto as $100M Fraud Scheme Falls Apart",
+      "link": "https://news.bitcoin.com/millions-recovered-in-crypto-as-100m-fraud-scheme-falls-apart/",
+      "published_at": "2026-06-12T00:30:02+00:00",
       "source": "news.bitcoin.com",
-      "score": 6,
-      "ntitle": "cftc says sports contracts involve gaming but proposes allow almost all them",
+      "score": 3,
+      "ntitle": "millions recovered crypto 100m fraud scheme falls apart",
       "coins": [],
       "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "CFTC"
+      "is_regulation": false,
+      "agency": null
     },
     {
-      "title": "SUI Stuck In A Downtrend After Resistance Rejection, More Losses Ahead?",
-      "link": "https://www.newsbtc.com/sui/sui-stuck-in-a-downtrend/",
-      "published_at": "2026-06-11T21:30:09+00:00",
+      "title": "Dogecoin Just Hit A Rare Capitulation Signal: What It Means For DOGE",
+      "link": "https://www.newsbtc.com/news/dogecoin/dogecoin-just-hit-a-rare-capitulation-signal/",
+      "published_at": "2026-06-12T00:30:22+00:00",
       "source": "newsbtc.com",
-      "score": 1,
-      "ntitle": "sui stuck downtrend after resistance rejection more losses ahead",
+      "score": 3,
+      "ntitle": "dogecoin just hit rare capitulation signal what it means doge",
       "coins": [
-        "SUI"
+        "DOGE"
       ],
       "sentiment": "bearish",
       "is_regulation": false,
@@ -572,14 +446,17 @@
       "agency": null
     },
     {
-      "title": "Ripple Nemesis to Run US Intelligence",
-      "link": "https://u.today/ripple-nemesis-to-run-us-intelligence",
-      "published_at": "2026-06-11T20:30:01+00:00",
+      "title": "Dogecoin (DOGE), Shiba Inu (SHIB), Toncoin (TON), and Ethereum (ETH) Price Analysis For June 12: Getting Back in Bull Market",
+      "link": "https://u.today/dogecoin-doge-shiba-inu-shib-toncoin-ton-and-ethereum-eth-price-analysis-for-june-12-getting-back",
+      "published_at": "2026-06-12T00:01:00+00:00",
       "source": "u.today",
-      "score": 4,
-      "ntitle": "ripple nemesis run us intelligence",
+      "score": 3,
+      "ntitle": "dogecoin doge shiba inu shib toncoin ton ethereum eth price analysis june 12 getting back bull market",
       "coins": [
-        "XRP"
+        "DOGE",
+        "ETH",
+        "SHIB",
+        "TON"
       ],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -640,18 +517,6 @@
       "agency": null
     },
     {
-      "title": "CFTC Proposes New Rules for Sports Prediction Markets",
-      "link": "https://Blockchain.News/news/cftc-prediction-market-rules-sports-contracts",
-      "published_at": "2026-06-10T22:19:06+00:00",
-      "source": "blockchain.news",
-      "score": 3,
-      "ntitle": "cftc proposes new rules sports prediction markets",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "CFTC"
-    },
-    {
       "title": "The Hidden Code Problem: How Unverified Smart Contracts Are Becoming a Preferred Target for Attackers",
       "link": "https://www.chainalysis.com/blog/attackers-exploiting-unverified-smart-contracts/",
       "published_at": "2026-06-09T17:35:21+00:00",
@@ -704,16 +569,18 @@
       "agency": null
     },
     {
-      "title": "CFTC proposes framework favoring sports event contracts over gambling",
-      "link": "https://cointelegraph.com/news/cftc-prediction-market-rules-sports-election-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-06-10T22:30:00+00:00",
+      "title": "XRP transaction demand falls 91.5% as traders focus on $0.65 support",
+      "link": "https://cointelegraph.com/markets/xrp-transaction-demand-drops-915-as-063-support-zone-draws-focus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-06-11T00:08:21+00:00",
       "source": "cointelegraph.com",
-      "score": 3,
-      "ntitle": "cftc proposes framework favoring sports event contracts over gambling",
-      "coins": [],
+      "score": 6,
+      "ntitle": "xrp transaction demand falls 91 5 traders focus 0 65 support",
+      "coins": [
+        "XRP"
+      ],
       "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "CFTC"
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Coinbase Urges Congress to Treat Stablecoins Like Cash and Ease Crypto Tax Burdens",
@@ -852,18 +719,20 @@
       "agency": null
     },
     {
-      "title": "O'Leary: 'Regulation Is Bitcoin's Next Catalyst'",
-      "link": "https://u.today/oleary-regulation-is-bitcoins-next-catalyst",
-      "published_at": "2026-06-10T21:04:51+00:00",
+      "title": "What's Next if XRP Falls Below $1? First Ethereum (ETH) Reversal Signal, Cardano (ADA) Gets Fully Reset: Crypto Market Review",
+      "link": "https://u.today/whats-next-if-xrp-falls-below-1-first-ethereum-eth-reversal-signal-cardano-ada-gets-fully-reset",
+      "published_at": "2026-06-11T00:01:00+00:00",
       "source": "u.today",
-      "score": 3,
-      "ntitle": "o leary regulation bitcoin s next catalyst",
+      "score": 8,
+      "ntitle": "what s next if xrp falls below 1 first ethereum eth reversal signal cardano ada gets fully reset crypto market review",
       "coins": [
-        "BTC"
+        "ADA",
+        "ETH",
+        "XRP"
       ],
-      "sentiment": "bullish",
-      "is_regulation": true,
-      "agency": "Regulatory"
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Blame MSTR for the Bitcoin Crash? The Culprit May Lie Elsewhere",
@@ -918,18 +787,6 @@
       "agency": null
     },
     {
-      "title": "Blockchain.com Adds 24/7 Perpetuals, Launches SpaceX Pre-IPO Trading",
-      "link": "https://Blockchain.News/news/blockchain-com-24-7-perpetuals-spacex-pre-ipo",
-      "published_at": "2026-06-10T20:19:25+00:00",
-      "source": "blockchain.news",
-      "score": 5,
-      "ntitle": "blockchain com adds 24 7 perpetuals launches spacex pre ipo trading",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
       "title": "Visa tests privacy-first stablecoin settlement with Brale",
       "link": "https://coincodecap.com/visa-tests-privacy-first-stablecoin-settlement-with-brale?utm_source=rss&utm_medium=rss&utm_campaign=visa-tests-privacy-first-stablecoin-settlement-with-brale",
       "published_at": "2026-06-08T10:49:05+00:00",
@@ -970,15 +827,39 @@
       "agency": null
     },
     {
-      "title": "Bitcoin miner margins fall to record low: Will BTC’s $60K floor hold?",
-      "link": "https://cointelegraph.com/markets/bitcoin-miner-margins-fall-to-record-low-will-btcs-60k-floor-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-06-10T20:42:55+00:00",
+      "title": "CFTC proposes framework favoring sports event contracts over gambling",
+      "link": "https://cointelegraph.com/news/cftc-prediction-market-rules-sports-election-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-06-10T22:30:00+00:00",
       "source": "cointelegraph.com",
-      "score": 0,
-      "ntitle": "bitcoin miner margins fall record low will btc s 60k floor hold",
+      "score": 3,
+      "ntitle": "cftc proposes framework favoring sports event contracts over gambling",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "CFTC"
+    },
+    {
+      "title": "Tim Draper Explains Why Bitcoin Is Safer Than Banks in the Quantum Era",
+      "link": "https://cryptopotato.com/tim-draper-explains-why-bitcoin-is-safer-than-banks-in-the-quantum-era/",
+      "published_at": "2026-06-10T20:07:06+00:00",
+      "source": "cryptopotato.com",
+      "score": 5,
+      "ntitle": "tim draper explains why bitcoin safer than banks quantum era",
       "coins": [
         "BTC"
       ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "MetaMask opens AI wallet for DeFi agents as security risks shift to user rules",
+      "link": "https://cryptoslate.com/metamask-just-gave-ai-agents-a-defi-wallet-with-a-leash/",
+      "published_at": "2026-06-10T18:08:03+00:00",
+      "source": "cryptoslate.com",
+      "score": 3,
+      "ntitle": "metamask opens ai wallet defi agents security risks shift user rules",
+      "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
@@ -1168,7 +1049,7 @@
   ],
   "clusters": [
     {
-      "id": 4,
+      "id": 15,
       "title": "Elon Musk’s SpaceX IPO fever sparks $1 billion crypto bet before Nasdaq debut",
       "link": "https://cryptoslate.com/elon-musks-spacex-ipo-fever-sparks-1-billion-crypto-bet-before-nasdaq-debut/",
       "source": "cryptoslate.com",
@@ -1176,9 +1057,9 @@
       "sentiment": "neutral",
       "coins": [],
       "sources": [
-        "coindesk.com",
+        "cryptoslate.com",
         "cnbc.com",
-        "cryptoslate.com"
+        "coindesk.com"
       ],
       "count": 3,
       "members": [
@@ -1201,36 +1082,6 @@
           "published_at": "2026-06-11T21:05:49+00:00"
         }
       ]
-    },
-    {
-      "id": 13,
-      "title": "Breaking: BlackRock’s New Filing Signals Bitcoin Premium Income ETF Launch Next Week",
-      "link": "https://coingape.com/blackrock-new-filing-signals-bitcoin-premium-income-etf-launch-next-week/",
-      "source": "coingape.com",
-      "published_at": "2026-06-11T22:27:33+00:00",
-      "sentiment": "neutral",
-      "coins": [
-        "BTC"
-      ],
-      "sources": [
-        "crypto.news",
-        "coingape.com"
-      ],
-      "count": 2,
-      "members": [
-        {
-          "title": "BlackRock races Bitcoin income ETF toward potential launch",
-          "link": "https://crypto.news/blackrock-races-bitcoin-income-etf-toward-potential-launch/",
-          "source": "crypto.news",
-          "published_at": "2026-06-11T23:16:11+00:00"
-        },
-        {
-          "title": "Breaking: BlackRock’s New Filing Signals Bitcoin Premium Income ETF Launch Next Week",
-          "link": "https://coingape.com/blackrock-new-filing-signals-bitcoin-premium-income-etf-launch-next-week/",
-          "source": "coingape.com",
-          "published_at": "2026-06-11T22:27:33+00:00"
-        }
-      ]
     }
   ],
   "trending": [
@@ -1242,15 +1093,15 @@
     },
     {
       "tag": "#XRP",
-      "count": 56,
+      "count": 57,
       "type": "coin",
-      "pct": 95
+      "pct": 97
     },
     {
       "tag": "#Xrp",
-      "count": 52,
+      "count": 53,
       "type": "topic",
-      "pct": 88
+      "pct": 90
     },
     {
       "tag": "#Defi",
@@ -1266,15 +1117,15 @@
     },
     {
       "tag": "#BTC",
-      "count": 29,
+      "count": 28,
       "type": "coin",
-      "pct": 49
+      "pct": 47
     },
     {
       "tag": "#Etf",
-      "count": 24,
+      "count": 25,
       "type": "topic",
-      "pct": 41
+      "pct": 42
     },
     {
       "tag": "#XDC",
@@ -1283,5 +1134,5 @@
       "pct": 17
     }
   ],
-  "generated_at": "2026-06-11T23:51:31.577665+00:00"
+  "generated_at": "2026-06-12T02:03:00.247998+00:00"
 }
