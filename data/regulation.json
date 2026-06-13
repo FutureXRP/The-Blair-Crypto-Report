@@ -1,21 +1,16 @@
 [
   {
-    "title": "Iran refuses nuclear talks until interim deal is implemented, crypto sanctions implications linger",
-    "link": "https://cryptobriefing.com/iran-nuclear-talks-interim-deal-crypto-sanctions/",
+    "title": "Bitcoin, XRP spot ETFs see inflows while Ethereum records outflows on June 12",
+    "link": "https://cryptobriefing.com/bitcoin-xrp-etf-inflows-ethereum-outflows/",
     "source": "cryptobriefing.com",
-    "published_at": "2026-06-13T00:43:55+00:00",
+    "published_at": "2026-06-13T05:06:25+00:00",
     "agency": "Regulatory",
-    "sentiment": "neutral",
-    "coins": []
-  },
-  {
-    "title": "CME faces potential regulatory hurdle as CFTC reviews 24-hour oil contract proposal",
-    "link": "https://cryptobriefing.com/cme-cftc-24-hour-oil-contract/",
-    "source": "cryptobriefing.com",
-    "published_at": "2026-06-12T23:25:06+00:00",
-    "agency": "CFTC",
-    "sentiment": "bearish",
-    "coins": []
+    "sentiment": "bullish",
+    "coins": [
+      "BTC",
+      "ETH",
+      "XRP"
+    ]
   },
   {
     "title": "CFTC Staff Give DCMs a Path to Convert Perpetual-Style Digital Commodity Futures Into True Perpetuals",
@@ -206,15 +201,6 @@
     "coins": []
   },
   {
-    "title": "Gary Gensler says sports prediction markets fall outside CFTC swap rules",
-    "link": "https://crypto.news/gary-gensler-says-sports-prediction-markets-fall-outside-cftc-swap-rules/",
-    "source": "crypto.news",
-    "published_at": "2026-06-12T07:28:25+00:00",
-    "agency": "CFTC",
-    "sentiment": "bearish",
-    "coins": []
-  },
-  {
     "title": "Former SEC, CFTC Chair Gary Gensler argues that prediction markets don't overrule state regulations",
     "link": "https://www.coindesk.com/policy/2026/06/12/former-sec-cftc-chair-gary-gensler-argues-that-prediction-markets-don-t-overrule-state-regulations",
     "source": "coindesk.com",
@@ -282,5 +268,28 @@
     "agency": "Fed",
     "sentiment": "neutral",
     "coins": []
+  },
+  {
+    "title": "SEC Proposes Rescission of Regulation NMS Rules 611 and 610(e)",
+    "link": "https://www.sec.gov/newsroom/press-releases/2026-54-sec-proposes-rescission-regulation-nms-rules-611-610e",
+    "source": "sec.gov",
+    "published_at": "2026-06-11T14:55:00+00:00",
+    "agency": "SEC",
+    "sentiment": "bullish",
+    "coins": []
+  },
+  {
+    "title": "Binance Lists Ethereum's Largest Treasury BitMine; XRP Loses $1 Billion ETF Threshold Despite Record Lock Up; Shiba Inu (SHIB) Eyes Regulatory Breakthrough via Japan's New Framework - Morning Crypto Report",
+    "link": "https://u.today/binance-lists-ethereums-largest-treasury-bitmine-xrp-loses-1-billion-etf-threshold-despite-record",
+    "source": "u.today",
+    "published_at": "2026-06-11T12:53:45+00:00",
+    "agency": "Treasury",
+    "sentiment": "bullish",
+    "coins": [
+      "BNB",
+      "ETH",
+      "SHIB",
+      "XRP"
+    ]
   }
 ]
