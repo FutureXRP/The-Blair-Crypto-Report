@@ -1,5 +1,25 @@
 [
   {
+    "title": "Malta Regulator Opens DeFi Consultation As DAO Governance Enters Policy Spotlight",
+    "link": "https://www.newsbtc.com/news/malta-regulator-opens-defi-consultation-as-dao-governance-enters-policy/",
+    "source": "newsbtc.com",
+    "published_at": "2026-06-19T18:30:18+00:00",
+    "agency": "Regulatory",
+    "sentiment": "neutral",
+    "coins": []
+  },
+  {
+    "title": "The 5 Largest Publicly Traded Solana Treasury Firms",
+    "link": "https://decrypt.co/339551/5-largest-publicly-traded-solana-treasury-firms",
+    "source": "decrypt.co",
+    "published_at": "2026-06-19T17:40:59+00:00",
+    "agency": "Treasury",
+    "sentiment": "neutral",
+    "coins": [
+      "SOL"
+    ]
+  },
+  {
     "title": "24X Files SEC Proposal To Bring Tokenized Russell 1000 Stocks To Regulated Markets",
     "link": "https://www.newsbtc.com/news/24x-files-sec-proposal-to-bring-tokenized-russell-1000-stocks-to-regulated/",
     "source": "newsbtc.com",
@@ -220,30 +240,12 @@
     "coins": []
   },
   {
-    "title": "CLAIM Framework Refines AI Use for Legal Workflows",
-    "link": "https://Blockchain.News/news/claim-framework-ai-legal-prompting",
-    "source": "blockchain.news",
-    "published_at": "2026-06-18T18:48:37+00:00",
-    "agency": "Regulatory",
-    "sentiment": "neutral",
-    "coins": []
-  },
-  {
     "title": "SEC, CFTC Seek Public Comment to Further Clarify and Harmonize Derivatives Product Definitions",
     "link": "https://www.sec.gov/newsroom/press-releases/2026-57-sec-cftc-seek-public-comment-further-clarify-harmonize-derivatives-product-definitions",
     "source": "sec.gov",
     "published_at": "2026-06-18T18:42:47+00:00",
     "agency": "SEC",
     "sentiment": "neutral",
-    "coins": []
-  },
-  {
-    "title": "CME Group Sues CFTC Over Crypto Perpetual Futures Approval",
-    "link": "https://Blockchain.News/news/cme-sues-cftc-crypto-perpetual-futures",
-    "source": "blockchain.news",
-    "published_at": "2026-06-18T18:28:16+00:00",
-    "agency": "CFTC",
-    "sentiment": "bullish",
     "coins": []
   },
   {
@@ -256,15 +258,6 @@
     "coins": []
   },
   {
-    "title": "CME Group sues CFTC over crypto perpetual futures",
-    "link": "https://cointelegraph.com/news/cme-group-cftc-lawsuit-perpetual-futures-crypto?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-    "source": "cointelegraph.com",
-    "published_at": "2026-06-18T17:42:09+00:00",
-    "agency": "CFTC",
-    "sentiment": "bearish",
-    "coins": []
-  },
-  {
     "title": "Federal Reserve Moves to Close Stablecoin Loopholes With New Customer ID Rules",
     "link": "https://bitcoinmagazine.com/news/federal-reserve-moves-to-close-stablecoin",
     "source": "bitcoinmagazine.com",
@@ -272,5 +265,16 @@
     "agency": "Fed",
     "sentiment": "bearish",
     "coins": []
+  },
+  {
+    "title": "CME Group to Sue CFTC Over Bitcoin Perpetual Futures Approval in Clash Over Dodd-Frank Classification",
+    "link": "https://bitcoinmagazine.com/news/cme-group-to-sue-cftc-over-bitcoin",
+    "source": "bitcoinmagazine.com",
+    "published_at": "2026-06-18T13:50:00+00:00",
+    "agency": "CFTC",
+    "sentiment": "bullish",
+    "coins": [
+      "BTC"
+    ]
   }
 ]
