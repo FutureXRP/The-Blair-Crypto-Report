@@ -1,32 +1,5 @@
 [
   {
-    "title": "24X National Exchange files SEC rule change for tokenized Russell 1000 stocks and ETFs",
-    "link": "https://cryptobriefing.com/24x-exchange-sec-tokenized-russell-1000/",
-    "source": "cryptobriefing.com",
-    "published_at": "2026-06-19T21:53:56+00:00",
-    "agency": "SEC",
-    "sentiment": "bearish",
-    "coins": []
-  },
-  {
-    "title": "Cynthia Lummis calls CLARITY Act a commitment, not a concession",
-    "link": "https://cryptobriefing.com/lummis-clarity-act-commitment-not-concession/",
-    "source": "cryptobriefing.com",
-    "published_at": "2026-06-19T21:23:38+00:00",
-    "agency": "Congress",
-    "sentiment": "bearish",
-    "coins": []
-  },
-  {
-    "title": "Langflow servers under attack as critical vulnerabilities spread across LangChain framework",
-    "link": "https://cryptobriefing.com/langflow-servers-attack-langchain-vulnerabilities/",
-    "source": "cryptobriefing.com",
-    "published_at": "2026-06-19T21:20:56+00:00",
-    "agency": "Regulatory",
-    "sentiment": "bearish",
-    "coins": []
-  },
-  {
     "title": "Celsius Founder Alex Mashinsky Permanently Banned From CFTC-Regulated Markets",
     "link": "https://cryptopotato.com/celsius-founder-alex-mashinsky-permanently-banned-from-cftc-regulated-markets/",
     "source": "cryptopotato.com",
@@ -146,15 +119,24 @@
     "coins": []
   },
   {
-    "title": "Binance can serve Philippine traders under SEC framework, BlockShoals says",
+    "title": "BlockShoals lawyer clarifies Binance’s regulatory status in the Philippines",
     "link": "https://cointelegraph.com/news/blockshoals-binance-regulatory-status-philippines?utm_source=rss&utm_medium=rss&utm_campaign=rss",
     "source": "cointelegraph.com",
     "published_at": "2026-06-19T12:15:20+00:00",
-    "agency": "SEC",
-    "sentiment": "neutral",
+    "agency": "Regulatory",
+    "sentiment": "bearish",
     "coins": [
       "BNB"
     ]
+  },
+  {
+    "title": "Report flags US-Iran peace framework as Polymarket 'no meeting' dips to 50%",
+    "link": "https://Blockchain.News/news/report-flags-us-iran-peace-framework-as-polymarket-no-meeting-dips-to-50-0hnmdvcc6sjg0",
+    "source": "blockchain.news",
+    "published_at": "2026-06-19T12:05:49+00:00",
+    "agency": "Regulatory",
+    "sentiment": "neutral",
+    "coins": []
   },
   {
     "title": "CME lawsuit challenges whether Kalshi’s Bitcoin leverage push can become an everything-exchange",
@@ -273,6 +255,26 @@
     "published_at": "2026-06-18T15:31:09+00:00",
     "agency": "Fed",
     "sentiment": "bearish",
+    "coins": []
+  },
+  {
+    "title": "CME Group to Sue CFTC Over Bitcoin Perpetual Futures Approval in Clash Over Dodd-Frank Classification",
+    "link": "https://bitcoinmagazine.com/news/cme-group-to-sue-cftc-over-bitcoin",
+    "source": "bitcoinmagazine.com",
+    "published_at": "2026-06-18T13:50:00+00:00",
+    "agency": "CFTC",
+    "sentiment": "bullish",
+    "coins": [
+      "BTC"
+    ]
+  },
+  {
+    "title": "Federal Reserve Board requests comment on proposal to require certain payment stablecoin issuers to maintain an effective customer identification program",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260618a.htm",
+    "source": "federalreserve.gov",
+    "published_at": "2026-06-18T13:00:00+00:00",
+    "agency": "Fed",
+    "sentiment": "neutral",
     "coins": []
   }
 ]
