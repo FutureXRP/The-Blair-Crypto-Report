@@ -2,150 +2,194 @@
   "x_breaking": [],
   "breaking": [
     {
+      "title": "DEXE network activity hits ATH – Here’s why $30 is back in focus",
+      "link": "https://ambcrypto.com/dexe-network-activity-hits-ath-heres-why-30-is-back-in-focus/",
+      "published_at": "2026-06-26T00:00:25+00:00",
+      "source": "ambcrypto.com",
+      "score": 1,
+      "ntitle": "dexe network activity hits ath here s why 30 back focus",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Broadcom Built OpenAI’s First Chip in Record Time, but the Money Went Elsewhere",
+      "link": "https://beincrypto.com/broadcom-openai-jalapeno-chip-stock-price-impact/",
+      "published_at": "2026-06-25T23:30:00+00:00",
+      "source": "beincrypto.com",
+      "score": 5,
+      "ntitle": "broadcom built openai s first chip record time but money went elsewhere",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "US Law Enforcement Coalitions Warn Clarity Act Provision Could Shield Illicit Activity",
+      "link": "https://bitcoinist.com/us-law-enforcement-coalitions-warn-clarity-act-provision-could-shield-illicit-ac/",
+      "published_at": "2026-06-26T00:00:36+00:00",
+      "source": "bitcoinist.com",
+      "score": 2,
+      "ntitle": "us law enforcement coalitions warn clarity act provision could shield illicit activity",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "Congress"
+    },
+    {
+      "title": "Trump cites Iran funds for farm buys as Polymarket holds deal-by-Aug 31 at 25.5%",
+      "link": "https://Blockchain.News/news/trump-cites-iran-funds-for-farm-buys-as-polymarket-holds-deal-by-aug-31-at-255-0hnmj316v2s00",
+      "published_at": "2026-06-26T00:22:59+00:00",
+      "source": "blockchain.news",
+      "score": 2,
+      "ntitle": "trump cites iran funds farm buys polymarket holds deal aug 31 25 5",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Aave Co-Founder Kulechov Dismisses AAVE Discount Sale Reports, Teases Aavenomics 3.0 Buyback Plan",
+      "link": "https://blockonomi.com/aave-co-founder-kulechov-dismisses-aave-discount-sale-reports-teases-aavenomics-3-0-buyback-plan/",
+      "published_at": "2026-06-26T00:12:04+00:00",
+      "source": "blockonomi.com",
+      "score": 2,
+      "ntitle": "aave co founder kulechov dismisses aave discount sale reports teases aavenomics 3 0 buyback plan",
+      "coins": [
+        "AAVE"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "XRP Ledger Finally Overtakes Ethereum In Ripple RLUSD Stablecoin Supply",
+      "link": "https://coingape.com/xrp-ledger-finally-overtakes-ethereum-in-ripple-rlusd-stablecoin-supply/",
+      "published_at": "2026-06-26T00:17:32+00:00",
+      "source": "coingape.com",
+      "score": 12,
+      "ntitle": "xrp ledger finally overtakes ethereum ripple rlusd stablecoin supply",
+      "coins": [
+        "ETH",
+        "XRP"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Stani Kulechov dismisses claims of cut-price AAVE sale to Kraken",
+      "link": "https://crypto.news/stani-kulechov-dismisses-claims-of-cut-price-aave-sale-to-kraken/",
+      "published_at": "2026-06-26T00:06:44+00:00",
+      "source": "crypto.news",
+      "score": 3,
+      "ntitle": "stani kulechov dismisses claims cut price aave sale kraken",
+      "coins": [
+        "AAVE"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Daizen Maeda scores for Japan in World Cup match against Sweden",
+      "link": "https://cryptobriefing.com/daizen-maeda-scores-for-japan-in-world-cup-match-against-sweden/",
+      "published_at": "2026-06-26T00:19:43+00:00",
+      "source": "cryptobriefing.com",
+      "score": 1,
+      "ntitle": "daizen maeda scores japan world cup match against sweden",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Base Network Stalls After Invalid Block Freezes Sequencer",
+      "link": "https://news.bitcoin.com/base-network-stalls-after-invalid-block-freezes-sequencer/",
+      "published_at": "2026-06-25T23:30:36+00:00",
+      "source": "news.bitcoin.com",
+      "score": 5,
+      "ntitle": "base network stalls after invalid block freezes sequencer",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "XRP, Shiba Inu (SHIB), Bitcoin (BTC) and Dogecoin (DOGE) Price Analysis for June 25: Fresh Wave of Bullish Recovery",
+      "link": "https://u.today/xrp-shiba-inu-shib-bitcoin-btc-and-dogecoin-doge-price-analysis-for-june-25-fresh-wave-of-bullish",
+      "published_at": "2026-06-26T00:01:00+00:00",
+      "source": "u.today",
+      "score": 7,
+      "ntitle": "xrp shiba inu shib bitcoin btc dogecoin doge price analysis june 25 fresh wave bullish recovery",
+      "coins": [
+        "BTC",
+        "DOGE",
+        "SHIB",
+        "XRP"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "OpenAI Will Reportedly Stagger GPT-5.6 Release at US Government Request",
+      "link": "https://beincrypto.com/openai-gpt-5-6-staggered-release/",
+      "published_at": "2026-06-25T23:30:00+00:00",
+      "source": "beincrypto.com",
+      "score": 1,
+      "ntitle": "openai will reportedly stagger gpt 5 6 release us government request",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "House Luna standoff jolts timelines as Polymarket puts Starmer out next at 89.5%",
+      "link": "https://Blockchain.News/news/house-luna-standoff-jolts-timelines-as-polymarket-puts-starmer-out-next-at-895-0hnmj30upe9k0",
+      "published_at": "2026-06-26T00:16:59+00:00",
+      "source": "blockchain.news",
+      "score": 2,
+      "ntitle": "house luna standoff jolts timelines polymarket puts starmer out next 89 5",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Strategy escapes crisis signal despite heavy hedging, Anchorage says",
+      "link": "https://crypto.news/strategy-escapes-crisis-signal-despite-heavy-hedging-anchorage-says/",
+      "published_at": "2026-06-25T23:36:45+00:00",
+      "source": "crypto.news",
+      "score": 1,
+      "ntitle": "strategy escapes crisis signal despite heavy hedging anchorage says",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Trump: Iran agrees not to pursue nuclear weapons, Strait of Hormuz reopens",
+      "link": "https://cryptobriefing.com/trump-iran-agrees-not-to-pursue-nuclear-weapons-strait-of-hormuz-reopens/",
+      "published_at": "2026-06-26T00:17:35+00:00",
+      "source": "cryptobriefing.com",
+      "score": 1,
+      "ntitle": "trump iran agrees not pursue nuclear weapons strait hormuz reopens",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    }
+  ],
+  "day": [
+    {
       "title": "From Ronin to WazirX: Why 55% of ‘DeFi hacks’ have NOTHING to do with code!",
       "link": "https://ambcrypto.com/from-ronin-to-wazirx-why-55-of-defi-hacks-have-nothing-to-do-with-code/",
       "published_at": "2026-06-25T23:00:11+00:00",
       "source": "ambcrypto.com",
       "score": 3,
       "ntitle": "ronin wazirx why 55 defi hacks have nothing do code",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "XRP Quietly Loses Its Last Line of Support",
-      "link": "https://beincrypto.com/xrp-price-loses-last-line-of-support-rsi-hits-oversold/",
-      "published_at": "2026-06-25T22:30:00+00:00",
-      "source": "beincrypto.com",
-      "score": 6,
-      "ntitle": "xrp quietly loses last line support",
-      "coins": [
-        "XRP"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Iowa pesticide ruling fuels politics as Polymarket 2028 GOP odds flat",
-      "link": "https://Blockchain.News/news/iowa-pesticide-ruling-fuels-politics-as-polymarket-2028-gop-odds-flat-0hnmj0tui7e80",
-      "published_at": "2026-06-25T22:17:05+00:00",
-      "source": "blockchain.news",
-      "score": 5,
-      "ntitle": "iowa pesticide ruling fuels politics polymarket 2028 gop odds flat",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Regulatory"
-    },
-    {
-      "title": "SecondFi Exploit Drains 374 Cardano Wallets, Over 16 Million ADA Stolen in Coordinated Attack",
-      "link": "https://blockonomi.com/secondfi-exploit-drains-374-cardano-wallets-over-16-million-ada-stolen-in-coordinated-attack/",
-      "published_at": "2026-06-25T22:52:18+00:00",
-      "source": "blockonomi.com",
-      "score": 2,
-      "ntitle": "secondfi exploit drains 374 cardano wallets over 16 million ada stolen coordinated attack",
-      "coins": [
-        "ADA"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Democrats probe Trump's troubled $16 million reflecting pool renovation",
-      "link": "https://www.cnbc.com/2026/06/25/trump-reflecting-pool-renovation-cost-congress.html",
-      "published_at": "2026-06-25T22:07:34+00:00",
-      "source": "cnbc.com",
-      "score": 1,
-      "ntitle": "democrats probe trump s troubled 16 million reflecting pool renovation",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "CoinShares reveals hidden crypto blind spot among UK financial advisers",
-      "link": "https://crypto.news/coinshares-reveals-hidden-crypto-blind-spot-among-uk-financial-advisers/",
-      "published_at": "2026-06-25T22:56:36+00:00",
-      "source": "crypto.news",
-      "score": 1,
-      "ntitle": "coinshares reveals hidden crypto blind spot among uk financial advisers",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Fox reports 6.2M viewers for England vs. Ghana match as World Cup viewership surges",
-      "link": "https://cryptobriefing.com/fox-world-cup-viewership-england-ghana/",
-      "published_at": "2026-06-25T22:56:48+00:00",
-      "source": "cryptobriefing.com",
-      "score": 2,
-      "ntitle": "fox reports 6 2m viewers england vs ghana match world cup viewership surges",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Russia creates crypto sanctions loophole, but cash-out routes remain ringfenced",
-      "link": "https://cryptoslate.com/russias-crypto-trade-corridor-puts-bitcoin-and-stablecoins-in-sanctions-crosshairs/",
-      "published_at": "2026-06-25T22:30:44+00:00",
-      "source": "cryptoslate.com",
-      "score": 1,
-      "ntitle": "russia creates crypto sanctions loophole but cash out routes remain ringfenced",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Regulatory"
-    },
-    {
-      "title": "No Crypto Allowed: Brazil’s Public Prosecutor’s Office Tightens Vigilance on Election Funding",
-      "link": "https://news.bitcoin.com/no-crypto-allowed-brazils-public-prosecutors-office-tightens-vigilance-on-election-funding/",
-      "published_at": "2026-06-25T22:30:31+00:00",
-      "source": "news.bitcoin.com",
-      "score": 2,
-      "ntitle": "no crypto allowed brazil s public prosecutor s office tightens vigilance election funding",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "21Shares slashes crypto forecasts despite rising institutional demand",
-      "link": "https://crypto.news/21shares-slashes-crypto-forecasts-despite-rising-institutional-demand/",
-      "published_at": "2026-06-25T22:21:56+00:00",
-      "source": "crypto.news",
-      "score": 3,
-      "ntitle": "21shares slashes crypto forecasts despite rising institutional demand",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Trump taps telecom regulatory lawyer as DOJ antitrust head",
-      "link": "https://cryptobriefing.com/trump-doj-antitrust-candeub-telecom/",
-      "published_at": "2026-06-25T22:56:43+00:00",
-      "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "trump taps telecom regulatory lawyer doj antitrust head",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Regulatory"
-    }
-  ],
-  "day": [
-    {
-      "title": "Can Strategy rebound after its first close below $100 since 2024?",
-      "link": "https://ambcrypto.com/can-strategy-rebound-after-its-first-close-below-100-since-2024/",
-      "published_at": "2026-06-25T21:30:11+00:00",
-      "source": "ambcrypto.com",
-      "score": 1,
-      "ntitle": "can strategy rebound after first close below 100 since 2024",
       "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
@@ -166,15 +210,13 @@
       "agency": null
     },
     {
-      "title": "Aave Founder Stani Kulechov Denies Kraken Stake Sale Report, Confirms AAVE Buybacks",
-      "link": "https://beincrypto.com/aave-denies-kraken-stake-sale/",
-      "published_at": "2026-06-25T22:03:57+00:00",
+      "title": "BitGo Cuts 15% of Workforce to Focus on Stablecoins and AI",
+      "link": "https://beincrypto.com/bitgo-layoffs-stablecoins-ai-pivot/",
+      "published_at": "2026-06-25T23:05:17+00:00",
       "source": "beincrypto.com",
-      "score": 2,
-      "ntitle": "aave founder stani kulechov denies kraken stake sale report confirms aave buybacks",
-      "coins": [
-        "AAVE"
-      ],
+      "score": 3,
+      "ntitle": "bitgo cuts 15 workforce focus stablecoins ai",
+      "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
@@ -206,41 +248,37 @@
       "agency": "SEC"
     },
     {
-      "title": "Supreme Court border ruling as Polymarket raises Putin exit odds to 9.5%",
-      "link": "https://Blockchain.News/news/supreme-court-border-ruling-as-polymarket-raises-putin-exit-odds-to-95-0hnmiur0l0580",
-      "published_at": "2026-06-25T20:17:18+00:00",
+      "title": "Iowa pesticide ruling fuels politics as Polymarket 2028 GOP odds flat",
+      "link": "https://Blockchain.News/news/iowa-pesticide-ruling-fuels-politics-as-polymarket-2028-gop-odds-flat-0hnmj0tui7e80",
+      "published_at": "2026-06-25T22:17:05+00:00",
       "source": "blockchain.news",
-      "score": 3,
-      "ntitle": "supreme court border ruling polymarket raises putin exit odds 9 5",
+      "score": 5,
+      "ntitle": "iowa pesticide ruling fuels politics polymarket 2028 gop odds flat",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": true,
       "agency": "Regulatory"
     },
     {
-      "title": "Uniswap Launches No-Code Token Auction Tool to Take On Pump.fun",
-      "link": "https://blockonomi.com/uniswap-launches-no-code-token-auction-tool-to-take-on-pump-fun/",
-      "published_at": "2026-06-25T21:50:23+00:00",
+      "title": "Polymarket Hack: $3M Drained in Supply-Chain Frontend Attack",
+      "link": "https://blockonomi.com/polymarket-hack-3m-drained-in-supply-chain-frontend-attack/",
+      "published_at": "2026-06-25T23:19:14+00:00",
       "source": "blockonomi.com",
-      "score": 5,
-      "ntitle": "uniswap launches no code token auction tool take pump fun",
-      "coins": [
-        "UNI"
-      ],
-      "sentiment": "bullish",
+      "score": 1,
+      "ntitle": "polymarket hack 3m drained supply chain frontend attack",
+      "coins": [],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Iran behind attack on cargo vessel near Oman in Strait of Hormuz, U.S. official tells MS NOW",
-      "link": "https://www.cnbc.com/2026/06/25/iran-ghalibaf-trump-us-farm-products-assets.html",
-      "published_at": "2026-06-25T19:46:29+00:00",
+      "title": "Democrats probe Trump's troubled $16 million reflecting pool renovation",
+      "link": "https://www.cnbc.com/2026/06/25/trump-reflecting-pool-renovation-cost-congress.html",
+      "published_at": "2026-06-25T22:07:34+00:00",
       "source": "cnbc.com",
-      "score": 2,
-      "ntitle": "iran behind attack cargo vessel near oman strait hormuz u s official tells ms now",
-      "coins": [
-        "NEAR"
-      ],
+      "score": 1,
+      "ntitle": "democrats probe trump s troubled 16 million reflecting pool renovation",
+      "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
@@ -258,12 +296,12 @@
       "agency": null
     },
     {
-      "title": "Breaking: Ripple Promotes CLARITY Act With Latest “On The Road” Campaign",
-      "link": "https://coingape.com/ripple-promotes-clarity-act-with-latest-on-the-road-campaign/",
+      "title": "Breaking: Ripple Endorses CLARITY Act With Latest “On The Road” Campaign",
+      "link": "https://coingape.com/ripple-endorses-clarity-act-with-latest-on-the-road-campaign/",
       "published_at": "2026-06-25T19:03:59+00:00",
       "source": "coingape.com",
       "score": 5,
-      "ntitle": "breaking ripple promotes clarity act latest road campaign",
+      "ntitle": "breaking ripple endorses clarity act latest road campaign",
       "coins": [
         "XRP"
       ],
@@ -286,38 +324,36 @@
       "agency": null
     },
     {
-      "title": "Bitcoin bounces off new 2026 price lows: Will US stock weakness push BTC lower?",
-      "link": "https://cointelegraph.com/markets/bitcoin-bounces-off-new-2026-price-lows-will-us-stock-weakness-push-btc-lower?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "published_at": "2026-06-25T21:02:50+00:00",
+      "title": "Does Botanix’s failure prove Bitcoiners don’t care about DeFi?",
+      "link": "https://cointelegraph.com/features/does-botanixs-failure-prove-bitcoiners-dont-care-about-defi?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "published_at": "2026-06-25T23:09:10+00:00",
       "source": "cointelegraph.com",
       "score": 3,
-      "ntitle": "bitcoin bounces off new 2026 price lows will us stock weakness push btc lower",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Michael Saylor Built a Flywheel for a Bull Market. It Is Now Spinning in Reverse",
-      "link": "https://crypto.news/michael-saylor-strategy-flywheel-bitcoin-mnav-reverse/",
-      "published_at": "2026-06-25T22:04:48+00:00",
-      "source": "crypto.news",
-      "score": 2,
-      "ntitle": "michael saylor built flywheel bull market it now spinning reverse",
+      "ntitle": "does botanix s failure prove bitcoiners don t care about defi",
       "coins": [],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Qualcomm designs China-specific data center chip to comply with US export curbs",
-      "link": "https://cryptobriefing.com/qualcomm-china-data-center-chip-dragonfly/",
-      "published_at": "2026-06-25T22:06:33+00:00",
+      "title": "CoinShares reveals hidden crypto blind spot among UK financial advisers",
+      "link": "https://crypto.news/coinshares-reveals-hidden-crypto-blind-spot-among-uk-financial-advisers/",
+      "published_at": "2026-06-25T22:56:36+00:00",
+      "source": "crypto.news",
+      "score": 1,
+      "ntitle": "coinshares reveals hidden crypto blind spot among uk financial advisers",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Lingyi iTech set for Hong Kong trading debut after $1B raise",
+      "link": "https://cryptobriefing.com/lingyi-itech-hong-kong-listing-billion-raise/",
+      "published_at": "2026-06-25T23:21:22+00:00",
       "source": "cryptobriefing.com",
       "score": 3,
-      "ntitle": "qualcomm designs china specific data center chip comply us export curbs",
+      "ntitle": "lingyi itech set hong kong trading debut after 1b raise",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -336,14 +372,14 @@
       "agency": null
     },
     {
-      "title": "Stablecoins are quickly becoming the Kevin Warsh’s Fed’s next policy problem",
-      "link": "https://cryptoslate.com/stablecoins-are-quickly-becoming-the-kevin-warshs-feds-next-policy-problem/",
-      "published_at": "2026-06-25T21:35:15+00:00",
+      "title": "Russia creates crypto sanctions loophole, but cash-out routes remain ringfenced",
+      "link": "https://cryptoslate.com/russias-crypto-trade-corridor-puts-bitcoin-and-stablecoins-in-sanctions-crosshairs/",
+      "published_at": "2026-06-25T22:30:44+00:00",
       "source": "cryptoslate.com",
-      "score": 5,
-      "ntitle": "stablecoins quickly becoming kevin warsh s fed s next policy problem",
+      "score": 1,
+      "ntitle": "russia creates crypto sanctions loophole but cash out routes remain ringfenced",
       "coins": [],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
       "is_regulation": true,
       "agency": "Regulatory"
     },
@@ -400,16 +436,14 @@
       "agency": null
     },
     {
-      "title": "Vinny Lingham Predicted Saylor Would Hurt Bitcoin More Than FTX. Now He’s Explaining Why",
-      "link": "https://news.bitcoin.com/vinny-lingham-predicted-saylor-would-hurt-bitcoin-more-than-ftx-now-hes-explaining-why/",
-      "published_at": "2026-06-25T21:30:15+00:00",
+      "title": "No Crypto Allowed: Brazil’s Public Prosecutor’s Office Tightens Vigilance on Election Funding",
+      "link": "https://news.bitcoin.com/no-crypto-allowed-brazils-public-prosecutors-office-tightens-vigilance-on-election-funding/",
+      "published_at": "2026-06-25T22:30:31+00:00",
       "source": "news.bitcoin.com",
       "score": 2,
-      "ntitle": "vinny lingham predicted saylor would hurt bitcoin more than ftx now he s explaining why",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "neutral",
+      "ntitle": "no crypto allowed brazil s public prosecutor s office tightens vigilance election funding",
+      "coins": [],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -480,15 +514,13 @@
       "agency": "Regulatory"
     },
     {
-      "title": "Bitcoin’s fall to $60K changes things, but what does the data say?",
-      "link": "https://ambcrypto.com/bitcoins-fall-to-60k-changes-things-but-what-does-the-data-say/",
-      "published_at": "2026-06-25T20:10:57+00:00",
+      "title": "Can Strategy rebound after its first close below $100 since 2024?",
+      "link": "https://ambcrypto.com/can-strategy-rebound-after-its-first-close-below-100-since-2024/",
+      "published_at": "2026-06-25T21:30:11+00:00",
       "source": "ambcrypto.com",
-      "score": 3,
-      "ntitle": "bitcoin s fall 60k changes things but what does data say",
-      "coins": [
-        "BTC"
-      ],
+      "score": 1,
+      "ntitle": "can strategy rebound after first close below 100 since 2024",
+      "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
@@ -506,14 +538,16 @@
       "agency": null
     },
     {
-      "title": "GTA 6 Pre-Orders Send Take-Two Stock Down as Price and Launch Details Disappoint",
-      "link": "https://beincrypto.com/gta-6-preorders-take-two-stock-drop/",
-      "published_at": "2026-06-25T21:24:04+00:00",
+      "title": "XRP Quietly Loses Its Last Line of Support",
+      "link": "https://beincrypto.com/xrp-price-loses-last-line-of-support-rsi-hits-oversold/",
+      "published_at": "2026-06-25T22:30:00+00:00",
       "source": "beincrypto.com",
-      "score": 4,
-      "ntitle": "gta 6 pre orders send take two stock down price launch details disappoint",
-      "coins": [],
-      "sentiment": "bearish",
+      "score": 6,
+      "ntitle": "xrp quietly loses last line support",
+      "coins": [
+        "XRP"
+      ],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -598,20 +632,6 @@
       "agency": null
     },
     {
-      "title": "XRP Crash Warning: Analyst Projects Drop To $0.15 In The Darkest Forecast Ever",
-      "link": "https://coingape.com/xrp-crash-warning-analyst-projects-drop-to-0-15-in-the-darkest-forecast/",
-      "published_at": "2026-06-24T22:32:44+00:00",
-      "source": "coingape.com",
-      "score": 6,
-      "ntitle": "xrp crash warning analyst projects drop 0 15 darkest forecast ever",
-      "coins": [
-        "XRP"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
       "title": "KuCoin Pay expands crypto payments across Bangladesh, Mexico, Zambia",
       "link": "https://coinjournal.net/news/kucoin-pay-expands-crypto-payments-across-bangladesh-mexico-zambia/",
       "published_at": "2026-06-24T12:32:18+00:00",
@@ -638,28 +658,26 @@
       "agency": null
     },
     {
-      "title": "Kalshi blasts Illinois sports betting law with fresh lawsuit",
-      "link": "https://crypto.news/kalshi-blasts-illinois-sports-betting-law-with-fresh-lawsuit/",
-      "published_at": "2026-06-24T22:53:51+00:00",
+      "title": "Cathie Wood predicts inflation collapse as Fed hike fears grow",
+      "link": "https://crypto.news/cathie-wood-predicts-inflation-collapse-as-fed-hike-fears-grow/",
+      "published_at": "2026-06-24T23:37:57+00:00",
       "source": "crypto.news",
       "score": 1,
-      "ntitle": "kalshi blasts illinois sports betting law fresh lawsuit",
+      "ntitle": "cathie wood predicts inflation collapse fed hike fears grow",
       "coins": [],
       "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Regulatory"
+      "is_regulation": false,
+      "agency": null
     },
     {
-      "title": "Is This the Hidden Reason Behind Bitcoin’s $23K Collapse in Just 6 Weeks?",
-      "link": "https://cryptopotato.com/is-this-the-hidden-reason-behind-bitcoins-23k-collapse-in-just-6-weeks/",
-      "published_at": "2026-06-24T21:07:15+00:00",
+      "title": "Nearly 70% of Pump.fun Tokens Die on Launch Day: CoinGecko",
+      "link": "https://cryptopotato.com/nearly-70-of-pump-fun-tokens-die-on-launch-day-coingecko/",
+      "published_at": "2026-06-24T23:45:03+00:00",
       "source": "cryptopotato.com",
-      "score": 1,
-      "ntitle": "this hidden reason behind bitcoin s 23k collapse just 6 weeks",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
+      "score": 3,
+      "ntitle": "nearly 70 pump fun tokens die launch day coingecko",
+      "coins": [],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -769,16 +787,19 @@
       "agency": null
     },
     {
-      "title": "Bitcoin Collapses Below $60K, but Samson Mow Says Everything Is Fine",
-      "link": "https://u.today/bitcoin-collapses-below-60k-but-samson-mow-says-everything-is-fine",
-      "published_at": "2026-06-24T20:35:47+00:00",
+      "title": "XRP Recovery Hopes Are Alive, Is Bitcoin (BTC) Next Breakout Around the Corner? Ethereum (ETH) Stabilizes Near $1,700: Crypto Market Review",
+      "link": "https://u.today/xrp-recovery-hopes-are-alive-is-bitcoin-btc-next-breakout-around-the-corner-ethereum-eth-stabilizes",
+      "published_at": "2026-06-25T00:01:00+00:00",
       "source": "u.today",
-      "score": 1,
-      "ntitle": "bitcoin collapses below 60k but samson mow says everything fine",
+      "score": 8,
+      "ntitle": "xrp recovery hopes alive bitcoin btc next breakout around corner ethereum eth stabilizes near 1 700 crypto market review",
       "coins": [
-        "BTC"
+        "BTC",
+        "ETH",
+        "NEAR",
+        "XRP"
       ],
-      "sentiment": "bearish",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -845,18 +866,6 @@
       "agency": null
     },
     {
-      "title": "Just-In: Kalshi Eyes To Raise More Capital At $40 Billion Valuation",
-      "link": "https://coingape.com/kalshi-eyes-to-raise-more-capital-at-40-billion/",
-      "published_at": "2026-06-24T21:37:30+00:00",
-      "source": "coingape.com",
-      "score": 3,
-      "ntitle": "just kalshi eyes raise more capital 40 billion valuation",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
       "title": "XRP struggles below key resistance amid geopolitical tensions",
       "link": "https://coinjournal.net/news/xrp-struggles-below-key-resistance-amid-geopolitical-tensions/",
       "published_at": "2026-06-24T10:09:09+00:00",
@@ -883,16 +892,16 @@
       "agency": null
     },
     {
-      "title": "Bitcoin’s Network Is Booming Even as Prices Remain Below Record Highs",
-      "link": "https://cryptopotato.com/bitcoins-network-is-booming-even-as-prices-remain-below-record-highs/",
-      "published_at": "2026-06-24T20:32:50+00:00",
+      "title": "Is This the Hidden Reason Behind Bitcoin’s $23K Collapse in Just 6 Weeks?",
+      "link": "https://cryptopotato.com/is-this-the-hidden-reason-behind-bitcoins-23k-collapse-in-just-6-weeks/",
+      "published_at": "2026-06-24T21:07:15+00:00",
       "source": "cryptopotato.com",
-      "score": 3,
-      "ntitle": "bitcoin s network booming even prices remain below record highs",
+      "score": 1,
+      "ntitle": "this hidden reason behind bitcoin s 23k collapse just 6 weeks",
       "coins": [
         "BTC"
       ],
-      "sentiment": "bullish",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -921,6 +930,30 @@
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
+    },
+    {
+      "title": "Federal Reserve notes with deep sadness the passing of Alan Greenspan",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260622a.htm",
+      "published_at": "2026-06-22T12:45:00+00:00",
+      "source": "federalreserve.gov",
+      "score": 1,
+      "ntitle": "federal reserve notes deep sadness passing alan greenspan",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Fed"
+    },
+    {
+      "title": "FTAV’s further reading",
+      "link": "https://www.ft.com/content/e168bcb2-5923-4ef6-9dd5-c08a67a17790",
+      "published_at": "2026-06-23T05:44:36+00:00",
+      "source": "ft.com",
+      "score": 4,
+      "ntitle": "ftav s further reading",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
     }
   ],
   "month": [
@@ -937,16 +970,16 @@
       "agency": null
     },
     {
-      "title": "How Re Is Turning Reinsurance Into a Stablecoin Yield Source",
-      "link": "https://www.bankless.com/read/how-re-is-turning-reinsurance-into-a-stablecoin-yield-source",
-      "published_at": "2026-06-18T20:07:23+00:00",
+      "title": "Why CME Is Really Suing the CFTC Over Perps",
+      "link": "https://www.bankless.com/read/why-cme-suing-cftc-perps",
+      "published_at": "2026-06-18T23:54:02+00:00",
       "source": "bankless.com",
-      "score": 3,
-      "ntitle": "how re turning reinsurance into stablecoin yield source",
+      "score": 1,
+      "ntitle": "why cme really suing cftc over perps",
       "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "CFTC"
     },
     {
       "title": "Brazil’s Maturing Market Meets Maturing Threats: How Global Crypto Crime Trends Are Landing in Latin America’s Largest Market",
@@ -1035,12 +1068,12 @@
       "agency": null
     },
     {
-      "title": "Kraken App Adds Support for Onchain Trading",
-      "link": "https://www.bankless.com/read/news/kraken-app-adds-support-for-onchain-trading",
-      "published_at": "2026-06-18T18:41:22+00:00",
+      "title": "How Re Is Turning Reinsurance Into a Stablecoin Yield Source",
+      "link": "https://www.bankless.com/read/how-re-is-turning-reinsurance-into-a-stablecoin-yield-source",
+      "published_at": "2026-06-18T20:07:23+00:00",
       "source": "bankless.com",
       "score": 3,
-      "ntitle": "kraken app adds support onchain trading",
+      "ntitle": "how re turning reinsurance into stablecoin yield source",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -1111,52 +1144,52 @@
   "trending": [
     {
       "tag": "#XRP",
-      "count": 53,
+      "count": 52,
       "type": "coin",
       "pct": 100
     },
     {
       "tag": "#Ai",
-      "count": 50,
+      "count": 52,
       "type": "topic",
-      "pct": 94
+      "pct": 100
     },
     {
       "tag": "#Defi",
-      "count": 47,
+      "count": 43,
       "type": "topic",
-      "pct": 89
+      "pct": 83
     },
     {
       "tag": "#Xrp",
-      "count": 41,
+      "count": 40,
       "type": "topic",
       "pct": 77
     },
     {
-      "tag": "#ETH",
-      "count": 21,
-      "type": "coin",
-      "pct": 40
+      "tag": "#Bitcoin",
+      "count": 22,
+      "type": "topic",
+      "pct": 42
     },
     {
-      "tag": "#Bitcoin",
-      "count": 21,
-      "type": "topic",
-      "pct": 40
+      "tag": "#ETH",
+      "count": 20,
+      "type": "coin",
+      "pct": 38
     },
     {
       "tag": "#Stablecoin",
-      "count": 19,
+      "count": 20,
       "type": "topic",
-      "pct": 36
+      "pct": 38
     },
     {
       "tag": "#BTC",
-      "count": 17,
+      "count": 18,
       "type": "coin",
-      "pct": 32
+      "pct": 35
     }
   ],
-  "generated_at": "2026-06-25T23:07:16.847981+00:00"
+  "generated_at": "2026-06-26T00:21:33.313084+00:00"
 }
