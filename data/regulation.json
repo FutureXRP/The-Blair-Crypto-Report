@@ -1,11 +1,20 @@
 [
   {
-    "title": "CFTC’s Mike Selig Says Illinois Crypto Tax Could Push Innovation Elsewhere",
-    "link": "https://blockonomi.com/cftcs-mike-selig-says-illinois-crypto-tax-could-push-innovation-elsewhere/",
-    "source": "blockonomi.com",
-    "published_at": "2026-07-03T07:19:45+00:00",
-    "agency": "CFTC",
-    "sentiment": "bullish",
+    "title": "Trump and allies push to reshape Federal Reserve after Supreme Court ruling",
+    "link": "https://cryptobriefing.com/trump-reshape-federal-reserve-supreme-court/",
+    "source": "cryptobriefing.com",
+    "published_at": "2026-07-03T09:28:38+00:00",
+    "agency": "Fed",
+    "sentiment": "neutral",
+    "coins": []
+  },
+  {
+    "title": "US Treasury launches children’s investment accounts with $6.25B philanthropic backing, but crypto is banned",
+    "link": "https://cryptobriefing.com/treasury-trump-accounts-children-investment-crypto-excluded/",
+    "source": "cryptobriefing.com",
+    "published_at": "2026-07-03T09:03:53+00:00",
+    "agency": "Treasury",
+    "sentiment": "neutral",
     "coins": []
   },
   {
@@ -18,28 +27,10 @@
     "coins": []
   },
   {
-    "title": "Russia’s Digital Ruble Set for September 2026 Launch Despite EU Sanctions",
-    "link": "https://blockonomi.com/russias-digital-ruble-set-for-september-2026-launch-despite-eu-sanctions/",
-    "source": "blockonomi.com",
-    "published_at": "2026-07-03T06:59:45+00:00",
-    "agency": "EU",
-    "sentiment": "neutral",
-    "coins": []
-  },
-  {
     "title": "CLARITY Act gains first major law enforcement endorsement",
     "link": "https://crypto.news/clarity-act-gains-first-major-law-enforcement-endorsement/",
     "source": "crypto.news",
     "published_at": "2026-07-03T06:58:10+00:00",
-    "agency": "Congress",
-    "sentiment": "bullish",
-    "coins": []
-  },
-  {
-    "title": "CLARITY Act Gains First Major Law Enforcement Endorsement Ahead of Senate Vote",
-    "link": "https://blockonomi.com/clarity-act-gains-first-major-law-enforcement-endorsement-ahead-of-senate-vote/",
-    "source": "blockonomi.com",
-    "published_at": "2026-07-03T06:53:41+00:00",
     "agency": "Congress",
     "sentiment": "bullish",
     "coins": []
@@ -50,15 +41,6 @@
     "source": "beincrypto.com",
     "published_at": "2026-07-03T06:25:21+00:00",
     "agency": "Congress",
-    "sentiment": "neutral",
-    "coins": []
-  },
-  {
-    "title": "Franklin Templeton Executes Tokenized U.S. Treasury Trade With Stablecoins on Canton Network",
-    "link": "https://blockonomi.com/franklin-templeton-executes-tokenized-u-s-treasury-trade-with-stablecoins-on-canton-network/",
-    "source": "blockonomi.com",
-    "published_at": "2026-07-03T06:24:15+00:00",
-    "agency": "Treasury",
     "sentiment": "neutral",
     "coins": []
   },
@@ -190,7 +172,7 @@
     "coins": []
   },
   {
-    "title": "Tether freezes 134 ISIS terror wallets as stablecoins now sit inside the sanctions machine",
+    "title": "Tether freezes 134 wallets as stablecoins now sit inside the sanctions machine",
     "link": "https://cryptoslate.com/tether-freezes-isis-k-wallets-proving-that-stablecoins-now-side-inside-a-sanctions-machine/",
     "source": "cryptoslate.com",
     "published_at": "2026-07-02T16:00:58+00:00",
@@ -239,15 +221,6 @@
     ]
   },
   {
-    "title": "3 Crypto Stocks to Watch as MiCA Regulations Reshape $400B EU Crypto Market",
-    "link": "https://coingape.com/markets/3-crypto-stocks-to-watch-as-mica-regulations-reshape-400b-eu-crypto-market/",
-    "source": "coingape.com",
-    "published_at": "2026-07-02T11:55:31+00:00",
-    "agency": "EU",
-    "sentiment": "bullish",
-    "coins": []
-  },
-  {
     "title": "Three years after MiCA became law, Europe's crypto framework is undergoing a rethink",
     "link": "https://www.coindesk.com/policy/2026/07/02/three-years-after-mica-became-law-europe-s-crypto-framework-is-undergoing-a-rethink",
     "source": "coindesk.com",
@@ -286,5 +259,38 @@
     "agency": "Regulatory",
     "sentiment": "neutral",
     "coins": []
+  },
+  {
+    "title": "Binance moves ahead in Philippines as SEC clears BlockShoals sandbox testing",
+    "link": "https://crypto.news/binance-moves-ahead-in-philippines-as-sec-clears-blockshoals-sandbox-testing/",
+    "source": "crypto.news",
+    "published_at": "2026-07-02T09:35:52+00:00",
+    "agency": "SEC",
+    "sentiment": "bullish",
+    "coins": [
+      "BNB"
+    ]
+  },
+  {
+    "title": "Metaplanet buys another $170 million of bitcoin expanding treasury to 43,000 BTC",
+    "link": "https://www.coindesk.com/markets/2026/07/02/metaplanet-buys-another-usd170-million-of-bitcoin-expanding-treasury-to-43-000-btc",
+    "source": "coindesk.com",
+    "published_at": "2026-07-02T08:57:20+00:00",
+    "agency": "Treasury",
+    "sentiment": "bullish",
+    "coins": [
+      "BTC"
+    ]
+  },
+  {
+    "title": "Avalanche Treasury Corp Stock Crashes 93%, Warns SEC It May Not Survive the Year",
+    "link": "https://thedefiant.io/news/blockchains/avalanche-treasury-corp-stock-crashes-93-warns-sec-going-concern",
+    "source": "thedefiant.io",
+    "published_at": "2026-07-01T20:39:28+00:00",
+    "agency": "SEC",
+    "sentiment": "bearish",
+    "coins": [
+      "AVAX"
+    ]
   }
 ]
