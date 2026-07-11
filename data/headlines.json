@@ -2,74 +2,13 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "3 Trump Moves That Shook Markets This Week",
-      "link": "https://beincrypto.com/trump-market-moves-this-week/",
-      "published_at": "2026-07-11T18:51:22+00:00",
-      "source": "beincrypto.com",
+      "title": "Can Solana reverse its ‘worst quarter’ since 2023 as fees drop 78%?",
+      "link": "https://ambcrypto.com/can-solana-reverse-its-worst-quarter-since-2023-as-fees-drop-78/",
+      "published_at": "2026-07-11T20:00:32+00:00",
+      "source": "ambcrypto.com",
       "score": 1,
-      "ntitle": "3 trump moves that shook markets this week",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "South Korea Crypto Exchange Volume Drops Below KRW 10 Trillion",
-      "link": "https://blockonomi.com/south-korea-crypto-exchange-volume-drops-below-krw-10-trillion/",
-      "published_at": "2026-07-11T18:28:50+00:00",
-      "source": "blockonomi.com",
-      "score": 1,
-      "ntitle": "south korea crypto exchange volume drops below krw 10 trillion",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Three weeks to 2030: the seven-Democrat math that decides the CLARITY Act",
-      "link": "https://crypto.news/cynthia-lummis-races-to-save-clarity-act-before-2030/",
-      "published_at": "2026-07-11T19:10:30+00:00",
-      "source": "crypto.news",
-      "score": 3,
-      "ntitle": "three weeks 2030 seven democrat math that decides clarity act",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Congress"
-    },
-    {
-      "title": "Jamie Dimon warns AI-powered cyber threats pose biggest risk to US",
-      "link": "https://cryptobriefing.com/dimon-warns-ai-cyber-threats-biggest-risk/",
-      "published_at": "2026-07-11T19:14:55+00:00",
-      "source": "cryptobriefing.com",
-      "score": 3,
-      "ntitle": "jamie dimon warns ai powered cyber threats pose biggest risk us",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Crypto won the ETF fight but now the SEC is questioning if things have gone too far",
-      "link": "https://cryptoslate.com/crypto-won-the-etf-fight-but-now-the-sec-is-questioning-if-things-have-gone-too-far/",
-      "published_at": "2026-07-11T19:05:51+00:00",
-      "source": "cryptoslate.com",
-      "score": 4,
-      "ntitle": "crypto won etf fight but now sec questioning if things have gone too far",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "SEC"
-    },
-    {
-      "title": "ChatGPT 5.6 Sol, Claude Fable Join 7 AI Models to Predict Bitcoin’s Aug. 1 Price",
-      "link": "https://news.bitcoin.com/chatgpt-5-6-sol-claude-fable-join-7-ai-models-to-predict-bitcoins-aug-1-price/",
-      "published_at": "2026-07-11T18:20:41+00:00",
-      "source": "news.bitcoin.com",
-      "score": 2,
-      "ntitle": "chatgpt 5 6 sol claude fable join 7 ai models predict bitcoin s aug 1 price",
+      "ntitle": "can solana reverse worst quarter since 2023 fees drop 78",
       "coins": [
-        "BTC",
         "SOL"
       ],
       "sentiment": "bearish",
@@ -77,9 +16,61 @@
       "agency": null
     },
     {
+      "title": "Hedera’s Largest Lending Protocol, Bonzo, Loses $9M in Oracle Exploit",
+      "link": "https://blockonomi.com/hederas-largest-lending-protocol-bonzo-loses-9m-in-oracle-exploit/",
+      "published_at": "2026-07-11T19:45:05+00:00",
+      "source": "blockonomi.com",
+      "score": 8,
+      "ntitle": "hedera s largest lending protocol bonzo loses 9m oracle exploit",
+      "coins": [
+        "HBAR"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "The general leaves before the war ends: Paul Grewal exits Coinbase on the eve of CLARITY",
+      "link": "https://crypto.news/paul-grewal-exits-coinbase-cryptos-biggest-battle/",
+      "published_at": "2026-07-11T20:07:11+00:00",
+      "source": "crypto.news",
+      "score": 2,
+      "ntitle": "general leaves before war ends paul grewal exits coinbase eve clarity",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Spain’s dominant Euro championship run highlights growing intersection of football and crypto betting markets",
+      "link": "https://cryptobriefing.com/spain-euro-championship-crypto-sports-betting/",
+      "published_at": "2026-07-11T20:11:09+00:00",
+      "source": "cryptobriefing.com",
+      "score": 4,
+      "ntitle": "spain s dominant euro championship run highlights growing intersection football crypto betting markets",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Bitcoin Chain Splits Explained: Why Every BTC Holder Gets a New 1:1 Asset",
+      "link": "https://news.bitcoin.com/bitcoin-chain-splits-explained-why-every-btc-holder-gets-a-new-11-asset/",
+      "published_at": "2026-07-11T19:38:48+00:00",
+      "source": "news.bitcoin.com",
+      "score": 1,
+      "ntitle": "bitcoin chain splits explained why every btc holder gets new 1 1 asset",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
       "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
       "link": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
-      "published_at": "2026-07-11T19:18:07+00:00",
+      "published_at": "2026-07-11T20:12:11+00:00",
       "source": "thedefiant.io",
       "score": 8,
       "ntitle": "etoro takes strategic stake onchain derivatives exchange extended plans zengo tie up",
@@ -89,35 +80,49 @@
       "agency": null
     },
     {
-      "title": "Ripple’s best year is XRP’s worst: the disconnect between $3.5b in tokenized assets and a $1 token",
-      "link": "https://crypto.news/ripple-builds-a-3-5b-empire-as-xrp-sinks-toward-1-mark/",
-      "published_at": "2026-07-11T18:31:49+00:00",
-      "source": "crypto.news",
-      "score": 13,
-      "ntitle": "ripple s best year xrp s worst disconnect between 3 5b tokenized assets 1 token",
+      "title": "Bonzo Lend Loses $9.05M in Hedera Oracle Exploit Linked to Supra Flaw",
+      "link": "https://blockonomi.com/bonzo-lend-loses-9-05m-in-hedera-oracle-exploit-linked-to-supra-flaw/",
+      "published_at": "2026-07-11T19:25:22+00:00",
+      "source": "blockonomi.com",
+      "score": 5,
+      "ntitle": "bonzo lend loses 9 05m hedera oracle exploit linked supra flaw",
       "coins": [
-        "XRP"
+        "HBAR"
       ],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "World Cup prediction markets light up as Julian Alvarez gets Argentina start against Switzerland",
-      "link": "https://cryptobriefing.com/world-cup-prediction-markets-alvarez-argentina/",
-      "published_at": "2026-07-11T19:11:37+00:00",
-      "source": "cryptobriefing.com",
-      "score": 2,
-      "ntitle": "world cup prediction markets light up julian alvarez gets argentina start against switzerland",
-      "coins": [],
+      "title": "Ripple is regulated in Europe before it is classified in America: inside the Luxembourg license",
+      "link": "https://crypto.news/ripple-wins-europe-before-xrp-wins-clarity-in-america/",
+      "published_at": "2026-07-11T19:42:04+00:00",
+      "source": "crypto.news",
+      "score": 10,
+      "ntitle": "ripple regulated europe before it classified america inside luxembourg license",
+      "coins": [
+        "XRP"
+      ],
       "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Fed Chair Kevin Warsh heads to Capitol Hill as new inflation data drops",
+      "link": "https://cryptobriefing.com/fed-chair-warsh-congress-inflation-testimony/",
+      "published_at": "2026-07-11T20:08:33+00:00",
+      "source": "cryptobriefing.com",
+      "score": 1,
+      "ntitle": "fed chair kevin warsh heads capitol hill new inflation data drops",
+      "coins": [],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
       "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
       "link": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
-      "published_at": "2026-07-11T19:18:07+00:00",
+      "published_at": "2026-07-11T20:12:11+00:00",
       "source": "thedefiant.io",
       "score": 3,
       "ntitle": "bitmine adds 73 million eth pushing holdings 4 8 supply",
@@ -143,14 +148,14 @@
       "agency": null
     },
     {
-      "title": "IMF Paper Warns Dollar Stablecoins Can Trigger Currency Crisis",
-      "link": "https://beincrypto.com/imf-stablecoins-fragile-currency-pegs/",
-      "published_at": "2026-07-11T16:25:29+00:00",
+      "title": "3 Trump Moves That Shook Markets This Week",
+      "link": "https://beincrypto.com/trump-market-moves-this-week/",
+      "published_at": "2026-07-11T18:51:22+00:00",
       "source": "beincrypto.com",
       "score": 1,
-      "ntitle": "imf paper warns dollar stablecoins can trigger currency crisis",
+      "ntitle": "3 trump moves that shook markets this week",
       "coins": [],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -181,26 +186,14 @@
       "agency": "Congress"
     },
     {
-      "title": "Polymarket odds put Anthropic at 94.5% in best AI model race",
-      "link": "https://Blockchain.News/news/polymarket-odds-put-anthropic-at-945-in-best-ai-model-race-0hnmver2545s0",
-      "published_at": "2026-07-11T18:10:23+00:00",
-      "source": "blockchain.news",
-      "score": 3,
-      "ntitle": "polymarket odds put anthropic 94 5 best ai model race",
+      "title": "South Korea Crypto Exchange Volume Drops Below KRW 10 Trillion",
+      "link": "https://blockonomi.com/south-korea-crypto-exchange-volume-drops-below-krw-10-trillion/",
+      "published_at": "2026-07-11T18:28:50+00:00",
+      "source": "blockonomi.com",
+      "score": 1,
+      "ntitle": "south korea crypto exchange volume drops below krw 10 trillion",
       "coins": [],
       "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Bullski Presale Review, Live and Climbing: What Analysts Check, From the 120 Billion Fixed Supply to the Audit in Process",
-      "link": "https://blockonomi.com/bullski-presale-review-live-and-climbing-what-analysts-check-from-the-120-billion-fixed-supply-to-the-audit-in-process/",
-      "published_at": "2026-07-11T15:33:07+00:00",
-      "source": "blockonomi.com",
-      "score": 3,
-      "ntitle": "bullski presale review live climbing what analysts check 120 billion fixed supply audit process",
-      "coins": [],
-      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -257,26 +250,26 @@
       "agency": null
     },
     {
-      "title": "Robinhood Chain threatens Base as daily transactions surge to 7.6 million",
-      "link": "https://crypto.news/robinhood-chain-threaten-base-with-transactions-surge/",
-      "published_at": "2026-07-11T12:29:12+00:00",
+      "title": "Three weeks to 2030: the seven-Democrat math that decides the CLARITY Act",
+      "link": "https://crypto.news/cynthia-lummis-races-to-save-clarity-act-before-2030/",
+      "published_at": "2026-07-11T19:10:30+00:00",
       "source": "crypto.news",
-      "score": 5,
-      "ntitle": "robinhood chain threatens base daily transactions surge 7 6 million",
+      "score": 3,
+      "ntitle": "three weeks 2030 seven democrat math that decides clarity act",
       "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Congress"
     },
     {
-      "title": "Manchester United plots to hijack Arsenal’s Morgan Rogers deal with £109M offer",
-      "link": "https://cryptobriefing.com/manchester-united-hijack-arsenal-morgan-rogers-deal/",
-      "published_at": "2026-07-11T18:12:35+00:00",
+      "title": "World Cup prediction markets light up as Julian Alvarez gets Argentina start against Switzerland",
+      "link": "https://cryptobriefing.com/world-cup-prediction-markets-alvarez-argentina/",
+      "published_at": "2026-07-11T19:11:37+00:00",
       "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "manchester united plots hijack arsenal s morgan rogers deal 109m offer",
+      "score": 2,
+      "ntitle": "world cup prediction markets light up julian alvarez gets argentina start against switzerland",
       "coins": [],
-      "sentiment": "bearish",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -295,16 +288,16 @@
       "agency": null
     },
     {
-      "title": "Trump’s crypto disclosure exposes an institutional problem that markets price in real time",
-      "link": "https://cryptoslate.com/trumps-crypto-disclosure-exposes-an-institutional-problem-that-markets-price-in-real-time/",
-      "published_at": "2026-07-11T17:10:13+00:00",
+      "title": "Crypto won the ETF fight but now the SEC is questioning if things have gone too far",
+      "link": "https://cryptoslate.com/crypto-won-the-etf-fight-but-now-the-sec-is-questioning-if-things-have-gone-too-far/",
+      "published_at": "2026-07-11T19:05:51+00:00",
       "source": "cryptoslate.com",
       "score": 4,
-      "ntitle": "trump s crypto disclosure exposes institutional problem that markets price real time",
+      "ntitle": "crypto won etf fight but now sec questioning if things have gone too far",
       "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "SEC"
     },
     {
       "title": "Charlotte County Man Arrested as Courier in $30,000 Computer Hack Bank Scam",
@@ -359,28 +352,17 @@
       "agency": null
     },
     {
-      "title": "‘Bitcoin Is Over’: Former Meta and Google Engineer Warns of Quantum and Miner Time Bombs Affecting BTC",
-      "link": "https://news.bitcoin.com/former-meta-engineer-bitcoin-2-ticking-time-bombs/",
-      "published_at": "2026-07-11T17:34:36+00:00",
+      "title": "ChatGPT 5.6 Sol, Claude Fable Join 7 AI Models to Predict Bitcoin’s Aug. 1 Price",
+      "link": "https://news.bitcoin.com/chatgpt-5-6-sol-claude-fable-join-7-ai-models-to-predict-bitcoins-aug-1-price/",
+      "published_at": "2026-07-11T18:20:41+00:00",
       "source": "news.bitcoin.com",
       "score": 2,
-      "ntitle": "bitcoin over former meta google engineer warns quantum miner time bombs affecting btc",
+      "ntitle": "chatgpt 5 6 sol claude fable join 7 ai models predict bitcoin s aug 1 price",
       "coins": [
-        "BTC"
+        "BTC",
+        "SOL"
       ],
       "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Polymarket Applies for US License to Offer Margin Trading",
-      "link": "https://thedefiant.io/news/regulation/polymarket-applies-for-us-license-to-offer-margin-trading",
-      "published_at": "2026-07-10T19:55:47+00:00",
-      "source": "thedefiant.io",
-      "score": 3,
-      "ntitle": "polymarket applies us license offer margin trading",
-      "coins": [],
-      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -399,20 +381,6 @@
       "agency": null
     },
     {
-      "title": "New Hampshire Council Votes Down First-in-Nation $100 Million Bitcoin Bond",
-      "link": "https://unchainedcrypto.com/new-hampshire-council-votes-down-first-in-nation-100-million-bitcoin-bond/",
-      "published_at": "2026-07-10T19:29:20+00:00",
-      "source": "unchainedcrypto.com",
-      "score": 1,
-      "ntitle": "new hampshire council votes down first nation 100 million bitcoin bond",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
       "title": "Ethereum uses less power than British Museum – Here’s what changed",
       "link": "https://ambcrypto.com/ethereum-uses-less-power-than-british-museum-heres-what-changed/",
       "published_at": "2026-07-11T16:00:51+00:00",
@@ -427,16 +395,14 @@
       "agency": null
     },
     {
-      "title": "Bitcoin Hits Record Oversold Level Against Gold, Echoing a 660% Rally",
-      "link": "https://beincrypto.com/bitcoin-most-oversold-level-against-gold-history/",
-      "published_at": "2026-07-11T15:30:00+00:00",
+      "title": "IMF Paper Warns Dollar Stablecoins Can Trigger Currency Crisis",
+      "link": "https://beincrypto.com/imf-stablecoins-fragile-currency-pegs/",
+      "published_at": "2026-07-11T16:25:29+00:00",
       "source": "beincrypto.com",
       "score": 1,
-      "ntitle": "bitcoin hits record oversold level against gold echoing 660 rally",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bullish",
+      "ntitle": "imf paper warns dollar stablecoins can trigger currency crisis",
+      "coins": [],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -453,24 +419,12 @@
       "agency": "SEC"
     },
     {
-      "title": "Polymarket: US invade Iran odds rise to 14.5% on talks and ceasefire noise",
-      "link": "https://Blockchain.News/news/polymarket-us-invade-iran-odds-rise-to-145-on-talks-and-ceasefire-noise-0hnmveqpec7g0",
-      "published_at": "2026-07-11T18:03:23+00:00",
-      "source": "blockchain.news",
-      "score": 3,
-      "ntitle": "polymarket us invade iran odds rise 14 5 talks ceasefire noise",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Arista Networks (ANET) Stock Maintains Strong Momentum as Analysts Signal Confidence",
-      "link": "https://blockonomi.com/arista-networks-anet-stock-maintains-strong-momentum-as-analysts-signal-confidence/",
-      "published_at": "2026-07-11T14:46:12+00:00",
+      "title": "Bullski Presale Review, Live and Climbing: What Analysts Check, From the 120 Billion Fixed Supply to the Audit in Process",
+      "link": "https://blockonomi.com/bullski-presale-review-live-and-climbing-what-analysts-check-from-the-120-billion-fixed-supply-to-the-audit-in-process/",
+      "published_at": "2026-07-11T15:33:07+00:00",
       "source": "blockonomi.com",
-      "score": 2,
-      "ntitle": "arista networks anet stock maintains strong momentum analysts signal confidence",
+      "score": 3,
+      "ntitle": "bullski presale review live climbing what analysts check 120 billion fixed supply audit process",
       "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -511,6 +465,60 @@
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
+    },
+    {
+      "title": "Ethereum climbs 3% on tokenization boom: Can bulls push ETH price past $1,800?",
+      "link": "https://cointelegraph.com/markets/ethereum-climbs-3-on-tokenization-boom-can-bulls-push-eth-price-past-1800?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-07-11T12:55:18+00:00",
+      "source": "cointelegraph.com",
+      "score": 9,
+      "ntitle": "ethereum climbs 3 tokenization boom can bulls push eth price past 1 800",
+      "coins": [
+        "ETH"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Ripple’s best year is XRP’s worst: the disconnect between $3.5b in tokenized assets and a $1 token",
+      "link": "https://crypto.news/ripple-builds-a-3-5b-empire-as-xrp-sinks-toward-1-mark/",
+      "published_at": "2026-07-11T18:31:49+00:00",
+      "source": "crypto.news",
+      "score": 13,
+      "ntitle": "ripple s best year xrp s worst disconnect between 3 5b tokenized assets 1 token",
+      "coins": [
+        "XRP"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Paolo Maldini appointed as Italy’s first-ever national team technical director",
+      "link": "https://cryptobriefing.com/paolo-maldini-italy-technical-director-appointed/",
+      "published_at": "2026-07-11T19:02:22+00:00",
+      "source": "cryptobriefing.com",
+      "score": 1,
+      "ntitle": "paolo maldini appointed italy s first ever national team technical director",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Ripple Price Analysis: XRP Looks Ready for a Comeback as Sellers Fade",
+      "link": "https://cryptopotato.com/ripple-price-analysis-xrp-looks-ready-for-a-comeback-as-sellers-fade/",
+      "published_at": "2026-07-11T15:33:56+00:00",
+      "source": "cryptopotato.com",
+      "score": 8,
+      "ntitle": "ripple price analysis xrp looks ready comeback sellers fade",
+      "coins": [
+        "XRP"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
     }
   ],
   "week": [
@@ -539,18 +547,6 @@
       "agency": "Regulatory"
     },
     {
-      "title": "NVIDIA Optimizes JAX LLM Training with Host Offloading",
-      "link": "https://Blockchain.News/news/nvidia-jax-llm-training-host-offloading",
-      "published_at": "2026-07-10T18:51:25+00:00",
-      "source": "blockchain.news",
-      "score": 1,
-      "ntitle": "nvidia optimizes jax llm training host offloading",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
       "title": "Breadth, Depth, And Quality: Why Comparing Blockchain Analytics Vendors by Cluster Count Is Only Part of the Calculation",
       "link": "https://www.chainalysis.com/blog/comparing-blockchain-analytics-vendors/",
       "published_at": "2026-07-06T21:03:39+00:00",
@@ -563,14 +559,16 @@
       "agency": null
     },
     {
-      "title": "The ETF market is pushing the limits of the leverage it can handle. SK Hynix is the latest example",
-      "link": "https://www.cnbc.com/2026/07/10/etfs-investing-market-risk-leverage.html",
-      "published_at": "2026-07-10T19:12:18+00:00",
+      "title": "Meta's stock has best week since early 2024 as optimism builds around AI strategy",
+      "link": "https://www.cnbc.com/2026/07/10/meta-shares-surge-6percent-as-optimism-grows-on-it.html",
+      "published_at": "2026-07-10T20:06:19+00:00",
       "source": "cnbc.com",
-      "score": 4,
-      "ntitle": "etf market pushing limits leverage it can handle sk hynix latest example",
-      "coins": [],
-      "sentiment": "bearish",
+      "score": 2,
+      "ntitle": "meta s stock has best week since early 2024 optimism builds around ai strategy",
+      "coins": [
+        "OP"
+      ],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -613,28 +611,26 @@
       "agency": null
     },
     {
-      "title": "New Hampshire council votes down $100M Bitcoin bonds",
-      "link": "https://cointelegraph.com/news/new-hampshire-votes-against-bitcoin-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-07-10T17:23:10+00:00",
+      "title": "US CBDC ban to go into effect without Trump signoff on housing bill",
+      "link": "https://cointelegraph.com/news/us-cbdc-ban-donald-trump-housing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-07-10T19:33:03+00:00",
       "source": "cointelegraph.com",
-      "score": 3,
-      "ntitle": "new hampshire council votes down 100m bitcoin bonds",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
+      "score": 1,
+      "ntitle": "us cbdc ban go into effect without trump signoff housing bill",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "Regulatory"
     },
     {
-      "title": "Zcash price has climbed above $500 as Ironwood upgrade optimism lifts trader activity",
-      "link": "https://crypto.news/zcash-price-has-climbed-above-500-as-ironwood-upgrade/",
-      "published_at": "2026-07-10T18:57:53+00:00",
+      "title": "XRP price prediction July 2026: The $1 floor vs the CLARITY catalyst",
+      "link": "https://crypto.news/xrp-price-prediction-july-2026-dollar-floor-clarity/",
+      "published_at": "2026-07-10T20:09:35+00:00",
       "source": "crypto.news",
-      "score": 4,
-      "ntitle": "zcash price has climbed above 500 ironwood upgrade optimism lifts trader activity",
+      "score": 8,
+      "ntitle": "xrp price prediction july 2026 1 floor vs clarity catalyst",
       "coins": [
-        "OP"
+        "XRP"
       ],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -769,44 +765,45 @@
       "agency": "SEC"
     },
     {
-      "title": "Uniswap Floats Turning On Protocol Fees for v4 Pools",
-      "link": "https://thedefiant.io/news/defi/uniswap-floats-turning-on-protocol-fees-for-v4-pools",
-      "published_at": "2026-07-10T16:50:09+00:00",
+      "title": "Polymarket Applies for US License to Offer Margin Trading",
+      "link": "https://thedefiant.io/news/regulation/polymarket-applies-for-us-license-to-offer-margin-trading",
+      "published_at": "2026-07-10T19:55:47+00:00",
       "source": "thedefiant.io",
-      "score": 1,
-      "ntitle": "uniswap floats turning protocol fees v4 pools",
-      "coins": [
-        "UNI"
-      ],
-      "sentiment": "bearish",
+      "score": 3,
+      "ntitle": "polymarket applies us license offer margin trading",
+      "coins": [],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Standard Chartered Doubles Down on $100,000 BTC Target",
-      "link": "https://u.today/standard-chartered-doubles-down-on-100000-btc-target",
-      "published_at": "2026-07-10T17:38:29+00:00",
+      "title": "XRP Has 'No Tangible Adoption,' Chainlink Community Lead Says",
+      "link": "https://u.today/xrp-has-no-tangible-adoption-chainlink-community-lead-says",
+      "published_at": "2026-07-10T19:49:00+00:00",
       "source": "u.today",
-      "score": 1,
-      "ntitle": "standard chartered doubles down 100 000 btc target",
+      "score": 10,
+      "ntitle": "xrp has no tangible adoption chainlink community lead says",
       "coins": [
-        "BTC"
+        "LINK",
+        "XRP"
       ],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Circle Wins Final Federal Approval for Its National Trust Bank, Starting With Custody",
-      "link": "https://unchainedcrypto.com/circle-wins-final-federal-approval-for-its-national-trust-bank-starting-with-custody/",
-      "published_at": "2026-07-10T18:07:24+00:00",
+      "title": "New Hampshire Council Votes Down First-in-Nation $100 Million Bitcoin Bond",
+      "link": "https://unchainedcrypto.com/new-hampshire-council-votes-down-first-in-nation-100-million-bitcoin-bond/",
+      "published_at": "2026-07-10T19:29:20+00:00",
       "source": "unchainedcrypto.com",
-      "score": 8,
-      "ntitle": "circle wins final federal approval national trust bank starting custody",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Regulatory"
+      "score": 1,
+      "ntitle": "new hampshire council votes down first nation 100 million bitcoin bond",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Success Story: Biljana Obradovic’s Learning Journey with 101 Blockchains",
@@ -835,26 +832,14 @@
       "agency": null
     },
     {
-      "title": "Polymarket odds lift to 78.5% for Fed hold in July as mortgage rates rise",
-      "link": "https://Blockchain.News/news/polymarket-odds-lift-to-785-for-fed-hold-in-july-as-mortgage-rates-rise-0hnmulmh4acc0",
-      "published_at": "2026-07-10T18:10:23+00:00",
-      "source": "blockchain.news",
-      "score": 3,
-      "ntitle": "polymarket odds lift 78 5 fed hold july mortgage rates rise",
+      "title": "Stablecoin issuer Circle just got the greenlight to operate as a bank. The shares are up 5%",
+      "link": "https://www.cnbc.com/2026/07/10/circle-gets-an-occ-bank-charter-as-stablecoin-competition-heats-up-shares-surge-14percent.html",
+      "published_at": "2026-07-10T20:01:29+00:00",
+      "source": "cnbc.com",
+      "score": 6,
+      "ntitle": "stablecoin issuer circle just got greenlight operate bank shares up 5",
       "coins": [],
       "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Trump says he won't sign housing bill, which would become law automatically",
-      "link": "https://www.cnbc.com/2026/07/10/trump-housing-bill-save-act-law.html",
-      "published_at": "2026-07-10T19:04:32+00:00",
-      "source": "cnbc.com",
-      "score": 3,
-      "ntitle": "trump says he won t sign housing bill which would become law automatically",
-      "coins": [],
-      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -891,6 +876,34 @@
       "source": "coinjournal.net",
       "score": 6,
       "ntitle": "bitcoin tops 64k improving risk sentiment boosts crypto market recovery",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "New Hampshire council votes down $100M Bitcoin bonds",
+      "link": "https://cointelegraph.com/news/new-hampshire-votes-against-bitcoin-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-07-10T17:23:10+00:00",
+      "source": "cointelegraph.com",
+      "score": 3,
+      "ntitle": "new hampshire council votes down 100m bitcoin bonds",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Bitcoin price prediction July 2026: The Fed decides at month-end",
+      "link": "https://crypto.news/bitcoin-price-prediction-july-2026-fed-decides/",
+      "published_at": "2026-07-10T19:39:16+00:00",
+      "source": "crypto.news",
+      "score": 3,
+      "ntitle": "bitcoin price prediction july 2026 fed decides month end",
       "coins": [
         "BTC"
       ],
@@ -1049,56 +1062,93 @@
       "agency": null
     }
   ],
-  "clusters": [],
+  "clusters": [
+    {
+      "id": 1,
+      "title": "Hedera’s Largest Lending Protocol, Bonzo, Loses $9M in Oracle Exploit",
+      "link": "https://blockonomi.com/hederas-largest-lending-protocol-bonzo-loses-9m-in-oracle-exploit/",
+      "source": "blockonomi.com",
+      "published_at": "2026-07-11T19:45:05+00:00",
+      "sentiment": "bearish",
+      "coins": [
+        "HBAR"
+      ],
+      "sources": [
+        "blockonomi.com",
+        "coindesk.com"
+      ],
+      "count": 3,
+      "members": [
+        {
+          "title": "Hedera’s Largest Lending Protocol, Bonzo, Loses $9M in Oracle Exploit",
+          "link": "https://blockonomi.com/hederas-largest-lending-protocol-bonzo-loses-9m-in-oracle-exploit/",
+          "source": "blockonomi.com",
+          "published_at": "2026-07-11T19:45:05+00:00"
+        },
+        {
+          "title": "Bonzo Lend Loses $9.05M in Hedera Oracle Exploit Linked to Supra Flaw",
+          "link": "https://blockonomi.com/bonzo-lend-loses-9-05m-in-hedera-oracle-exploit-linked-to-supra-flaw/",
+          "source": "blockonomi.com",
+          "published_at": "2026-07-11T19:25:22+00:00"
+        },
+        {
+          "title": "Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit rattles Hedera",
+          "link": "https://www.coindesk.com/web3/2026/07/11/lending-protocol-bonzo-loses-77-of-value-locked-as-usd9-million-oracle-exploit-rattles-hedera",
+          "source": "coindesk.com",
+          "published_at": "2026-07-11T18:06:58+00:00"
+        }
+      ]
+    }
+  ],
   "trending": [
     {
       "tag": "#Ai",
-      "count": 72,
+      "count": 60,
       "type": "topic",
       "pct": 100
     },
     {
       "tag": "#XRP",
-      "count": 52,
+      "count": 53,
       "type": "coin",
-      "pct": 72
+      "pct": 88
     },
     {
       "tag": "#Xrp",
       "count": 48,
       "type": "topic",
-      "pct": 67
-    },
-    {
-      "tag": "#Bitcoin",
-      "count": 32,
-      "type": "topic",
-      "pct": 44
+      "pct": 80
     },
     {
       "tag": "#Defi",
       "count": 31,
       "type": "topic",
-      "pct": 43
+      "pct": 52
+    },
+    {
+      "tag": "#Bitcoin",
+      "count": 28,
+      "type": "topic",
+      "pct": 47
     },
     {
       "tag": "#BTC",
       "count": 26,
       "type": "coin",
-      "pct": 36
+      "pct": 43
     },
     {
       "tag": "#ETH",
-      "count": 10,
+      "count": 12,
       "type": "coin",
-      "pct": 14
+      "pct": 20
     },
     {
       "tag": "#Rwa",
       "count": 10,
       "type": "topic",
-      "pct": 14
+      "pct": 17
     }
   ],
-  "generated_at": "2026-07-11T19:18:32.633438+00:00"
+  "generated_at": "2026-07-11T20:12:38.404680+00:00"
 }
