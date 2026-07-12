@@ -2,91 +2,106 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "Bitcoin Has Two Ticking Time Bombs, Ex-Meta and Google Engineer Warns",
-      "link": "https://beincrypto.com/bitcoin-risks-former-meta-google-engineer-warns/",
-      "published_at": "2026-07-12T10:30:00+00:00",
+      "title": "Inside Bonzo Lend’s $9M exploit – Why secure smart contracts couldn’t stop it",
+      "link": "https://ambcrypto.com/inside-bonzo-lends-9m-exploit-why-secure-smart-contracts-couldnt-stop-it/",
+      "published_at": "2026-07-12T11:00:33+00:00",
+      "source": "ambcrypto.com",
+      "score": 3,
+      "ntitle": "inside bonzo lend s 9m exploit why secure smart contracts couldn t stop it",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Ripple Considered Shutting Down After the XRP Lawsuit, CEO Reveals",
+      "link": "https://beincrypto.com/ripple-considered-shutting-down-after-sec-xrp-lawsuit/",
+      "published_at": "2026-07-12T11:00:00+00:00",
       "source": "beincrypto.com",
+      "score": 8,
+      "ntitle": "ripple considered shutting down after xrp lawsuit ceo reveals",
+      "coins": [
+        "XRP"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "Regulatory"
+    },
+    {
+      "title": "AAVE Price Prediction: Momentum Flatlines at $98 — $104 Breakout or Drop Back to $93 Within 14 Days",
+      "link": "https://Blockchain.News/news/20260712-price-prediction-aave-momentum-flatlines-at-98-104-breakout",
+      "published_at": "2026-07-12T11:31:03+00:00",
+      "source": "blockchain.news",
+      "score": 2,
+      "ntitle": "aave price prediction momentum flatlines 98 104 breakout or drop back 93 within 14 days",
+      "coins": [
+        "AAVE"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "BNB Chain Doubles Throughput in H1 2026, Sets Sights on 100K TPS Architecture",
+      "link": "https://blockonomi.com/bnb-chain-doubles-throughput-in-h1-2026-sets-sights-on-100k-tps-architecture/",
+      "published_at": "2026-07-12T11:30:48+00:00",
+      "source": "blockonomi.com",
+      "score": 7,
+      "ntitle": "bnb chain doubles throughput h1 2026 sets sights 100k tps architecture",
+      "coins": [
+        "BNB"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Bitcoin is nearing a power law support line Fidelity has tracked since 2015",
+      "link": "https://www.coindesk.com/markets/2026/07/12/bitcoin-is-nearing-a-power-law-support-line-fidelity-has-tracked-since-2015",
+      "published_at": "2026-07-12T11:30:00+00:00",
+      "source": "coindesk.com",
       "score": 1,
-      "ntitle": "bitcoin has two ticking time bombs ex meta google engineer warns",
+      "ntitle": "bitcoin nearing power law support line fidelity has tracked since 2015",
       "coins": [
         "BTC"
       ],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "INJ Price Prediction: The $5 Ceiling Is Holding — Flush to $4.71 Before Bulls Get Their Shot",
-      "link": "https://Blockchain.News/news/20260712-price-prediction-inj-the-5-ceiling-is-holding-flush",
-      "published_at": "2026-07-12T10:35:49+00:00",
-      "source": "blockchain.news",
-      "score": 2,
-      "ntitle": "inj price prediction 5 ceiling holding flush 4 71 before bulls get their shot",
-      "coins": [
-        "INJ"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Revolut X Introduces AI-Powered Cryptocurrency Trading with Claude and Gemini Integration",
-      "link": "https://blockonomi.com/revolut-x-introduces-ai-powered-cryptocurrency-trading-with-claude-and-gemini-integration/",
-      "published_at": "2026-07-12T10:39:31+00:00",
-      "source": "blockonomi.com",
-      "score": 6,
-      "ntitle": "revolut x introduces ai powered cryptocurrency trading claude gemini integration",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Coinbase pushes back on Warren as CLARITY Act vote nears",
-      "link": "https://crypto.news/coinbase-pushes-back-on-warren-as-clarity-act-vote-nears/",
-      "published_at": "2026-07-12T10:22:34+00:00",
+      "title": "Saylor maps Bitcoin’s power as BIP 110 fork fight grows",
+      "link": "https://crypto.news/saylor-maps-bitcoins-power-as-bip-110-fork-fight-grows/",
+      "published_at": "2026-07-12T10:46:25+00:00",
       "source": "crypto.news",
       "score": 1,
-      "ntitle": "coinbase pushes back warren clarity act vote nears",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Congress"
-    },
-    {
-      "title": "Clarity Act faces Senate hurdles amid Trump’s $1B crypto ethics issue",
-      "link": "https://cryptobriefing.com/clarity-act-faces-senate-hurdles-amid-trumps-1b-crypto-ethics-issue/",
-      "published_at": "2026-07-12T10:41:48+00:00",
-      "source": "cryptobriefing.com",
-      "score": 3,
-      "ntitle": "clarity act faces senate hurdles amid trump s 1b crypto ethics issue",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Congress"
-    },
-    {
-      "title": "Bitcoin, Ethereum Remain Fragile at Key Levels as US Strikes Iran Again: Weekend Watch",
-      "link": "https://cryptopotato.com/bitcoin-ethereum-remain-fragile-at-key-levels-as-us-strikes-iran-again-weekend-watch/",
-      "published_at": "2026-07-12T10:02:38+00:00",
-      "source": "cryptopotato.com",
-      "score": -1,
-      "ntitle": "bitcoin ethereum remain fragile key levels us strikes iran again weekend watch",
+      "ntitle": "saylor maps bitcoin s power bip 110 fork fight grows",
       "coins": [
-        "BTC",
-        "ETH"
+        "BTC"
       ],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Bitcoin Miners’ AI Rally Puts Insider Liquidity in the Spotlight",
-      "link": "https://news.bitcoin.com/bitcoin-miners-ai-rally-puts-insider-liquidity-in-the-spotlight/",
-      "published_at": "2026-07-12T10:30:32+00:00",
-      "source": "news.bitcoin.com",
+      "title": "Zelensky reshuffles cabinet, appoints Svyrydenko as PM and diplomat",
+      "link": "https://cryptobriefing.com/zelensky-reshuffles-cabinet-appoints-svyrydenko-as-pm-and-diplomat/",
+      "published_at": "2026-07-12T11:41:27+00:00",
+      "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "bitcoin miners ai rally puts insider liquidity spotlight",
+      "ntitle": "zelensky reshuffles cabinet appoints svyrydenko pm diplomat",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Eric Trump’s American Bitcoin forces 1:15 reverse split to avoid Nasdaq delisting amid 8k BTC holding",
+      "link": "https://cryptoslate.com/eric-trumps-american-bitcoin-forces-1-for-15-reverse-split-to-avoid-nasdaq-delisting-amid-8k-btc-holding/",
+      "published_at": "2026-07-12T11:17:02+00:00",
+      "source": "cryptoslate.com",
+      "score": 4,
+      "ntitle": "eric trump s american bitcoin forces 1 15 reverse split avoid nasdaq delisting amid 8k btc holding",
       "coins": [
         "BTC"
       ],
@@ -97,7 +112,7 @@
     {
       "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
       "link": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
-      "published_at": "2026-07-12T10:43:23+00:00",
+      "published_at": "2026-07-12T11:43:05+00:00",
       "source": "thedefiant.io",
       "score": 8,
       "ntitle": "etoro takes strategic stake onchain derivatives exchange extended plans zengo tie up",
@@ -107,61 +122,61 @@
       "agency": null
     },
     {
-      "title": "XRP Prints Bullish Divergence as Ripple CTO Emeritus Disproves 'Company Sale' Rumors",
-      "link": "https://u.today/xrp-prints-bullish-divergence-as-ripple-cto-emeritus-disproves-company-sale-rumors",
-      "published_at": "2026-07-12T09:46:00+00:00",
+      "title": "Fidelity: Bitcoin May Be in Accumulation Zone",
+      "link": "https://u.today/fidelity-bitcoin-may-be-in-accumulation-zone",
+      "published_at": "2026-07-12T11:04:32+00:00",
       "source": "u.today",
-      "score": 9,
-      "ntitle": "xrp prints bullish divergence ripple cto emeritus disproves company sale rumors",
+      "score": 1,
+      "ntitle": "fidelity bitcoin may be accumulation zone",
       "coins": [
-        "XRP"
+        "BTC"
       ],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "CRV Price Prediction: Coiled at $0.21 — Either $0.22 Breaks With Volume or $0.18 Comes Fast",
-      "link": "https://Blockchain.News/news/20260712-price-prediction-crv-coiled-at-021-either-022-breaks",
-      "published_at": "2026-07-12T10:29:02+00:00",
+      "title": "LDO Price Prediction: Squeezed Against the Upper Band With the SMA 200 Looming as a $0.37 Ceiling",
+      "link": "https://Blockchain.News/news/20260712-price-prediction-ldo-squeezed-against-the-upper-band-with",
+      "published_at": "2026-07-12T11:21:35+00:00",
       "source": "blockchain.news",
       "score": 2,
-      "ntitle": "crv price prediction coiled 0 21 either 0 22 breaks volume or 0 18 comes fast",
+      "ntitle": "ldo price prediction squeezed against upper band sma 200 looming 0 37 ceiling",
       "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Empery Digital Offloads 1,400 BTC to Pivot Toward AI Infrastructure",
+      "link": "https://blockonomi.com/empery-digital-offloads-1400-btc-to-pivot-toward-ai-infrastructure/",
+      "published_at": "2026-07-12T11:13:08+00:00",
+      "source": "blockonomi.com",
+      "score": 1,
+      "ntitle": "empery digital offloads 1 400 btc pivot toward ai infrastructure",
+      "coins": [
+        "BTC"
+      ],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "BlackRock’s BUIDL Surpasses $900M on Avalanche as Tokenized Treasury Demand Accelerates",
-      "link": "https://blockonomi.com/blackrocks-buidl-surpasses-900m-on-avalanche-as-tokenized-treasury-demand-accelerates/",
-      "published_at": "2026-07-12T10:38:19+00:00",
-      "source": "blockonomi.com",
-      "score": 8,
-      "ntitle": "blackrock s buidl surpasses 900m avalanche tokenized treasury demand accelerates",
-      "coins": [
-        "AVAX"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Treasury"
-    },
-    {
-      "title": "Messi vs England at the 2026 World Cup: what it means for crypto fan tokens and the MESSI coin ecosystem",
-      "link": "https://cryptobriefing.com/messi-england-world-cup-crypto-fan-tokens/",
-      "published_at": "2026-07-12T10:40:13+00:00",
+      "title": "Jude Bellingham’s World Cup heroics spawn a meme token that crashed 98% in hours",
+      "link": "https://cryptobriefing.com/bellingham-world-cup-jude-meme-token-crash-3/",
+      "published_at": "2026-07-12T11:40:39+00:00",
       "source": "cryptobriefing.com",
-      "score": 2,
-      "ntitle": "messi vs england 2026 world cup what it means crypto fan tokens messi coin ecosystem",
+      "score": 4,
+      "ntitle": "jude bellingham s world cup heroics spawn meme token that crashed 98 hours",
       "coins": [],
-      "sentiment": "bullish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
       "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
       "link": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
-      "published_at": "2026-07-12T10:43:23+00:00",
+      "published_at": "2026-07-12T11:43:05+00:00",
       "source": "thedefiant.io",
       "score": 3,
       "ntitle": "bitmine adds 73 million eth pushing holdings 4 8 supply",
@@ -169,6 +184,21 @@
         "ETH"
       ],
       "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "XRP Payments Hit Near-Zero Levels: Should You Expect Recovery in 24 Hours?",
+      "link": "https://u.today/xrp-payments-hit-near-zero-levels-should-you-expect-recovery-in-24-hours",
+      "published_at": "2026-07-12T11:00:00+00:00",
+      "source": "u.today",
+      "score": 6,
+      "ntitle": "xrp payments hit near zero levels should you expect recovery 24 hours",
+      "coins": [
+        "NEAR",
+        "XRP"
+      ],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     }
@@ -190,42 +220,40 @@
       "agency": null
     },
     {
-      "title": "Are Crypto Exchanges Abandoning Meme Coins for Tokenized Assets?",
-      "link": "https://beincrypto.com/tokenized-assets-top-cex-listings-2026/",
-      "published_at": "2026-07-12T09:29:50+00:00",
+      "title": "Bitcoin Has Two Ticking Time Bombs, Ex-Meta and Google Engineer Warns",
+      "link": "https://beincrypto.com/bitcoin-risks-former-meta-google-engineer-warns/",
+      "published_at": "2026-07-12T10:30:00+00:00",
       "source": "beincrypto.com",
-      "score": 9,
-      "ntitle": "crypto exchanges abandoning meme coins tokenized assets",
-      "coins": [],
+      "score": 1,
+      "ntitle": "bitcoin has two ticking time bombs ex meta google engineer warns",
+      "coins": [
+        "BTC"
+      ],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "OP Price Prediction: Dead Money at $0.10 or Coiled Spring? Smart Money is Betting One Way",
-      "link": "https://Blockchain.News/news/20260712-price-prediction-op-dead-money-at-010-or-coiled",
-      "published_at": "2026-07-12T09:41:34+00:00",
+      "title": "FILE Price Prediction: Trapped Below $0.82 — Break or Breakdown Within 72 Hours",
+      "link": "https://Blockchain.News/news/20260712-price-prediction-file-trapped-below-082-break-or-breakdown",
+      "published_at": "2026-07-12T10:41:11+00:00",
       "source": "blockchain.news",
-      "score": 2,
-      "ntitle": "op price prediction dead money 0 10 or coiled spring smart money betting one way",
-      "coins": [
-        "OP"
-      ],
+      "score": 1,
+      "ntitle": "file price prediction trapped below 0 82 break or breakdown within 72 hours",
+      "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "What Is LendProtocol? XRP Lending With 12% APR Explained",
-      "link": "https://blockonomi.com/what-is-lendprotocol-xrp-lending-with-12-apr-explained/",
-      "published_at": "2026-07-12T08:00:24+00:00",
+      "title": "Revolut X Introduces AI-Powered Cryptocurrency Trading with Claude and Gemini Integration",
+      "link": "https://blockonomi.com/revolut-x-introduces-ai-powered-cryptocurrency-trading-with-claude-and-gemini-integration/",
+      "published_at": "2026-07-12T10:39:31+00:00",
       "source": "blockonomi.com",
-      "score": 8,
-      "ntitle": "what lendprotocol xrp lending 12 apr explained",
-      "coins": [
-        "XRP"
-      ],
-      "sentiment": "bearish",
+      "score": 6,
+      "ntitle": "revolut x introduces ai powered cryptocurrency trading claude gemini integration",
+      "coins": [],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -284,40 +312,41 @@
       "agency": null
     },
     {
-      "title": "SBI bets $76M on EDX as institutional crypto race heats up",
-      "link": "https://crypto.news/sbi-bets-76m-on-edx-as-institutional-crypto-race-heats-up/",
-      "published_at": "2026-07-12T09:03:19+00:00",
+      "title": "Coinbase pushes back on Warren as CLARITY Act vote nears",
+      "link": "https://crypto.news/coinbase-pushes-back-on-warren-as-clarity-act-vote-nears/",
+      "published_at": "2026-07-12T10:22:34+00:00",
       "source": "crypto.news",
-      "score": 5,
-      "ntitle": "sbi bets 76m edx institutional crypto race heats up",
+      "score": 1,
+      "ntitle": "coinbase pushes back warren clarity act vote nears",
       "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "Congress"
     },
     {
-      "title": "Ukraine unmanned systems strike 90 Russian vessels in Sea of Azov over a week",
-      "link": "https://cryptobriefing.com/ukraine-unmanned-systems-strike-90-russian-vessels-in-sea-of-azov-over-a-week/",
-      "published_at": "2026-07-12T09:40:18+00:00",
+      "title": "US recession risk drops as inflation expectations remain high: WSJ survey",
+      "link": "https://cryptobriefing.com/us-recession-risk-drops-as-inflation-expectations-remain-high-wsj-survey/",
+      "published_at": "2026-07-12T10:43:30+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "ukraine unmanned systems strike 90 russian vessels sea azov over week",
+      "ntitle": "us recession risk drops inflation expectations remain high wsj survey",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Ripple Price Predictions: We Asked 4 AIs How High Will XRP Go in 2026 – Their Answers Were Wild",
-      "link": "https://cryptopotato.com/ripple-price-predictions-we-asked-4-ais-how-high-will-xrp-go-in-2026-their-answers-were-wild/",
-      "published_at": "2026-07-12T08:40:49+00:00",
+      "title": "Bitcoin, Ethereum Remain Fragile at Key Levels as US Strikes Iran Again: Weekend Watch",
+      "link": "https://cryptopotato.com/bitcoin-ethereum-remain-fragile-at-key-levels-as-us-strikes-iran-again-weekend-watch/",
+      "published_at": "2026-07-12T10:02:38+00:00",
       "source": "cryptopotato.com",
-      "score": 9,
-      "ntitle": "ripple price predictions we asked 4 ais how high will xrp go 2026 their answers were wild",
+      "score": -1,
+      "ntitle": "bitcoin ethereum remain fragile key levels us strikes iran again weekend watch",
       "coins": [
-        "XRP"
+        "BTC",
+        "ETH"
       ],
-      "sentiment": "bullish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -386,28 +415,30 @@
       "agency": null
     },
     {
-      "title": "Latam Insights: Inside Tether’s $20M Bet on Brazil, Operation Veil of Maya, and the Stablecoin Hold Dispute",
-      "link": "https://news.bitcoin.com/latam-insights-inside-tethers-20m-bet-on-brazil-operation-veil-of-maya-and-the-stablecoin-hold-dispute/",
-      "published_at": "2026-07-12T09:30:46+00:00",
+      "title": "Bitcoin Miners’ AI Rally Puts Insider Liquidity in the Spotlight",
+      "link": "https://news.bitcoin.com/bitcoin-miners-ai-rally-puts-insider-liquidity-in-the-spotlight/",
+      "published_at": "2026-07-12T10:30:32+00:00",
       "source": "news.bitcoin.com",
-      "score": 2,
-      "ntitle": "latam insights inside tether s 20m bet brazil operation veil maya stablecoin hold dispute",
-      "coins": [],
+      "score": 1,
+      "ntitle": "bitcoin miners ai rally puts insider liquidity spotlight",
+      "coins": [
+        "BTC"
+      ],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Ripple Vice President Heads to Key Event as XRP Ledger Momentum Builds",
-      "link": "https://u.today/ripple-vice-president-heads-to-key-event-as-xrp-ledger-momentum-builds",
-      "published_at": "2026-07-12T09:20:35+00:00",
+      "title": "XRP Prints Bullish Divergence as Ripple CTO Emeritus Disproves 'Company Sale' Rumors",
+      "link": "https://u.today/xrp-prints-bullish-divergence-as-ripple-cto-emeritus-disproves-company-sale-rumors",
+      "published_at": "2026-07-12T09:46:00+00:00",
       "source": "u.today",
-      "score": 10,
-      "ntitle": "ripple vice president heads key event xrp ledger momentum builds",
+      "score": 9,
+      "ntitle": "xrp prints bullish divergence ripple cto emeritus disproves company sale rumors",
       "coins": [
         "XRP"
       ],
-      "sentiment": "neutral",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -426,45 +457,44 @@
       "agency": null
     },
     {
-      "title": "ZachXBT Explains Why LAB Token Crashed Nearly 100%",
-      "link": "https://beincrypto.com/lab-token-crash-investigation-zachxbt/",
-      "published_at": "2026-07-12T08:52:20+00:00",
+      "title": "Are Crypto Exchanges Abandoning Meme Coins for Tokenized Assets?",
+      "link": "https://beincrypto.com/tokenized-assets-top-cex-listings-2026/",
+      "published_at": "2026-07-12T09:29:50+00:00",
       "source": "beincrypto.com",
-      "score": 5,
-      "ntitle": "zachxbt explains why lab token crashed nearly 100",
+      "score": 9,
+      "ntitle": "crypto exchanges abandoning meme coins tokenized assets",
       "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "ARB Price Prediction: Dead Cat or Launchpad? The $0.11 Battle Decides Everything",
-      "link": "https://Blockchain.News/news/20260712-price-prediction-arb-dead-cat-or-launchpad-the-011",
-      "published_at": "2026-07-12T09:37:01+00:00",
+      "title": "INJ Price Prediction: The $5 Ceiling Is Holding — Flush to $4.71 Before Bulls Get Their Shot",
+      "link": "https://Blockchain.News/news/20260712-price-prediction-inj-the-5-ceiling-is-holding-flush",
+      "published_at": "2026-07-12T10:35:49+00:00",
       "source": "blockchain.news",
-      "score": 4,
-      "ntitle": "arb price prediction dead cat or launchpad 0 11 battle decides everything",
+      "score": 2,
+      "ntitle": "inj price prediction 5 ceiling holding flush 4 71 before bulls get their shot",
       "coins": [
-        "ARB"
+        "INJ"
       ],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Bitcoin Exchange Flows Plunge 91% as Binance’s EU Exit Reshapes Market Liquidity",
-      "link": "https://blockonomi.com/bitcoin-exchange-flows-plunge-91-as-binances-eu-exit-reshapes-market-liquidity/",
-      "published_at": "2026-07-12T07:54:19+00:00",
+      "title": "BlackRock’s BUIDL Surpasses $900M on Avalanche as Tokenized Treasury Demand Accelerates",
+      "link": "https://blockonomi.com/blackrocks-buidl-surpasses-900m-on-avalanche-as-tokenized-treasury-demand-accelerates/",
+      "published_at": "2026-07-12T10:38:19+00:00",
       "source": "blockonomi.com",
-      "score": 1,
-      "ntitle": "bitcoin exchange flows plunge 91 binance s eu exit reshapes market liquidity",
+      "score": 8,
+      "ntitle": "blackrock s buidl surpasses 900m avalanche tokenized treasury demand accelerates",
       "coins": [
-        "BNB",
-        "BTC"
+        "AVAX"
       ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Treasury"
     },
     {
       "title": "The volatile AI trade marched higher, but oil kept Wall Street on edge last week",
@@ -517,40 +547,40 @@
       "agency": null
     },
     {
-      "title": "Bonzo Lend loses $9M after oracle flaw inflates SAUCE price",
-      "link": "https://crypto.news/bonzo-lend-loses-9m-after-oracle-flaw-inflates-sauce-price/",
-      "published_at": "2026-07-12T08:32:43+00:00",
+      "title": "SBI bets $76M on EDX as institutional crypto race heats up",
+      "link": "https://crypto.news/sbi-bets-76m-on-edx-as-institutional-crypto-race-heats-up/",
+      "published_at": "2026-07-12T09:03:19+00:00",
       "source": "crypto.news",
-      "score": 3,
-      "ntitle": "bonzo lend loses 9m after oracle flaw inflates sauce price",
+      "score": 5,
+      "ntitle": "sbi bets 76m edx institutional crypto race heats up",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Every England goal at 2026 World Cup scored by players outside the Premier League",
-      "link": "https://cryptobriefing.com/england-world-cup-goals-non-premier-league/",
-      "published_at": "2026-07-12T09:34:29+00:00",
+      "title": "Clarity Act faces Senate hurdles amid Trump’s $1B crypto ethics issue",
+      "link": "https://cryptobriefing.com/clarity-act-faces-senate-hurdles-amid-trumps-1b-crypto-ethics-issue/",
+      "published_at": "2026-07-12T10:41:48+00:00",
       "source": "cryptobriefing.com",
-      "score": 2,
-      "ntitle": "every england goal 2026 world cup scored players outside premier league",
+      "score": 3,
+      "ntitle": "clarity act faces senate hurdles amid trump s 1b crypto ethics issue",
       "coins": [],
       "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
+      "is_regulation": true,
+      "agency": "Congress"
     },
     {
-      "title": "AI Found a Real Ethereum Bug – But the Bigger Story Is What Comes Next",
-      "link": "https://cryptopotato.com/ai-found-a-real-ethereum-bug-but-the-bigger-story-is-what-comes-next/",
-      "published_at": "2026-07-12T06:07:34+00:00",
+      "title": "Ripple Price Predictions: We Asked 4 AIs How High Will XRP Go in 2026 – Their Answers Were Wild",
+      "link": "https://cryptopotato.com/ripple-price-predictions-we-asked-4-ais-how-high-will-xrp-go-in-2026-their-answers-were-wild/",
+      "published_at": "2026-07-12T08:40:49+00:00",
       "source": "cryptopotato.com",
-      "score": 1,
-      "ntitle": "ai found real ethereum bug but bigger story what comes next",
+      "score": 9,
+      "ntitle": "ripple price predictions we asked 4 ais how high will xrp go 2026 their answers were wild",
       "coins": [
-        "ETH"
+        "XRP"
       ],
-      "sentiment": "neutral",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -683,12 +713,12 @@
       "agency": null
     },
     {
-      "title": "Asset Tokenization: A Guide to Launching Your First Tokenised Asset",
-      "link": "https://coingape.com/block-of-fame/research/asset-tokenization-a-guide-to-launching-your-first-tokenised-asset/",
-      "published_at": "2026-07-11T08:53:24+00:00",
+      "title": "Robinhood Chain Hits 7.6M Daily Transactions, Closing In on Base’s 9.2M Amid Gas Subsidy",
+      "link": "https://coingape.com/robinhood-chain-hits-7-6m-daily-transactions-closing-in-on-bases-9-2m-amid-gas-subsidy/",
+      "published_at": "2026-07-11T11:32:50+00:00",
       "source": "coingape.com",
-      "score": 13,
-      "ntitle": "asset tokenization guide launching your first tokenised asset",
+      "score": 6,
+      "ntitle": "robinhood chain hits 7 6m daily transactions closing base s 9 2m amid gas subsidy",
       "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -709,56 +739,55 @@
       "agency": null
     },
     {
-      "title": "Dollar stablecoins could improve FX access but amplify currency runs: IMF paper",
-      "link": "https://cointelegraph.com/news/imf-stablecoins-fx-access-currency-runs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-07-11T09:14:12+00:00",
+      "title": "Bitcoin price gains nearly 10% in July, but traders still see BTC copying 2022 bear market",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-gains-nearly-10-in-july-but-traders-still-see-btc-copying-2022-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-07-11T11:21:07+00:00",
       "source": "cointelegraph.com",
-      "score": 3,
-      "ntitle": "dollar stablecoins could improve fx access but amplify currency runs imf paper",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Suspected Hedera exploit sends over $5.8M to Ethereum as HBAR slips",
-      "link": "https://crypto.news/suspected-hedera-exploit-sends-over-5-8m-to-ethereum/",
-      "published_at": "2026-07-11T09:37:45+00:00",
-      "source": "crypto.news",
-      "score": 8,
-      "ntitle": "suspected hedera exploit sends over 5 8m ethereum hbar slips",
-      "coins": [
-        "ETH",
-        "HBAR"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Bitcoin Price Holds Above $64K, Pi Network’s PI Token Digs New Lows: Weekend Watch",
-      "link": "https://cryptopotato.com/bitcoin-price-holds-above-64k-pi-networks-pi-token-digs-new-lows-weekend-watch/",
-      "published_at": "2026-07-11T07:52:09+00:00",
-      "source": "cryptopotato.com",
       "score": 2,
-      "ntitle": "bitcoin price holds above 64k pi network s pi token digs new lows weekend watch",
+      "ntitle": "bitcoin price gains nearly 10 july but traders still see btc copying 2022 bear market",
       "coins": [
         "BTC"
       ],
-      "sentiment": "bullish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Bitcoin’s $64K rebound has 3 days before its next big challenge threatens to derail momentum",
-      "link": "https://cryptoslate.com/bitcoins-64k-rebound-has-three-days-before-its-next-big-challenge-threatens-to-derail-momentum/",
-      "published_at": "2026-07-11T09:13:45+00:00",
-      "source": "cryptoslate.com",
-      "score": 4,
-      "ntitle": "bitcoin s 64k rebound has 3 days before next big challenge threatens derail momentum",
+      "title": "Tom Lee predicts Ethereum will unite Wall Street and crypto",
+      "link": "https://crypto.news/tom-lee-predicts-ethereum-will-unite-wall-street/",
+      "published_at": "2026-07-11T11:19:32+00:00",
+      "source": "crypto.news",
+      "score": 1,
+      "ntitle": "tom lee predicts ethereum will unite wall street crypto",
+      "coins": [
+        "ETH"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Strategy Is Selling Bitcoin Again: Bearish Warning or Bullish Opportunity?",
+      "link": "https://cryptopotato.com/strategy-is-selling-bitcoin-again-bearish-warning-or-bullish-opportunity/",
+      "published_at": "2026-07-11T10:57:59+00:00",
+      "source": "cryptopotato.com",
+      "score": 1,
+      "ntitle": "strategy selling bitcoin again bearish warning or bullish opportunity",
       "coins": [
         "BTC"
       ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Circle gets permission to open a US bank but cannot take ordinary deposits or make loans",
+      "link": "https://cryptoslate.com/circle-can-open-a-us-trust-bank-that-cannot-take-ordinary-deposits-or-make-loans/",
+      "published_at": "2026-07-11T11:15:11+00:00",
+      "source": "cryptoslate.com",
+      "score": 8,
+      "ntitle": "circle gets permission open us bank but cannot take ordinary deposits or make loans",
+      "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
@@ -1158,11 +1187,42 @@
       "agency": null
     }
   ],
-  "clusters": [],
+  "clusters": [
+    {
+      "id": 1,
+      "title": "Ripple Considered Shutting Down After the XRP Lawsuit, CEO Reveals",
+      "link": "https://beincrypto.com/ripple-considered-shutting-down-after-sec-xrp-lawsuit/",
+      "source": "beincrypto.com",
+      "published_at": "2026-07-12T11:00:00+00:00",
+      "sentiment": "bearish",
+      "coins": [
+        "XRP"
+      ],
+      "sources": [
+        "coindesk.com",
+        "beincrypto.com"
+      ],
+      "count": 2,
+      "members": [
+        {
+          "title": "Ripple Considered Shutting Down After the XRP Lawsuit, CEO Reveals",
+          "link": "https://beincrypto.com/ripple-considered-shutting-down-after-sec-xrp-lawsuit/",
+          "source": "beincrypto.com",
+          "published_at": "2026-07-12T11:00:00+00:00"
+        },
+        {
+          "title": "Ripple once weighed shutting down and handing XRP to shareholders, CEO says",
+          "link": "https://www.coindesk.com/markets/2026/07/12/ripple-once-weighed-shutting-down-and-handing-xrp-to-shareholders-ceo-says",
+          "source": "coindesk.com",
+          "published_at": "2026-07-12T06:09:49+00:00"
+        }
+      ]
+    }
+  ],
   "trending": [
     {
       "tag": "#Ai",
-      "count": 69,
+      "count": 70,
       "type": "topic",
       "pct": 100
     },
@@ -1170,13 +1230,13 @@
       "tag": "#XRP",
       "count": 55,
       "type": "coin",
-      "pct": 80
+      "pct": 79
     },
     {
       "tag": "#Xrp",
-      "count": 50,
+      "count": 51,
       "type": "topic",
-      "pct": 72
+      "pct": 73
     },
     {
       "tag": "#Defi",
@@ -1186,15 +1246,15 @@
     },
     {
       "tag": "#Bitcoin",
-      "count": 24,
+      "count": 25,
       "type": "topic",
-      "pct": 35
+      "pct": 36
     },
     {
       "tag": "#BTC",
-      "count": 18,
+      "count": 20,
       "type": "coin",
-      "pct": 26
+      "pct": 29
     },
     {
       "tag": "#ETH",
@@ -1209,5 +1269,5 @@
       "pct": 14
     }
   ],
-  "generated_at": "2026-07-12T10:43:50.385922+00:00"
+  "generated_at": "2026-07-12T11:43:31.772571+00:00"
 }
