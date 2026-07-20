@@ -2,6 +2,106 @@
   "x_breaking": [],
   "breaking": [
     {
+      "title": "Chainlink CCIP Joins Central Bank Digital Asset Pilots",
+      "link": "https://bitcoinist.com/chainlink-ccip-central-bank-digital-asset-pilots/",
+      "published_at": "2026-07-20T23:00:00+00:00",
+      "source": "bitcoinist.com",
+      "score": 9,
+      "ntitle": "chainlink ccip joins central bank digital asset pilots",
+      "coins": [
+        "LINK"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "US Lawmakers Miss Crucial GENIUS Act Deadline, What’s Next For Stablecoin Issuers?",
+      "link": "https://coingape.com/us-lawmakers-miss-crucial-genius-act-deadline-whats-next-for-stablecoin-issuers/",
+      "published_at": "2026-07-20T23:47:53+00:00",
+      "source": "coingape.com",
+      "score": 4,
+      "ntitle": "us lawmakers miss crucial genius act deadline what s next stablecoin issuers",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Coinbase backs tougher CLARITY Act as Trump ethics fight deepens",
+      "link": "https://crypto.news/coinbase-backs-clarity-act-trump-ethics-fight-deepens/",
+      "published_at": "2026-07-20T23:34:08+00:00",
+      "source": "crypto.news",
+      "score": 3,
+      "ntitle": "coinbase backs tougher clarity act trump ethics fight deepens",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Congress"
+    },
+    {
+      "title": "US strikes hit IRGC base in Chabahar, Iran, amid rising tensions",
+      "link": "https://cryptobriefing.com/us-strikes-hit-irgc-base-in-chabahar-iran-amid-rising-tensions/",
+      "published_at": "2026-07-20T23:32:04+00:00",
+      "source": "cryptobriefing.com",
+      "score": 1,
+      "ntitle": "us strikes hit irgc base chabahar iran amid rising tensions",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Prediction Markets Sound the Alarm: Odds of a Bab el-Mandeb Closure Surge Amid New Blockade Threats",
+      "link": "https://news.bitcoin.com/prediction-markets-sound-the-alarm-odds-of-a-bab-el-mandeb-closure-surge-amid-new-blockade-threats/",
+      "published_at": "2026-07-20T23:37:20+00:00",
+      "source": "news.bitcoin.com",
+      "score": 2,
+      "ntitle": "prediction markets sound alarm odds bab el mandeb closure surge amid new blockade threats",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
+      "link": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
+      "published_at": "2026-07-20T23:51:17+00:00",
+      "source": "thedefiant.io",
+      "score": 8,
+      "ntitle": "etoro takes strategic stake onchain derivatives exchange extended plans zengo tie up",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Exodus cuts 25% of workforce in major stablecoin payments pivot",
+      "link": "https://crypto.news/exodus-cuts-25-percent-workforce-stablecoin-pay-pivot/",
+      "published_at": "2026-07-20T23:10:38+00:00",
+      "source": "crypto.news",
+      "score": 1,
+      "ntitle": "exodus cuts 25 workforce major stablecoin payments pivot",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
+      "link": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
+      "published_at": "2026-07-20T23:51:17+00:00",
+      "source": "thedefiant.io",
+      "score": 3,
+      "ntitle": "summerfi wind down after seven years citing exploit",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    }
+  ],
+  "day": [
+    {
       "title": "Bitcoin price prediction 2030: Here’s what you should know about next bull run",
       "link": "https://ambcrypto.com/bitcoin-price-prediction-2030-heres-what-you-should-know-about-next-bull-run/",
       "published_at": "2026-07-20T22:00:20+00:00",
@@ -12,6 +112,30 @@
         "BTC"
       ],
       "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Morpho Midnight and the Rate DeFi's Been Missing",
+      "link": "https://www.bankless.com/read/morpho-midnight-and-the-rate-defis-been-missing",
+      "published_at": "2026-07-20T18:59:40+00:00",
+      "source": "bankless.com",
+      "score": 5,
+      "ntitle": "morpho midnight rate defi s been missing",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "If America Leads China by 23x in AI Spending, Why Fear Kimi K3?",
+      "link": "https://beincrypto.com/us-ai-spending-china-kimi-k3/",
+      "published_at": "2026-07-20T21:00:00+00:00",
+      "source": "beincrypto.com",
+      "score": 1,
+      "ntitle": "if america leads china 23x ai spending why fear kimi k3",
+      "coins": [],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -53,210 +177,6 @@
       "ntitle": "polymarket odds farage holds 95 clacton election market",
       "coins": [],
       "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Grayscale Files S-1 for Worldcoin ETF With SEC, WLD Price Climbs",
-      "link": "https://coingape.com/grayscale-files-s-1-for-worldcoin-etf-with-sec-wld-price-climbs/",
-      "published_at": "2026-07-20T22:15:53+00:00",
-      "source": "coingape.com",
-      "score": 5,
-      "ntitle": "grayscale files s 1 worldcoin etf sec wld price climbs",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Tether Gold gains Abu Dhabi status as its locked value triples",
-      "link": "https://crypto.news/tether-gold-gain-abu-dhabi-status-locked-value-triples/",
-      "published_at": "2026-07-20T22:54:38+00:00",
-      "source": "crypto.news",
-      "score": 3,
-      "ntitle": "tether gold gains abu dhabi status locked value triples",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Solana tokenized assets hit record $6B in Q2, up 114% QoQ",
-      "link": "https://cryptobriefing.com/solana-tokenized-assets-hit-record-6b-in-q2-up-114-qoq/",
-      "published_at": "2026-07-20T22:43:05+00:00",
-      "source": "cryptobriefing.com",
-      "score": 5,
-      "ntitle": "solana tokenized assets hit record 6b q2 up 114 qoq",
-      "coins": [
-        "SOL"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "XRPL Reserve Debate Splits Community Over Adoption vs Security",
-      "link": "https://cryptopotato.com/xrpl-reserve-debate-splits-community-over-adoption-vs-security/",
-      "published_at": "2026-07-20T22:02:10+00:00",
-      "source": "cryptopotato.com",
-      "score": 5,
-      "ntitle": "xrpl reserve debate splits community over adoption vs security",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Whales vs. Mid-Tier Holders: The Dramatic Shift in Bitcoin Ownership Splitting the Market",
-      "link": "https://news.bitcoin.com/whales-vs-mid-tier-holders-the-dramatic-shift-in-bitcoin-ownership-splitting-the-market/",
-      "published_at": "2026-07-20T22:05:46+00:00",
-      "source": "news.bitcoin.com",
-      "score": 2,
-      "ntitle": "whales vs mid tier holders dramatic shift bitcoin ownership splitting market",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
-      "link": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
-      "published_at": "2026-07-20T22:57:24+00:00",
-      "source": "thedefiant.io",
-      "score": 8,
-      "ntitle": "etoro takes strategic stake onchain derivatives exchange extended plans zengo tie up",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Solana Stablecoin Market Cap Hits $15B As Network Liquidity Deepens",
-      "link": "https://bitcoinist.com/solana-stablecoin-market-cap-15b-network-liquidity/",
-      "published_at": "2026-07-20T22:30:00+00:00",
-      "source": "bitcoinist.com",
-      "score": 1,
-      "ntitle": "solana stablecoin market cap hits 15b network liquidity deepens",
-      "coins": [
-        "SOL"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Grayscale files for Worldcoin ETF as WLD price breaks higher",
-      "link": "https://crypto.news/grayscale-files-for-worldcoin-etf-wld-price-higher/",
-      "published_at": "2026-07-20T22:26:19+00:00",
-      "source": "crypto.news",
-      "score": 5,
-      "ntitle": "grayscale files worldcoin etf wld price breaks higher",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "At least 17 US service members killed in Iran war as crypto markets feel the fallout",
-      "link": "https://cryptobriefing.com/us-service-members-killed-iran-war-crypto-fallout/",
-      "published_at": "2026-07-20T22:35:29+00:00",
-      "source": "cryptobriefing.com",
-      "score": 2,
-      "ntitle": "least 17 us service members killed iran war crypto markets feel fallout",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
-      "link": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
-      "published_at": "2026-07-20T22:57:24+00:00",
-      "source": "thedefiant.io",
-      "score": 3,
-      "ntitle": "summerfi wind down after seven years citing exploit",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    }
-  ],
-  "day": [
-    {
-      "title": "Decoding crypto slang: Examining origins and meaning of HODL, FOMO, FUD, and more",
-      "link": "https://ambcrypto.com/decoding-crypto-slang-examining-origins-and-meaning-of-hodl-fomo-fud-and-more/",
-      "published_at": "2026-07-20T21:00:32+00:00",
-      "source": "ambcrypto.com",
-      "score": 2,
-      "ntitle": "decoding crypto slang examining origins meaning hodl fomo fud more",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Morpho Midnight and the Rate DeFi's Been Missing",
-      "link": "https://www.bankless.com/read/morpho-midnight-and-the-rate-defis-been-missing",
-      "published_at": "2026-07-20T18:59:40+00:00",
-      "source": "bankless.com",
-      "score": 5,
-      "ntitle": "morpho midnight rate defi s been missing",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "If America Leads China by 23x in AI Spending, Why Fear Kimi K3?",
-      "link": "https://beincrypto.com/us-ai-spending-china-kimi-k3/",
-      "published_at": "2026-07-20T21:00:00+00:00",
-      "source": "beincrypto.com",
-      "score": 1,
-      "ntitle": "if america leads china 23x ai spending why fear kimi k3",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Solana Alternative Stablecoin Supply Hits $4.81B As Liquidity Diversifies",
-      "link": "https://bitcoinist.com/solana-alternative-stablecoin-supply-4-81b-liquidity/",
-      "published_at": "2026-07-20T21:45:00+00:00",
-      "source": "bitcoinist.com",
-      "score": 1,
-      "ntitle": "solana alternative stablecoin supply hits 4 81b liquidity diversifies",
-      "coins": [
-        "SOL"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Metaplanet’s Bitcoin Japan Announces Plan to Scoop Up Coins Despite Market Downturn",
-      "link": "https://bitcoinmagazine.com/news/bitcoin-japan-to-buy-bitcoin",
-      "published_at": "2026-07-20T20:05:56+00:00",
-      "source": "bitcoinmagazine.com",
-      "score": 4,
-      "ntitle": "metaplanet s bitcoin japan announces plan scoop up coins despite market downturn",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Polymarket odds for US invasion of Iran before 2027 jump to 27.5%",
-      "link": "https://Blockchain.News/news/polymarket-odds-for-us-invasion-of-iran-before-2027-jump-to-275-0hnn6jeppuo40",
-      "published_at": "2026-07-20T20:15:54+00:00",
-      "source": "blockchain.news",
-      "score": 1,
-      "ntitle": "polymarket odds us invasion iran before 2027 jump 27 5",
-      "coins": [],
-      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -313,14 +233,14 @@
       "agency": null
     },
     {
-      "title": "Vietnam to Fine Crypto Users Up to $1,900 on Unlicensed Platforms",
-      "link": "https://coingape.com/vietnam-to-fine-crypto-users-up-to-1900-on-unlicensed-platforms/",
-      "published_at": "2026-07-20T19:54:52+00:00",
+      "title": "Grayscale Files S-1 for Worldcoin ETF With SEC, WLD Price Climbs",
+      "link": "https://coingape.com/grayscale-files-s-1-for-worldcoin-etf-with-sec-wld-price-climbs/",
+      "published_at": "2026-07-20T22:15:53+00:00",
       "source": "coingape.com",
       "score": 5,
-      "ntitle": "vietnam fine crypto users up 1 900 unlicensed platforms",
+      "ntitle": "grayscale files s 1 worldcoin etf sec wld price climbs",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -351,38 +271,38 @@
       "agency": null
     },
     {
-      "title": "Dogecoin price nears key liquidation zone after $14M whale buy",
-      "link": "https://crypto.news/dogecoin-price-nears-liquidation-after-14m-whale-buy/",
-      "published_at": "2026-07-20T21:30:00+00:00",
+      "title": "Grayscale files for Worldcoin ETF as WLD price breaks higher",
+      "link": "https://crypto.news/grayscale-files-for-worldcoin-etf-wld-price-higher/",
+      "published_at": "2026-07-20T22:26:19+00:00",
       "source": "crypto.news",
-      "score": 1,
-      "ntitle": "dogecoin price nears key liquidation zone after 14m whale buy",
-      "coins": [
-        "DOGE"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "US teetering on all-out war with Iran as ceasefire collapses: WaPo",
-      "link": "https://cryptobriefing.com/us-teetering-on-all-out-war-with-iran-as-ceasefire-collapses-wapo/",
-      "published_at": "2026-07-20T21:19:01+00:00",
-      "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "us teetering all out war iran ceasefire collapses wapo",
+      "score": 5,
+      "ntitle": "grayscale files worldcoin etf wld price breaks higher",
       "coins": [],
-      "sentiment": "bearish",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "PUMP Climbs to a 2-Month High: Key Catalysts and What’s Next?",
-      "link": "https://cryptopotato.com/pump-climbs-to-a-2-month-high-key-catalysts-and-whats-next/",
-      "published_at": "2026-07-20T20:16:40+00:00",
+      "title": "Solana tokenized assets hit record $6B in Q2, up 114% QoQ",
+      "link": "https://cryptobriefing.com/solana-tokenized-assets-hit-record-6b-in-q2-up-114-qoq/",
+      "published_at": "2026-07-20T22:43:05+00:00",
+      "source": "cryptobriefing.com",
+      "score": 5,
+      "ntitle": "solana tokenized assets hit record 6b q2 up 114 qoq",
+      "coins": [
+        "SOL"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "XRPL Reserve Debate Splits Community Over Adoption vs Security",
+      "link": "https://cryptopotato.com/xrpl-reserve-debate-splits-community-over-adoption-vs-security/",
+      "published_at": "2026-07-20T22:02:10+00:00",
       "source": "cryptopotato.com",
-      "score": 1,
-      "ntitle": "pump climbs 2 month high key catalysts what s next",
+      "score": 5,
+      "ntitle": "xrpl reserve debate splits community over adoption vs security",
       "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -441,12 +361,12 @@
       "agency": null
     },
     {
-      "title": "Blackrock Pulls in $204M as Bitcoin ETFs Finish the Week Positive",
-      "link": "https://news.bitcoin.com/blackrock-pulls-in-204m-as-bitcoin-etfs-finish-the-week-positive/",
-      "published_at": "2026-07-20T21:19:48+00:00",
+      "title": "Whales vs. Mid-Tier Holders: The Dramatic Shift in Bitcoin Ownership Splitting the Market",
+      "link": "https://news.bitcoin.com/whales-vs-mid-tier-holders-the-dramatic-shift-in-bitcoin-ownership-splitting-the-market/",
+      "published_at": "2026-07-20T22:05:46+00:00",
       "source": "news.bitcoin.com",
-      "score": 3,
-      "ntitle": "blackrock pulls 204m bitcoin etfs finish week positive",
+      "score": 2,
+      "ntitle": "whales vs mid tier holders dramatic shift bitcoin ownership splitting market",
       "coins": [
         "BTC"
       ],
@@ -482,14 +402,14 @@
       "agency": null
     },
     {
-      "title": "Consensys Halted MetaMask Releases Over North Korea-Linked Contractor",
-      "link": "https://thedefiant.io/news/security/consensys-halted-metamask-releases-over-north-korea-linked-contractor",
-      "published_at": "2026-07-20T19:18:03+00:00",
+      "title": "Armstrong Says His X Posts and Avatars Are Not Token Endorsements",
+      "link": "https://thedefiant.io/news/people/armstrong-says-his-x-posts-and-avatars-are-not-token-endorsements",
+      "published_at": "2026-07-20T21:05:51+00:00",
       "source": "thedefiant.io",
-      "score": 3,
-      "ntitle": "consensys halted metamask releases over north korea linked contractor",
+      "score": 1,
+      "ntitle": "armstrong says his x posts avatars not token endorsements",
       "coins": [],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -520,16 +440,14 @@
       "agency": null
     },
     {
-      "title": "XRP price prediction: Will whale buying be enough to push it past $1.20?",
-      "link": "https://ambcrypto.com/xrp-price-prediction-will-whale-buying-be-enough-to-push-it-past-1-20/",
-      "published_at": "2026-07-20T19:30:15+00:00",
+      "title": "Decoding crypto slang: Examining origins and meaning of HODL, FOMO, FUD, and more",
+      "link": "https://ambcrypto.com/decoding-crypto-slang-examining-origins-and-meaning-of-hodl-fomo-fud-and-more/",
+      "published_at": "2026-07-20T21:00:32+00:00",
       "source": "ambcrypto.com",
-      "score": 6,
-      "ntitle": "xrp price prediction will whale buying be enough push it past 1 20",
-      "coins": [
-        "XRP"
-      ],
-      "sentiment": "bullish",
+      "score": 2,
+      "ntitle": "decoding crypto slang examining origins meaning hodl fomo fud more",
+      "coins": [],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -546,30 +464,32 @@
       "agency": null
     },
     {
-      "title": "PancakeSwap Releases ERC-8183 AI Settlement Agent As DeFi Automation Gets More Serious",
-      "link": "https://bitcoinist.com/pancakeswap-erc-8183-ai-settlement-agent-defi-automation/",
-      "published_at": "2026-07-20T21:30:00+00:00",
+      "title": "Solana Stablecoin Market Cap Hits $15B As Network Liquidity Deepens",
+      "link": "https://bitcoinist.com/solana-stablecoin-market-cap-15b-network-liquidity/",
+      "published_at": "2026-07-20T22:30:00+00:00",
       "source": "bitcoinist.com",
-      "score": 6,
-      "ntitle": "pancakeswap releases erc 8183 ai settlement agent defi automation gets more serious",
-      "coins": [],
+      "score": 1,
+      "ntitle": "solana stablecoin market cap hits 15b network liquidity deepens",
+      "coins": [
+        "SOL"
+      ],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Bitcoin-Treasury Capital B Plans 10-for-1 Reverse Stock Split for September",
-      "link": "https://bitcoinmagazine.com/news/bitcoin-treasury-capital-b-plans-10-for-1",
-      "published_at": "2026-07-20T19:52:47+00:00",
+      "title": "Metaplanet’s Bitcoin Japan Announces Plan to Scoop Up Coins Despite Market Downturn",
+      "link": "https://bitcoinmagazine.com/news/bitcoin-japan-to-buy-bitcoin",
+      "published_at": "2026-07-20T20:05:56+00:00",
       "source": "bitcoinmagazine.com",
-      "score": 5,
-      "ntitle": "bitcoin treasury capital b plans 10 1 reverse stock split september",
+      "score": 4,
+      "ntitle": "metaplanet s bitcoin japan announces plan scoop up coins despite market downturn",
       "coins": [
         "BTC"
       ],
-      "sentiment": "bullish",
-      "is_regulation": true,
-      "agency": "Treasury"
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     }
   ],
   "week": [
@@ -594,20 +514,6 @@
       "ntitle": "morpho s fixed rate lending protocol midnight nears",
       "coins": [],
       "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "LINK Bullish Pennant Forms As Chainlink Buy Volume Rebounds",
-      "link": "https://bitcoinist.com/link-bullish-pennant-forms-as-chainlink-buy-volume-rebounds/",
-      "published_at": "2026-07-18T19:35:00+00:00",
-      "source": "bitcoinist.com",
-      "score": 8,
-      "ntitle": "link bullish pennant forms chainlink buy volume rebounds",
-      "coins": [
-        "LINK"
-      ],
-      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -692,18 +598,6 @@
       "source": "cointelegraph.com",
       "score": 3,
       "ntitle": "saylor turns up heat 110 reasons why bip 110 bad idea",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Japan logistics giant plans JPYC payments for 2,300 partners",
-      "link": "https://crypto.news/japan-logistics-giant-plans-jpyc-payments-for-2300-partners/",
-      "published_at": "2026-07-19T13:55:11+00:00",
-      "source": "crypto.news",
-      "score": 1,
-      "ntitle": "japan logistics giant plans jpyc payments 2 300 partners",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -954,6 +848,33 @@
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
+    },
+    {
+      "title": "2 in a Row: Bitcoin ETFs Mark Another Green Week, but Ethereum Wins",
+      "link": "https://cryptopotato.com/2-in-a-row-bitcoin-etfs-mark-another-green-week-but-ethereum-wins/",
+      "published_at": "2026-07-19T19:12:19+00:00",
+      "source": "cryptopotato.com",
+      "score": 3,
+      "ntitle": "2 row bitcoin etfs mark another green week but ethereum wins",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "US Corporate Insiders Sell Record $77,600,000,000 in Stock During First Half of 2026",
+      "link": "https://dailyhodl.com/2026/07/19/us-corporate-insiders-sell-record-77600000000-in-stock-during-first-half-of-2026/",
+      "published_at": "2026-07-19T14:30:49+00:00",
+      "source": "dailyhodl.com",
+      "score": 2,
+      "ntitle": "us corporate insiders sell record 77 600 000 000 stock during first half 2026",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     }
   ],
   "month": [
@@ -1142,7 +1063,7 @@
   ],
   "clusters": [
     {
-      "id": 4,
+      "id": 18,
       "title": "Grayscale Files S-1 for Worldcoin ETF With SEC, WLD Price Climbs",
       "link": "https://coingape.com/grayscale-files-s-1-for-worldcoin-etf-with-sec-wld-price-climbs/",
       "source": "coingape.com",
@@ -1150,8 +1071,8 @@
       "sentiment": "bullish",
       "coins": [],
       "sources": [
-        "crypto.news",
         "coingape.com",
+        "crypto.news",
         "beincrypto.com"
       ],
       "count": 3,
@@ -1177,31 +1098,30 @@
       ]
     },
     {
-      "id": 10,
-      "title": "Solana Stablecoin Market Cap Hits $15B As Network Liquidity Deepens",
-      "link": "https://bitcoinist.com/solana-stablecoin-market-cap-15b-network-liquidity/",
-      "source": "bitcoinist.com",
-      "published_at": "2026-07-20T22:30:00+00:00",
+      "id": 6,
+      "title": "Exodus Cuts 25% of Its Global Workforce to Fund a Full-Stack Payments Pivot",
+      "link": "https://unchainedcrypto.com/exodus-cuts-25-of-its-global-workforce-to-fund-a-full-stack-payments-pivot/",
+      "source": "unchainedcrypto.com",
+      "published_at": "2026-07-20T18:38:55+00:00",
       "sentiment": "neutral",
-      "coins": [
-        "SOL"
-      ],
+      "coins": [],
       "sources": [
-        "bitcoinist.com"
+        "unchainedcrypto.com",
+        "crypto.news"
       ],
       "count": 2,
       "members": [
         {
-          "title": "Solana Stablecoin Market Cap Hits $15B As Network Liquidity Deepens",
-          "link": "https://bitcoinist.com/solana-stablecoin-market-cap-15b-network-liquidity/",
-          "source": "bitcoinist.com",
-          "published_at": "2026-07-20T22:30:00+00:00"
+          "title": "Exodus cuts 25% of workforce in major stablecoin payments pivot",
+          "link": "https://crypto.news/exodus-cuts-25-percent-workforce-stablecoin-pay-pivot/",
+          "source": "crypto.news",
+          "published_at": "2026-07-20T23:10:38+00:00"
         },
         {
-          "title": "Solana Alternative Stablecoin Supply Hits $4.81B As Liquidity Diversifies",
-          "link": "https://bitcoinist.com/solana-alternative-stablecoin-supply-4-81b-liquidity/",
-          "source": "bitcoinist.com",
-          "published_at": "2026-07-20T21:45:00+00:00"
+          "title": "Exodus Cuts 25% of Its Global Workforce to Fund a Full-Stack Payments Pivot",
+          "link": "https://unchainedcrypto.com/exodus-cuts-25-of-its-global-workforce-to-fund-a-full-stack-payments-pivot/",
+          "source": "unchainedcrypto.com",
+          "published_at": "2026-07-20T18:38:55+00:00"
         }
       ]
     }
@@ -1209,52 +1129,52 @@
   "trending": [
     {
       "tag": "#Ai",
-      "count": 51,
+      "count": 54,
       "type": "topic",
       "pct": 100
     },
     {
       "tag": "#XRP",
-      "count": 41,
+      "count": 40,
       "type": "coin",
-      "pct": 80
+      "pct": 74
     },
     {
       "tag": "#Xrp",
-      "count": 39,
+      "count": 38,
       "type": "topic",
-      "pct": 76
+      "pct": 70
     },
     {
       "tag": "#Defi",
       "count": 31,
       "type": "topic",
-      "pct": 61
+      "pct": 57
     },
     {
       "tag": "#Bitcoin",
       "count": 29,
       "type": "topic",
-      "pct": 57
+      "pct": 54
     },
     {
       "tag": "#BTC",
-      "count": 25,
+      "count": 23,
       "type": "coin",
-      "pct": 49
+      "pct": 43
     },
     {
       "tag": "#ETH",
-      "count": 18,
+      "count": 16,
       "type": "coin",
-      "pct": 35
+      "pct": 30
     },
     {
       "tag": "#Ethereum",
       "count": 14,
       "type": "topic",
-      "pct": 27
+      "pct": 26
     }
   ],
-  "generated_at": "2026-07-20T22:57:49.834281+00:00"
+  "generated_at": "2026-07-20T23:51:44.150542+00:00"
 }
