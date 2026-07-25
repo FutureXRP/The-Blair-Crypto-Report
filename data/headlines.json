@@ -2,107 +2,85 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "Clarity Act Faces Senate Resistance Over Trump Crypto Profits",
-      "link": "https://blockonomi.com/clarity-act-faces-senate-resistance-over-trump-crypto-profits/",
-      "published_at": "2026-07-25T14:02:10+00:00",
-      "source": "blockonomi.com",
-      "score": 1,
-      "ntitle": "clarity act faces senate resistance over trump crypto profits",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Congress"
-    },
-    {
-      "title": "Trump sued hours after new tariffs take effect, as experts say they may not hold up",
-      "link": "https://www.cnbc.com/2026/07/24/trump-tariffs-lawsuit-301-ieepa.html",
-      "published_at": "2026-07-25T14:23:53+00:00",
-      "source": "cnbc.com",
-      "score": 2,
-      "ntitle": "trump sued hours after new tariffs take effect experts say they may not hold up",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Kalshi Settles With Nevada Amid Netflix Dispute Over Sports Prediction Market Documentary",
-      "link": "https://coingape.com/kalshi-settles-with-nevada-amid-netflix-dispute-over-sports-prediction-market-documentary/",
-      "published_at": "2026-07-25T14:17:19+00:00",
-      "source": "coingape.com",
-      "score": 4,
-      "ntitle": "kalshi settles nevada amid netflix dispute over sports prediction market documentary",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Wall Street’s newest short desk is a blockchain",
-      "link": "https://crypto.news/hyperliquid-equity-perps-stocks-onchain/",
-      "published_at": "2026-07-25T14:48:31+00:00",
-      "source": "crypto.news",
-      "score": 1,
-      "ntitle": "wall street s newest short desk blockchain",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "AC Milan’s crypto partnerships face spotlight as Celtic dominates pre-season friendly 2-0 at halftime",
-      "link": "https://cryptobriefing.com/ac-milan-celtic-crypto-fan-token/",
-      "published_at": "2026-07-25T14:50:56+00:00",
-      "source": "cryptobriefing.com",
-      "score": 4,
-      "ntitle": "ac milan s crypto partnerships face spotlight celtic dominates pre season friendly 2 0 halftime",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "US Senate has 4 days to save CLARITY Act as odds fall to 30% – Galaxy Digital says",
-      "link": "https://cryptoslate.com/us-senate-has-4-days-to-save-clarity-act-as-passage-odds-fall-to-30-galaxy-digital-says/",
-      "published_at": "2026-07-25T14:50:50+00:00",
-      "source": "cryptoslate.com",
-      "score": 2,
-      "ntitle": "us senate has 4 days save clarity act odds fall 30 galaxy digital says",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Congress"
-    },
-    {
-      "title": "Scammers Drain $50,327 From Florida Woman After Posing As JPMorgan Chase Representatives",
-      "link": "https://dailyhodl.com/2026/07/25/scammers-drain-50327-from-florida-woman-after-posing-as-jpmorgan-chase-representatives/",
-      "published_at": "2026-07-25T14:30:43+00:00",
-      "source": "dailyhodl.com",
-      "score": 4,
-      "ntitle": "scammers drain 50 327 florida woman after posing jpmorgan chase representatives",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Whale Stakes $32.87M in HYPE as Token Trades 25% Below Its June Peak",
-      "link": "https://news.bitcoin.com/hype-whale-falconx-staking-hyperliquid-july-2026/",
-      "published_at": "2026-07-25T14:45:54+00:00",
-      "source": "news.bitcoin.com",
+      "title": "Ethereum Traders are Giving Up Again. The Last Two Times ETH Rallied",
+      "link": "https://beincrypto.com/ethereum-sentiment-eth-rebound/",
+      "published_at": "2026-07-25T15:21:34+00:00",
+      "source": "beincrypto.com",
       "score": 3,
-      "ntitle": "whale stakes 32 87m hype token trades 25 below june peak",
+      "ntitle": "ethereum traders giving up again last two times eth rallied",
       "coins": [
-        "HYPE"
+        "ETH"
       ],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
+      "title": "North Korea arrests hackers accused of laundering stolen funds from country's bank via crypto",
+      "link": "https://www.coindesk.com/business/2026/07/25/north-korea-arrests-hackers-accused-of-laundering-stolen-funds-from-country-s-bank-via-crypto",
+      "published_at": "2026-07-25T15:46:05+00:00",
+      "source": "coindesk.com",
+      "score": 4,
+      "ntitle": "north korea arrests hackers accused laundering stolen funds country s bank via crypto",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Will Ripple Burn 32 Billion XRP In Escrow? Crypto Pundit Unleashes The Truth Behind FUD",
+      "link": "https://coingape.com/will-ripple-burn-32-billion-xrp-in-escrow-crypto-pundit-unleashes-the-truth-behind-fud/",
+      "published_at": "2026-07-25T15:26:38+00:00",
+      "source": "coingape.com",
+      "score": 9,
+      "ntitle": "will ripple burn 32 billion xrp escrow crypto pundit unleashes truth behind fud",
+      "coins": [
+        "XRP"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Google backs open-weight AI letter alongside OpenAI and xAI",
+      "link": "https://cryptobriefing.com/google-openai-xai-open-weight-ai-letter/",
+      "published_at": "2026-07-25T15:48:35+00:00",
+      "source": "cryptobriefing.com",
+      "score": 1,
+      "ntitle": "google backs open weight ai letter alongside openai xai",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Trump jokes about 4th term as $17 million in TRUMP tokens move onto exchanges",
+      "link": "https://cryptoslate.com/trump-jokes-about-4th-term-as-17-million-in-trump-tokens-move-toward-exchanges/",
+      "published_at": "2026-07-25T16:05:51+00:00",
+      "source": "cryptoslate.com",
+      "score": 1,
+      "ntitle": "trump jokes about 4th term 17 million trump tokens move onto exchanges",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "DeFi Aggregator Odos Closes Doors, Leaves Users 5 Days to Move Locked Funds",
+      "link": "https://news.bitcoin.com/defi-aggregator-odos-closes-doors-leaves-users-5-days-to-move-locked-funds/",
+      "published_at": "2026-07-25T16:01:48+00:00",
+      "source": "news.bitcoin.com",
+      "score": 3,
+      "ntitle": "defi aggregator odos closes doors leaves users 5 days move locked funds",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
       "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
       "link": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
-      "published_at": "2026-07-25T15:01:42+00:00",
+      "published_at": "2026-07-25T16:07:39+00:00",
       "source": "thedefiant.io",
       "score": 8,
       "ntitle": "etoro takes strategic stake onchain derivatives exchange extended plans zengo tie up",
@@ -112,38 +90,38 @@
       "agency": null
     },
     {
-      "title": "Cardano Founder Blasts Ark Invest Director's Bias Over Criticism",
-      "link": "https://u.today/cardano-founder-blasts-ark-invest-directors-bias-over-criticism",
-      "published_at": "2026-07-25T14:30:47+00:00",
+      "title": "Dogecoin ETFs Go Quiet Again After Brief $345K Inflow Surge",
+      "link": "https://u.today/dogecoin-etfs-go-quiet-again-after-brief-345k-inflow-surge",
+      "published_at": "2026-07-25T15:35:46+00:00",
       "source": "u.today",
-      "score": 1,
-      "ntitle": "cardano founder blasts ark invest director s bias over criticism",
+      "score": 3,
+      "ntitle": "dogecoin etfs go quiet again after brief 345k inflow surge",
       "coins": [
-        "ADA"
+        "DOGE"
       ],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Kazakhstan’s president urges Russia to consider freezing the Ukraine war, and markets should pay attention",
-      "link": "https://cryptobriefing.com/kazakhstan-urges-russia-ukraine-war-freeze/",
-      "published_at": "2026-07-25T14:49:53+00:00",
+      "title": "Troy Jackson replaces Platner in Maine Senate race against Collins",
+      "link": "https://cryptobriefing.com/troy-jackson-replaces-platner-in-maine-senate-race-against-collins/",
+      "published_at": "2026-07-25T15:37:43+00:00",
       "source": "cryptobriefing.com",
-      "score": 2,
-      "ntitle": "kazakhstan s president urges russia consider freezing ukraine war markets should pay attention",
+      "score": 1,
+      "ntitle": "troy jackson replaces platner maine senate race against collins",
       "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
+      "sentiment": "bullish",
+      "is_regulation": true,
+      "agency": "Congress"
     },
     {
-      "title": "Trump Team Shifts $16.9M More in TRUMP Memecoin to Bitgo as Total Hits $172M in Five Months",
-      "link": "https://news.bitcoin.com/trump-team-trump-token-bitgo-transfer-july-2026/",
-      "published_at": "2026-07-25T14:09:22+00:00",
+      "title": "Triple-A Hot Wallets Drained of $9.7 Million Across Six Chains: Here’s What Peckshield Found",
+      "link": "https://news.bitcoin.com/triple-a-hot-wallet-exploit-9-7-million-peckshield/",
+      "published_at": "2026-07-25T15:20:31+00:00",
       "source": "news.bitcoin.com",
       "score": 4,
-      "ntitle": "trump team shifts 16 9m more trump memecoin bitgo total hits 172m five months",
+      "ntitle": "triple hot wallets drained 9 7 million across six chains here s what peckshield found",
       "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
@@ -152,7 +130,7 @@
     {
       "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
       "link": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
-      "published_at": "2026-07-25T15:01:42+00:00",
+      "published_at": "2026-07-25T16:07:39+00:00",
       "source": "thedefiant.io",
       "score": 3,
       "ntitle": "summerfi wind down after seven years citing exploit",
@@ -162,30 +140,30 @@
       "agency": null
     },
     {
-      "title": "XRP Bulls Stunned by 2,205% Liquidation Imbalance",
-      "link": "https://u.today/xrp-bulls-stunned-by-2205-liquidation-imbalance",
-      "published_at": "2026-07-25T14:18:14+00:00",
+      "title": "'New Definition of Pre-Rich,' Binance's CZ Reacts as Elon Musk Exits Trillionaire Club",
+      "link": "https://u.today/new-definition-of-pre-rich-binances-cz-reacts-as-elon-musk-exits-trillionaire-club",
+      "published_at": "2026-07-25T15:17:52+00:00",
       "source": "u.today",
-      "score": 6,
-      "ntitle": "xrp bulls stunned 2 205 liquidation imbalance",
+      "score": 4,
+      "ntitle": "new definition pre rich binance s cz reacts elon musk exits trillionaire club",
       "coins": [
-        "XRP"
+        "BNB"
       ],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     }
   ],
   "day": [
     {
-      "title": "Triple-A exploit drains $9.7mln across 4 chains – What we know so far",
-      "link": "https://ambcrypto.com/triple-a-exploit-drains-9-7mln-across-4-chains-what-we-know-so-far/",
-      "published_at": "2026-07-25T13:00:13+00:00",
+      "title": "BlackRock, VanEck, Virtus InfraCap pour $756M into STRC – Details",
+      "link": "https://ambcrypto.com/blackrock-vaneck-virtus-infracap-pour-756m-into-strc-details/",
+      "published_at": "2026-07-25T15:00:32+00:00",
       "source": "ambcrypto.com",
-      "score": 1,
-      "ntitle": "triple exploit drains 9 7mln across 4 chains what we know so far",
+      "score": 3,
+      "ntitle": "blackrock vaneck virtus infracap pour 756m into strc details",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -254,16 +232,16 @@
       "agency": null
     },
     {
-      "title": "Federal Reserve Rate Hike Bets Surge as Oil Crosses $100 Mark",
-      "link": "https://blockonomi.com/federal-reserve-rate-hike-bets-surge-as-oil-crosses-100-mark/",
-      "published_at": "2026-07-25T12:17:20+00:00",
+      "title": "Clarity Act Faces Senate Resistance Over Trump Crypto Profits",
+      "link": "https://blockonomi.com/clarity-act-faces-senate-resistance-over-trump-crypto-profits/",
+      "published_at": "2026-07-25T14:02:10+00:00",
       "source": "blockonomi.com",
-      "score": 3,
-      "ntitle": "federal reserve rate hike bets surge oil crosses 100 mark",
+      "score": 1,
+      "ntitle": "clarity act faces senate resistance over trump crypto profits",
       "coins": [],
-      "sentiment": "bullish",
+      "sentiment": "neutral",
       "is_regulation": true,
-      "agency": "Fed"
+      "agency": "Congress"
     },
     {
       "title": "The EU’s 21st Russia Sanctions Package Targets Crypto Platforms for Sanctions Evasion, Introduces Third-Country Ban Mechanism",
@@ -278,14 +256,14 @@
       "agency": "Regulatory"
     },
     {
-      "title": "Does crypto make your portfolio less risky? Only if you do it right, experts say",
-      "link": "https://www.cnbc.com/2026/07/25/crypto-diversified-investment-portfolio.html",
-      "published_at": "2026-07-25T13:30:01+00:00",
+      "title": "Trump sued hours after new tariffs take effect, as experts say they may not hold up",
+      "link": "https://www.cnbc.com/2026/07/24/trump-tariffs-lawsuit-301-ieepa.html",
+      "published_at": "2026-07-25T14:23:53+00:00",
       "source": "cnbc.com",
       "score": 2,
-      "ntitle": "does crypto make your portfolio less risky only if you do it right experts say",
+      "ntitle": "trump sued hours after new tariffs take effect experts say they may not hold up",
       "coins": [],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -302,14 +280,14 @@
       "agency": null
     },
     {
-      "title": "Bitget Wins Two Awards At Wiki Finance Expo Hong Kong 2026 As UEX Strategy Expands",
-      "link": "https://coingape.com/bitget-wins-two-awards-at-wiki-finance-expo-hong-kong-2026-as-uex-strategy-expands/",
-      "published_at": "2026-07-25T12:35:00+00:00",
+      "title": "Kalshi Settles With Nevada Amid Netflix Dispute Over Sports Prediction Market Documentary",
+      "link": "https://coingape.com/kalshi-settles-with-nevada-amid-netflix-dispute-over-sports-prediction-market-documentary/",
+      "published_at": "2026-07-25T14:17:19+00:00",
       "source": "coingape.com",
-      "score": 2,
-      "ntitle": "bitget wins two awards wiki finance expo hong kong 2026 uex strategy expands",
+      "score": 4,
+      "ntitle": "kalshi settles nevada amid netflix dispute over sports prediction market documentary",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -340,65 +318,62 @@
       "agency": null
     },
     {
-      "title": "The exchanges bought the bookies. Now comes the data war",
-      "link": "https://crypto.news/ice-polymarket-kalshi-exchanges-prediction-markets/",
-      "published_at": "2026-07-25T13:58:06+00:00",
+      "title": "Wall Street’s newest short desk is a blockchain",
+      "link": "https://crypto.news/hyperliquid-equity-perps-stocks-onchain/",
+      "published_at": "2026-07-25T14:48:31+00:00",
       "source": "crypto.news",
       "score": 1,
-      "ntitle": "exchanges bought bookies now comes data war",
+      "ntitle": "wall street s newest short desk blockchain",
       "coins": [],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Charles Schwab urges US Senate to pass Crypto Clarity Act",
-      "link": "https://cryptobriefing.com/charles-schwab-urges-us-senate-to-pass-crypto-clarity-act/",
-      "published_at": "2026-07-25T13:56:16+00:00",
+      "title": "AC Milan’s crypto partnerships face spotlight as Celtic dominates pre-season friendly 2-0 at halftime",
+      "link": "https://cryptobriefing.com/ac-milan-celtic-crypto-fan-token/",
+      "published_at": "2026-07-25T14:50:56+00:00",
       "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "charles schwab urges us senate pass crypto clarity act",
+      "score": 4,
+      "ntitle": "ac milan s crypto partnerships face spotlight celtic dominates pre season friendly 2 0 halftime",
       "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Bitcoin Is Testing a Crucial Level: Breakout or Breakdown Next?",
+      "link": "https://cryptopotato.com/bitcoin-is-testing-a-crucial-level-breakout-or-breakdown-next/",
+      "published_at": "2026-07-25T14:55:16+00:00",
+      "source": "cryptopotato.com",
+      "score": 1,
+      "ntitle": "bitcoin testing crucial level breakout or breakdown next",
+      "coins": [
+        "BTC"
+      ],
       "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "US Senate has 4 days to save CLARITY Act as odds fall to 30% – Galaxy Digital says",
+      "link": "https://cryptoslate.com/us-senate-has-4-days-to-save-clarity-act-as-passage-odds-fall-to-30-galaxy-digital-says/",
+      "published_at": "2026-07-25T14:50:50+00:00",
+      "source": "cryptoslate.com",
+      "score": 2,
+      "ntitle": "us senate has 4 days save clarity act odds fall 30 galaxy digital says",
+      "coins": [],
+      "sentiment": "bearish",
       "is_regulation": true,
       "agency": "Congress"
     },
     {
-      "title": "Crypto ETF Recap: Ethereum Still Outpaces Bitcoin, but Cracks Are Emerging",
-      "link": "https://cryptopotato.com/crypto-etf-recap-ethereum-still-outpaces-bitcoin-but-cracks-are-emerging/",
-      "published_at": "2026-07-25T13:59:41+00:00",
-      "source": "cryptopotato.com",
-      "score": 3,
-      "ntitle": "crypto etf recap ethereum still outpaces bitcoin but cracks emerging",
-      "coins": [
-        "BTC",
-        "ETH"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Bitcoin is now fighting the ECB’s €51.8 billion bond wall for a shrinking pool of capital",
-      "link": "https://cryptoslate.com/bitcoin-is-now-fighting-the-ecbs-e51-8-billion-bond-wall-for-a-shrinking-pool-of-capital/",
-      "published_at": "2026-07-25T13:35:56+00:00",
-      "source": "cryptoslate.com",
-      "score": 4,
-      "ntitle": "bitcoin now fighting ecb s 51 8 billion bond wall shrinking pool capital",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Amazon Paying $2,500,000,000 Over Allegations Prime Customers Were Enrolled Without Consent – Here Are the Eligibility Requirements",
-      "link": "https://dailyhodl.com/2026/07/25/amazon-paying-2500000000-over-allegations-prime-customers-were-enrolled-without-consent-here-are-the-eligibility-requirements/",
-      "published_at": "2026-07-25T11:45:04+00:00",
+      "title": "Scammers Drain $50,327 From Florida Woman After Posing As JPMorgan Chase Representatives",
+      "link": "https://dailyhodl.com/2026/07/25/scammers-drain-50327-from-florida-woman-after-posing-as-jpmorgan-chase-representatives/",
+      "published_at": "2026-07-25T14:30:43+00:00",
       "source": "dailyhodl.com",
-      "score": 7,
-      "ntitle": "amazon paying 2 500 000 000 over allegations prime customers were enrolled without consent here eligibility requirements",
+      "score": 4,
+      "ntitle": "scammers drain 50 327 florida woman after posing jpmorgan chase representatives",
       "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
@@ -431,16 +406,16 @@
       "agency": null
     },
     {
-      "title": "Bitcoin Continues to Flirt With $64,000 After $225 Million ETF Outflow Rattles Confidence",
-      "link": "https://news.bitcoin.com/bitcoin-price-64000-reclaim-july-25-2026/",
-      "published_at": "2026-07-25T13:00:31+00:00",
+      "title": "Whale Stakes $32.87M in HYPE as Token Trades 25% Below Its June Peak",
+      "link": "https://news.bitcoin.com/hype-whale-falconx-staking-hyperliquid-july-2026/",
+      "published_at": "2026-07-25T14:45:54+00:00",
       "source": "news.bitcoin.com",
-      "score": 4,
-      "ntitle": "bitcoin continues flirt 64 000 after 225 million etf outflow rattles confidence",
+      "score": 3,
+      "ntitle": "whale stakes 32 87m hype token trades 25 below june peak",
       "coins": [
-        "BTC"
+        "HYPE"
       ],
-      "sentiment": "bearish",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -483,16 +458,16 @@
       "agency": null
     },
     {
-      "title": "Hyperliquid Sees $32,898,942 HYPE Whale Transfer as Price Falls",
-      "link": "https://u.today/hyperliquid-sees-32898942-hype-whale-transfer-as-price-falls",
-      "published_at": "2026-07-25T12:00:12+00:00",
+      "title": "Cardano Founder Blasts Ark Invest Director's Bias Over Criticism",
+      "link": "https://u.today/cardano-founder-blasts-ark-invest-directors-bias-over-criticism",
+      "published_at": "2026-07-25T14:30:47+00:00",
       "source": "u.today",
       "score": 1,
-      "ntitle": "hyperliquid sees 32 898 942 hype whale transfer price falls",
+      "ntitle": "cardano founder blasts ark invest director s bias over criticism",
       "coins": [
-        "HYPE"
+        "ADA"
       ],
-      "sentiment": "bearish",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -509,16 +484,16 @@
       "agency": null
     },
     {
-      "title": "Is Vietnam’s new crypto framework the first step towards a ban?",
-      "link": "https://ambcrypto.com/is-vietnams-new-crypto-framework-the-first-step-towards-a-ban/",
-      "published_at": "2026-07-25T12:00:33+00:00",
+      "title": "Triple-A exploit drains $9.7mln across 4 chains – What we know so far",
+      "link": "https://ambcrypto.com/triple-a-exploit-drains-9-7mln-across-4-chains-what-we-know-so-far/",
+      "published_at": "2026-07-25T13:00:13+00:00",
       "source": "ambcrypto.com",
-      "score": 3,
-      "ntitle": "vietnam s new crypto framework first step towards ban",
+      "score": 1,
+      "ntitle": "triple exploit drains 9 7mln across 4 chains what we know so far",
       "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Regulatory"
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Binance Data Shows How Crypto is Using AI Stocks to Attract Gen Z Investors",
@@ -585,16 +560,16 @@
       "agency": "SEC"
     },
     {
-      "title": "Democrats Push Back on GOP Ethics Text as Thune Doubts a Pre-Recess Clarity Vote",
-      "link": "https://bitcoinmagazine.com/news/democrats-push-back-on-clarity-ethics-text",
-      "published_at": "2026-07-24T13:34:09+00:00",
+      "title": "Top Crypto Industry Groups Pen Letter to Senate Leaders Urging Them To Support the Clarity Act",
+      "link": "https://bitcoinmagazine.com/news/crypto-industry-groups-support-the-clarity",
+      "published_at": "2026-07-24T16:05:35+00:00",
       "source": "bitcoinmagazine.com",
       "score": 2,
-      "ntitle": "democrats push back gop ethics text thune doubts pre recess clarity vote",
+      "ntitle": "top crypto industry groups pen letter senate leaders urging them support clarity act",
       "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
+      "sentiment": "bullish",
+      "is_regulation": true,
+      "agency": "Congress"
     },
     {
       "title": "AAVE Price Prediction: $100 Is the Wall — Here's What Breaks It or Buries It",
@@ -687,42 +662,40 @@
       "agency": null
     },
     {
-      "title": "Bitcoin falls under $64K as surging US bond yields boost Fed rate-hike odds",
-      "link": "https://cointelegraph.com/markets/bitcoin-falls-under-64k-us-bond-yields-fed-rate-hike-odds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-07-24T14:28:03+00:00",
+      "title": "Internet Freedom Foundation calls India’s BitChat GitHub takedown order ‘unconstitutional’",
+      "link": "https://cointelegraph.com/news/internet-freedom-foundation-calls-indias-bitchat-github-takedown-order-unconstitutional?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-07-24T16:04:30+00:00",
       "source": "cointelegraph.com",
-      "score": 1,
-      "ntitle": "bitcoin falls under 64k surging us bond yields boost fed rate hike odds",
-      "coins": [
-        "BTC"
-      ],
+      "score": 2,
+      "ntitle": "internet freedom foundation calls india s bitchat github takedown order unconstitutional",
+      "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Justin Sun’s HTX lands on EU sanctions list over alleged Russia ties",
-      "link": "https://crypto.news/justin-suns-htx-lands-on-eu-sanctions-list/",
-      "published_at": "2026-07-24T14:55:08+00:00",
+      "title": "John Thune shuts down hopes for CLARITY Act vote before recess",
+      "link": "https://crypto.news/john-thune-shuts-down-hopes-for-clarity-act-vote/",
+      "published_at": "2026-07-24T15:27:05+00:00",
       "source": "crypto.news",
-      "score": 3,
-      "ntitle": "justin sun s htx lands eu sanctions list over alleged russia ties",
+      "score": 1,
+      "ntitle": "john thune shuts down hopes clarity act vote before recess",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "is_regulation": true,
-      "agency": "EU"
+      "agency": "Congress"
     },
     {
-      "title": "Bitcoin Rejected at $67K, Strategy Stays on Hold, BitMEX Shuts Down: Weekly Crypto Recap",
-      "link": "https://cryptopotato.com/bitcoin-rejected-at-67k-strategy-stays-on-hold-bitmex-shuts-down-weekly-crypto-recap/",
-      "published_at": "2026-07-24T14:21:51+00:00",
+      "title": "Dogecoin (DOGE) Slips Below a Key Level: Can Bulls Repair the Damage?",
+      "link": "https://cryptopotato.com/dogecoin-doge-slips-below-a-key-level-can-bulls-repair-the-damage/",
+      "published_at": "2026-07-24T15:15:40+00:00",
       "source": "cryptopotato.com",
-      "score": 2,
-      "ntitle": "bitcoin rejected 67k strategy stays hold bitmex shuts down weekly crypto recap",
+      "score": 1,
+      "ntitle": "dogecoin doge slips below key level can bulls repair damage",
       "coins": [
-        "BTC"
+        "DOGE"
       ],
-      "sentiment": "bearish",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -787,29 +760,30 @@
       "agency": "SEC"
     },
     {
-      "title": "Hacker Behind Fake 'Vladhood' Token Still Collecting Fees After Robinhood CEO's X Account Hack",
-      "link": "https://thedefiant.io/news/defi/hacker-behind-fake-vladhood-token-still-collecting-fees-after-robinhood-ceo-s-x-account-hack",
-      "published_at": "2026-07-23T20:25:12+00:00",
+      "title": "BitMEX, Hayes Sued Over 623 BTC Liquidation Claims as Exchange Winds Down",
+      "link": "https://thedefiant.io/news/cefi/bitmex-hayes-sued-over-623-btc-liquidation-claims-as-exchange-winds-down",
+      "published_at": "2026-07-24T16:06:02+00:00",
       "source": "thedefiant.io",
-      "score": 4,
-      "ntitle": "hacker behind fake vladhood token still collecting fees after robinhood ceo s x account hack",
-      "coins": [],
+      "score": 1,
+      "ntitle": "bitmex hayes sued over 623 btc liquidation claims exchange winds down",
+      "coins": [
+        "BTC"
+      ],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Shiba Inu Coin Whale Breaks 8-Month Silence to Quietly Absorb SHIB on Binance",
-      "link": "https://u.today/shiba-inu-coin-whale-breaks-8-month-silence-to-quietly-absorb-shib-on-binance",
-      "published_at": "2026-07-24T14:06:15+00:00",
+      "title": "Up 105%: Strategy CEO Discloses $756 Million Surge Behind Bitcoin Purchases Fueled by BlackRock and VanEck",
+      "link": "https://u.today/up-105-strategy-ceo-discloses-756-million-surge-behind-bitcoin-purchases-fueled-by-blackrock-and",
+      "published_at": "2026-07-24T15:38:15+00:00",
       "source": "u.today",
-      "score": 1,
-      "ntitle": "shiba inu coin whale breaks 8 month silence quietly absorb shib binance",
+      "score": 2,
+      "ntitle": "up 105 strategy ceo discloses 756 million surge behind bitcoin purchases fueled blackrock vaneck",
       "coins": [
-        "BNB",
-        "SHIB"
+        "BTC"
       ],
-      "sentiment": "neutral",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -838,12 +812,12 @@
       "agency": null
     },
     {
-      "title": "Bitcoinist.App Brings Private Mining Pools to iOS",
-      "link": "https://bitcoinmagazine.com/press-releases/bitcoinist-app-brings-private-mining-pools-to-ios",
-      "published_at": "2026-07-23T21:28:11+00:00",
+      "title": "Democrats Push Back on GOP Ethics Text as Thune Doubts a Pre-Recess Clarity Vote",
+      "link": "https://bitcoinmagazine.com/news/democrats-push-back-on-clarity-ethics-text",
+      "published_at": "2026-07-24T13:34:09+00:00",
       "source": "bitcoinmagazine.com",
-      "score": 1,
-      "ntitle": "bitcoinist app brings private mining pools ios",
+      "score": 2,
+      "ntitle": "democrats push back gop ethics text thune doubts pre recess clarity vote",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -924,16 +898,14 @@
       "agency": null
     },
     {
-      "title": "A quantum roadmap would push Bitcoin much higher: Charles Edwards",
-      "link": "https://cointelegraph.com/magazine/bitcoins-biggest-bull-catalyst-may-come-from-fixing-its-biggest-risk-edwards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-07-24T13:30:00+00:00",
+      "title": "Crypto Biz: Is the AI-to-crypto rotation underway?",
+      "link": "https://cointelegraph.com/news/crypto-biz-ai-to-crypto-rotation-bitcoin-etf-inflows-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-07-24T15:15:57+00:00",
       "source": "cointelegraph.com",
-      "score": 1,
-      "ntitle": "quantum roadmap would push bitcoin much higher charles edwards",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
+      "score": 7,
+      "ntitle": "crypto biz ai crypto rotation underway",
+      "coins": [],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     }
@@ -1036,14 +1008,14 @@
       "agency": "SEC"
     },
     {
-      "title": "OKX Launches Tokenized US Stocks on Shared Order Book",
-      "link": "https://thedefiant.io/converge/cefi/okx-launches-tokenized-us-stocks-on-shared-order-book",
-      "published_at": "2026-07-17T19:53:05+00:00",
+      "title": "'Coinbase Man' Token Crashes as Armstrong Swaps His Avatar for a CryptoPunk",
+      "link": "https://thedefiant.io/news/tokens/coinbase-man-token-crashes-as-armstrong-swaps-his-avatar-for-a-cryptopunk",
+      "published_at": "2026-07-18T15:59:24+00:00",
       "source": "thedefiant.io",
-      "score": 7,
-      "ntitle": "okx launches tokenized us stocks shared order book",
+      "score": 3,
+      "ntitle": "coinbase man token crashes armstrong swaps his avatar cryptopunk",
       "coins": [],
-      "sentiment": "bullish",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -1122,12 +1094,12 @@
       "agency": "SEC"
     },
     {
-      "title": "Tokenized Stock Lending TVL Reaches $23M as DEX Volume Climbs",
-      "link": "https://thedefiant.io/news/defi/tokenized-stock-lending-tvl-reaches-23m-as-dex-volume-climbs",
-      "published_at": "2026-07-17T19:06:48+00:00",
+      "title": "OKX Launches Tokenized US Stocks on Shared Order Book",
+      "link": "https://thedefiant.io/converge/cefi/okx-launches-tokenized-us-stocks-on-shared-order-book",
+      "published_at": "2026-07-17T19:53:05+00:00",
       "source": "thedefiant.io",
-      "score": 9,
-      "ntitle": "tokenized stock lending tvl reaches 23m dex volume climbs",
+      "score": 7,
+      "ntitle": "okx launches tokenized us stocks shared order book",
       "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -1136,30 +1108,30 @@
   ],
   "clusters": [
     {
-      "id": 0,
-      "title": "Clarity Act Faces Senate Resistance Over Trump Crypto Profits",
-      "link": "https://blockonomi.com/clarity-act-faces-senate-resistance-over-trump-crypto-profits/",
-      "source": "blockonomi.com",
-      "published_at": "2026-07-25T14:02:10+00:00",
-      "sentiment": "neutral",
+      "id": 1,
+      "title": "North Korea arrests hackers accused of laundering stolen funds from country's bank via crypto",
+      "link": "https://www.coindesk.com/business/2026/07/25/north-korea-arrests-hackers-accused-of-laundering-stolen-funds-from-country-s-bank-via-crypto",
+      "source": "coindesk.com",
+      "published_at": "2026-07-25T15:46:05+00:00",
+      "sentiment": "bearish",
       "coins": [],
       "sources": [
-        "blockonomi.com",
-        "cryptobriefing.com"
+        "coindesk.com",
+        "cointelegraph.com"
       ],
       "count": 2,
       "members": [
         {
-          "title": "Clarity Act Faces Senate Resistance Over Trump Crypto Profits",
-          "link": "https://blockonomi.com/clarity-act-faces-senate-resistance-over-trump-crypto-profits/",
-          "source": "blockonomi.com",
-          "published_at": "2026-07-25T14:02:10+00:00"
+          "title": "North Korea arrests hackers accused of laundering stolen funds from country's bank via crypto",
+          "link": "https://www.coindesk.com/business/2026/07/25/north-korea-arrests-hackers-accused-of-laundering-stolen-funds-from-country-s-bank-via-crypto",
+          "source": "coindesk.com",
+          "published_at": "2026-07-25T15:46:05+00:00"
         },
         {
-          "title": "Charles Schwab urges US Senate to pass Crypto Clarity Act",
-          "link": "https://cryptobriefing.com/charles-schwab-urges-us-senate-to-pass-crypto-clarity-act/",
-          "source": "cryptobriefing.com",
-          "published_at": "2026-07-25T13:56:16+00:00"
+          "title": "North Korea arrests bank hacking ring tied to crypto laundering: Report",
+          "link": "https://cointelegraph.com/news/north-korea-bank-hacking-ring-crypto-laundering-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "cointelegraph.com",
+          "published_at": "2026-07-25T13:14:18+00:00"
         }
       ]
     }
@@ -1173,9 +1145,9 @@
     },
     {
       "tag": "#Defi",
-      "count": 42,
+      "count": 43,
       "type": "topic",
-      "pct": 63
+      "pct": 64
     },
     {
       "tag": "#XRP",
@@ -1214,5 +1186,5 @@
       "pct": 13
     }
   ],
-  "generated_at": "2026-07-25T15:02:08.711226+00:00"
+  "generated_at": "2026-07-25T16:08:04.629340+00:00"
 }
