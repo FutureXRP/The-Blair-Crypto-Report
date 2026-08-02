@@ -2,63 +2,81 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "Why a DeFi platform ditched its consumer app to become the secret backend for tech giants",
-      "link": "https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants",
-      "published_at": "2026-08-02T17:00:00+00:00",
-      "source": "coindesk.com",
-      "score": 4,
-      "ntitle": "why defi platform ditched consumer app become secret backend tech giants",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Coldcard users face urgent seed migration warning",
-      "link": "https://crypto.news/coldcard-users-face-urgent-seed-migration-warning/",
-      "published_at": "2026-08-02T17:07:48+00:00",
-      "source": "crypto.news",
+      "title": "Solana has been bearish for 10 months in a row: Can SOL still make a comeback?",
+      "link": "https://ambcrypto.com/solana-has-been-bearish-for-10-months-in-a-row-can-sol-still-make-a-comeback/",
+      "published_at": "2026-08-02T18:00:12+00:00",
+      "source": "ambcrypto.com",
       "score": 1,
-      "ntitle": "coldcard users face urgent seed migration warning",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Data center costs surge past $170B in a single quarter as Big Tech’s AI arms race heats up",
-      "link": "https://cryptobriefing.com/data-center-costs-rise-big-tech-ai/",
-      "published_at": "2026-08-02T17:13:00+00:00",
-      "source": "cryptobriefing.com",
-      "score": 2,
-      "ntitle": "data center costs surge past 170b single quarter big tech s ai arms race heats up",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "The US just blacklisted the Iranian maritime scheme forcing commercial ships to pay Bitcoin tolls for safe passage",
-      "link": "https://cryptoslate.com/the-us-just-blacklisted-an-iranian-maritime-scheme-forcing-commercial-ships-to-pay-bitcoin-tolls-for-safe-passage/",
-      "published_at": "2026-08-02T16:40:00+00:00",
-      "source": "cryptoslate.com",
-      "score": 2,
-      "ntitle": "us just blacklisted iranian maritime scheme forcing commercial ships pay bitcoin tolls safe passage",
+      "ntitle": "solana has been bearish 10 months row can sol still make comeback",
       "coins": [
-        "BTC"
+        "SOL"
       ],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "New York State Sues Prediction Market Platform Kalshi Over Unlicensed Betting Operations",
-      "link": "https://dailyhodl.com/2026/08/02/new-york-state-sues-prediction-market-platform-kalshi-over-unlicensed-betting-operations/",
-      "published_at": "2026-08-02T16:55:32+00:00",
-      "source": "dailyhodl.com",
-      "score": 2,
-      "ntitle": "new york state sues prediction market platform kalshi over unlicensed betting operations",
+      "title": "Trump Media launches Truth API amid SEC scrutiny",
+      "link": "https://crypto.news/trump-media-launches-truth-api-amid-sec-scrutiny/",
+      "published_at": "2026-08-02T17:16:59+00:00",
+      "source": "crypto.news",
+      "score": 5,
+      "ntitle": "trump media launches truth api amid sec scrutiny",
       "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": true,
+      "agency": "SEC"
+    },
+    {
+      "title": "Monte dei Paschi explores Banco BPM takeover after merger talks collapse",
+      "link": "https://cryptobriefing.com/monte-dei-paschi-banco-bpm-takeover/",
+      "published_at": "2026-08-02T17:57:14+00:00",
+      "source": "cryptobriefing.com",
+      "score": 3,
+      "ntitle": "monte dei paschi explores banco bpm takeover after merger talks collapse",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Ripple (XRP) ETF Monthly Recap: The Good, The Bad, and the Ugly",
+      "link": "https://cryptopotato.com/ripple-xrp-etf-monthly-recap-the-good-the-bad-and-the-ugly/",
+      "published_at": "2026-08-02T17:48:34+00:00",
+      "source": "cryptopotato.com",
+      "score": 10,
+      "ntitle": "ripple xrp etf monthly recap good bad ugly",
+      "coins": [
+        "XRP"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Coldcard’s $89M wallet bug triggers the biggest Bitcoin movement since FTX and completely distorts market signals",
+      "link": "https://cryptoslate.com/coldcards-89m-wallet-bug-triggers-the-biggest-bitcoin-movement-since-ftx-and-completely-distorts-market-signals/",
+      "published_at": "2026-08-02T17:30:03+00:00",
+      "source": "cryptoslate.com",
+      "score": 2,
+      "ntitle": "coldcard s 89m wallet bug triggers biggest bitcoin movement since ftx completely distorts market signals",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Coldcard Bitcoin Exploit Balloons to $88 Million as Attackers Keep Draining Wallets",
+      "link": "https://decrypt.co/374817/coldcard-bitcoin-exploit-88-million-attackers-draining-wallets",
+      "published_at": "2026-08-02T17:18:51+00:00",
+      "source": "decrypt.co",
+      "score": 2,
+      "ntitle": "coldcard bitcoin exploit balloons 88 million attackers keep draining wallets",
+      "coins": [
+        "BTC"
+      ],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
@@ -78,7 +96,7 @@
     {
       "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
       "link": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
-      "published_at": "2026-08-02T17:16:26+00:00",
+      "published_at": "2026-08-02T18:12:28+00:00",
       "source": "thedefiant.io",
       "score": 8,
       "ntitle": "etoro takes strategic stake onchain derivatives exchange extended plans zengo tie up",
@@ -88,21 +106,21 @@
       "agency": null
     },
     {
-      "title": "The quiet DeFi pivot: why building for tech giants beats building for consumers",
-      "link": "https://cryptobriefing.com/defi-pivot-backend-services-tech-giants/",
-      "published_at": "2026-08-02T17:05:29+00:00",
+      "title": "US-Iran tensions rise as Red Sea becomes focal point in regional conflict",
+      "link": "https://cryptobriefing.com/us-iran-tensions-rise-as-red-sea-becomes-focal-point-in-regional-conflict/",
+      "published_at": "2026-08-02T17:54:24+00:00",
       "source": "cryptobriefing.com",
-      "score": 3,
-      "ntitle": "quiet defi pivot why building tech giants beats building consumers",
+      "score": 1,
+      "ntitle": "us iran tensions rise red sea becomes focal point regional conflict",
       "coins": [],
-      "sentiment": "bearish",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
       "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
       "link": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
-      "published_at": "2026-08-02T17:16:26+00:00",
+      "published_at": "2026-08-02T18:12:28+00:00",
       "source": "thedefiant.io",
       "score": 3,
       "ntitle": "summerfi wind down after seven years citing exploit",
@@ -178,12 +196,12 @@
       "agency": null
     },
     {
-      "title": "The future of crypto payments won't include on-ramps or bridges, Fun CEO says",
-      "link": "https://www.coindesk.com/tech/2026/08/02/the-future-of-crypto-payments-won-t-include-on-ramps-or-bridges-fun-ceo-says",
-      "published_at": "2026-08-02T16:00:00+00:00",
+      "title": "Why a DeFi platform ditched its consumer app to become the secret backend for tech giants",
+      "link": "https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants",
+      "published_at": "2026-08-02T17:00:00+00:00",
       "source": "coindesk.com",
-      "score": 1,
-      "ntitle": "future crypto payments won t include ramps or bridges fun ceo says",
+      "score": 4,
+      "ntitle": "why defi platform ditched consumer app become secret backend tech giants",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -218,28 +236,26 @@
       "agency": null
     },
     {
-      "title": "XRP Ledger urges node upgrade after manifest flood",
-      "link": "https://crypto.news/xrp-ledger-urges-node-upgrade-after-manifest-flood/",
-      "published_at": "2026-08-02T16:12:54+00:00",
+      "title": "Coldcard users face urgent seed migration warning",
+      "link": "https://crypto.news/coldcard-users-face-urgent-seed-migration-warning/",
+      "published_at": "2026-08-02T17:07:48+00:00",
       "source": "crypto.news",
-      "score": 10,
-      "ntitle": "xrp ledger urges node upgrade after manifest flood",
-      "coins": [
-        "XRP"
-      ],
-      "sentiment": "bullish",
+      "score": 1,
+      "ntitle": "coldcard users face urgent seed migration warning",
+      "coins": [],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "US redirects vessels as Iran continues Strait of Hormuz blockade",
-      "link": "https://cryptobriefing.com/us-redirects-vessels-as-iran-continues-strait-of-hormuz-blockade/",
-      "published_at": "2026-08-02T16:11:05+00:00",
+      "title": "Data center costs surge past $170B in a single quarter as Big Tech’s AI arms race heats up",
+      "link": "https://cryptobriefing.com/data-center-costs-rise-big-tech-ai/",
+      "published_at": "2026-08-02T17:13:00+00:00",
       "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "us redirects vessels iran continues strait hormuz blockade",
+      "score": 2,
+      "ntitle": "data center costs surge past 170b single quarter big tech s ai arms race heats up",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -258,27 +274,27 @@
       "agency": null
     },
     {
-      "title": "How XRPL validators quietly killed a silent exploit that could have drained victim accounts through transaction fees alone",
-      "link": "https://cryptoslate.com/how-xrpl-validators-quietly-killed-a-silent-exploit-that-could-have-drained-victim-accounts-through-transaction-fees-alone/",
-      "published_at": "2026-08-02T15:30:10+00:00",
+      "title": "The US just blacklisted the Iranian maritime scheme forcing commercial ships to pay Bitcoin tolls for safe passage",
+      "link": "https://cryptoslate.com/the-us-just-blacklisted-an-iranian-maritime-scheme-forcing-commercial-ships-to-pay-bitcoin-tolls-for-safe-passage/",
+      "published_at": "2026-08-02T16:40:00+00:00",
       "source": "cryptoslate.com",
-      "score": 7,
-      "ntitle": "how xrpl validators quietly killed silent exploit that could have drained victim accounts through transaction fees alone",
-      "coins": [],
-      "sentiment": "bearish",
+      "score": 2,
+      "ntitle": "us just blacklisted iranian maritime scheme forcing commercial ships pay bitcoin tolls safe passage",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Hardware Wallets Expose Bitcoin Holders to Massive Losses After Firmware Flaw Enables Remote Drains",
-      "link": "https://dailyhodl.com/2026/08/02/hardware-wallets-expose-bitcoin-holders-to-massive-losses-after-firmware-flaw-enables-remote-drains/",
-      "published_at": "2026-08-02T14:30:18+00:00",
+      "title": "New York State Sues Prediction Market Platform Kalshi Over Unlicensed Betting Operations",
+      "link": "https://dailyhodl.com/2026/08/02/new-york-state-sues-prediction-market-platform-kalshi-over-unlicensed-betting-operations/",
+      "published_at": "2026-08-02T16:55:32+00:00",
       "source": "dailyhodl.com",
       "score": 2,
-      "ntitle": "hardware wallets expose bitcoin holders massive losses after firmware flaw enables remote drains",
-      "coins": [
-        "BTC"
-      ],
+      "ntitle": "new york state sues prediction market platform kalshi over unlicensed betting operations",
+      "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
@@ -403,12 +419,12 @@
       "agency": null
     },
     {
-      "title": "The reverse bridge: Crypto meets Wall Street using perps",
-      "link": "https://www.coindesk.com/business/2026/08/02/the-reverse-bridge-crypto-meets-wall-street-using-perps",
-      "published_at": "2026-08-02T13:00:00+00:00",
+      "title": "The future of crypto payments won't include on-ramps or bridges, Fun CEO says",
+      "link": "https://www.coindesk.com/tech/2026/08/02/the-future-of-crypto-payments-won-t-include-on-ramps-or-bridges-fun-ceo-says",
+      "published_at": "2026-08-02T16:00:00+00:00",
       "source": "coindesk.com",
       "score": 1,
-      "ntitle": "reverse bridge crypto meets wall street using perps",
+      "ntitle": "future crypto payments won t include ramps or bridges fun ceo says",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -439,28 +455,28 @@
       "agency": null
     },
     {
-      "title": "Bitcoin ETFs gain fresh case after $89M Coldcard drain, says Balchunas",
-      "link": "https://crypto.news/bitcoin-etfs-gain-fresh-case-after-89m-coldcard-drain-says-balchunas/",
-      "published_at": "2026-08-02T16:02:08+00:00",
+      "title": "XRP Ledger urges node upgrade after manifest flood",
+      "link": "https://crypto.news/xrp-ledger-urges-node-upgrade-after-manifest-flood/",
+      "published_at": "2026-08-02T16:12:54+00:00",
       "source": "crypto.news",
-      "score": 7,
-      "ntitle": "bitcoin etfs gain fresh case after 89m coldcard drain says balchunas",
+      "score": 10,
+      "ntitle": "xrp ledger urges node upgrade after manifest flood",
       "coins": [
-        "BTC"
+        "XRP"
       ],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Fun CEO predicts future crypto payments will bypass on-ramps and bridges",
-      "link": "https://cryptobriefing.com/fun-ceo-crypto-payments-on-ramps-obsolete/",
-      "published_at": "2026-08-02T16:05:33+00:00",
+      "title": "The quiet DeFi pivot: why building for tech giants beats building for consumers",
+      "link": "https://cryptobriefing.com/defi-pivot-backend-services-tech-giants/",
+      "published_at": "2026-08-02T17:05:29+00:00",
       "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "fun ceo predicts future crypto payments will bypass ramps bridges",
+      "score": 3,
+      "ntitle": "quiet defi pivot why building tech giants beats building consumers",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -479,27 +495,27 @@
       "agency": null
     },
     {
-      "title": "Trump’s legal loophole around the Supreme Court is keeping inflation alive – and trapping Bitcoin in the Fed’s crosshairs",
-      "link": "https://cryptoslate.com/trumps-legal-loophole-around-the-supreme-court-is-keeping-inflation-alive-and-trapping-bitcoin-in-the-feds-crosshairs/",
-      "published_at": "2026-08-02T14:35:08+00:00",
+      "title": "How XRPL validators quietly killed a silent exploit that could have drained victim accounts through transaction fees alone",
+      "link": "https://cryptoslate.com/how-xrpl-validators-quietly-killed-a-silent-exploit-that-could-have-drained-victim-accounts-through-transaction-fees-alone/",
+      "published_at": "2026-08-02T15:30:10+00:00",
       "source": "cryptoslate.com",
-      "score": 3,
-      "ntitle": "trump s legal loophole around supreme court keeping inflation alive trapping bitcoin fed s crosshairs",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "neutral",
+      "score": 7,
+      "ntitle": "how xrpl validators quietly killed silent exploit that could have drained victim accounts through transaction fees alone",
+      "coins": [],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "North Carolina Nonprofit Loses Nearly $1,000,000 to Fake IT Purchases by Former Administrator",
-      "link": "https://dailyhodl.com/2026/08/02/north-carolina-nonprofit-loses-nearly-1000000-to-fake-it-purchases-by-former-administrator/",
-      "published_at": "2026-08-02T07:04:43+00:00",
+      "title": "Hardware Wallets Expose Bitcoin Holders to Massive Losses After Firmware Flaw Enables Remote Drains",
+      "link": "https://dailyhodl.com/2026/08/02/hardware-wallets-expose-bitcoin-holders-to-massive-losses-after-firmware-flaw-enables-remote-drains/",
+      "published_at": "2026-08-02T14:30:18+00:00",
       "source": "dailyhodl.com",
       "score": 2,
-      "ntitle": "north carolina nonprofit loses nearly 1 000 000 fake it purchases former administrator",
-      "coins": [],
+      "ntitle": "hardware wallets expose bitcoin holders massive losses after firmware flaw enables remote drains",
+      "coins": [
+        "BTC"
+      ],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
@@ -659,16 +675,16 @@
       "agency": null
     },
     {
-      "title": "Crypto PAC pours another $1M into Michigan House race",
-      "link": "https://cointelegraph.com/news/crypto-pac-michigan-thanedar-mckinney?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-08-01T15:44:02+00:00",
+      "title": "Minnesota crypto ATM ban goes into effect after reported $1M losses",
+      "link": "https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-08-01T18:09:00+00:00",
       "source": "cointelegraph.com",
       "score": 1,
-      "ntitle": "crypto pac pours another 1m into michigan house race",
+      "ntitle": "minnesota crypto atm ban goes into effect after reported 1m losses",
       "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "Regulatory"
     },
     {
       "title": "Bitget adds daily Bitcoin rewards to BGBTC",
@@ -944,16 +960,14 @@
       "agency": null
     },
     {
-      "title": "trade.xyz Review: S&P 500 Perps on Hyperliquid",
-      "link": "https://coincodecap.com/trade-xyz-review?utm_source=rss&utm_medium=rss&utm_campaign=trade-xyz-review",
-      "published_at": "2026-07-22T13:27:21+00:00",
+      "title": "BitMart to shut down crypto trading operations",
+      "link": "https://coincodecap.com/bitmart-to-shut-down-crypto-trading-operations?utm_source=rss&utm_medium=rss&utm_campaign=bitmart-to-shut-down-crypto-trading-operations",
+      "published_at": "2026-07-26T17:38:05+00:00",
       "source": "coincodecap.com",
-      "score": 5,
-      "ntitle": "trade xyz review s p 500 perps hyperliquid",
-      "coins": [
-        "HYPE"
-      ],
-      "sentiment": "neutral",
+      "score": 1,
+      "ntitle": "bitmart shut down crypto trading operations",
+      "coins": [],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -1056,14 +1070,14 @@
       "agency": "Regulatory"
     },
     {
-      "title": "Get Every Transaction for a Wallet on Robinhood Chain (Not Just Transfers)",
-      "link": "https://coincodecap.com/get-every-transaction-for-a-wallet-on-robinhood-chain-not-just-transfers?utm_source=rss&utm_medium=rss&utm_campaign=get-every-transaction-for-a-wallet-on-robinhood-chain-not-just-transfers",
-      "published_at": "2026-07-22T11:15:30+00:00",
+      "title": "Russia’s largest bank to launch crypto trading infra  by December",
+      "link": "https://coincodecap.com/russias-largest-bank-to-launch-crypto-trading-infra-by-december?utm_source=rss&utm_medium=rss&utm_campaign=russias-largest-bank-to-launch-crypto-trading-infra-by-december",
+      "published_at": "2026-07-26T17:24:46+00:00",
       "source": "coincodecap.com",
-      "score": 1,
-      "ntitle": "get every transaction wallet robinhood chain not just transfers",
+      "score": 7,
+      "ntitle": "russia s largest bank launch crypto trading infra december",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -1120,7 +1134,7 @@
   ],
   "clusters": [
     {
-      "id": 0,
+      "id": 15,
       "title": "Why a DeFi platform ditched its consumer app to become the secret backend for tech giants",
       "link": "https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants",
       "source": "coindesk.com",
@@ -1146,85 +1160,57 @@
           "published_at": "2026-08-02T17:05:29+00:00"
         }
       ]
-    },
-    {
-      "id": 13,
-      "title": "The future of crypto payments won't include on-ramps or bridges, Fun CEO says",
-      "link": "https://www.coindesk.com/tech/2026/08/02/the-future-of-crypto-payments-won-t-include-on-ramps-or-bridges-fun-ceo-says",
-      "source": "coindesk.com",
-      "published_at": "2026-08-02T16:00:00+00:00",
-      "sentiment": "neutral",
-      "coins": [],
-      "sources": [
-        "coindesk.com",
-        "cryptobriefing.com"
-      ],
-      "count": 2,
-      "members": [
-        {
-          "title": "The future of crypto payments won't include on-ramps or bridges, Fun CEO says",
-          "link": "https://www.coindesk.com/tech/2026/08/02/the-future-of-crypto-payments-won-t-include-on-ramps-or-bridges-fun-ceo-says",
-          "source": "coindesk.com",
-          "published_at": "2026-08-02T16:00:00+00:00"
-        },
-        {
-          "title": "Fun CEO predicts future crypto payments will bypass on-ramps and bridges",
-          "link": "https://cryptobriefing.com/fun-ceo-crypto-payments-on-ramps-obsolete/",
-          "source": "cryptobriefing.com",
-          "published_at": "2026-08-02T16:05:33+00:00"
-        }
-      ]
     }
   ],
   "trending": [
     {
       "tag": "#Ai",
-      "count": 65,
+      "count": 64,
       "type": "topic",
       "pct": 100
     },
     {
       "tag": "#XRP",
-      "count": 47,
+      "count": 48,
       "type": "coin",
-      "pct": 72
+      "pct": 75
     },
     {
       "tag": "#Xrp",
-      "count": 45,
+      "count": 46,
       "type": "topic",
-      "pct": 69
+      "pct": 72
     },
     {
       "tag": "#Defi",
       "count": 39,
       "type": "topic",
-      "pct": 60
+      "pct": 61
     },
     {
       "tag": "#Bitcoin",
-      "count": 28,
+      "count": 27,
       "type": "topic",
-      "pct": 43
+      "pct": 42
     },
     {
       "tag": "#BTC",
-      "count": 23,
+      "count": 22,
       "type": "coin",
-      "pct": 35
+      "pct": 34
     },
     {
       "tag": "#ETH",
-      "count": 15,
+      "count": 14,
       "type": "coin",
-      "pct": 23
+      "pct": 22
     },
     {
-      "tag": "#Ethereum",
-      "count": 13,
+      "tag": "#Etf",
+      "count": 12,
       "type": "topic",
-      "pct": 20
+      "pct": 19
     }
   ],
-  "generated_at": "2026-08-02T17:16:51.280911+00:00"
+  "generated_at": "2026-08-02T18:13:13.426333+00:00"
 }
