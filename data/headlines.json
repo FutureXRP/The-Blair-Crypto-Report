@@ -2,54 +2,67 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "Aave rejects $100 resistance, drops 11% – $88 support decides next move",
-      "link": "https://ambcrypto.com/aave-rejects-100-resistance-drops-11-88-support-decides-next-move/",
-      "published_at": "2026-08-02T08:00:44+00:00",
+      "title": "Binance stablecoin outflows hit $7B – Can Bitcoin defy the liquidity crunch?",
+      "link": "https://ambcrypto.com/bitcoin-why-7b-in-binance-stablecoin-outflows-could-pressure-btc/",
+      "published_at": "2026-08-02T10:00:39+00:00",
       "source": "ambcrypto.com",
       "score": 1,
-      "ntitle": "aave rejects 100 resistance drops 11 88 support decides next move",
+      "ntitle": "binance stablecoin outflows hit 7b can bitcoin defy liquidity crunch",
+      "coins": [
+        "BNB",
+        "BTC"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Michael Saylor Shuts Down Viral $5 Billion MicroStrategy Bitcoin Sale Claims",
+      "link": "https://beincrypto.com/saylor-denies-microstrategy-bitcoin-sale-claim/",
+      "published_at": "2026-08-02T09:44:57+00:00",
+      "source": "beincrypto.com",
+      "score": 1,
+      "ntitle": "michael saylor shuts down viral 5 billion microstrategy bitcoin sale claims",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "AAVE Price Prediction: $95 Is the Line in the Sand — Break It or Bleed to $87",
+      "link": "https://Blockchain.News/news/20260802-price-prediction-aave-95-is-the-line-in-the",
+      "published_at": "2026-08-02T09:56:37+00:00",
+      "source": "blockchain.news",
+      "score": 1,
+      "ntitle": "aave price prediction 95 line sand break it or bleed 87",
       "coins": [
         "AAVE"
       ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Trump Media Sells More Bitcoin as Truth Social Plans Subscription Fees",
-      "link": "https://beincrypto.com/trump-media-bitcoin-truth-api-scrutiny/",
-      "published_at": "2026-08-02T08:27:38+00:00",
-      "source": "beincrypto.com",
-      "score": 3,
-      "ntitle": "trump media sells more bitcoin truth social plans subscription fees",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "ARB Price Prediction: Dead Cat or Genuine Floor? $0.09 Is the Line in the Sand",
-      "link": "https://Blockchain.News/news/20260802-price-prediction-arb-dead-cat-or-genuine-floor-009",
-      "published_at": "2026-08-02T08:35:25+00:00",
-      "source": "blockchain.news",
-      "score": 1,
-      "ntitle": "arb price prediction dead cat or genuine floor 0 09 line sand",
-      "coins": [
-        "ARB"
-      ],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Coldcard hack sparks biggest sub-1 BTC move since FTX: CryptoQuant",
-      "link": "https://cointelegraph.com/news/coldcard-biggest-sub-1-btc-transfer-ftx-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-08-02T08:04:56+00:00",
+      "title": "CLARITY Act Update: Final Vote Schedule and Its Impact on Top Crypto Prices",
+      "link": "https://coingape.com/markets/clarity-act-update-final-vote-schedule-and-its-impact-on-top-crypto-prices/",
+      "published_at": "2026-08-02T09:32:19+00:00",
+      "source": "coingape.com",
+      "score": 1,
+      "ntitle": "clarity act update final vote schedule impact top crypto prices",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Congress"
+    },
+    {
+      "title": "Trump Media sells another 2,628 BTC, holdings fall to 4,261 BTC",
+      "link": "https://cointelegraph.com/news/trump-media-2628-btc-crypto-com-4261-btc-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-08-02T09:29:15+00:00",
       "source": "cointelegraph.com",
       "score": 1,
-      "ntitle": "coldcard hack sparks biggest sub 1 btc move since ftx cryptoquant",
+      "ntitle": "trump media sells another 2 628 btc holdings fall 4 261 btc",
       "coins": [
         "BTC"
       ],
@@ -58,33 +71,72 @@
       "agency": null
     },
     {
-      "title": "Russia bans Moscow crypto mining from Aug. 15",
-      "link": "https://crypto.news/russia-bans-moscow-crypto-mining-from-aug-15/",
-      "published_at": "2026-08-02T08:30:19+00:00",
+      "title": "Crypto PAC spending tops $2M in Michigan House race",
+      "link": "https://crypto.news/crypto-pac-spending-tops-2m-in-michigan-house-race/",
+      "published_at": "2026-08-02T09:43:54+00:00",
       "source": "crypto.news",
       "score": 1,
-      "ntitle": "russia bans moscow crypto mining aug 15",
+      "ntitle": "crypto pac spending tops 2m michigan house race",
       "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "US government pushes $26B in African data center deals as digital infrastructure race heats up",
+      "link": "https://cryptobriefing.com/us-africa-data-center-deals-crypto-implications/",
+      "published_at": "2026-08-02T10:12:50+00:00",
+      "source": "cryptobriefing.com",
+      "score": 2,
+      "ntitle": "us government pushes 26b african data center deals digital infrastructure race heats up",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Donald Trump releases the $1.2 million data feed that lets Wall Street front-run his market-moving policy announcements",
+      "link": "https://cryptoslate.com/donald-trumps-new-1-2-million-data-feed-lets-wall-street-front-run-his-market-moving-policy-announcements/",
+      "published_at": "2026-08-02T09:48:31+00:00",
+      "source": "cryptoslate.com",
+      "score": 2,
+      "ntitle": "donald trump releases 1 2 million data feed that lets wall street front run his market moving policy announcements",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": true,
+      "agency": "Regulatory"
+    },
+    {
+      "title": "Bitcoin holds above $63,000 as Coldcard losses near $89 million",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-63000-as-coldcard-losses-near-89-million-4829683",
+      "published_at": "2026-08-02T09:46:11+00:00",
+      "source": "investing.com",
+      "score": 1,
+      "ntitle": "bitcoin holds above 63 000 coldcard losses near 89 million",
+      "coins": [
+        "BTC",
+        "NEAR"
+      ],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "OPEC+ plans September quota increase followed by three-month pause",
-      "link": "https://cryptobriefing.com/opec-plus-september-quota-increase-pause/",
-      "published_at": "2026-08-02T08:34:21+00:00",
-      "source": "cryptobriefing.com",
+      "title": "Seed Phrases: The 12 Words Standing Between You and Losing Everything",
+      "link": "https://news.bitcoin.com/learning-insights/bitcoin-seed-phrase-explained/",
+      "published_at": "2026-08-02T09:30:01+00:00",
+      "source": "news.bitcoin.com",
       "score": 1,
-      "ntitle": "opec plans september quota increase followed three month pause",
+      "ntitle": "seed phrases 12 words standing between you losing everything",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
       "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
       "link": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
-      "published_at": "2026-08-02T08:41:03+00:00",
+      "published_at": "2026-08-02T10:19:15+00:00",
       "source": "thedefiant.io",
       "score": 8,
       "ntitle": "etoro takes strategic stake onchain derivatives exchange extended plans zengo tie up",
@@ -94,47 +146,75 @@
       "agency": null
     },
     {
-      "title": "APT Price Prediction: Dead Weight at $0.56 With a $0.54 Reckoning Coming Fast",
-      "link": "https://Blockchain.News/news/20260802-price-prediction-apt-dead-weight-at-056-with-a",
-      "published_at": "2026-08-02T08:30:53+00:00",
-      "source": "blockchain.news",
+      "title": "Bitcoin (BTC) In August: What to Expect After Bullish July",
+      "link": "https://u.today/bitcoin-btc-in-august-what-to-expect-after-bullish-july",
+      "published_at": "2026-08-02T09:25:00+00:00",
+      "source": "u.today",
       "score": 1,
-      "ntitle": "apt price prediction dead weight 0 56 0 54 reckoning coming fast",
+      "ntitle": "bitcoin btc august what expect after bullish july",
       "coins": [
-        "APT"
+        "BTC"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Coldcard exploit now hits 4,585 wallets – Attacker still holds $88.6M stolen BTC",
+      "link": "https://ambcrypto.com/coldcard-exploit-now-hits-4585-wallets-attacker-still-holds-88-6m-stolen-btc/",
+      "published_at": "2026-08-02T09:30:02+00:00",
+      "source": "ambcrypto.com",
+      "score": 7,
+      "ntitle": "coldcard exploit now hits 4 585 wallets attacker still holds 88 6m stolen btc",
+      "coins": [
+        "BTC"
       ],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Minnesota crypto ATM ban starts after $1M losses",
-      "link": "https://crypto.news/minnesota-crypto-atm-ban-starts-after-1m-losses/",
-      "published_at": "2026-08-02T08:11:11+00:00",
-      "source": "crypto.news",
-      "score": 1,
-      "ntitle": "minnesota crypto atm ban starts after 1m losses",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Regulatory"
+      "title": "$676 Million Reached Binance From an Iran-Linked Exchange Dubai Had Already Fined",
+      "link": "https://beincrypto.com/shelbit-binance-676-million-iran/",
+      "published_at": "2026-08-02T09:30:00+00:00",
+      "source": "beincrypto.com",
+      "score": 4,
+      "ntitle": "676 million reached binance iran linked exchange dubai had already fined",
+      "coins": [
+        "BNB"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     },
     {
-      "title": "Ukraine drone attack kills 2, damages Russian infrastructure in major assault",
-      "link": "https://cryptobriefing.com/ukraine-drone-attack-kills-2-damages-russian-infrastructure-in-major-assault/",
-      "published_at": "2026-08-02T08:16:39+00:00",
-      "source": "cryptobriefing.com",
+      "title": "LDO Price Prediction: $0.31 Is the Last Line of Defense Before a 15% Flush",
+      "link": "https://Blockchain.News/news/20260802-price-prediction-ldo-031-is-the-last-line-of",
+      "published_at": "2026-08-02T09:51:48+00:00",
+      "source": "blockchain.news",
       "score": 1,
-      "ntitle": "ukraine drone attack kills 2 damages russian infrastructure major assault",
+      "ntitle": "ldo price prediction 0 31 last line defense before 15 flush",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Blackstone secures A$36B financing from ANZ and NAB for massive HSBC loan portfolio acquisition",
+      "link": "https://cryptobriefing.com/blackstone-hsbc-australian-loan-portfolio/",
+      "published_at": "2026-08-02T10:04:18+00:00",
+      "source": "cryptobriefing.com",
+      "score": 4,
+      "ntitle": "blackstone secures 36b financing anz nab massive hsbc loan portfolio acquisition",
+      "coins": [],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
       "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
       "link": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
-      "published_at": "2026-08-02T08:41:03+00:00",
+      "published_at": "2026-08-02T10:19:15+00:00",
       "source": "thedefiant.io",
       "score": 3,
       "ntitle": "summerfi wind down after seven years citing exploit",
@@ -146,42 +226,42 @@
   ],
   "day": [
     {
-      "title": "Uniswap whales pile on amid $3.90–$4.20 support retest: What’s next for UNI?",
-      "link": "https://ambcrypto.com/uniswap-whales-pile-on-amid-3-90-4-20-support-retest-whats-next-for-uni/",
-      "published_at": "2026-08-02T07:00:32+00:00",
+      "title": "Bitcoin’s macro FUD vs. FOMO: Who wins BTC’s August battle?",
+      "link": "https://ambcrypto.com/bitcoins-macro-fud-vs-fomo-who-wins-btcs-august-battle/",
+      "published_at": "2026-08-02T09:00:30+00:00",
       "source": "ambcrypto.com",
       "score": 1,
-      "ntitle": "uniswap whales pile amid 3 90 4 20 support retest what s next uni",
+      "ntitle": "bitcoin s macro fud vs fomo who wins btc s august battle",
       "coins": [
-        "UNI"
+        "BTC"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Analyst Claims XRP Could Ease Japan’s Yen Crisis: Is It Realistic?",
+      "link": "https://beincrypto.com/xrp-yen-carry-trade-trap-analyst-proposal/",
+      "published_at": "2026-08-02T09:00:00+00:00",
+      "source": "beincrypto.com",
+      "score": 6,
+      "ntitle": "analyst claims xrp could ease japan s yen crisis it realistic",
+      "coins": [
+        "XRP"
       ],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Pi Coin Defies Market Trend Before Key Deadline: Will the 10% Bounce Hold?",
-      "link": "https://beincrypto.com/pi-coin-price-protocol-v26-upgrade/",
-      "published_at": "2026-08-01T18:47:53+00:00",
-      "source": "beincrypto.com",
-      "score": 5,
-      "ntitle": "pi coin defies market trend before key deadline will 10 bounce hold",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "DOGE Price Prediction: Dead Momentum and Crowded Longs Signal a $0.065 Floor Test Before Any Real Recovery",
-      "link": "https://Blockchain.News/news/20260802-price-prediction-doge-dead-momentum-and-crowded-longs-signal",
-      "published_at": "2026-08-02T07:30:26+00:00",
+      "title": "CRV Price Prediction: Whales Loading at $0.21 While Retail Sells — The $0.199 Line Decides Everything",
+      "link": "https://Blockchain.News/news/20260802-price-prediction-crv-whales-loading-at-021-while-retail",
+      "published_at": "2026-08-02T09:19:34+00:00",
       "source": "blockchain.news",
       "score": 2,
-      "ntitle": "doge price prediction dead momentum crowded longs signal 0 065 floor test before any real recovery",
-      "coins": [
-        "DOGE"
-      ],
-      "sentiment": "bullish",
+      "ntitle": "crv price prediction whales loading 0 21 while retail sells 0 199 line decides everything",
+      "coins": [],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -222,36 +302,12 @@
       "agency": null
     },
     {
-      "title": "Onchain, in court: What happened in crypto legal news this week",
-      "link": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-08-01T21:14:39+00:00",
+      "title": "Coldcard hack sparks biggest sub-1 BTC move since FTX: CryptoQuant",
+      "link": "https://cointelegraph.com/news/coldcard-biggest-sub-1-btc-transfer-ftx-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-08-02T08:04:56+00:00",
       "source": "cointelegraph.com",
-      "score": 5,
-      "ntitle": "onchain court what happened crypto legal news this week",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "South Korean stablecoin outflows hit 18 months",
-      "link": "https://crypto.news/south-korean-stablecoin-outflows-hit-18-months/",
-      "published_at": "2026-08-02T07:34:25+00:00",
-      "source": "crypto.news",
       "score": 1,
-      "ntitle": "south korean stablecoin outflows hit 18 months",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "The ‘massive Bitcoin attack’ warning is real, but it’s not what you think",
-      "link": "https://cryptobriefing.com/bitcoin-attack-warning-phishing-wallet-exploits/",
-      "published_at": "2026-08-02T07:36:59+00:00",
-      "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "massive bitcoin attack warning real but it s not what you think",
+      "ntitle": "coldcard hack sparks biggest sub 1 btc move since ftx cryptoquant",
       "coins": [
         "BTC"
       ],
@@ -260,14 +316,13 @@
       "agency": null
     },
     {
-      "title": "Cardano Rockets by 9%, Bitcoin Reclaims $63K After War De-Escalation: Weekend Watch",
-      "link": "https://cryptopotato.com/cardano-rockets-by-9-bitcoin-reclaims-63k-after-war-de-escalation-weekend-watch/",
-      "published_at": "2026-08-02T06:50:34+00:00",
-      "source": "cryptopotato.com",
-      "score": -1,
-      "ntitle": "cardano rockets 9 bitcoin reclaims 63k after war de escalation weekend watch",
+      "title": "Coldcard Bitcoin losses rise to $88.6M in third wave",
+      "link": "https://crypto.news/coldcard-bitcoin-losses-rise-to-88-6m-in-third-wave/",
+      "published_at": "2026-08-02T08:54:10+00:00",
+      "source": "crypto.news",
+      "score": 3,
+      "ntitle": "coldcard bitcoin losses rise 88 6m third wave",
       "coins": [
-        "ADA",
         "BTC"
       ],
       "sentiment": "neutral",
@@ -275,13 +330,41 @@
       "agency": null
     },
     {
-      "title": "Funding stock buybacks by selling your primary reserve asset is a dangerous game, but Lite Strategy just pulled it off without using a dime of debt",
+      "title": "Ukrainian drone strike sets Wildberries warehouse ablaze in Russia",
+      "link": "https://cryptobriefing.com/ukrainian-drone-strike-sets-wildberries-warehouse-ablaze-in-russia/",
+      "published_at": "2026-08-02T09:13:43+00:00",
+      "source": "cryptobriefing.com",
+      "score": 1,
+      "ntitle": "ukrainian drone strike sets wildberries warehouse ablaze russia",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "July’s Biggest Ripple (XRP) Stories: RLUSD Expansion, AI, and Institutional Adoption",
+      "link": "https://cryptopotato.com/julys-biggest-ripple-xrp-stories-rlusd-expansion-ai-and-institutional-adoption/",
+      "published_at": "2026-08-02T08:48:46+00:00",
+      "source": "cryptopotato.com",
+      "score": 11,
+      "ntitle": "july s biggest ripple xrp stories rlusd expansion ai institutional adoption",
+      "coins": [
+        "XRP"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Its a dangerous game to fund stock buybacks by selling your primary reserve asset – but one Litecoin company just pulled it off without using a dime of debt",
       "link": "https://cryptoslate.com/lite-strategy-retired-13-of-its-shares-but-estimated-litecoin-per-share-rose-just-1-66/",
       "published_at": "2026-08-02T02:05:43+00:00",
       "source": "cryptoslate.com",
       "score": 5,
-      "ntitle": "funding stock buybacks selling your primary reserve asset dangerous game but lite strategy just pulled it off without using dime debt",
-      "coins": [],
+      "ntitle": "dangerous game fund stock buybacks selling your primary reserve asset but one litecoin company just pulled it off without using dime debt",
+      "coins": [
+        "LTC"
+      ],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
@@ -341,54 +424,56 @@
       "agency": "Regulatory"
     },
     {
-      "title": "'No Way to Secure Crypto,' Top Analyst Says",
-      "link": "https://u.today/no-way-to-secure-crypto-top-analyst-says",
-      "published_at": "2026-08-02T07:23:02+00:00",
+      "title": "Shiba Inu Burn Rate Jumps 405% With 124,023,282 SHIB Destroyed",
+      "link": "https://u.today/shiba-inu-burn-rate-jumps-405-with-124023282-shib-destroyed",
+      "published_at": "2026-08-02T09:00:46+00:00",
       "source": "u.today",
       "score": 1,
-      "ntitle": "no way secure crypto top analyst says",
-      "coins": [],
-      "sentiment": "neutral",
+      "ntitle": "shiba inu burn rate jumps 405 124 023 282 shib destroyed",
+      "coins": [
+        "SHIB"
+      ],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Can Solana hold $60? Major signs point to extended losses in August",
-      "link": "https://ambcrypto.com/can-solana-hold-60-major-signs-point-to-extended-losses-in-august/",
-      "published_at": "2026-08-02T06:00:34+00:00",
+      "title": "Aave rejects $100 resistance, drops 11% – $88 support decides next move",
+      "link": "https://ambcrypto.com/aave-rejects-100-resistance-drops-11-88-support-decides-next-move/",
+      "published_at": "2026-08-02T08:00:44+00:00",
       "source": "ambcrypto.com",
       "score": 1,
-      "ntitle": "can solana hold 60 major signs point extended losses august",
+      "ntitle": "aave rejects 100 resistance drops 11 88 support decides next move",
       "coins": [
-        "SOL"
+        "AAVE"
       ],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "CZ Says Bear Market Money is Hunting, Social Capital Founder Says Skip AI Chips",
-      "link": "https://beincrypto.com/cz-chamath-bear-market-ai-money/",
-      "published_at": "2026-08-01T16:49:51+00:00",
+      "title": "Trump Media Sells More Bitcoin as Truth Social Plans Subscription Fees",
+      "link": "https://beincrypto.com/trump-media-bitcoin-truth-api-scrutiny/",
+      "published_at": "2026-08-02T08:27:38+00:00",
       "source": "beincrypto.com",
-      "score": 1,
-      "ntitle": "cz says bear market money hunting social capital founder says skip ai chips",
+      "score": 3,
+      "ntitle": "trump media sells more bitcoin truth social plans subscription fees",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "FLOKI Price Prediction: Stochastics Are Screaming Oversold — But Don't Buy the Bounce Just Yet",
+      "link": "https://Blockchain.News/news/20260802-price-prediction-floki-stochastics-are-screaming-oversold-but-dont",
+      "published_at": "2026-08-02T09:14:38+00:00",
+      "source": "blockchain.news",
+      "score": 2,
+      "ntitle": "floki price prediction stochastics screaming oversold but don t buy bounce just yet",
       "coins": [],
       "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "SOL Price Prediction: Bears Hold Every Key MA as $69.50 Comes Into View",
-      "link": "https://Blockchain.News/news/20260802-price-prediction-sol-bears-hold-every-key-ma-as",
-      "published_at": "2026-08-02T07:27:22+00:00",
-      "source": "blockchain.news",
-      "score": 1,
-      "ntitle": "sol price prediction bears hold every key ma 69 50 comes into view",
-      "coins": [
-        "SOL"
-      ],
-      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -434,54 +519,53 @@
       "agency": null
     },
     {
-      "title": "Minnesota crypto ATM ban goes into effect after reported $1M losses",
-      "link": "https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-08-01T18:07:17+00:00",
+      "title": "Onchain, in court: What happened in crypto legal news this week",
+      "link": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-08-01T21:14:39+00:00",
       "source": "cointelegraph.com",
-      "score": 1,
-      "ntitle": "minnesota crypto atm ban goes into effect after reported 1m losses",
+      "score": 5,
+      "ntitle": "onchain court what happened crypto legal news this week",
       "coins": [],
       "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Regulatory"
+      "is_regulation": false,
+      "agency": null
     },
     {
-      "title": "Bitget adds daily Bitcoin rewards to BGBTC",
-      "link": "https://crypto.news/bitget-adds-daily-bitcoin-rewards-to-bgbtc/",
-      "published_at": "2026-08-01T11:11:04+00:00",
+      "title": "Russia bans Moscow crypto mining from Aug. 15",
+      "link": "https://crypto.news/russia-bans-moscow-crypto-mining-from-aug-15/",
+      "published_at": "2026-08-02T08:30:19+00:00",
       "source": "crypto.news",
-      "score": 7,
-      "ntitle": "bitget adds daily bitcoin rewards bgbtc",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "South Korea stablecoin outflows hit $10.4B, rivaling the country’s overseas stock investments",
-      "link": "https://cryptobriefing.com/south-korea-stablecoin-outflows-10-billion/",
-      "published_at": "2026-08-02T07:19:39+00:00",
-      "source": "cryptobriefing.com",
-      "score": 2,
-      "ntitle": "south korea stablecoin outflows hit 10 4b rivaling country s overseas stock investments",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Bitcoin Price Rebounds as Trump Calls Off Iran Strikes and Hints at a Deal",
-      "link": "https://cryptopotato.com/bitcoin-price-rebounds-as-trump-calls-off-iran-strikes-and-hints-at-a-deal/",
-      "published_at": "2026-08-02T04:13:52+00:00",
-      "source": "cryptopotato.com",
       "score": 1,
-      "ntitle": "bitcoin price rebounds trump calls off iran strikes hints deal",
+      "ntitle": "russia bans moscow crypto mining aug 15",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Nvidia AI GPU demand outpaces supply 12-to-1, boosting revenue prospects",
+      "link": "https://cryptobriefing.com/nvidia-ai-gpu-demand-outpaces-supply-12-to-1-boosting-revenue-prospects/",
+      "published_at": "2026-08-02T09:11:28+00:00",
+      "source": "cryptobriefing.com",
+      "score": 1,
+      "ntitle": "nvidia ai gpu demand outpaces supply 12 1 boosting revenue prospects",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Cardano Rockets by 9%, Bitcoin Reclaims $63K After War De-Escalation: Weekend Watch",
+      "link": "https://cryptopotato.com/cardano-rockets-by-9-bitcoin-reclaims-63k-after-war-de-escalation-weekend-watch/",
+      "published_at": "2026-08-02T06:50:34+00:00",
+      "source": "cryptopotato.com",
+      "score": -1,
+      "ntitle": "cardano rockets 9 bitcoin reclaims 63k after war de escalation weekend watch",
       "coins": [
+        "ADA",
         "BTC"
       ],
-      "sentiment": "bullish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -567,13 +651,15 @@
       "agency": null
     },
     {
-      "title": "$70 Million Gone in 40 Minutes: CZ Weighs in on Coldcard Fallout",
-      "link": "https://beincrypto.com/coldcard-firmware-bug-cz-warning/",
-      "published_at": "2026-08-01T08:16:53+00:00",
+      "title": "America Broke a 28-Year Rule to Save the Yen and Bitcoin Felt It First",
+      "link": "https://beincrypto.com/bitcoin-us-yen-intervention-1998/",
+      "published_at": "2026-08-01T09:51:54+00:00",
       "source": "beincrypto.com",
       "score": 1,
-      "ntitle": "70 million gone 40 minutes cz weighs coldcard fallout",
-      "coins": [],
+      "ntitle": "america broke 28 year rule save yen bitcoin felt it first",
+      "coins": [
+        "BTC"
+      ],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
@@ -607,16 +693,16 @@
       "agency": null
     },
     {
-      "title": "SUI Price Prediction: $0.67 Is the Line in the Sand — Bounce or Break in the Next 72 Hours",
-      "link": "https://Blockchain.News/news/20260801-price-prediction-sui-067-is-the-line-in-the",
-      "published_at": "2026-08-01T08:38:44+00:00",
+      "title": "AAVE Price Prediction: $88 Holds or Smart Money Gets Squeezed Into Q4",
+      "link": "https://Blockchain.News/news/20260801-price-prediction-aave-88-holds-or-smart-money-gets",
+      "published_at": "2026-08-01T09:56:57+00:00",
       "source": "blockchain.news",
-      "score": 2,
-      "ntitle": "sui price prediction 0 67 line sand bounce or break next 72 hours",
+      "score": 1,
+      "ntitle": "aave price prediction 88 holds or smart money gets squeezed into q4",
       "coins": [
-        "SUI"
+        "AAVE"
       ],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -657,26 +743,26 @@
       "agency": null
     },
     {
-      "title": "XRP Ledger upgrade brings back features once pulled over critical bugs",
-      "link": "https://www.coindesk.com/tech/2026/08/01/xrp-ledger-upgrade-brings-back-features-once-pulled-over-critical-bugs",
-      "published_at": "2026-08-01T06:09:51+00:00",
+      "title": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
+      "link": "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
+      "published_at": "2026-08-01T09:01:08+00:00",
       "source": "coindesk.com",
-      "score": 8,
-      "ntitle": "xrp ledger upgrade brings back features once pulled over critical bugs",
+      "score": 2,
+      "ntitle": "binance founder cz calls wallet diversification after 70 million coldcard exploit",
       "coins": [
-        "XRP"
+        "BNB"
       ],
-      "sentiment": "bullish",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "How John O’Neill Is Steering HSBC’s Biggest Evolution Since Electronic Trading",
-      "link": "https://coingape.com/block-of-fame/cxo-stories/how-john-oneill-is-steering-hsbcs-biggest-evolution-since-electronic-trading/",
-      "published_at": "2026-08-01T08:28:45+00:00",
+      "title": "Cathie Wood Buys More Circle Stock Amid New York License Success",
+      "link": "https://coingape.com/cathie-wood-buys-more-circle-stock-amid-new-york-license-success/",
+      "published_at": "2026-08-01T09:53:14+00:00",
       "source": "coingape.com",
-      "score": 5,
-      "ntitle": "how john o neill steering hsbc s biggest evolution since electronic trading",
+      "score": 1,
+      "ntitle": "cathie wood buys more circle stock amid new york license success",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -695,12 +781,12 @@
       "agency": null
     },
     {
-      "title": "Bitcoin ETFs end July in the green despite late-month selling",
-      "link": "https://cointelegraph.com/markets/bitcoin-etfs-july-green-despite-late-month-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-08-01T07:23:07+00:00",
+      "title": "Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis",
+      "link": "https://cointelegraph.com/news/coldcard-bitcoin-loss-estimate-70-million-galaxy-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-08-01T09:23:56+00:00",
       "source": "cointelegraph.com",
-      "score": 3,
-      "ntitle": "bitcoin etfs end july green despite late month selling",
+      "score": 1,
+      "ntitle": "coldcard bitcoin loss estimate rises 70m after galaxy analysis",
       "coins": [
         "BTC"
       ],
@@ -709,12 +795,12 @@
       "agency": null
     },
     {
-      "title": "Bitcoin price tests $63K as ETF outflows hit $265M",
-      "link": "https://crypto.news/bitcoin-price-tests-63k-as-etf-outflows-hit-265m/",
-      "published_at": "2026-08-01T08:32:58+00:00",
+      "title": "Strategy stock sinks as Saylor puts Bitcoin buys on hold",
+      "link": "https://crypto.news/strategy-stock-sinks-saylor-puts-bitcoin-buys-on-hold/",
+      "published_at": "2026-08-01T10:11:11+00:00",
       "source": "crypto.news",
-      "score": 0,
-      "ntitle": "bitcoin price tests 63k etf outflows hit 265m",
+      "score": 1,
+      "ntitle": "strategy stock sinks saylor puts bitcoin buys hold",
       "coins": [
         "BTC"
       ],
@@ -723,16 +809,18 @@
       "agency": null
     },
     {
-      "title": "CLARITY Act Faces Another Critical Weekend as Passage Odds Slide",
-      "link": "https://cryptopotato.com/clarity-act-faces-another-critical-weekend-as-passage-odds-slide/",
-      "published_at": "2026-08-01T07:36:19+00:00",
+      "title": "Double-Digit Gains From These 2 Altcoins, Bitcoin Struggles at $63K: Weekend Watch",
+      "link": "https://cryptopotato.com/double-digit-gains-from-these-2-altcoins-bitcoin-struggles-at-63k-weekend-watch/",
+      "published_at": "2026-08-01T09:18:47+00:00",
       "source": "cryptopotato.com",
-      "score": 1,
-      "ntitle": "clarity act faces another critical weekend passage odds slide",
-      "coins": [],
+      "score": -1,
+      "ntitle": "double digit gains these 2 altcoins bitcoin struggles 63k weekend watch",
+      "coins": [
+        "BTC"
+      ],
       "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Congress"
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Bitcoin (BTC) Drop Forces Strategy Into $8,220,000,000 Quarterly Loss While Cash Reserves Grow",
@@ -785,12 +873,12 @@
       "agency": null
     },
     {
-      "title": "Bitcoin slips amid Fed uncertainty & Iran tensions, but set for solid July rebound",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-near-64k-with-fed-uncertainty-iran-tensions-in-focus-4826791",
-      "published_at": "2026-07-31T21:45:54+00:00",
+      "title": "Bitcoin slips to trade above $63,000 but records 7.5% July gain",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-trade-above-63000-but-records-75-july-gain-4829579",
+      "published_at": "2026-08-01T09:01:53+00:00",
       "source": "investing.com",
-      "score": 2,
-      "ntitle": "bitcoin slips amid fed uncertainty iran tensions but set solid july rebound",
+      "score": 1,
+      "ntitle": "bitcoin slips trade above 63 000 but records 7 5 july gain",
       "coins": [
         "BTC"
       ],
@@ -904,15 +992,13 @@
       "agency": null
     },
     {
-      "title": "XRP Ledger Upgrade Could Make Owning XRP Optional: Will Demand Fall?",
-      "link": "https://beincrypto.com/xrp-ledger-upgrade-sponsored-fees-xrp-demand/",
-      "published_at": "2026-08-01T07:12:28+00:00",
+      "title": "$70 Million Gone in 40 Minutes: CZ Weighs in on Coldcard Fallout",
+      "link": "https://beincrypto.com/coldcard-firmware-bug-cz-warning/",
+      "published_at": "2026-08-01T08:16:53+00:00",
       "source": "beincrypto.com",
-      "score": 10,
-      "ntitle": "xrp ledger upgrade could make owning xrp optional will demand fall",
-      "coins": [
-        "XRP"
-      ],
+      "score": 1,
+      "ntitle": "70 million gone 40 minutes cz weighs coldcard fallout",
+      "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
@@ -1159,57 +1245,32 @@
   "clusters": [
     {
       "id": 8,
-      "title": "Minnesota crypto ATM ban starts after $1M losses",
-      "link": "https://crypto.news/minnesota-crypto-atm-ban-starts-after-1m-losses/",
-      "source": "crypto.news",
-      "published_at": "2026-08-02T08:11:11+00:00",
+      "title": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million",
+      "link": "https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million",
+      "source": "coindesk.com",
+      "published_at": "2026-08-01T20:10:54+00:00",
       "sentiment": "bearish",
-      "coins": [],
+      "coins": [
+        "NEAR",
+        "BTC"
+      ],
       "sources": [
-        "cointelegraph.com",
-        "crypto.news"
+        "coindesk.com",
+        "investing.com"
       ],
       "count": 2,
       "members": [
         {
-          "title": "Minnesota crypto ATM ban starts after $1M losses",
-          "link": "https://crypto.news/minnesota-crypto-atm-ban-starts-after-1m-losses/",
-          "source": "crypto.news",
-          "published_at": "2026-08-02T08:11:11+00:00"
+          "title": "Bitcoin holds above $63,000 as Coldcard losses near $89 million",
+          "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-63000-as-coldcard-losses-near-89-million-4829683",
+          "source": "investing.com",
+          "published_at": "2026-08-02T09:46:11+00:00"
         },
         {
-          "title": "Minnesota crypto ATM ban goes into effect after reported $1M losses",
-          "link": "https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "cointelegraph.com",
-          "published_at": "2026-08-01T18:07:17+00:00"
-        }
-      ]
-    },
-    {
-      "id": 18,
-      "title": "South Korea stablecoin outflows hit $10.4B, rivaling the country’s overseas stock investments",
-      "link": "https://cryptobriefing.com/south-korea-stablecoin-outflows-10-billion/",
-      "source": "cryptobriefing.com",
-      "published_at": "2026-08-02T07:19:39+00:00",
-      "sentiment": "neutral",
-      "coins": [],
-      "sources": [
-        "cryptobriefing.com",
-        "crypto.news"
-      ],
-      "count": 2,
-      "members": [
-        {
-          "title": "South Korean stablecoin outflows hit 18 months",
-          "link": "https://crypto.news/south-korean-stablecoin-outflows-hit-18-months/",
-          "source": "crypto.news",
-          "published_at": "2026-08-02T07:34:25+00:00"
-        },
-        {
-          "title": "South Korea stablecoin outflows hit $10.4B, rivaling the country’s overseas stock investments",
-          "link": "https://cryptobriefing.com/south-korea-stablecoin-outflows-10-billion/",
-          "source": "cryptobriefing.com",
-          "published_at": "2026-08-02T07:19:39+00:00"
+          "title": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million",
+          "link": "https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million",
+          "source": "coindesk.com",
+          "published_at": "2026-08-01T20:10:54+00:00"
         }
       ]
     }
@@ -1223,15 +1284,15 @@
     },
     {
       "tag": "#XRP",
-      "count": 43,
+      "count": 44,
       "type": "coin",
-      "pct": 72
+      "pct": 73
     },
     {
       "tag": "#Xrp",
-      "count": 40,
+      "count": 41,
       "type": "topic",
-      "pct": 67
+      "pct": 68
     },
     {
       "tag": "#Defi",
@@ -1241,15 +1302,15 @@
     },
     {
       "tag": "#Bitcoin",
-      "count": 30,
+      "count": 28,
       "type": "topic",
-      "pct": 50
+      "pct": 47
     },
     {
       "tag": "#BTC",
-      "count": 24,
+      "count": 23,
       "type": "coin",
-      "pct": 40
+      "pct": 38
     },
     {
       "tag": "#ETH",
@@ -1264,5 +1325,5 @@
       "pct": 20
     }
   ],
-  "generated_at": "2026-08-02T08:41:29.606482+00:00"
+  "generated_at": "2026-08-02T10:19:40.557682+00:00"
 }
