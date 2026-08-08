@@ -2,18 +2,6 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "Brazil tightens crypto rules with new $10K transfer rule – Report",
-      "link": "https://ambcrypto.com/brazil-tightens-crypto-rules-with-new-10k-transfer-rule-report/",
-      "published_at": "2026-08-08T21:00:36+00:00",
-      "source": "ambcrypto.com",
-      "score": 1,
-      "ntitle": "brazil tightens crypto rules new 10k transfer rule report",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
       "title": "Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3%",
       "link": "https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published_at": "2026-08-08T21:17:08+00:00",
@@ -52,16 +40,17 @@
       "agency": null
     },
     {
-      "title": "BIP-110 Splits Bitcoin as Rival Miners Clash at Block 961632",
-      "link": "https://news.bitcoin.com/crypto-news/bip-110-splits-bitcoin-as-rival-miners-clash-at-block-961632/",
-      "published_at": "2026-08-08T20:58:03+00:00",
+      "title": "Crypto Weekly: ADA and Privacy Coins Outperform While XRP Slides",
+      "link": "https://news.bitcoin.com/market-updates/crypto-weekly-ada-and-privacy-coins-outperform-while-xrp-slides/",
+      "published_at": "2026-08-08T21:46:40+00:00",
       "source": "news.bitcoin.com",
-      "score": 3,
-      "ntitle": "bip 110 splits bitcoin rival miners clash block 961632",
+      "score": 6,
+      "ntitle": "crypto weekly ada privacy coins outperform while xrp slides",
       "coins": [
-        "BTC"
+        "ADA",
+        "XRP"
       ],
-      "sentiment": "neutral",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -80,14 +69,14 @@
   ],
   "day": [
     {
-      "title": "SharpLink, Galaxy launch $125M on-chain yield fund – Details",
-      "link": "https://ambcrypto.com/sharplink-galaxy-launch-125m-on-chain-yield-fund-details/",
-      "published_at": "2026-08-08T20:00:06+00:00",
+      "title": "Brazil tightens crypto rules with new $10K transfer rule – Report",
+      "link": "https://ambcrypto.com/brazil-tightens-crypto-rules-with-new-10k-transfer-rule-report/",
+      "published_at": "2026-08-08T21:00:36+00:00",
       "source": "ambcrypto.com",
-      "score": 5,
-      "ntitle": "sharplink galaxy launch 125m chain yield fund details",
+      "score": 1,
+      "ntitle": "brazil tightens crypto rules new 10k transfer rule report",
       "coins": [],
-      "sentiment": "bullish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -198,18 +187,16 @@
       "agency": null
     },
     {
-      "title": "Jack Dorsey’s Block boosts Bitcoin holdings to 9,117 BTC",
-      "link": "https://cryptobriefing.com/jack-dorseys-block-boosts-bitcoin-holdings-to-9117-btc/",
-      "published_at": "2026-08-08T20:29:00+00:00",
+      "title": "Democrats block Crypto Clarity Act vote before summer recess",
+      "link": "https://cryptobriefing.com/democrats-block-crypto-clarity-act-vote-before-summer-recess/",
+      "published_at": "2026-08-08T20:58:07+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "jack dorsey s block boosts bitcoin holdings 9 117 btc",
-      "coins": [
-        "BTC"
-      ],
+      "ntitle": "democrats block crypto clarity act vote before summer recess",
+      "coins": [],
       "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
+      "is_regulation": true,
+      "agency": "Congress"
     },
     {
       "title": "CLARITY Act Gets September 15 Senate Vote as Thune Forces the Issue",
@@ -293,16 +280,18 @@
       "agency": null
     },
     {
-      "title": "France Pushes Bill to Share Crypto Tax Data With 48 Nations",
-      "link": "https://news.bitcoin.com/regulation-and-legal/france-pushes-bill-to-share-crypto-tax-data-with-48-nations/",
-      "published_at": "2026-08-08T19:52:56+00:00",
+      "title": "BIP-110 Splits Bitcoin as Rival Miners Clash at Block 961632",
+      "link": "https://news.bitcoin.com/crypto-news/bip-110-splits-bitcoin-as-rival-miners-clash-at-block-961632/",
+      "published_at": "2026-08-08T20:58:03+00:00",
       "source": "news.bitcoin.com",
-      "score": 1,
-      "ntitle": "france pushes bill share crypto tax data 48 nations",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": true,
-      "agency": "Regulatory"
+      "score": 3,
+      "ntitle": "bip 110 splits bitcoin rival miners clash block 961632",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "110 Billion Shiba Inu Netflow Signals Shifting Momentum",
@@ -319,15 +308,13 @@
       "agency": null
     },
     {
-      "title": "Bitcoin whales accumulate for 5 days – Can BTC escape THIS channel?",
-      "link": "https://ambcrypto.com/bitcoin-whales-accumulate-for-5-days-can-btc-escape-this-channel/",
-      "published_at": "2026-08-08T18:00:09+00:00",
+      "title": "SharpLink, Galaxy launch $125M on-chain yield fund – Details",
+      "link": "https://ambcrypto.com/sharplink-galaxy-launch-125m-on-chain-yield-fund-details/",
+      "published_at": "2026-08-08T20:00:06+00:00",
       "source": "ambcrypto.com",
-      "score": 1,
-      "ntitle": "bitcoin whales accumulate 5 days can btc escape this channel",
-      "coins": [
-        "BTC"
-      ],
+      "score": 5,
+      "ntitle": "sharplink galaxy launch 125m chain yield fund details",
+      "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
@@ -437,14 +424,16 @@
       "agency": null
     },
     {
-      "title": "Iran, Oman agree on vessel routes through Strait of Hormuz",
-      "link": "https://cryptobriefing.com/iran-oman-agree-on-vessel-routes-through-strait-of-hormuz/",
-      "published_at": "2026-08-08T20:22:26+00:00",
+      "title": "Jack Dorsey’s Block boosts Bitcoin holdings to 9,117 BTC",
+      "link": "https://cryptobriefing.com/jack-dorseys-block-boosts-bitcoin-holdings-to-9117-btc/",
+      "published_at": "2026-08-08T20:29:00+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "iran oman agree vessel routes through strait hormuz",
-      "coins": [],
-      "sentiment": "bearish",
+      "ntitle": "jack dorsey s block boosts bitcoin holdings 9 117 btc",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -489,30 +478,16 @@
       "agency": null
     },
     {
-      "title": "Breaking Down Ethereum's New Issuance Debate",
-      "link": "https://www.bankless.com/read/breaking-down-ethereums-new-issuance-debate",
-      "published_at": "2026-08-06T20:40:09+00:00",
-      "source": "bankless.com",
-      "score": 1,
-      "ntitle": "breaking down ethereum s new issuance debate",
-      "coins": [
-        "ETH"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Canada Economy Just Outran America: Is Its Crypto Industry Next?",
-      "link": "https://beincrypto.com/canada-jobs-us-crypto-industry/",
-      "published_at": "2026-08-07T21:07:17+00:00",
+      "title": "CLARITY Act Likely To Fail in September. Will Crypto Prices React?",
+      "link": "https://beincrypto.com/clarity-act-september-vote-passage-odds/",
+      "published_at": "2026-08-07T21:42:22+00:00",
       "source": "beincrypto.com",
-      "score": 1,
-      "ntitle": "canada economy just outran america crypto industry next",
+      "score": 3,
+      "ntitle": "clarity act likely fail september will crypto prices react",
       "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "Congress"
     },
     {
       "title": "Backpack Exchange Lists TRX Spot And Perpetual Markets",
@@ -577,18 +552,6 @@
       "agency": null
     },
     {
-      "title": "Taiwan to roll out crypto travel rule for domestic transfers soon",
-      "link": "https://coincodecap.com/taiwan-to-roll-out-crypto-travel-rule-for-domestic-transfers-soon?utm_source=rss&utm_medium=rss&utm_campaign=taiwan-to-roll-out-crypto-travel-rule-for-domestic-transfers-soon",
-      "published_at": "2026-08-05T09:02:33+00:00",
-      "source": "coincodecap.com",
-      "score": 1,
-      "ntitle": "taiwan roll out crypto travel rule domestic transfers soon",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
       "title": "Trump Media pulls back from crypto, scraps Crypto.com's CRO token treasury deal",
       "link": "https://www.coindesk.com/business/2026/08/07/trump-media-pulls-back-from-crypto-scraps-crypto-com-cro-treasury-deal",
       "published_at": "2026-08-07T21:13:21+00:00",
@@ -649,16 +612,16 @@
       "agency": "Regulatory"
     },
     {
-      "title": "Micro Bitcoin (BTC) Holders Are Vanishing at the Fastest Pace Since December 2024",
-      "link": "https://cryptopotato.com/micro-bitcoin-btc-holders-are-vanishing-at-the-fastest-pace-since-december-2024/",
-      "published_at": "2026-08-07T20:08:39+00:00",
+      "title": "Bitcoin Miner MARA Posts $611M Loss as Revenue Falls 27%",
+      "link": "https://cryptopotato.com/bitcoin-miner-mara-posts-611m-loss-as-revenue-falls-27/",
+      "published_at": "2026-08-07T21:55:08+00:00",
       "source": "cryptopotato.com",
-      "score": 2,
-      "ntitle": "micro bitcoin btc holders vanishing fastest pace since december 2024",
+      "score": 1,
+      "ntitle": "bitcoin miner mara posts 611m loss revenue falls 27",
       "coins": [
         "BTC"
       ],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -799,24 +762,12 @@
       "agency": null
     },
     {
-      "title": "MetaMask Launches Agent Wallets",
-      "link": "https://www.bankless.com/read/news/metamask-launches-agent-wallets",
-      "published_at": "2026-08-06T19:36:06+00:00",
-      "source": "bankless.com",
-      "score": 6,
-      "ntitle": "metamask launches agent wallets",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Trump Media Pulls Back From Crypto Deals Under Interim CEO McGurn",
-      "link": "https://beincrypto.com/trump-media-rethinks-crypto-ambitions-mcgurn/",
-      "published_at": "2026-08-07T20:22:37+00:00",
+      "title": "Canada Economy Just Outran America: Is Its Crypto Industry Next?",
+      "link": "https://beincrypto.com/canada-jobs-us-crypto-industry/",
+      "published_at": "2026-08-07T21:07:17+00:00",
       "source": "beincrypto.com",
-      "score": 3,
-      "ntitle": "trump media pulls back crypto deals under interim ceo mcgurn",
+      "score": 1,
+      "ntitle": "canada economy just outran america crypto industry next",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -847,6 +798,42 @@
       "sentiment": "bullish",
       "is_regulation": true,
       "agency": "Congress"
+    },
+    {
+      "title": "Crypto Cards Drive $759M Stablecoin Spend, USDC Leads",
+      "link": "https://Blockchain.News/news/crypto-cards-stablecoin-spend-2026",
+      "published_at": "2026-08-07T20:16:33+00:00",
+      "source": "blockchain.news",
+      "score": 1,
+      "ntitle": "crypto cards drive 759m stablecoin spend usdc leads",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Estimated $30 Million Stolen in Violent Crypto Attacks in 2026 as France Records Emerges as Hotspot",
+      "link": "https://www.chainalysis.com/blog/violent-crypto-wrench-attacks-2026/",
+      "published_at": "2026-08-06T12:00:41+00:00",
+      "source": "chainalysis.com",
+      "score": 2,
+      "ntitle": "estimated 30 million stolen violent crypto attacks 2026 france records emerges hotspot",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Crypto’s infrastructure era arrives, with AI agents poised to reshape demand",
+      "link": "https://www.cnbc.com/2026/08/07/cryptos-infrastructure-era-arrives-with-ai-agents-poised-to-reshape-demand.html",
+      "published_at": "2026-08-07T16:47:55+00:00",
+      "source": "cnbc.com",
+      "score": 1,
+      "ntitle": "crypto s infrastructure era arrives ai agents poised reshape demand",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     }
   ],
   "month": [
@@ -863,38 +850,12 @@
       "agency": null
     },
     {
-      "title": "Inside Uniswap's Land Grab on Robinhood Chain",
-      "link": "https://www.bankless.com/inside-uniswaps-land-grab-on-robinhood-chain",
-      "published_at": "2026-07-31T19:32:13+00:00",
-      "source": "bankless.com",
-      "score": 3,
-      "ntitle": "inside uniswap s land grab robinhood chain",
-      "coins": [
-        "UNI"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
       "title": "The 2026 World Cup On-Chain: $20 Billion in Crypto Flows, From Bets to Tickets",
       "link": "https://www.chainalysis.com/blog/2026-world-cup-prediction-markets-nft-tickets/",
       "published_at": "2026-07-30T16:00:30+00:00",
       "source": "chainalysis.com",
       "score": 1,
       "ntitle": "2026 world cup chain 20 billion crypto flows bets tickets",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "ERA Wallet Review: What the Keylabs Audit Actually Says",
-      "link": "https://coincodecap.com/era-wallet-review-what-the-keylabs-audit-actually-says?utm_source=rss&utm_medium=rss&utm_campaign=era-wallet-review-what-the-keylabs-audit-actually-says",
-      "published_at": "2026-07-27T15:24:21+00:00",
-      "source": "coincodecap.com",
-      "score": 3,
-      "ntitle": "era wallet review what keylabs audit actually says",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -1000,20 +961,6 @@
       "agency": null
     },
     {
-      "title": "Ethereum Institutional Closes Ecosystem Funding Round With +100 Backers",
-      "link": "https://www.bankless.com/read/news/ethereum-institutional-closes-ecosystem-funding-round-with-100-backers",
-      "published_at": "2026-07-29T19:32:15+00:00",
-      "source": "bankless.com",
-      "score": 3,
-      "ntitle": "ethereum institutional closes ecosystem funding round 100 backers",
-      "coins": [
-        "ETH"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
       "title": "Monitoring Privacy Blockchains: How Compliance Teams Can Stay a Step Ahead",
       "link": "https://www.chainalysis.com/blog/privacy-blockchain-compliance/",
       "published_at": "2026-07-29T17:02:03+00:00",
@@ -1024,18 +971,6 @@
       "sentiment": "bearish",
       "is_regulation": true,
       "agency": "Regulatory"
-    },
-    {
-      "title": "CFTC warns Prediction Market firms against blanket contract certifications",
-      "link": "https://coincodecap.com/cftc-warns-prediction-market-firms-against-blanket-contract-certifications?utm_source=rss&utm_medium=rss&utm_campaign=cftc-warns-prediction-market-firms-against-blanket-contract-certifications",
-      "published_at": "2026-07-27T04:14:27+00:00",
-      "source": "coincodecap.com",
-      "score": 3,
-      "ntitle": "cftc warns prediction market firms against blanket contract certifications",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": true,
-      "agency": "CFTC"
     },
     {
       "title": "Ethereum outperforms Bitcoin as Bitmine buys 9,946 ETH",
@@ -1105,15 +1040,15 @@
   ],
   "clusters": [
     {
-      "id": 17,
+      "id": 16,
       "title": "US spot Bitcoin ETFs post best week since April with $1B inflows",
       "link": "https://cointelegraph.com/news/us-bitcoin-etfs-best-weekly-inflows-april-coldcard-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "cointelegraph.com",
       "published_at": "2026-08-08T16:20:17+00:00",
       "sentiment": "bullish",
       "coins": [
-        "BTC",
-        "ETH"
+        "ETH",
+        "BTC"
       ],
       "sources": [
         "cointelegraph.com",
@@ -1139,52 +1074,52 @@
   "trending": [
     {
       "tag": "#Ai",
-      "count": 64,
+      "count": 67,
       "type": "topic",
       "pct": 100
     },
     {
       "tag": "#XRP",
-      "count": 55,
+      "count": 56,
       "type": "coin",
-      "pct": 86
+      "pct": 84
     },
     {
       "tag": "#Xrp",
-      "count": 52,
+      "count": 53,
       "type": "topic",
-      "pct": 81
+      "pct": 79
     },
     {
       "tag": "#Defi",
-      "count": 37,
+      "count": 36,
       "type": "topic",
-      "pct": 58
+      "pct": 54
     },
     {
       "tag": "#Bitcoin",
-      "count": 27,
+      "count": 30,
       "type": "topic",
-      "pct": 42
+      "pct": 45
     },
     {
       "tag": "#BTC",
-      "count": 24,
+      "count": 27,
       "type": "coin",
-      "pct": 38
-    },
-    {
-      "tag": "#ETH",
-      "count": 17,
-      "type": "coin",
-      "pct": 27
+      "pct": 40
     },
     {
       "tag": "#Etf",
-      "count": 15,
+      "count": 18,
       "type": "topic",
-      "pct": 23
+      "pct": 27
+    },
+    {
+      "tag": "#ETH",
+      "count": 15,
+      "type": "coin",
+      "pct": 22
     }
   ],
-  "generated_at": "2026-08-08T21:39:36.776186+00:00"
+  "generated_at": "2026-08-08T22:00:46.846892+00:00"
 }
