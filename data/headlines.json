@@ -2,18 +2,56 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "Hyperliquid: Will HyperLabs’ $23M token unlock weigh on HYPE?",
-      "link": "https://ambcrypto.com/hyperliquid-will-hyperlabs-23m-token-unlock-weigh-on-hype/",
-      "published_at": "2026-08-08T22:00:10+00:00",
+      "title": "Is a price nuke ahead for Bitcoin’s price after rising OI meets soft spot demand?",
+      "link": "https://ambcrypto.com/is-a-price-nuke-ahead-for-bitcoins-price-after-rising-oi-meets-soft-spot-demand/",
+      "published_at": "2026-08-08T23:00:29+00:00",
       "source": "ambcrypto.com",
-      "score": 1,
-      "ntitle": "hyperliquid will hyperlabs 23m token unlock weigh hype",
+      "score": 2,
+      "ntitle": "price nuke ahead bitcoin s price after rising oi meets soft spot demand",
       "coins": [
-        "HYPE"
+        "BTC"
       ],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
+    },
+    {
+      "title": "Ethereum Price Predictions Turn Bullish as Analysts Eye $3K ETH Breakout",
+      "link": "https://blockonomi.com/ethereum-price-predictions-turn-bullish-as-analysts-eye-3k-eth-breakout/",
+      "published_at": "2026-08-08T23:17:39+00:00",
+      "source": "blockonomi.com",
+      "score": 1,
+      "ntitle": "ethereum price predictions turn bullish analysts eye 3k eth breakout",
+      "coins": [
+        "ETH"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Turkey calls new defense pact with Pakistan and Saudi Arabia equivalent to NATO’s Article 5",
+      "link": "https://cryptobriefing.com/turkey-pakistan-saudi-mecca-defense-pact-nato-article-5/",
+      "published_at": "2026-08-08T23:09:27+00:00",
+      "source": "cryptobriefing.com",
+      "score": 2,
+      "ntitle": "turkey calls new defense pact pakistan saudi arabia equivalent nato s article 5",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "CLARITY Act Heads Toward Sept. 15 Senate Vote as Crypto Bill Advances",
+      "link": "https://news.bitcoin.com/regulation-and-legal/clarity-act-heads-toward-sept-15-senate-vote-as-crypto-bill-advances/",
+      "published_at": "2026-08-08T23:05:06+00:00",
+      "source": "news.bitcoin.com",
+      "score": 1,
+      "ntitle": "clarity act heads toward sept 15 senate vote crypto bill advances",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "Congress"
     },
     {
       "title": "Iran issues demands for US in Strait of Hormuz talks, complicating negotiations",
@@ -40,29 +78,19 @@
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
-    },
-    {
-      "title": "Israel prepares for conflict with Iran without US backing",
-      "link": "https://cryptobriefing.com/israel-prepares-for-conflict-with-iran-without-us-backing/",
-      "published_at": "2026-08-08T22:40:03+00:00",
-      "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "israel prepares conflict iran without us backing",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
     }
   ],
   "day": [
     {
-      "title": "Brazil tightens crypto rules with new $10K transfer rule – Report",
-      "link": "https://ambcrypto.com/brazil-tightens-crypto-rules-with-new-10k-transfer-rule-report/",
-      "published_at": "2026-08-08T21:00:36+00:00",
+      "title": "Hyperliquid: Will HyperLabs’ $23M token unlock weigh on HYPE?",
+      "link": "https://ambcrypto.com/hyperliquid-will-hyperlabs-23m-token-unlock-weigh-on-hype/",
+      "published_at": "2026-08-08T22:00:10+00:00",
       "source": "ambcrypto.com",
       "score": 1,
-      "ntitle": "brazil tightens crypto rules new 10k transfer rule report",
-      "coins": [],
+      "ntitle": "hyperliquid will hyperlabs 23m token unlock weigh hype",
+      "coins": [
+        "HYPE"
+      ],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
@@ -298,14 +326,14 @@
       "agency": null
     },
     {
-      "title": "SharpLink, Galaxy launch $125M on-chain yield fund – Details",
-      "link": "https://ambcrypto.com/sharplink-galaxy-launch-125m-on-chain-yield-fund-details/",
-      "published_at": "2026-08-08T20:00:06+00:00",
+      "title": "Brazil tightens crypto rules with new $10K transfer rule – Report",
+      "link": "https://ambcrypto.com/brazil-tightens-crypto-rules-with-new-10k-transfer-rule-report/",
+      "published_at": "2026-08-08T21:00:36+00:00",
       "source": "ambcrypto.com",
-      "score": 5,
-      "ntitle": "sharplink galaxy launch 125m chain yield fund details",
+      "score": 1,
+      "ntitle": "brazil tightens crypto rules new 10k transfer rule report",
       "coins": [],
-      "sentiment": "bullish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -1078,56 +1106,85 @@
       "agency": null
     }
   ],
-  "clusters": [],
+  "clusters": [
+    {
+      "id": 3,
+      "title": "CLARITY Act Heads Toward Sept. 15 Senate Vote as Crypto Bill Advances",
+      "link": "https://news.bitcoin.com/regulation-and-legal/clarity-act-heads-toward-sept-15-senate-vote-as-crypto-bill-advances/",
+      "source": "news.bitcoin.com",
+      "published_at": "2026-08-08T23:05:06+00:00",
+      "sentiment": "bearish",
+      "coins": [],
+      "sources": [
+        "news.bitcoin.com",
+        "cryptopotato.com"
+      ],
+      "count": 2,
+      "members": [
+        {
+          "title": "CLARITY Act Heads Toward Sept. 15 Senate Vote as Crypto Bill Advances",
+          "link": "https://news.bitcoin.com/regulation-and-legal/clarity-act-heads-toward-sept-15-senate-vote-as-crypto-bill-advances/",
+          "source": "news.bitcoin.com",
+          "published_at": "2026-08-08T23:05:06+00:00"
+        },
+        {
+          "title": "CLARITY Act Gets September 15 Senate Vote as Thune Forces the Issue",
+          "link": "https://cryptopotato.com/clarity-act-gets-september-15-senate-vote-as-thune-forces-the-issue/",
+          "source": "cryptopotato.com",
+          "published_at": "2026-08-08T19:23:10+00:00"
+        }
+      ]
+    }
+  ],
   "trending": [
     {
       "tag": "#Ai",
-      "count": 63,
+      "count": 68,
       "type": "topic",
       "pct": 100
     },
     {
       "tag": "#XRP",
-      "count": 56,
+      "count": 55,
       "type": "coin",
-      "pct": 89
+      "pct": 81
     },
     {
       "tag": "#Xrp",
-      "count": 53,
+      "count": 52,
       "type": "topic",
-      "pct": 84
+      "pct": 76
     },
     {
       "tag": "#Defi",
-      "count": 37,
+      "count": 39,
       "type": "topic",
-      "pct": 59
+      "pct": 57
     },
     {
       "tag": "#Bitcoin",
-      "count": 27,
+      "count": 28,
       "type": "topic",
-      "pct": 43
+      "pct": 41
     },
     {
       "tag": "#BTC",
-      "count": 24,
+      "count": 22,
       "type": "coin",
-      "pct": 38
+      "pct": 32
     },
     {
       "tag": "#ETH",
       "count": 17,
       "type": "coin",
-      "pct": 27
+      "pct": 25
     },
     {
       "tag": "#Etf",
-      "count": 14,
+      "count": 16,
       "type": "topic",
-      "pct": 22
+      "pct": 24
     }
   ],
-  "generated_at": "2026-08-08T22:58:50.261580+00:00"
+  "generated_at": "2026-08-08T23:23:47.396318+00:00"
 }
