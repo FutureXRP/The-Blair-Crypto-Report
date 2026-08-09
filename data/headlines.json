@@ -2,52 +2,56 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "RaveDAO jumps 16% as bullish bets surge – Can RAVE break $0.40?",
-      "link": "https://ambcrypto.com/ravedao-jumps-16-as-bullish-bets-surge-can-rave-break-0-40/",
-      "published_at": "2026-08-09T13:00:26+00:00",
+      "title": "Dogecoin faces 40x short bet – Is DOGE setting up a bear trap?",
+      "link": "https://ambcrypto.com/dogecoin-faces-40x-short-bet-is-doge-setting-up-a-bear-trap/",
+      "published_at": "2026-08-09T14:00:38+00:00",
       "source": "ambcrypto.com",
       "score": 1,
-      "ntitle": "ravedao jumps 16 bullish bets surge can rave break 0 40",
-      "coins": [],
+      "ntitle": "dogecoin faces 40x short bet doge setting up bear trap",
+      "coins": [
+        "DOGE"
+      ],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Crypto is going through a massive dot-com style shakeout as over 100 projects fold in 2026",
-      "link": "https://www.coindesk.com/business/2026/08/09/crypto-is-going-through-a-massive-dot-com-style-shakeout-as-over-100-projects-fold-in-2026",
-      "published_at": "2026-08-09T13:00:00+00:00",
+      "title": "Bitcoin investors pour $853 million into spot ETFs. BlackRock’s IBIT claims the bulk",
+      "link": "https://www.coindesk.com/markets/2026/08/09/bitcoin-investors-pour-usd853-million-into-spot-etfs-blackrock-s-ibit-claims-the-bulk",
+      "published_at": "2026-08-09T14:19:35+00:00",
       "source": "coindesk.com",
-      "score": 2,
-      "ntitle": "crypto going through massive dot com style shakeout over 100 projects fold 2026",
+      "score": 6,
+      "ntitle": "bitcoin investors pour 853 million into spot etfs blackrock s ibit claims bulk",
       "coins": [
-        "DOT"
+        "BTC"
       ],
       "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
+      "is_regulation": true,
+      "agency": "Regulatory"
     },
     {
-      "title": "IMF warns local stablecoins could speed dollar adoption",
-      "link": "https://crypto.news/imf-warns-local-stablecoins-could-speed-dollar-adoption/",
-      "published_at": "2026-08-09T13:14:42+00:00",
+      "title": "Bitcoin BIP-110 enters mandatory phase at 2.53% support",
+      "link": "https://crypto.news/bitcoin-bip-110-enters-mandatory-phase-at-2-53-support/",
+      "published_at": "2026-08-09T13:59:29+00:00",
       "source": "crypto.news",
       "score": 1,
-      "ntitle": "imf warns local stablecoins could speed dollar adoption",
-      "coins": [],
+      "ntitle": "bitcoin bip 110 enters mandatory phase 2 53 support",
+      "coins": [
+        "BTC"
+      ],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Scott Bessent signals intent to curb rising bond yields",
-      "link": "https://cryptobriefing.com/bessent-curb-rising-bond-yields/",
-      "published_at": "2026-08-09T13:54:44+00:00",
+      "title": "Khamenei banner burned in Iran amid calls for protests, regime dissent escalates",
+      "link": "https://cryptobriefing.com/khamenei-banner-burned-in-iran-amid-calls-for-protests-regime-dissent-escalates/",
+      "published_at": "2026-08-09T14:21:33+00:00",
       "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "scott bessent signals intent curb rising bond yields",
+      "score": 2,
+      "ntitle": "khamenei banner burned iran amid calls protests regime dissent escalates",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -66,32 +70,18 @@
       "agency": null
     },
     {
-      "title": "AI financial advisers carry a hidden Bitcoin bias activated by a single specific switch",
-      "link": "https://cryptoslate.com/ai-financial-advisers-carry-a-hidden-bitcoin-bias-activated-by-a-single-specific-switch/",
-      "published_at": "2026-08-09T13:00:56+00:00",
+      "title": "Never sell treasury model cracks again as 1,635 BTC is offloaded shrinking Empery reserves by 76% in weeks",
+      "link": "https://cryptoslate.com/never-sell-treasury-model-cracks-again-as-1635-btc-is-offloaded-shrinking-empery-reserves-by-76-in-weeks/",
+      "published_at": "2026-08-09T14:00:20+00:00",
       "source": "cryptoslate.com",
       "score": 4,
-      "ntitle": "ai financial advisers carry hidden bitcoin bias activated single specific switch",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Bitcoin heads for 2% weekly gain as risk assets rally, Fed rate hike bets ease",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-stalls-at-64k-as-payrolls-test-looms-4845206",
-      "published_at": "2026-08-09T13:09:27+00:00",
-      "source": "investing.com",
-      "score": 1,
-      "ntitle": "bitcoin heads 2 weekly gain risk assets rally fed rate hike bets ease",
+      "ntitle": "never sell treasury model cracks again 1 635 btc offloaded shrinking empery reserves 76 weeks",
       "coins": [
         "BTC"
       ],
       "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
+      "is_regulation": true,
+      "agency": "Treasury"
     },
     {
       "title": "Bitcoin’s Price Barely Blinks Amid Coldcard Sweeps and BIP-110’s Collapse",
@@ -108,6 +98,44 @@
       "agency": null
     },
     {
+      "title": "XRPL Amendment Retirement: Ripple Engineer Says Users Will Not Be Affected",
+      "link": "https://u.today/xrpl-amendment-retirement-ripple-engineer-says-users-will-not-be-affected",
+      "published_at": "2026-08-09T13:55:59+00:00",
+      "source": "u.today",
+      "score": 10,
+      "ntitle": "xrpl amendment retirement ripple engineer says users will not be affected",
+      "coins": [
+        "XRP"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "What happens when a stablecoin depegs for 30 seconds",
+      "link": "https://crypto.news/what-happens-when-a-stablecoin-depegs-for-30-seconds/",
+      "published_at": "2026-08-09T13:58:43+00:00",
+      "source": "crypto.news",
+      "score": 1,
+      "ntitle": "what happens when stablecoin depegs 30 seconds",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Netanyahu rejects US-backed proposal for Hamas disarmament",
+      "link": "https://cryptobriefing.com/netanyahu-rejects-us-hamas-disarmament-proposal/",
+      "published_at": "2026-08-09T14:20:23+00:00",
+      "source": "cryptobriefing.com",
+      "score": 1,
+      "ntitle": "netanyahu rejects us backed proposal hamas disarmament",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
       "title": "Strategy Ready to Buy Bitcoin? Saylor Drops Fresh 'Doing Business' Teaser",
       "link": "https://u.today/strategy-ready-to-buy-bitcoin-saylor-drops-fresh-doing-business-teaser",
       "published_at": "2026-08-09T13:38:30+00:00",
@@ -120,75 +148,17 @@
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
-    },
-    {
-      "title": "Santiment reports 2.27M new Bitcoin wallets amid Coldcard custody concerns",
-      "link": "https://cryptobriefing.com/santiment-bitcoin-wallets-coldcard-custody-concerns/",
-      "published_at": "2026-08-09T13:36:13+00:00",
-      "source": "cryptobriefing.com",
-      "score": 3,
-      "ntitle": "santiment reports 2 27m new bitcoin wallets amid coldcard custody concerns",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Ripple (XRP) ETFs Record Another Green Week but Fresh Concerns Surface",
-      "link": "https://cryptopotato.com/ripple-xrp-etfs-record-another-green-week-but-fresh-concerns-surface/",
-      "published_at": "2026-08-09T13:13:44+00:00",
-      "source": "cryptopotato.com",
-      "score": 10,
-      "ntitle": "ripple xrp etfs record another green week but fresh concerns surface",
-      "coins": [
-        "XRP"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "CLARITY Stalls, Coldcard Fallout Continues, Bitcoin Barely Budges",
-      "link": "https://news.bitcoin.com/opinion-and-analysis/clarity-stalls-coldcard-fallout-continues-bitcoin-barely-budges/",
-      "published_at": "2026-08-09T13:00:45+00:00",
-      "source": "news.bitcoin.com",
-      "score": 1,
-      "ntitle": "clarity stalls coldcard fallout continues bitcoin barely budges",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "XRP Already Meets Clarity Act Rules, Lawyer Says",
-      "link": "https://u.today/xrp-already-meets-clarity-act-rules-lawyer-says",
-      "published_at": "2026-08-09T13:00:07+00:00",
-      "source": "u.today",
-      "score": 6,
-      "ntitle": "xrp already meets clarity act rules lawyer says",
-      "coins": [
-        "XRP"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Congress"
     }
   ],
   "day": [
     {
-      "title": "Bitcoin ETFs gain $853.5M – But is crypto demand really growing?",
-      "link": "https://ambcrypto.com/bitcoin-etfs-gain-853-5m-but-is-crypto-demand-really-growing/",
-      "published_at": "2026-08-09T11:00:41+00:00",
+      "title": "RaveDAO jumps 16% as bullish bets surge – Can RAVE break $0.40?",
+      "link": "https://ambcrypto.com/ravedao-jumps-16-as-bullish-bets-surge-can-rave-break-0-40/",
+      "published_at": "2026-08-09T13:00:26+00:00",
       "source": "ambcrypto.com",
-      "score": 3,
-      "ntitle": "bitcoin etfs gain 853 5m but crypto demand really growing",
-      "coins": [
-        "BTC"
-      ],
+      "score": 1,
+      "ntitle": "ravedao jumps 16 bullish bets surge can rave break 0 40",
+      "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
@@ -232,14 +202,14 @@
       "agency": null
     },
     {
-      "title": "Controversial Bitcoin fork BIP-110 mines two blocks, then stops",
-      "link": "https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops",
-      "published_at": "2026-08-09T05:08:20+00:00",
+      "title": "Crypto is going through a massive dot-com style shakeout as over 100 projects fold in 2026",
+      "link": "https://www.coindesk.com/business/2026/08/09/crypto-is-going-through-a-massive-dot-com-style-shakeout-as-over-100-projects-fold-in-2026",
+      "published_at": "2026-08-09T13:00:00+00:00",
       "source": "coindesk.com",
-      "score": 1,
-      "ntitle": "controversial bitcoin fork bip 110 mines two blocks then stops",
+      "score": 2,
+      "ntitle": "crypto going through massive dot com style shakeout over 100 projects fold 2026",
       "coins": [
-        "BTC"
+        "DOT"
       ],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -276,52 +246,54 @@
       "agency": null
     },
     {
-      "title": "Trump Media, Crypto.com end $6.42B CRO treasury deal",
-      "link": "https://crypto.news/trump-media-crypto-com-end-6-42b-cro-treasury-deal/",
-      "published_at": "2026-08-09T12:54:14+00:00",
+      "title": "IMF warns local stablecoins could speed dollar adoption",
+      "link": "https://crypto.news/imf-warns-local-stablecoins-could-speed-dollar-adoption/",
+      "published_at": "2026-08-09T13:14:42+00:00",
       "source": "crypto.news",
-      "score": 5,
-      "ntitle": "trump media crypto com end 6 42b cro treasury deal",
+      "score": 1,
+      "ntitle": "imf warns local stablecoins could speed dollar adoption",
       "coins": [],
       "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Treasury"
+      "is_regulation": false,
+      "agency": null
     },
     {
-      "title": "Syria and Russia reach agreement on military base transfers with three-month transition period",
-      "link": "https://cryptobriefing.com/syria-russia-military-base-agreement/",
-      "published_at": "2026-08-09T12:47:26+00:00",
+      "title": "Celtic’s Kasper Hogh scores first-half hat-trick in league match",
+      "link": "https://cryptobriefing.com/celtic-kasper-hogh-hat-trick-league/",
+      "published_at": "2026-08-09T13:24:42+00:00",
       "source": "cryptobriefing.com",
-      "score": 4,
-      "ntitle": "syria russia reach agreement military base transfers three month transition period",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "5 Best Payment Platforms for Global Businesses in 2026",
-      "link": "https://cryptopotato.com/best-payment-platforms-global-businesses/",
-      "published_at": "2026-08-09T11:07:18+00:00",
-      "source": "cryptopotato.com",
       "score": 1,
-      "ntitle": "5 best payment platforms global businesses 2026",
+      "ntitle": "celtic s kasper hogh scores first half hat trick league match",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "A $1.8 billion leverage trap is building on Solana as traders pay 11-month high rates to defend $78",
-      "link": "https://cryptoslate.com/a-1-8-billion-leverage-trap-is-building-on-solana-as-traders-pay-11-month-high-rates-to-defend-78/",
-      "published_at": "2026-08-09T12:00:17+00:00",
-      "source": "cryptoslate.com",
-      "score": 2,
-      "ntitle": "1 8 billion leverage trap building solana traders pay 11 month high rates defend 78",
+      "title": "Ripple (XRP) ETFs Record Another Green Week but Fresh Concerns Surface",
+      "link": "https://cryptopotato.com/ripple-xrp-etfs-record-another-green-week-but-fresh-concerns-surface/",
+      "published_at": "2026-08-09T13:13:44+00:00",
+      "source": "cryptopotato.com",
+      "score": 10,
+      "ntitle": "ripple xrp etfs record another green week but fresh concerns surface",
       "coins": [
-        "SOL"
+        "XRP"
       ],
-      "sentiment": "bullish",
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "AI financial advisers carry a hidden Bitcoin bias activated by a single specific switch",
+      "link": "https://cryptoslate.com/ai-financial-advisers-carry-a-hidden-bitcoin-bias-activated-by-a-single-specific-switch/",
+      "published_at": "2026-08-09T13:00:56+00:00",
+      "source": "cryptoslate.com",
+      "score": 4,
+      "ntitle": "ai financial advisers carry hidden bitcoin bias activated single specific switch",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -354,38 +326,12 @@
       "agency": null
     },
     {
-      "title": "Bitcoin slips below $65,000 as ETF inflows offset fork concerns",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-below-65000-as-etf-inflows-offset-fork-concerns-4847718",
-      "published_at": "2026-08-09T08:51:48+00:00",
+      "title": "Bitcoin heads for 2% weekly gain as risk assets rally, Fed rate hike bets ease",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-stalls-at-64k-as-payrolls-test-looms-4845206",
+      "published_at": "2026-08-09T13:09:27+00:00",
       "source": "investing.com",
-      "score": 3,
-      "ntitle": "bitcoin slips below 65 000 etf inflows offset fork concerns",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Where Stolen Crypto Really Goes: Inside the 45-Day Laundering Machine",
-      "link": "https://news.bitcoin.com/learning-insights/where-stolen-crypto-goes-laundering-explained/",
-      "published_at": "2026-08-09T11:30:21+00:00",
-      "source": "news.bitcoin.com",
       "score": 1,
-      "ntitle": "where stolen crypto really goes inside 45 day laundering machine",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Zcash (ZEC) Breaks 9-Year Trend vs. Bitcoin (BTC): Why the Old Rules of Crypto Market Are 'Dead'",
-      "link": "https://u.today/zcash-zec-breaks-9-year-trend-vs-bitcoin-btc-why-the-old-rules-of-crypto-market-are-dead",
-      "published_at": "2026-08-09T12:13:15+00:00",
-      "source": "u.today",
-      "score": 2,
-      "ntitle": "zcash zec breaks 9 year trend vs bitcoin btc why old rules crypto market dead",
+      "ntitle": "bitcoin heads 2 weekly gain risk assets rally fed rate hike bets ease",
       "coins": [
         "BTC"
       ],
@@ -394,14 +340,44 @@
       "agency": null
     },
     {
-      "title": "BitMart founder denies fund misuse allegations as withdrawals accelerate",
-      "link": "https://ambcrypto.com/bitmart-founder-denies-fund-misuse-allegations-as-withdrawals-accelerate/",
-      "published_at": "2026-08-09T10:00:27+00:00",
-      "source": "ambcrypto.com",
+      "title": "CLARITY Stalls, Coldcard Fallout Continues, Bitcoin Barely Budges",
+      "link": "https://news.bitcoin.com/opinion-and-analysis/clarity-stalls-coldcard-fallout-continues-bitcoin-barely-budges/",
+      "published_at": "2026-08-09T13:00:45+00:00",
+      "source": "news.bitcoin.com",
       "score": 1,
-      "ntitle": "bitmart founder denies fund misuse allegations withdrawals accelerate",
-      "coins": [],
+      "ntitle": "clarity stalls coldcard fallout continues bitcoin barely budges",
+      "coins": [
+        "BTC"
+      ],
       "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "XRP Already Meets Clarity Act Rules, Lawyer Says",
+      "link": "https://u.today/xrp-already-meets-clarity-act-rules-lawyer-says",
+      "published_at": "2026-08-09T13:00:07+00:00",
+      "source": "u.today",
+      "score": 6,
+      "ntitle": "xrp already meets clarity act rules lawyer says",
+      "coins": [
+        "XRP"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Congress"
+    },
+    {
+      "title": "Bitcoin ETFs gain $853.5M – But is crypto demand really growing?",
+      "link": "https://ambcrypto.com/bitcoin-etfs-gain-853-5m-but-is-crypto-demand-really-growing/",
+      "published_at": "2026-08-09T11:00:41+00:00",
+      "source": "ambcrypto.com",
+      "score": 3,
+      "ntitle": "bitcoin etfs gain 853 5m but crypto demand really growing",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -442,12 +418,12 @@
       "agency": null
     },
     {
-      "title": "Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins",
-      "link": "https://www.coindesk.com/tech/2026/08/07/frame-bitcoin-s-bip-110-enters-mandatory-signaling-with-less-than-3-miner-support",
-      "published_at": "2026-08-08T20:06:47+00:00",
+      "title": "Controversial Bitcoin fork BIP-110 mines two blocks, then stops",
+      "link": "https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops",
+      "published_at": "2026-08-09T05:08:20+00:00",
       "source": "coindesk.com",
-      "score": 2,
-      "ntitle": "bitcoin hits block 961 632 controversial bip 110 soft fork attempt begins",
+      "score": 1,
+      "ntitle": "controversial bitcoin fork bip 110 mines two blocks then stops",
       "coins": [
         "BTC"
       ],
@@ -480,52 +456,52 @@
       "agency": null
     },
     {
-      "title": "Bybit wins U.S. court support to trace $1.5B hack funds",
-      "link": "https://crypto.news/bybit-wins-u-s-court-support-to-trace-1-5b-hack-funds/",
-      "published_at": "2026-08-09T12:30:28+00:00",
+      "title": "Trump Media, Crypto.com end $6.42B CRO treasury deal",
+      "link": "https://crypto.news/trump-media-crypto-com-end-6-42b-cro-treasury-deal/",
+      "published_at": "2026-08-09T12:54:14+00:00",
       "source": "crypto.news",
-      "score": 3,
-      "ntitle": "bybit wins u s court support trace 1 5b hack funds",
+      "score": 5,
+      "ntitle": "trump media crypto com end 6 42b cro treasury deal",
       "coins": [],
       "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
+      "is_regulation": true,
+      "agency": "Treasury"
     },
     {
-      "title": "Semenyo and Marmoush combine to give Manchester City lead vs Atletico Madrid in Seoul friendly",
-      "link": "https://cryptobriefing.com/semenyo-marmoush-manchester-city-atletico-seoul/",
-      "published_at": "2026-08-09T12:39:51+00:00",
+      "title": "OpenAI’s Sam Altman predicts exponential growth in AI token usage, framing intelligence as a utility",
+      "link": "https://cryptobriefing.com/openai-altman-ai-token-usage-growth/",
+      "published_at": "2026-08-09T13:15:33+00:00",
       "source": "cryptobriefing.com",
-      "score": 4,
-      "ntitle": "semenyo marmoush combine give manchester city lead vs atletico madrid seoul friendly",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "China Makes Largest Gold Purchase Since 2023 as Bullion’s Price Surges 8%",
-      "link": "https://cryptopotato.com/china-makes-largest-gold-purchase-since-2023-as-bullions-price-surges-8/",
-      "published_at": "2026-08-09T09:09:00+00:00",
-      "source": "cryptopotato.com",
-      "score": 1,
-      "ntitle": "china makes largest gold purchase since 2023 bullion s price surges 8",
+      "score": 2,
+      "ntitle": "openai s sam altman predicts exponential growth ai token usage framing intelligence utility",
       "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Bitcoin split into two chains overnight, but a silent miner boycott just halted the enforcing BIP-110 chain",
-      "link": "https://cryptoslate.com/bitcoin-split-into-two-chains-overnight-but-a-silent-miner-boycott-just-halted-the-enforcing-chain/",
-      "published_at": "2026-08-09T11:00:45+00:00",
+      "title": "5 Best Payment Platforms for Global Businesses in 2026",
+      "link": "https://cryptopotato.com/best-payment-platforms-global-businesses/",
+      "published_at": "2026-08-09T11:07:18+00:00",
+      "source": "cryptopotato.com",
+      "score": 1,
+      "ntitle": "5 best payment platforms global businesses 2026",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "A $1.8 billion leverage trap is building on Solana as traders pay 11-month high rates to defend $78",
+      "link": "https://cryptoslate.com/a-1-8-billion-leverage-trap-is-building-on-solana-as-traders-pay-11-month-high-rates-to-defend-78/",
+      "published_at": "2026-08-09T12:00:17+00:00",
       "source": "cryptoslate.com",
       "score": 2,
-      "ntitle": "bitcoin split into two chains overnight but silent miner boycott just halted enforcing bip 110 chain",
+      "ntitle": "1 8 billion leverage trap building solana traders pay 11 month high rates defend 78",
       "coins": [
-        "BTC"
+        "SOL"
       ],
-      "sentiment": "neutral",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -554,15 +530,14 @@
       "agency": "Congress"
     },
     {
-      "title": "Bitcoin coiled in $1,200 band near highs: Hourly levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-62k-support-with-breakout-looming-live-levels-93CH-4829888",
-      "published_at": "2026-08-09T07:02:33+00:00",
+      "title": "Bitcoin slips below $65,000 as ETF inflows offset fork concerns",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-below-65000-as-etf-inflows-offset-fork-concerns-4847718",
+      "published_at": "2026-08-09T08:51:48+00:00",
       "source": "investing.com",
-      "score": 1,
-      "ntitle": "bitcoin coiled 1 200 band near highs hourly levels",
+      "score": 3,
+      "ntitle": "bitcoin slips below 65 000 etf inflows offset fork concerns",
       "coins": [
-        "BTC",
-        "NEAR"
+        "BTC"
       ],
       "sentiment": "bearish",
       "is_regulation": false,
@@ -579,20 +554,6 @@
       "ntitle": "best practices managing digital asset portfolios",
       "coins": [],
       "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Breaking Down Ethereum's New Issuance Debate",
-      "link": "https://www.bankless.com/read/breaking-down-ethereums-new-issuance-debate",
-      "published_at": "2026-08-06T20:40:09+00:00",
-      "source": "bankless.com",
-      "score": 1,
-      "ntitle": "breaking down ethereum s new issuance debate",
-      "coins": [
-        "ETH"
-      ],
-      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -673,40 +634,33 @@
       "agency": null
     },
     {
-      "title": "Taiwan to roll out crypto travel rule for domestic transfers soon",
-      "link": "https://coincodecap.com/taiwan-to-roll-out-crypto-travel-rule-for-domestic-transfers-soon?utm_source=rss&utm_medium=rss&utm_campaign=taiwan-to-roll-out-crypto-travel-rule-for-domestic-transfers-soon",
-      "published_at": "2026-08-05T09:02:33+00:00",
-      "source": "coincodecap.com",
-      "score": 1,
-      "ntitle": "taiwan roll out crypto travel rule domestic transfers soon",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Why trillion-dollar asset manager T. Rowe Price put memecoins in its crypto ETF",
-      "link": "https://www.coindesk.com/markets/2026/08/06/why-trillion-dollar-asset-manager-t-rowe-price-put-memecoins-in-its-crypto-etf",
-      "published_at": "2026-08-08T13:00:00+00:00",
+      "title": "Trillions in institutional money to flow into bitcoin, says Bitwise's Matt Hougan",
+      "link": "https://www.coindesk.com/business/2026/08/08/trillions-in-institutional-money-to-flow-into-bitcoin-says-bitwise-s-matt-hougan",
+      "published_at": "2026-08-08T14:00:00+00:00",
       "source": "coindesk.com",
-      "score": 3,
-      "ntitle": "why trillion dollar asset manager t rowe price put memecoins crypto etf",
-      "coins": [],
-      "sentiment": "neutral",
+      "score": 4,
+      "ntitle": "trillions institutional money flow into bitcoin says bitwise s matt hougan",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "CLARITY Act Cloture Vote Set for September 15 Following Majority Leader Thune’s Filing",
-      "link": "https://coingape.com/clarity-act-cloture-vote-set-for-september-15-following-majority-leader-thunes-filing/",
-      "published_at": "2026-08-08T13:30:09+00:00",
+      "title": "XRP Price Forecast as Binance Whale Activity Remains Elevated Amid XRPL Tokenization Push",
+      "link": "https://coingape.com/markets/xrp-price-forecast-as-binance-whale-activity-remains-elevated-amid-xrpl-tokenization-push/",
+      "published_at": "2026-08-08T14:02:29+00:00",
       "source": "coingape.com",
-      "score": 2,
-      "ntitle": "clarity act cloture vote set september 15 following majority leader thune s filing",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Congress"
+      "score": 17,
+      "ntitle": "xrp price forecast binance whale activity remains elevated amid xrpl tokenization push",
+      "coins": [
+        "BNB",
+        "XRP"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "World Chain to launch streamed EIP-7928 block access lists",
@@ -749,30 +703,30 @@
       "agency": null
     },
     {
-      "title": "Bhutan Resumes Bitcoin Selling Spree: Here’s the Latest BTC Transfer",
-      "link": "https://cryptopotato.com/bhutan-resumes-bitcoin-selling-spree-heres-the-latest-btc-transfer/",
-      "published_at": "2026-08-08T12:07:25+00:00",
+      "title": "ADA Jumps 18% Weekly While Major Alts Sleep: Is $0.30 Cardano Price Next?",
+      "link": "https://cryptopotato.com/ada-jumps-18-weekly-while-major-alts-sleep-is-0-30-cardano-price-next/",
+      "published_at": "2026-08-08T14:23:52+00:00",
       "source": "cryptopotato.com",
       "score": 1,
-      "ntitle": "bhutan resumes bitcoin selling spree here s latest btc transfer",
+      "ntitle": "ada jumps 18 weekly while major alts sleep 0 30 cardano price next",
       "coins": [
-        "BTC"
+        "ADA"
       ],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "CLARITY Act is finally headed for a 60-vote Senate showdown in September",
-      "link": "https://cryptoslate.com/clarity-act-is-finally-headed-for-a-60-vote-senate-showdown-in-september/",
-      "published_at": "2026-08-08T13:35:56+00:00",
+      "title": "This $1.5 billion hack is exposing just how ‘irreversible’ stolen crypto really is",
+      "link": "https://cryptoslate.com/this-1-5-billion-hack-is-exposing-just-how-irreversible-stolen-crypto-really-is/",
+      "published_at": "2026-08-08T14:10:51+00:00",
       "source": "cryptoslate.com",
-      "score": 1,
-      "ntitle": "clarity act finally headed 60 vote senate showdown september",
+      "score": 2,
+      "ntitle": "this 1 5 billion hack exposing just how irreversible stolen crypto really",
       "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Congress"
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Hedge Fund Situational Awareness Commits $500,000,000 to Source Foundry Chip Startup",
@@ -787,16 +741,16 @@
       "agency": null
     },
     {
-      "title": "Trump Media Abandons Crypto Treasury, Prediction Market Ventures",
-      "link": "https://decrypt.co/375166/trump-media-abandons-crypto-treasury-prediction-market",
-      "published_at": "2026-08-07T21:05:59+00:00",
+      "title": "Robinhood Crypto Chief Explains Why There Are 'Two Wolves' Inside Robinhood Chain",
+      "link": "https://decrypt.co/375158/robinhood-crypto-two-wolves-robinhood-chain-rwa-meme-coins",
+      "published_at": "2026-08-08T14:01:05+00:00",
       "source": "decrypt.co",
-      "score": 3,
-      "ntitle": "trump media abandons crypto treasury prediction market ventures",
+      "score": 2,
+      "ntitle": "robinhood crypto chief explains why there two wolves inside robinhood chain",
       "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Treasury"
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc.",
@@ -927,18 +881,6 @@
       "agency": null
     },
     {
-      "title": "MetaMask Launches Agent Wallets",
-      "link": "https://www.bankless.com/read/news/metamask-launches-agent-wallets",
-      "published_at": "2026-08-06T19:36:06+00:00",
-      "source": "bankless.com",
-      "score": 6,
-      "ntitle": "metamask launches agent wallets",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
       "title": "Can XRP Hold Above $1 in August 2026?",
       "link": "https://beincrypto.com/xrp-price-dollar-support-risk/",
       "published_at": "2026-08-08T12:10:08+00:00",
@@ -949,6 +891,44 @@
         "XRP"
       ],
       "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "XRP Ledger Sponsored Fees Proposal Could Make XRP Less Visible To Some Users",
+      "link": "https://bitcoinist.com/xrp-ledger-sponsored-fees-proposal-could-make-xrp-less-visible-to-some-users/",
+      "published_at": "2026-08-03T09:00:00+00:00",
+      "source": "bitcoinist.com",
+      "score": 6,
+      "ntitle": "xrp ledger sponsored fees proposal could make xrp less visible some users",
+      "coins": [
+        "XRP"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Senators Cynthia Lummis and Angela Alsobrooks Say Bipartisan Work on Clarity Act Continues Despite Delays",
+      "link": "https://bitcoinmagazine.com/news/lummis-alsobrooks-work-on-clarity-act",
+      "published_at": "2026-08-07T20:42:33+00:00",
+      "source": "bitcoinmagazine.com",
+      "score": 2,
+      "ntitle": "senators cynthia lummis angela alsobrooks say bipartisan work clarity act continues despite delays",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": true,
+      "agency": "Congress"
+    },
+    {
+      "title": "LDO Price Prediction: Dead Weight at $0.29 — But a Short Squeeze Setup Is Quietly Forming",
+      "link": "https://Blockchain.News/news/20260808-price-prediction-ldo-dead-weight-at-029-but-a",
+      "published_at": "2026-08-08T09:46:21+00:00",
+      "source": "blockchain.news",
+      "score": 2,
+      "ntitle": "ldo price prediction dead weight 0 29 but short squeeze setup quietly forming",
+      "coins": [],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     }
@@ -967,38 +947,12 @@
       "agency": null
     },
     {
-      "title": "Inside Uniswap's Land Grab on Robinhood Chain",
-      "link": "https://www.bankless.com/inside-uniswaps-land-grab-on-robinhood-chain",
-      "published_at": "2026-07-31T19:32:13+00:00",
-      "source": "bankless.com",
-      "score": 3,
-      "ntitle": "inside uniswap s land grab robinhood chain",
-      "coins": [
-        "UNI"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
       "title": "The 2026 World Cup On-Chain: $20 Billion in Crypto Flows, From Bets to Tickets",
       "link": "https://www.chainalysis.com/blog/2026-world-cup-prediction-markets-nft-tickets/",
       "published_at": "2026-07-30T16:00:30+00:00",
       "source": "chainalysis.com",
       "score": 1,
       "ntitle": "2026 world cup chain 20 billion crypto flows bets tickets",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "ERA Wallet Review: What the Keylabs Audit Actually Says",
-      "link": "https://coincodecap.com/era-wallet-review-what-the-keylabs-audit-actually-says?utm_source=rss&utm_medium=rss&utm_campaign=era-wallet-review-what-the-keylabs-audit-actually-says",
-      "published_at": "2026-07-27T15:24:21+00:00",
-      "source": "coincodecap.com",
-      "score": 3,
-      "ntitle": "era wallet review what keylabs audit actually says",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -1104,20 +1058,6 @@
       "agency": null
     },
     {
-      "title": "Ethereum Institutional Closes Ecosystem Funding Round With +100 Backers",
-      "link": "https://www.bankless.com/read/news/ethereum-institutional-closes-ecosystem-funding-round-with-100-backers",
-      "published_at": "2026-07-29T19:32:15+00:00",
-      "source": "bankless.com",
-      "score": 3,
-      "ntitle": "ethereum institutional closes ecosystem funding round 100 backers",
-      "coins": [
-        "ETH"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
       "title": "Monitoring Privacy Blockchains: How Compliance Teams Can Stay a Step Ahead",
       "link": "https://www.chainalysis.com/blog/privacy-blockchain-compliance/",
       "published_at": "2026-07-29T17:02:03+00:00",
@@ -1128,18 +1068,6 @@
       "sentiment": "bearish",
       "is_regulation": true,
       "agency": "Regulatory"
-    },
-    {
-      "title": "CFTC warns Prediction Market firms against blanket contract certifications",
-      "link": "https://coincodecap.com/cftc-warns-prediction-market-firms-against-blanket-contract-certifications?utm_source=rss&utm_medium=rss&utm_campaign=cftc-warns-prediction-market-firms-against-blanket-contract-certifications",
-      "published_at": "2026-07-27T04:14:27+00:00",
-      "source": "coincodecap.com",
-      "score": 3,
-      "ntitle": "cftc warns prediction market firms against blanket contract certifications",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": true,
-      "agency": "CFTC"
     },
     {
       "title": "Ethereum outperforms Bitcoin as Bitmine buys 9,946 ETH",
@@ -1210,10 +1138,10 @@
   "clusters": [
     {
       "id": 17,
-      "title": "Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins",
-      "link": "https://www.coindesk.com/tech/2026/08/07/frame-bitcoin-s-bip-110-enters-mandatory-signaling-with-less-than-3-miner-support",
-      "source": "coindesk.com",
-      "published_at": "2026-08-08T20:06:47+00:00",
+      "title": "BIP-110 Bitcoin branch stalls after two blocks as gap widens",
+      "link": "https://cointelegraph.com/news/bitcoin-bip-110-branch-stalls-miner-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "published_at": "2026-08-09T11:00:53+00:00",
       "sentiment": "neutral",
       "coins": [
         "BTC"
@@ -1222,14 +1150,8 @@
         "coindesk.com",
         "cointelegraph.com"
       ],
-      "count": 3,
+      "count": 2,
       "members": [
-        {
-          "title": "Controversial Bitcoin fork BIP-110 mines two blocks, then stops",
-          "link": "https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops",
-          "source": "coindesk.com",
-          "published_at": "2026-08-09T05:08:20+00:00"
-        },
         {
           "title": "BIP-110 Bitcoin branch stalls after two blocks as gap widens",
           "link": "https://cointelegraph.com/news/bitcoin-bip-110-branch-stalls-miner-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1237,10 +1159,10 @@
           "published_at": "2026-08-09T11:00:53+00:00"
         },
         {
-          "title": "Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins",
-          "link": "https://www.coindesk.com/tech/2026/08/07/frame-bitcoin-s-bip-110-enters-mandatory-signaling-with-less-than-3-miner-support",
+          "title": "Controversial Bitcoin fork BIP-110 mines two blocks, then stops",
+          "link": "https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops",
           "source": "coindesk.com",
-          "published_at": "2026-08-08T20:06:47+00:00"
+          "published_at": "2026-08-09T05:08:20+00:00"
         }
       ]
     }
@@ -1248,52 +1170,52 @@
   "trending": [
     {
       "tag": "#Ai",
-      "count": 66,
+      "count": 72,
       "type": "topic",
       "pct": 100
     },
     {
       "tag": "#XRP",
-      "count": 56,
+      "count": 57,
       "type": "coin",
-      "pct": 85
+      "pct": 79
     },
     {
       "tag": "#Xrp",
-      "count": 53,
+      "count": 54,
       "type": "topic",
-      "pct": 80
+      "pct": 75
     },
     {
       "tag": "#Defi",
-      "count": 37,
+      "count": 39,
       "type": "topic",
-      "pct": 56
+      "pct": 54
     },
     {
       "tag": "#Bitcoin",
-      "count": 26,
+      "count": 28,
       "type": "topic",
       "pct": 39
     },
     {
       "tag": "#BTC",
-      "count": 18,
+      "count": 22,
       "type": "coin",
-      "pct": 27
+      "pct": 31
+    },
+    {
+      "tag": "#Etf",
+      "count": 16,
+      "type": "topic",
+      "pct": 22
     },
     {
       "tag": "#ETH",
-      "count": 17,
+      "count": 13,
       "type": "coin",
-      "pct": 26
-    },
-    {
-      "tag": "#Ethereum",
-      "count": 16,
-      "type": "topic",
-      "pct": 24
+      "pct": 18
     }
   ],
-  "generated_at": "2026-08-09T13:57:20.117401+00:00"
+  "generated_at": "2026-08-09T14:25:06.496053+00:00"
 }
