@@ -2,6 +2,73 @@
   "x_breaking": [],
   "breaking": [
     {
+      "title": "BofA, JPMorgan, Oppenheimer Name Their 3 Favorite AI Stocks, One Has a $255 Target",
+      "link": "https://beincrypto.com/bofa-jpmorgan-oppenheimer-favorite-ai-stocks-targets/",
+      "published_at": "2026-08-09T20:53:20+00:00",
+      "source": "beincrypto.com",
+      "score": 4,
+      "ntitle": "bofa jpmorgan oppenheimer name their 3 favorite ai stocks one has 255 target",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Brazil mandates 24-hour delay on crypto transfers over $10K starting 2027",
+      "link": "https://cryptobriefing.com/brazil-crypto-transfer-delay-2027/",
+      "published_at": "2026-08-09T20:53:35+00:00",
+      "source": "cryptobriefing.com",
+      "score": 1,
+      "ntitle": "brazil mandates 24 hour delay crypto transfers over 10k starting 2027",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Crypto holders face an Aug 27 deadline to save 21 tokens before Kraken liquidates them into thin order books",
+      "link": "https://cryptoslate.com/crypto-holders-face-an-aug-27-deadline-to-save-21-tokens-before-kraken-liquidates-them-into-thin-order-books/",
+      "published_at": "2026-08-09T21:00:13+00:00",
+      "source": "cryptoslate.com",
+      "score": 2,
+      "ntitle": "crypto holders face aug 27 deadline save 21 tokens before kraken liquidates them into thin order books",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "BIP-110 Backers Plot Minority Chain’s PoW Reset to ‘Fire’ Bitcoin Miners",
+      "link": "https://news.bitcoin.com/crypto-news/bip-110-backers-plot-minority-chains-pow-reset-to-fire-bitcoin-miners/",
+      "published_at": "2026-08-09T21:03:53+00:00",
+      "source": "news.bitcoin.com",
+      "score": 1,
+      "ntitle": "bip 110 backers plot minority chain s pow reset fire bitcoin miners",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Pump.fun surpasses Hyperliquid in 30-day revenue as $PUMP rises 12%",
+      "link": "https://cryptobriefing.com/pump-fun-surpasses-hyperliquid-revenue/",
+      "published_at": "2026-08-09T20:51:54+00:00",
+      "source": "cryptobriefing.com",
+      "score": 1,
+      "ntitle": "pump fun surpasses hyperliquid 30 day revenue pump rises 12",
+      "coins": [
+        "HYPE",
+        "PUMP"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    }
+  ],
+  "day": [
+    {
       "title": "JPYC tops 2B Yen – Can USDC liquidity unlock its DeFi potential?",
       "link": "https://ambcrypto.com/jpyc-tops-2b-yen-can-usdc-liquidity-unlock-its-defi-potential/",
       "published_at": "2026-08-09T20:00:35+00:00",
@@ -10,62 +77,6 @@
       "ntitle": "jpyc tops 2b yen can usdc liquidity unlock defi potential",
       "coins": [],
       "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Hyperliquid reaches 263,419 active perpetual traders, commanding nearly 70% of on-chain perp activity",
-      "link": "https://cryptobriefing.com/hyperliquid-263k-active-perp-traders/",
-      "published_at": "2026-08-09T20:35:37+00:00",
-      "source": "cryptobriefing.com",
-      "score": 2,
-      "ntitle": "hyperliquid reaches 263 419 active perpetual traders commanding nearly 70 chain perp activity",
-      "coins": [
-        "HYPE"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "A proposed Ethereum upgrade threatens to kill native yield and force SharpLink’s $125M treasury into high-risk DeFi",
-      "link": "https://cryptoslate.com/a-proposed-ethereum-upgrade-threatens-to-kill-native-yield-and-force-sharplinks-125m-treasury-into-high-risk-defi/",
-      "published_at": "2026-08-09T20:00:07+00:00",
-      "source": "cryptoslate.com",
-      "score": 10,
-      "ntitle": "proposed ethereum upgrade threatens kill native yield force sharplink s 125m treasury into high risk defi",
-      "coins": [
-        "ETH"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Treasury"
-    },
-    {
-      "title": "Iran’s armed forces take control of Strait of Hormuz, lawmaker says",
-      "link": "https://cryptobriefing.com/iran-armed-forces-strait-of-hormuz-control/",
-      "published_at": "2026-08-09T20:03:07+00:00",
-      "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "iran s armed forces take control strait hormuz lawmaker says",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    }
-  ],
-  "day": [
-    {
-      "title": "Bitcoin’s $57K test – Could a liquidation reset spark BTC’s next rally?",
-      "link": "https://ambcrypto.com/bitcoins-57k-test-could-a-liquidation-reset-spark-btcs-next-rally/",
-      "published_at": "2026-08-09T18:00:24+00:00",
-      "source": "ambcrypto.com",
-      "score": 1,
-      "ntitle": "bitcoin s 57k test could liquidation reset spark btc s next rally",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -172,15 +183,13 @@
       "agency": null
     },
     {
-      "title": "Bitcoin ‘anti-spam’ fork halts after mining two blocks",
-      "link": "https://cryptobriefing.com/bitcoin-anti-spam-fork-halts-two-blocks/",
-      "published_at": "2026-08-09T19:40:38+00:00",
+      "title": "Iran’s armed forces take control of Strait of Hormuz, lawmaker says",
+      "link": "https://cryptobriefing.com/iran-armed-forces-strait-of-hormuz-control/",
+      "published_at": "2026-08-09T20:03:07+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "bitcoin anti spam fork halts after mining two blocks",
-      "coins": [
-        "BTC"
-      ],
+      "ntitle": "iran s armed forces take control strait hormuz lawmaker says",
+      "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
@@ -201,18 +210,18 @@
       "agency": null
     },
     {
-      "title": "A major Bitcoin miner burned through 357 BTC on secret compute deals while its output plummeted",
-      "link": "https://cryptoslate.com/a-major-bitcoin-miner-burned-through-357-btc-on-secret-compute-deals-while-its-output-plummeted/",
-      "published_at": "2026-08-09T19:00:46+00:00",
+      "title": "A proposed Ethereum upgrade threatens to kill native yield and force SharpLink’s $125M treasury into high-risk DeFi",
+      "link": "https://cryptoslate.com/a-proposed-ethereum-upgrade-threatens-to-kill-native-yield-and-force-sharplinks-125m-treasury-into-high-risk-defi/",
+      "published_at": "2026-08-09T20:00:07+00:00",
       "source": "cryptoslate.com",
-      "score": 4,
-      "ntitle": "major bitcoin miner burned through 357 btc secret compute deals while output plummeted",
+      "score": 10,
+      "ntitle": "proposed ethereum upgrade threatens kill native yield force sharplink s 125m treasury into high risk defi",
       "coins": [
-        "BTC"
+        "ETH"
       ],
       "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
+      "is_regulation": true,
+      "agency": "Treasury"
     },
     {
       "title": "Miami Man Drains $14,000,000 From Thousands of Victims in Check Fraud Scheme",
@@ -281,14 +290,14 @@
       "agency": null
     },
     {
-      "title": "Solana: How a 20x whale bet could raise liquidation risks for SOL",
-      "link": "https://ambcrypto.com/solana-how-a-20x-whale-bet-could-raise-liquidation-risks-for-sol/",
-      "published_at": "2026-08-09T16:00:47+00:00",
+      "title": "Bitcoin’s $57K test – Could a liquidation reset spark BTC’s next rally?",
+      "link": "https://ambcrypto.com/bitcoins-57k-test-could-a-liquidation-reset-spark-btcs-next-rally/",
+      "published_at": "2026-08-09T18:00:24+00:00",
       "source": "ambcrypto.com",
       "score": 1,
-      "ntitle": "solana how 20x whale bet could raise liquidation risks sol",
+      "ntitle": "bitcoin s 57k test could liquidation reset spark btc s next rally",
       "coins": [
-        "SOL"
+        "BTC"
       ],
       "sentiment": "bearish",
       "is_regulation": false,
@@ -391,18 +400,18 @@
       "agency": null
     },
     {
-      "title": "Senate advances CLARITY Act, Bitcoin price outlook slightly optimistic",
-      "link": "https://cryptobriefing.com/senate-advances-clarity-act-bitcoin-price-outlook-slightly-optimistic/",
-      "published_at": "2026-08-09T19:14:35+00:00",
+      "title": "Bitcoin ‘anti-spam’ fork halts after mining two blocks",
+      "link": "https://cryptobriefing.com/bitcoin-anti-spam-fork-halts-two-blocks/",
+      "published_at": "2026-08-09T19:40:38+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "senate advances clarity act bitcoin price outlook slightly optimistic",
+      "ntitle": "bitcoin anti spam fork halts after mining two blocks",
       "coins": [
         "BTC"
       ],
       "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Congress"
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Bitcoin Price Analysis: Here’s What the Charts Suggest for BTC Next Week",
@@ -419,14 +428,14 @@
       "agency": null
     },
     {
-      "title": "Investors poured $267 million into Bitwise’s Solana ETF, but market losses erased every cent",
-      "link": "https://cryptoslate.com/investors-poured-267-million-into-bitwises-solana-etf-but-market-losses-erased-every-cent/",
-      "published_at": "2026-08-09T18:00:50+00:00",
+      "title": "A major Bitcoin miner burned through 357 BTC on secret compute deals while its output plummeted",
+      "link": "https://cryptoslate.com/a-major-bitcoin-miner-burned-through-357-btc-on-secret-compute-deals-while-its-output-plummeted/",
+      "published_at": "2026-08-09T19:00:46+00:00",
       "source": "cryptoslate.com",
       "score": 4,
-      "ntitle": "investors poured 267 million into bitwise s solana etf but market losses erased every cent",
+      "ntitle": "major bitcoin miner burned through 357 btc secret compute deals while output plummeted",
       "coins": [
-        "SOL"
+        "BTC"
       ],
       "sentiment": "bearish",
       "is_regulation": false,
@@ -473,16 +482,16 @@
       "agency": null
     },
     {
-      "title": "SharpLink CEO Warns Against New Ethereum Network Proposal EIP-8363",
-      "link": "https://beincrypto.com/sharplink-ceo-warning-eip8363-ethereum-issuance-burn/",
-      "published_at": "2026-08-08T19:04:30+00:00",
-      "source": "beincrypto.com",
-      "score": 3,
-      "ntitle": "sharplink ceo warns against new ethereum network proposal eip 8363",
+      "title": "Breaking Down Ethereum's New Issuance Debate",
+      "link": "https://www.bankless.com/read/breaking-down-ethereums-new-issuance-debate",
+      "published_at": "2026-08-06T20:40:09+00:00",
+      "source": "bankless.com",
+      "score": 1,
+      "ntitle": "breaking down ethereum s new issuance debate",
       "coins": [
         "ETH"
       ],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -543,6 +552,18 @@
       "source": "cnbc.com",
       "score": 4,
       "ntitle": "iran sets conditions opening strait hormuz after uae says one ships was targeted airstrike",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Taiwan to roll out crypto travel rule for domestic transfers soon",
+      "link": "https://coincodecap.com/taiwan-to-roll-out-crypto-travel-rule-for-domestic-transfers-soon?utm_source=rss&utm_medium=rss&utm_campaign=taiwan-to-roll-out-crypto-travel-rule-for-domestic-transfers-soon",
+      "published_at": "2026-08-05T09:02:33+00:00",
+      "source": "coincodecap.com",
+      "score": 1,
+      "ntitle": "taiwan roll out crypto travel rule domestic transfers soon",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -615,16 +636,16 @@
       "agency": null
     },
     {
-      "title": "CLARITY Act Gets September 15 Senate Vote as Thune Forces the Issue",
-      "link": "https://cryptopotato.com/clarity-act-gets-september-15-senate-vote-as-thune-forces-the-issue/",
-      "published_at": "2026-08-08T19:23:10+00:00",
+      "title": "Scammers Pose as EU Regulators to Target Crypto Users Displaced by MiCA Deadline",
+      "link": "https://cryptopotato.com/scammers-pose-as-eu-regulators-to-target-crypto-users-displaced-by-mica-deadline/",
+      "published_at": "2026-08-08T21:06:05+00:00",
       "source": "cryptopotato.com",
-      "score": 1,
-      "ntitle": "clarity act gets september 15 senate vote thune forces issue",
+      "score": 2,
+      "ntitle": "scammers pose eu regulators target crypto users displaced mica deadline",
       "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Congress"
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Alleged Georgia Fraudster Drains $50,000 From Connecticut Business After Posing as Bank Employee",
@@ -781,6 +802,18 @@
       "agency": null
     },
     {
+      "title": "MetaMask Launches Agent Wallets",
+      "link": "https://www.bankless.com/read/news/metamask-launches-agent-wallets",
+      "published_at": "2026-08-06T19:36:06+00:00",
+      "source": "bankless.com",
+      "score": 6,
+      "ntitle": "metamask launches agent wallets",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
       "title": "XRP Ledger Sponsored Fees Proposal Could Make XRP Less Visible To Some Users",
       "link": "https://bitcoinist.com/xrp-ledger-sponsored-fees-proposal-could-make-xrp-less-visible-to-some-users/",
       "published_at": "2026-08-03T09:00:00+00:00",
@@ -819,30 +852,6 @@
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
-    },
-    {
-      "title": "Estimated $30 Million Stolen in Violent Crypto Attacks in 2026 as France Records Emerges as Hotspot",
-      "link": "https://www.chainalysis.com/blog/violent-crypto-wrench-attacks-2026/",
-      "published_at": "2026-08-06T12:00:41+00:00",
-      "source": "chainalysis.com",
-      "score": 2,
-      "ntitle": "estimated 30 million stolen violent crypto attacks 2026 france records emerges hotspot",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncertainty persists",
-      "link": "https://www.cnbc.com/2026/08/08/rate-uncertainty-sparking-demand-for-clo-exposure-among-etfs-vettafi.html",
-      "published_at": "2026-08-08T15:00:01+00:00",
-      "source": "cnbc.com",
-      "score": 4,
-      "ntitle": "next big push etf industry why these risk assets gaining traction interest rate uncertainty persists",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
     }
   ],
   "month": [
@@ -859,12 +868,38 @@
       "agency": null
     },
     {
+      "title": "Inside Uniswap's Land Grab on Robinhood Chain",
+      "link": "https://www.bankless.com/inside-uniswaps-land-grab-on-robinhood-chain",
+      "published_at": "2026-07-31T19:32:13+00:00",
+      "source": "bankless.com",
+      "score": 3,
+      "ntitle": "inside uniswap s land grab robinhood chain",
+      "coins": [
+        "UNI"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
       "title": "The 2026 World Cup On-Chain: $20 Billion in Crypto Flows, From Bets to Tickets",
       "link": "https://www.chainalysis.com/blog/2026-world-cup-prediction-markets-nft-tickets/",
       "published_at": "2026-07-30T16:00:30+00:00",
       "source": "chainalysis.com",
       "score": 1,
       "ntitle": "2026 world cup chain 20 billion crypto flows bets tickets",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "ERA Wallet Review: What the Keylabs Audit Actually Says",
+      "link": "https://coincodecap.com/era-wallet-review-what-the-keylabs-audit-actually-says?utm_source=rss&utm_medium=rss&utm_campaign=era-wallet-review-what-the-keylabs-audit-actually-says",
+      "published_at": "2026-07-27T15:24:21+00:00",
+      "source": "coincodecap.com",
+      "score": 3,
+      "ntitle": "era wallet review what keylabs audit actually says",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -970,6 +1005,20 @@
       "agency": null
     },
     {
+      "title": "Ethereum Institutional Closes Ecosystem Funding Round With +100 Backers",
+      "link": "https://www.bankless.com/read/news/ethereum-institutional-closes-ecosystem-funding-round-with-100-backers",
+      "published_at": "2026-07-29T19:32:15+00:00",
+      "source": "bankless.com",
+      "score": 3,
+      "ntitle": "ethereum institutional closes ecosystem funding round 100 backers",
+      "coins": [
+        "ETH"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
       "title": "Monitoring Privacy Blockchains: How Compliance Teams Can Stay a Step Ahead",
       "link": "https://www.chainalysis.com/blog/privacy-blockchain-compliance/",
       "published_at": "2026-07-29T17:02:03+00:00",
@@ -980,6 +1029,18 @@
       "sentiment": "bearish",
       "is_regulation": true,
       "agency": "Regulatory"
+    },
+    {
+      "title": "CFTC warns Prediction Market firms against blanket contract certifications",
+      "link": "https://coincodecap.com/cftc-warns-prediction-market-firms-against-blanket-contract-certifications?utm_source=rss&utm_medium=rss&utm_campaign=cftc-warns-prediction-market-firms-against-blanket-contract-certifications",
+      "published_at": "2026-07-27T04:14:27+00:00",
+      "source": "coincodecap.com",
+      "score": 3,
+      "ntitle": "cftc warns prediction market firms against blanket contract certifications",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": true,
+      "agency": "CFTC"
     },
     {
       "title": "Ethereum outperforms Bitcoin as Bitmine buys 9,946 ETH",
@@ -1049,7 +1110,7 @@
   ],
   "clusters": [
     {
-      "id": 11,
+      "id": 12,
       "title": "BIP-110 Bitcoin branch stalls after two blocks as gap widens",
       "link": "https://cointelegraph.com/news/bitcoin-bip-110-branch-stalls-miner-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "cointelegraph.com",
@@ -1059,9 +1120,9 @@
         "BTC"
       ],
       "sources": [
-        "cointelegraph.com",
         "crypto.news",
-        "cryptobriefing.com"
+        "cryptobriefing.com",
+        "cointelegraph.com"
       ],
       "count": 3,
       "members": [
@@ -1084,57 +1145,85 @@
           "published_at": "2026-08-09T19:40:38+00:00"
         }
       ]
+    },
+    {
+      "id": 1,
+      "title": "Brazil targets crypto fraud with up to 24-hour transfer hold",
+      "link": "https://cointelegraph.com/news/brazil-targets-crypto-fraud-with-up-to-24-hour-transfer-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "published_at": "2026-08-09T09:10:39+00:00",
+      "sentiment": "bearish",
+      "coins": [],
+      "sources": [
+        "cryptobriefing.com",
+        "cointelegraph.com"
+      ],
+      "count": 2,
+      "members": [
+        {
+          "title": "Brazil mandates 24-hour delay on crypto transfers over $10K starting 2027",
+          "link": "https://cryptobriefing.com/brazil-crypto-transfer-delay-2027/",
+          "source": "cryptobriefing.com",
+          "published_at": "2026-08-09T20:53:35+00:00"
+        },
+        {
+          "title": "Brazil targets crypto fraud with up to 24-hour transfer hold",
+          "link": "https://cointelegraph.com/news/brazil-targets-crypto-fraud-with-up-to-24-hour-transfer-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "cointelegraph.com",
+          "published_at": "2026-08-09T09:10:39+00:00"
+        }
+      ]
     }
   ],
   "trending": [
     {
       "tag": "#Ai",
-      "count": 69,
+      "count": 60,
       "type": "topic",
       "pct": 100
     },
     {
       "tag": "#XRP",
-      "count": 56,
+      "count": 57,
       "type": "coin",
-      "pct": 81
+      "pct": 95
     },
     {
       "tag": "#Xrp",
-      "count": 54,
+      "count": 55,
       "type": "topic",
-      "pct": 78
+      "pct": 92
     },
     {
       "tag": "#Defi",
-      "count": 46,
+      "count": 38,
       "type": "topic",
-      "pct": 67
+      "pct": 63
     },
     {
       "tag": "#Bitcoin",
-      "count": 29,
+      "count": 26,
       "type": "topic",
-      "pct": 42
+      "pct": 43
     },
     {
       "tag": "#BTC",
       "count": 22,
       "type": "coin",
-      "pct": 32
-    },
-    {
-      "tag": "#Etf",
-      "count": 14,
-      "type": "topic",
-      "pct": 20
+      "pct": 37
     },
     {
       "tag": "#ETH",
-      "count": 12,
+      "count": 17,
       "type": "coin",
-      "pct": 17
+      "pct": 28
+    },
+    {
+      "tag": "#Ethereum",
+      "count": 14,
+      "type": "topic",
+      "pct": 23
     }
   ],
-  "generated_at": "2026-08-09T20:44:22.046443+00:00"
+  "generated_at": "2026-08-09T21:08:47.932320+00:00"
 }
