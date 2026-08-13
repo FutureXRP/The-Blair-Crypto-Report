@@ -2,14 +2,30 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "Evaluating why CASHCAT’s 18% rally may still have room to run",
-      "link": "https://ambcrypto.com/evaluating-why-cashcats-18-rally-may-still-have-room-to-run/",
-      "published_at": "2026-08-13T22:00:34+00:00",
+      "title": "Chainlink struggles below $9 as flat volume indicators urge caution",
+      "link": "https://ambcrypto.com/chainlink-struggles-below-9-as-flat-volume-indicators-urge-caution/",
+      "published_at": "2026-08-13T23:30:31+00:00",
       "source": "ambcrypto.com",
+      "score": 5,
+      "ntitle": "chainlink struggles below 9 flat volume indicators urge caution",
+      "coins": [
+        "LINK"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "How Pokémon Cards Outpaced the S&P 500 and Bitcoin",
+      "link": "https://beincrypto.com/pokemon-cards-outperforming-sp500-bitcoin/",
+      "published_at": "2026-08-13T22:58:40+00:00",
+      "source": "beincrypto.com",
       "score": 1,
-      "ntitle": "evaluating why cashcat s 18 rally may still have room run",
-      "coins": [],
-      "sentiment": "bullish",
+      "ntitle": "how pok mon cards outpaced s p 500 bitcoin",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -28,16 +44,16 @@
       "agency": null
     },
     {
-      "title": "SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new date",
-      "link": "https://www.coindesk.com/policy/2026/08/13/sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-date",
-      "published_at": "2026-08-13T22:18:07+00:00",
+      "title": "U.S. SEC to again delay 'innovation exemption' for tokenization amid Wall Street, White House concerns",
+      "link": "https://www.coindesk.com/policy/2026/08/13/u-s-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-white-house-concerns",
+      "published_at": "2026-08-13T23:09:14+00:00",
       "source": "coindesk.com",
-      "score": 2,
-      "ntitle": "sec cancels long awaited proposal reg crypto postponing meeting without new date",
+      "score": 6,
+      "ntitle": "u s sec again delay innovation exemption tokenization amid wall street white house concerns",
       "coins": [],
       "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
+      "is_regulation": true,
+      "agency": "SEC"
     },
     {
       "title": "Fed rate pause was the right call, Goldman’s Kaplan says",
@@ -52,63 +68,41 @@
       "agency": null
     },
     {
-      "title": "BlackRock’s Rick Rieder says yen needs BOJ rate signals, not just intervention",
-      "link": "https://cryptobriefing.com/blackrock-rieder-yen-boj-rate-signals/",
-      "published_at": "2026-08-13T22:31:11+00:00",
+      "title": "US to implement unprecedented measures against Iran, escalating tensions",
+      "link": "https://cryptobriefing.com/us-to-implement-unprecedented-measures-against-iran-escalating-tensions/",
+      "published_at": "2026-08-13T23:36:08+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "blackrock s rick rieder says yen needs boj rate signals not just intervention",
+      "ntitle": "us implement unprecedented measures against iran escalating tensions",
       "coins": [],
-      "sentiment": "bearish",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Coinbase and 14 other x402 facilitators failed security tests built for the coming AI-agent economy",
-      "link": "https://cryptoslate.com/coinbase-and-14-other-x402-facilitators-failed-security-tests-built-for-the-coming-ai-agent-economy/",
-      "published_at": "2026-08-13T22:00:54+00:00",
+      "title": "Multicoin exits the $1.65 billion Solana treasury company it helped launch eight months ago",
+      "link": "https://cryptoslate.com/multicoin-exits-the-1-65-billion-solana-treasury-company-it-helped-launch-eight-months-ago/",
+      "published_at": "2026-08-13T23:20:17+00:00",
       "source": "cryptoslate.com",
-      "score": 2,
-      "ntitle": "coinbase 14 other x402 facilitators failed security tests built coming ai agent economy",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "'Bitcoin Is Burning': Red Team Turns to Chinese AI to Find Flaws",
-      "link": "https://decrypt.co/375609/bitcoin-burning-red-team-chinese-ai-kimi",
-      "published_at": "2026-08-13T22:36:07+00:00",
-      "source": "decrypt.co",
-      "score": 1,
-      "ntitle": "bitcoin burning red team turns chinese ai find flaws",
+      "score": 6,
+      "ntitle": "multicoin exits 1 65 billion solana treasury company it helped launch eight months ago",
       "coins": [
-        "BTC"
+        "SOL"
       ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "MyEtherWallet (MEW) Integrates Ondo Perps, Unlocking 24/7 Leveraged Trading for Onchain Equities, & ETFs.",
-      "link": "https://www.investing.com/news/cryptocurrency-news/myetherwallet-mew-integrates-ondo-perps-unlocking-247-leveraged-trading-for-onchain-equities--etfs-4859505",
-      "published_at": "2026-08-13T22:30:35+00:00",
-      "source": "investing.com",
-      "score": 10,
-      "ntitle": "myetherwallet mew integrates ondo perps unlocking 24 7 leveraged trading onchain equities etfs",
-      "coins": [],
       "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
+      "is_regulation": true,
+      "agency": "Treasury"
     },
     {
-      "title": "French Couple Moves to Sell Home After 3 Crypto-Linked Invasions",
-      "link": "https://news.bitcoin.com/crypto-news/french-couple-moves-to-sell-home-after-3-crypto-linked-invasions/",
-      "published_at": "2026-08-13T22:32:36+00:00",
+      "title": "XRP Price Shift Reworks Evernorth Shares Before Its Nasdaq Debut",
+      "link": "https://news.bitcoin.com/featured/xrp-price-shift-reworks-evernorth-shares-before-its-nasdaq-debut/",
+      "published_at": "2026-08-13T23:30:09+00:00",
       "source": "news.bitcoin.com",
-      "score": 3,
-      "ntitle": "french couple moves sell home after 3 crypto linked invasions",
-      "coins": [],
+      "score": 8,
+      "ntitle": "xrp price shift reworks evernorth shares before nasdaq debut",
+      "coins": [
+        "XRP"
+      ],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
@@ -128,6 +122,32 @@
       "agency": null
     },
     {
+      "title": "Uniswap’s RWA volume hits 2.5B – ‘Crazy to see it happening after all these years’",
+      "link": "https://ambcrypto.com/uniswaps-rwa-volume-hits-2-5b-crazy-to-see-it-happening-after-all-these-years/",
+      "published_at": "2026-08-13T23:00:47+00:00",
+      "source": "ambcrypto.com",
+      "score": 6,
+      "ntitle": "uniswap s rwa volume hits 2 5b crazy see it happening after all these years",
+      "coins": [
+        "UNI"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Reddit Stock Pops 11% on S&P 500 Inclusion Despite Google AI Traffic Concerns",
+      "link": "https://beincrypto.com/reddit-sp-500-inclusion-google-ai/",
+      "published_at": "2026-08-13T22:55:17+00:00",
+      "source": "beincrypto.com",
+      "score": 1,
+      "ntitle": "reddit stock pops 11 s p 500 inclusion despite google ai traffic concerns",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
       "title": "SEC Crypto Meeting Canceled as Token Exemption Vote Faces Delay",
       "link": "https://blockonomi.com/sec-crypto-meeting-canceled-as-token-exemption-vote-faces-delay/",
       "published_at": "2026-08-13T22:40:01+00:00",
@@ -140,24 +160,12 @@
       "agency": null
     },
     {
-      "title": "Fed July rate hold was ‘absolutely’ right, Kaplan says",
-      "link": "https://crypto.news/fed-july-rate-hold-was-absolutely-right-kaplan-says/",
-      "published_at": "2026-08-13T22:01:57+00:00",
-      "source": "crypto.news",
-      "score": 1,
-      "ntitle": "fed july rate hold was absolutely right kaplan says",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "US producer prices unchanged in July, dimming rate hike odds",
-      "link": "https://cryptobriefing.com/us-producer-prices-unchanged-july-rate-hike-odds/",
-      "published_at": "2026-08-13T22:14:42+00:00",
+      "title": "UAE reports Iran attacked ADNOC vessel with missile in Strait of Hormuz",
+      "link": "https://cryptobriefing.com/uae-iran-adnoc-vessels-strait-hormuz/",
+      "published_at": "2026-08-13T23:35:52+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "us producer prices unchanged july dimming rate hike odds",
+      "ntitle": "uae reports iran attacked adnoc vessel missile strait hormuz",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -166,16 +174,14 @@
   ],
   "day": [
     {
-      "title": "Polkadot price loses $0.80 as Grayscale withdraws DOT ETF plan",
-      "link": "https://ambcrypto.com/polkadot-price-loses-0-80-as-grayscale-withdraws-dot-etf-plan/",
-      "published_at": "2026-08-13T20:46:28+00:00",
+      "title": "Evaluating why CASHCAT’s 18% rally may still have room to run",
+      "link": "https://ambcrypto.com/evaluating-why-cashcats-18-rally-may-still-have-room-to-run/",
+      "published_at": "2026-08-13T22:00:34+00:00",
       "source": "ambcrypto.com",
-      "score": 0,
-      "ntitle": "polkadot price loses 0 80 grayscale withdraws dot etf plan",
-      "coins": [
-        "DOT"
-      ],
-      "sentiment": "bearish",
+      "score": 1,
+      "ntitle": "evaluating why cashcat s 18 rally may still have room run",
+      "coins": [],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -234,14 +240,14 @@
       "agency": null
     },
     {
-      "title": "Eco Wave Power Global (WAVE) Stock: Porto Breakwater Repairs Begin, CEO to Meet APDL in August",
-      "link": "https://blockonomi.com/eco-wave-power-global-wave-stock-porto-breakwater-repairs-begin-ceo-to-meet-apdl-in-august/",
-      "published_at": "2026-08-13T18:58:35+00:00",
+      "title": "Trezor Data Breach: ShipMonk Hack Exposes 13,700 Customer Records",
+      "link": "https://blockonomi.com/trezor-data-breach-shipmonk-hack-exposes-13700-customer-records/",
+      "published_at": "2026-08-13T22:18:07+00:00",
       "source": "blockonomi.com",
-      "score": 2,
-      "ntitle": "eco wave power global wave stock porto breakwater repairs begin ceo meet apdl august",
+      "score": 3,
+      "ntitle": "trezor data breach shipmonk hack exposes 13 700 customer records",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -270,12 +276,12 @@
       "agency": null
     },
     {
-      "title": "Tether says it completed long-promised 'Big Four' audit of finances behind $180 billion USDT stablecoin",
-      "link": "https://www.coindesk.com/business/2026/08/13/tether-says-it-completed-long-promised-big-four-audit-of-finances-behind-usd180-billion-usdt-stablecoin",
-      "published_at": "2026-08-13T18:26:21+00:00",
+      "title": "SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new date",
+      "link": "https://www.coindesk.com/policy/2026/08/13/sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-date",
+      "published_at": "2026-08-13T22:18:07+00:00",
       "source": "coindesk.com",
       "score": 2,
-      "ntitle": "tether says it completed long promised big four audit finances behind 180 billion usdt stablecoin",
+      "ntitle": "sec cancels long awaited proposal reg crypto postponing meeting without new date",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -320,26 +326,24 @@
       "agency": null
     },
     {
-      "title": "Ether.fi upgrades neobank with stocks and 4% loans",
-      "link": "https://crypto.news/ether-fi-upgrades-neobank-with-stocks-and-4-loans/",
-      "published_at": "2026-08-13T21:35:43+00:00",
+      "title": "Fed July rate hold was ‘absolutely’ right, Kaplan says",
+      "link": "https://crypto.news/fed-july-rate-hold-was-absolutely-right-kaplan-says/",
+      "published_at": "2026-08-13T22:01:57+00:00",
       "source": "crypto.news",
-      "score": 7,
-      "ntitle": "ether fi upgrades neobank stocks 4 loans",
-      "coins": [
-        "ETH"
-      ],
+      "score": 1,
+      "ntitle": "fed july rate hold was absolutely right kaplan says",
+      "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "US considers indefinite Iran naval blockade amid oil supply shortfall",
-      "link": "https://cryptobriefing.com/us-considers-indefinite-iran-naval-blockade-amid-oil-supply-shortfall/",
-      "published_at": "2026-08-13T22:00:00+00:00",
+      "title": "BlackRock’s Rick Rieder says yen needs BOJ rate signals, not just intervention",
+      "link": "https://cryptobriefing.com/blackrock-rieder-yen-boj-rate-signals/",
+      "published_at": "2026-08-13T22:31:11+00:00",
       "source": "cryptobriefing.com",
-      "score": 3,
-      "ntitle": "us considers indefinite iran naval blockade amid oil supply shortfall",
+      "score": 1,
+      "ntitle": "blackrock s rick rieder says yen needs boj rate signals not just intervention",
       "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
@@ -360,12 +364,12 @@
       "agency": null
     },
     {
-      "title": "DATA Foundation (ex-Story Protocol) keeps insider tokens locked past deadline with no new unlock date",
-      "link": "https://cryptoslate.com/data-foundation-ex-story-protocol-keeps-insider-tokens-locked-past-deadline-with-no-new-unlock-date/",
-      "published_at": "2026-08-13T20:40:39+00:00",
+      "title": "Coinbase and 14 other x402 facilitators failed security tests built for the coming AI-agent economy",
+      "link": "https://cryptoslate.com/coinbase-and-14-other-x402-facilitators-failed-security-tests-built-for-the-coming-ai-agent-economy/",
+      "published_at": "2026-08-13T22:00:54+00:00",
       "source": "cryptoslate.com",
       "score": 2,
-      "ntitle": "data foundation ex story protocol keeps insider tokens locked past deadline no new unlock date",
+      "ntitle": "coinbase 14 other x402 facilitators failed security tests built coming ai agent economy",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -384,14 +388,16 @@
       "agency": null
     },
     {
-      "title": "Anthropic's AI Agents Started a Virtual War. The Chat Logs Are Unhinged",
-      "link": "https://decrypt.co/375596/anthropic-ai-agents-virtual-war-quotes-unhinged",
-      "published_at": "2026-08-13T21:45:04+00:00",
+      "title": "'Bitcoin Is Burning': Red Team Turns to Chinese AI to Find Flaws",
+      "link": "https://decrypt.co/375609/bitcoin-burning-red-team-chinese-ai-kimi",
+      "published_at": "2026-08-13T22:36:07+00:00",
       "source": "decrypt.co",
       "score": 1,
-      "ntitle": "anthropic s ai agents started virtual war chat logs unhinged",
-      "coins": [],
-      "sentiment": "neutral",
+      "ntitle": "bitcoin burning red team turns chinese ai find flaws",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -420,26 +426,24 @@
       "agency": null
     },
     {
-      "title": "Bitcoin flat at around $63.4k as reduced rate hike bets  provide little support",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-64k-as-inline-us-cpi-provides-little-support-4856758",
-      "published_at": "2026-08-13T21:14:05+00:00",
+      "title": "MyEtherWallet (MEW) Integrates Ondo Perps, Unlocking 24/7 Leveraged Trading for Onchain Equities, & ETFs.",
+      "link": "https://www.investing.com/news/cryptocurrency-news/myetherwallet-mew-integrates-ondo-perps-unlocking-247-leveraged-trading-for-onchain-equities--etfs-4859505",
+      "published_at": "2026-08-13T22:30:35+00:00",
       "source": "investing.com",
-      "score": 1,
-      "ntitle": "bitcoin flat around 63 4k reduced rate hike bets provide little support",
-      "coins": [
-        "BTC"
-      ],
+      "score": 10,
+      "ntitle": "myetherwallet mew integrates ondo perps unlocking 24 7 leveraged trading onchain equities etfs",
+      "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "He Went House-Hunting Saturday, Then Won $1M on His Porch Sunday",
-      "link": "https://news.bitcoin.com/igaming/he-went-house-hunting-saturday-then-won-1m-on-his-porch-sunday/",
-      "published_at": "2026-08-13T21:51:32+00:00",
+      "title": "French Couple Moves to Sell Home After 3 Crypto-Linked Invasions",
+      "link": "https://news.bitcoin.com/crypto-news/french-couple-moves-to-sell-home-after-3-crypto-linked-invasions/",
+      "published_at": "2026-08-13T22:32:36+00:00",
       "source": "news.bitcoin.com",
-      "score": 1,
-      "ntitle": "he went house hunting saturday then won 1m his porch sunday",
+      "score": 3,
+      "ntitle": "french couple moves sell home after 3 crypto linked invasions",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -506,16 +510,16 @@
       "agency": null
     },
     {
-      "title": "Bitcoin miner stocks rally in 2026 – How AI infrastructure reshaped BTC’s outlook",
-      "link": "https://ambcrypto.com/bitcoin-miner-stocks-rally-in-2026-how-ai-infrastructure-reshaped-btcs-outlook/",
-      "published_at": "2026-08-13T20:00:09+00:00",
+      "title": "Polkadot price loses $0.80 as Grayscale withdraws DOT ETF plan",
+      "link": "https://ambcrypto.com/polkadot-price-loses-0-80-as-grayscale-withdraws-dot-etf-plan/",
+      "published_at": "2026-08-13T20:46:28+00:00",
       "source": "ambcrypto.com",
-      "score": 2,
-      "ntitle": "bitcoin miner stocks rally 2026 how ai infrastructure reshaped btc s outlook",
+      "score": 0,
+      "ntitle": "polkadot price loses 0 80 grayscale withdraws dot etf plan",
       "coins": [
-        "BTC"
+        "DOT"
       ],
-      "sentiment": "bullish",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -650,16 +654,16 @@
       "agency": "CFTC"
     },
     {
-      "title": "Securitize falls 20% after earnings miss as tokenization revenue falls short",
-      "link": "https://www.coindesk.com/markets/2026/08/12/securitize-falls-20-after-earnings-miss-as-tokenization-revenue-falls-short",
-      "published_at": "2026-08-12T22:26:24+00:00",
+      "title": "Prediction markets should dial back faulty filings for incentives to boost trading: CFTC",
+      "link": "https://www.coindesk.com/policy/2026/08/12/prediction-markets-should-dial-back-faulty-filings-for-incentives-to-boost-trading-cftc",
+      "published_at": "2026-08-12T23:16:53+00:00",
       "source": "coindesk.com",
-      "score": 5,
-      "ntitle": "securitize falls 20 after earnings miss tokenization revenue falls short",
+      "score": 2,
+      "ntitle": "prediction markets should dial back faulty filings incentives boost trading cftc",
       "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "CFTC"
     },
     {
       "title": "Uniswap slides 9% as weak retail demand threatens key support",
@@ -923,12 +927,12 @@
       "agency": null
     },
     {
-      "title": "Morgan Stanley's infrastructure partner Zerohash rebuffed in pitch to be U.S. trust bank",
-      "link": "https://www.coindesk.com/policy/2026/08/12/morgan-stanley-s-infrastructure-partner-zerohash-rebuffed-in-pitch-to-be-u-s-trust-bank",
-      "published_at": "2026-08-12T22:11:09+00:00",
+      "title": "Securitize falls 20% after earnings miss as tokenization revenue falls short",
+      "link": "https://www.coindesk.com/markets/2026/08/12/securitize-falls-20-after-earnings-miss-as-tokenization-revenue-falls-short",
+      "published_at": "2026-08-12T22:26:24+00:00",
       "source": "coindesk.com",
-      "score": 4,
-      "ntitle": "morgan stanley s infrastructure partner zerohash rebuffed pitch be u s trust bank",
+      "score": 5,
+      "ntitle": "securitize falls 20 after earnings miss tokenization revenue falls short",
       "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
@@ -1123,7 +1127,7 @@
   ],
   "clusters": [
     {
-      "id": 3,
+      "id": 4,
       "title": "Fed rate pause was the right call, Goldman’s Kaplan says",
       "link": "https://crypto.news/fed-rate-pause-the-right-call-goldmans-kaplan-says/",
       "source": "crypto.news",
@@ -1171,9 +1175,9 @@
     },
     {
       "tag": "#Defi",
-      "count": 37,
+      "count": 36,
       "type": "topic",
-      "pct": 60
+      "pct": 58
     },
     {
       "tag": "#BTC",
@@ -1183,9 +1187,9 @@
     },
     {
       "tag": "#Bitcoin",
-      "count": 22,
+      "count": 23,
       "type": "topic",
-      "pct": 35
+      "pct": 37
     },
     {
       "tag": "#ETH",
@@ -1200,5 +1204,5 @@
       "pct": 24
     }
   ],
-  "generated_at": "2026-08-13T23:00:04.945369+00:00"
+  "generated_at": "2026-08-13T23:39:59.705453+00:00"
 }
