@@ -16,7 +16,7 @@
     {
       "title": "Trump family-backed crypto firm World Liberty gets conditional bank charter approval",
       "link": "https://www.cnbc.com/2026/08/14/world-liberty-trump-occ-bank-charter-stablecoin.html",
-      "published_at": "2026-08-14T22:36:37+00:00",
+      "published_at": "2026-08-14T23:41:50+00:00",
       "source": "cnbc.com",
       "score": 6,
       "ntitle": "trump family backed crypto firm world liberty gets conditional bank charter approval",
@@ -26,14 +26,40 @@
       "agency": "Regulatory"
     },
     {
-      "title": "Hedge funds reduce bearish bets against yen after US-Japan intervention",
-      "link": "https://cryptobriefing.com/hedge-funds-reduce-yen-bearish-bets-intervention/",
-      "published_at": "2026-08-14T23:15:42+00:00",
-      "source": "cryptobriefing.com",
+      "title": "Trump expected to attend White House meeting with crypto CEOs, sources say",
+      "link": "https://www.coindesk.com/policy/2026/08/14/trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say",
+      "published_at": "2026-08-14T23:41:49+00:00",
+      "source": "coindesk.com",
       "score": 1,
-      "ntitle": "hedge funds reduce bearish bets against yen after us japan intervention",
+      "ntitle": "trump expected attend white house meeting crypto ceos sources say",
       "coins": [],
       "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "US SEC extends hands-off policy on shareholder proposals, raising governance concerns",
+      "link": "https://cryptobriefing.com/sec-shareholder-proposals-policy-concerns/",
+      "published_at": "2026-08-14T23:39:26+00:00",
+      "source": "cryptobriefing.com",
+      "score": 4,
+      "ntitle": "us sec extends hands off policy shareholder proposals raising governance concerns",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "SEC"
+    },
+    {
+      "title": "Ethereum abandons its 8-year cryptography bet after proof systems flip the tradeoff",
+      "link": "https://cryptoslate.com/ethereum-abandons-its-8-year-cryptography-bet-after-proof-systems-flip-the-tradeoff/",
+      "published_at": "2026-08-14T23:40:53+00:00",
+      "source": "cryptoslate.com",
+      "score": 2,
+      "ntitle": "ethereum abandons 8 year cryptography bet after proof systems flip tradeoff",
+      "coins": [
+        "ETH"
+      ],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -62,14 +88,14 @@
       "agency": null
     },
     {
-      "title": "Anthropic in talks to acquire Decart AI for $6B: Bloomberg",
-      "link": "https://cryptobriefing.com/anthropic-in-talks-to-acquire-decart-ai-for-6b-bloomberg/",
-      "published_at": "2026-08-14T23:11:36+00:00",
+      "title": "Nvidia scales back financial guarantee to under $120B for OpenAI data center project",
+      "link": "https://cryptobriefing.com/nvidia-reduces-guarantee-openai-data-center/",
+      "published_at": "2026-08-14T23:37:25+00:00",
       "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "anthropic talks acquire decart ai 6b bloomberg",
+      "score": 2,
+      "ntitle": "nvidia scales back financial guarantee under 120b openai data center project",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     }
@@ -97,6 +123,18 @@
       "coins": [
         "BTC"
       ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "EtherFi's Bet Against Crypto's Casino Economy",
+      "link": "https://www.bankless.com/read/etherfis-bet-against-cryptos-casino-economy",
+      "published_at": "2026-08-14T18:56:29+00:00",
+      "source": "bankless.com",
+      "score": 3,
+      "ntitle": "etherfi s bet against crypto s casino economy",
+      "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
@@ -258,6 +296,20 @@
       "agency": null
     },
     {
+      "title": "XRP Ledger’s XAO DAO Plans Major Governance Upgrades to Boost Community Participation",
+      "link": "https://cryptopotato.com/xrp-ledgers-xao-dao-plans-major-governance-upgrades-to-boost-community-participation/",
+      "published_at": "2026-08-14T21:38:26+00:00",
+      "source": "cryptopotato.com",
+      "score": 9,
+      "ntitle": "xrp ledger s xao dao plans major governance upgrades boost community participation",
+      "coins": [
+        "XRP"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
       "title": "Prediction markets are becoming financial data, but a 63% price does not always mean 63% odds",
       "link": "https://cryptoslate.com/prediction-markets-are-becoming-financial-data-but-a-63-price-does-not-always-mean-63-odds/",
       "published_at": "2026-08-14T22:30:03+00:00",
@@ -374,6 +426,18 @@
       "agency": null
     },
     {
+      "title": "SEC Delays Vote on Crypto Fundraising Rules",
+      "link": "https://www.bankless.com/read/news/sec-delays-vote-on-crypto-fundraising-rules",
+      "published_at": "2026-08-14T16:03:17+00:00",
+      "source": "bankless.com",
+      "score": 1,
+      "ntitle": "sec delays vote crypto fundraising rules",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
       "title": "World Liberty Wins Bank Charter From Trump-Appointed Regulator for $4 Billion Stablecoin",
       "link": "https://beincrypto.com/world-liberty-occ-bank-charter-usd1/",
       "published_at": "2026-08-14T21:09:59+00:00",
@@ -422,44 +486,6 @@
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
-    },
-    {
-      "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
-      "link": "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
-      "published_at": "2026-08-14T19:07:11+00:00",
-      "source": "cnbc.com",
-      "score": 1,
-      "ntitle": "openai talent exodus raises huge red flag ahead ipo",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Tokenization stocks slip as SEC delay puts 'speed bump' in crypto’s Wall Street push",
-      "link": "https://www.coindesk.com/markets/2026/08/14/tokenization-stocks-slip-as-sec-delay-puts-speed-bump-in-crypto-s-wall-street-push",
-      "published_at": "2026-08-14T17:48:04+00:00",
-      "source": "coindesk.com",
-      "score": 6,
-      "ntitle": "tokenization stocks slip sec delay puts speed bump crypto s wall street push",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "SEC"
-    },
-    {
-      "title": "Coinbase, Ripple Executives Expected at White House Crypto Meeting With Trump, Officials",
-      "link": "https://coingape.com/coinbase-ripple-executives-expected-at-white-house-crypto-meeting-with-trump-officials/",
-      "published_at": "2026-08-14T20:04:47+00:00",
-      "source": "coingape.com",
-      "score": 4,
-      "ntitle": "coinbase ripple executives expected white house crypto meeting trump officials",
-      "coins": [
-        "XRP"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
     }
   ],
   "week": [
@@ -484,6 +510,20 @@
       "ntitle": "520 spacex s first earnings call included several key takeaways amp more",
       "coins": [],
       "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Justin Drake: The EF Is Moving Away From Poseidon for Ethereum L1",
+      "link": "https://www.bankless.com/read/news/justin-drake-the-ef-is-moving-away-from-poseidon-for-ethereum-l1",
+      "published_at": "2026-08-13T18:44:42+00:00",
+      "source": "bankless.com",
+      "score": 1,
+      "ntitle": "justin drake ef moving away poseidon ethereum l1",
+      "coins": [
+        "ETH"
+      ],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -554,6 +594,18 @@
       "agency": null
     },
     {
+      "title": "Rizon Review: A Stablecoin Card With Real Fine Print",
+      "link": "https://coincodecap.com/rizon-review?utm_source=rss&utm_medium=rss&utm_campaign=rizon-review",
+      "published_at": "2026-08-13T15:52:48+00:00",
+      "source": "coincodecap.com",
+      "score": 3,
+      "ntitle": "rizon review stablecoin card real fine print",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
       "title": "U.S. SEC to again delay 'innovation exemption' for tokenization amid Wall Street, White House concerns",
       "link": "https://www.coindesk.com/policy/2026/08/13/u-s-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-white-house-concerns",
       "published_at": "2026-08-13T23:09:14+00:00",
@@ -580,14 +632,30 @@
       "agency": null
     },
     {
-      "title": "City of Baltimore goes after prediction markets for sports betting",
-      "link": "https://cointelegraph.com/news/baltimore-lawsuit-prediction-markets-kalshi-polymarket-sports-betting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-08-13T21:08:23+00:00",
+      "title": "Ethereum Foundation pivots away from Poseidon in post-quantum plan",
+      "link": "https://cointelegraph.com/news/ethereum-foundation-drops-poseidon-post-quantum-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-08-13T23:34:56+00:00",
       "source": "cointelegraph.com",
       "score": 1,
-      "ntitle": "city baltimore goes after prediction markets sports betting",
-      "coins": [],
-      "sentiment": "bullish",
+      "ntitle": "ethereum foundation pivots away poseidon post quantum plan",
+      "coins": [
+        "ETH"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Non-Custodial Bitcoin Bridge Boltz Shuts Down After AI-Assisted Attacks",
+      "link": "https://cryptopotato.com/non-custodial-bitcoin-bridge-boltz-shuts-down-after-ai-assisted-attacks/",
+      "published_at": "2026-08-13T21:58:44+00:00",
+      "source": "cryptopotato.com",
+      "score": 1,
+      "ntitle": "non custodial bitcoin bridge boltz shuts down after ai assisted attacks",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -744,6 +812,20 @@
       "agency": null
     },
     {
+      "title": "Gnosis Chain Just Made the First Move Toward the Ethereum Economic Zone",
+      "link": "https://www.bankless.com/read/gnosis-chain-just-made-the-first-move-toward-the-ethereum-economic-zone",
+      "published_at": "2026-08-12T19:27:24+00:00",
+      "source": "bankless.com",
+      "score": 1,
+      "ntitle": "gnosis chain just made first move toward ethereum economic zone",
+      "coins": [
+        "ETH"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
       "title": "Solana Rallies 7% After Breaking Multi-Week Downtrend",
       "link": "https://bitcoinist.com/solana-rallies-7-after-breaking-multi-week-downtrend/",
       "published_at": "2026-08-12T10:45:00+00:00",
@@ -782,68 +864,16 @@
       "agency": null
     },
     {
-      "title": "SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new date",
-      "link": "https://www.coindesk.com/policy/2026/08/13/sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-date",
-      "published_at": "2026-08-13T22:18:07+00:00",
-      "source": "coindesk.com",
-      "score": 2,
-      "ntitle": "sec cancels long awaited proposal reg crypto postponing meeting without new date",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Stellar’s XLM token slides below key moving averages",
-      "link": "https://coinjournal.net/news/stellars-xlm-token-slides-below-key-moving-averages/",
-      "published_at": "2026-08-13T11:44:26+00:00",
-      "source": "coinjournal.net",
-      "score": 8,
-      "ntitle": "stellar s xlm token slides below key moving averages",
-      "coins": [
-        "XLM"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Tether completes first full financial audit, receives clean KPMG opinion",
-      "link": "https://cointelegraph.com/news/tether-completes-first-full-financial-audit-receives-clean-kpmg-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-08-13T20:43:12+00:00",
-      "source": "cointelegraph.com",
+      "title": "SEC, CFTC sue Goliath Ventures founder over $400 Million crypto ponzi scheme",
+      "link": "https://coincodecap.com/sec-cftc-sue-goliath-ventures-founder-over-400-million-crypto-ponzi-scheme?utm_source=rss&utm_medium=rss&utm_campaign=sec-cftc-sue-goliath-ventures-founder-over-400-million-crypto-ponzi-scheme",
+      "published_at": "2026-08-12T00:46:45+00:00",
+      "source": "coincodecap.com",
       "score": 1,
-      "ntitle": "tether completes first full financial audit receives clean kpmg opinion",
+      "ntitle": "sec cftc sue goliath ventures founder over 400 million crypto ponzi scheme",
       "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "MoneyGram Ramps Go Live on Solana, Giving Builders One-API Access to Global Cash Network",
-      "link": "https://dailyhodl.com/2026/08/13/moneygram-ramps-go-live-on-solana-giving-builders-one-api-access-to-global-cash-network/",
-      "published_at": "2026-08-13T08:00:21+00:00",
-      "source": "dailyhodl.com",
-      "score": 2,
-      "ntitle": "moneygram ramps go live solana giving builders one api access global cash network",
-      "coins": [
-        "SOL"
-      ],
       "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Anthropic's AI Agents Started a Virtual War. The Chat Logs Are Unhinged",
-      "link": "https://decrypt.co/375596/anthropic-ai-agents-virtual-war-quotes-unhinged",
-      "published_at": "2026-08-13T21:45:04+00:00",
-      "source": "decrypt.co",
-      "score": 1,
-      "ntitle": "anthropic s ai agents started virtual war chat logs unhinged",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
+      "is_regulation": true,
+      "agency": "CFTC"
     }
   ],
   "month": [
@@ -860,6 +890,20 @@
       "agency": null
     },
     {
+      "title": "Breaking Down Ethereum's New Issuance Debate",
+      "link": "https://www.bankless.com/read/breaking-down-ethereums-new-issuance-debate",
+      "published_at": "2026-08-06T20:40:09+00:00",
+      "source": "bankless.com",
+      "score": 1,
+      "ntitle": "breaking down ethereum s new issuance debate",
+      "coins": [
+        "ETH"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
       "title": "Penlink Plugs Into Trusted Blockchain Data With Chainalysis",
       "link": "https://www.chainalysis.com/blog/penlink-integration-blockchain-intelligence-august-2026/",
       "published_at": "2026-08-06T14:22:56+00:00",
@@ -868,6 +912,18 @@
       "ntitle": "penlink plugs into trusted blockchain data chainalysis",
       "coins": [],
       "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Taiwan to roll out crypto travel rule for domestic transfers soon",
+      "link": "https://coincodecap.com/taiwan-to-roll-out-crypto-travel-rule-for-domestic-transfers-soon?utm_source=rss&utm_medium=rss&utm_campaign=taiwan-to-roll-out-crypto-travel-rule-for-domestic-transfers-soon",
+      "published_at": "2026-08-05T09:02:33+00:00",
+      "source": "coincodecap.com",
+      "score": 1,
+      "ntitle": "taiwan roll out crypto travel rule domestic transfers soon",
+      "coins": [],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -916,6 +972,18 @@
       "ntitle": "success story nyphen sanders learning journey 101 blockchains",
       "coins": [],
       "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "MetaMask Launches Agent Wallets",
+      "link": "https://www.bankless.com/read/news/metamask-launches-agent-wallets",
+      "published_at": "2026-08-06T19:36:06+00:00",
+      "source": "bankless.com",
+      "score": 6,
+      "ntitle": "metamask launches agent wallets",
+      "coins": [],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -976,13 +1044,13 @@
       "title": "Trump family-backed crypto firm World Liberty gets conditional bank charter approval",
       "link": "https://www.cnbc.com/2026/08/14/world-liberty-trump-occ-bank-charter-stablecoin.html",
       "source": "cnbc.com",
-      "published_at": "2026-08-14T22:36:37+00:00",
+      "published_at": "2026-08-14T23:41:50+00:00",
       "sentiment": "bullish",
       "coins": [],
       "sources": [
-        "beincrypto.com",
         "coingape.com",
         "coindesk.com",
+        "beincrypto.com",
         "cnbc.com"
       ],
       "count": 4,
@@ -991,7 +1059,7 @@
           "title": "Trump family-backed crypto firm World Liberty gets conditional bank charter approval",
           "link": "https://www.cnbc.com/2026/08/14/world-liberty-trump-occ-bank-charter-stablecoin.html",
           "source": "cnbc.com",
-          "published_at": "2026-08-14T22:36:37+00:00"
+          "published_at": "2026-08-14T23:41:50+00:00"
         },
         {
           "title": "Trump-backed World Liberty wins conditional bank charter from federal regulator",
@@ -1014,7 +1082,7 @@
       ]
     },
     {
-      "id": 16,
+      "id": 2,
       "title": "Coinbase, Ripple to join Aug. 19 White House crypto meeting",
       "link": "https://crypto.news/coinbase-ripple-to-join-white-house-crypto-meeting/",
       "source": "crypto.news",
@@ -1024,12 +1092,18 @@
         "XRP"
       ],
       "sources": [
-        "crypto.news",
         "u.today",
-        "coingape.com"
+        "crypto.news",
+        "coindesk.com"
       ],
       "count": 3,
       "members": [
+        {
+          "title": "Trump expected to attend White House meeting with crypto CEOs, sources say",
+          "link": "https://www.coindesk.com/policy/2026/08/14/trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say",
+          "source": "coindesk.com",
+          "published_at": "2026-08-14T23:41:49+00:00"
+        },
         {
           "title": "Coinbase, Ripple to join Aug. 19 White House crypto meeting",
           "link": "https://crypto.news/coinbase-ripple-to-join-white-house-crypto-meeting/",
@@ -1041,12 +1115,6 @@
           "link": "https://u.today/ripple-to-attend-major-white-house-meeting",
           "source": "u.today",
           "published_at": "2026-08-14T20:39:27+00:00"
-        },
-        {
-          "title": "Coinbase, Ripple Executives Expected at White House Crypto Meeting With Trump, Officials",
-          "link": "https://coingape.com/coinbase-ripple-executives-expected-at-white-house-crypto-meeting-with-trump-officials/",
-          "source": "coingape.com",
-          "published_at": "2026-08-14T20:04:47+00:00"
         }
       ]
     }
@@ -1054,52 +1122,52 @@
   "trending": [
     {
       "tag": "#Ai",
-      "count": 63,
+      "count": 64,
       "type": "topic",
       "pct": 100
     },
     {
-      "tag": "#Defi",
-      "count": 44,
-      "type": "topic",
-      "pct": 70
-    },
-    {
       "tag": "#XRP",
-      "count": 41,
+      "count": 47,
       "type": "coin",
-      "pct": 65
+      "pct": 73
     },
     {
       "tag": "#Xrp",
+      "count": 42,
+      "type": "topic",
+      "pct": 66
+    },
+    {
+      "tag": "#Defi",
       "count": 35,
       "type": "topic",
-      "pct": 56
+      "pct": 55
     },
     {
       "tag": "#Bitcoin",
       "count": 29,
       "type": "topic",
-      "pct": 46
+      "pct": 45
     },
     {
       "tag": "#BTC",
       "count": 27,
       "type": "coin",
-      "pct": 43
-    },
-    {
-      "tag": "#Etf",
-      "count": 16,
-      "type": "topic",
-      "pct": 25
+      "pct": 42
     },
     {
       "tag": "#ETH",
-      "count": 15,
+      "count": 19,
       "type": "coin",
-      "pct": 24
+      "pct": 30
+    },
+    {
+      "tag": "#Etf",
+      "count": 17,
+      "type": "topic",
+      "pct": 27
     }
   ],
-  "generated_at": "2026-08-14T23:33:31.418496+00:00"
+  "generated_at": "2026-08-14T23:51:36.838479+00:00"
 }
