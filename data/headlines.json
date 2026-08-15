@@ -2,6 +2,20 @@
   "x_breaking": [],
   "breaking": [
     {
+      "title": "Solana Company Q2 Loss Hits $30.3 Million as SOL Treasury Suffers",
+      "link": "https://beincrypto.com/solana-company-q2-loss-sol-writedowns/",
+      "published_at": "2026-08-15T16:13:59+00:00",
+      "source": "beincrypto.com",
+      "score": 3,
+      "ntitle": "solana company q2 loss hits 30 3 million sol treasury suffers",
+      "coins": [
+        "SOL"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "Treasury"
+    },
+    {
       "title": "Robot maker Unitree is going public. Hyperliquid traders see 4x upside from IPO price",
       "link": "https://www.coindesk.com/markets/2026/08/15/robot-maker-unitree-is-going-public-hyperliquid-traders-see-4x-upside-from-ipo-price",
       "published_at": "2026-08-15T16:00:00+00:00",
@@ -16,16 +30,14 @@
       "agency": null
     },
     {
-      "title": "Multicoin Capital invests over $100M in Hyperliquid’s HYPE token",
-      "link": "https://cryptobriefing.com/multicoin-capital-invests-over-100m-in-hyperliquids-hype-token/",
-      "published_at": "2026-08-15T16:04:16+00:00",
+      "title": "Warren Buffett’s Berkshire Hathaway nearly doubles its Alphabet stake with $17 billion Q2 buying spree",
+      "link": "https://cryptobriefing.com/buffett-berkshire-alphabet-stock-q2-2026/",
+      "published_at": "2026-08-15T16:48:14+00:00",
       "source": "cryptobriefing.com",
-      "score": 3,
-      "ntitle": "multicoin capital invests over 100m hyperliquid s hype token",
-      "coins": [
-        "HYPE"
-      ],
-      "sentiment": "bullish",
+      "score": 2,
+      "ntitle": "warren buffett s berkshire hathaway nearly doubles alphabet stake 17 billion q2 buying spree",
+      "coins": [],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -87,14 +99,14 @@
       "agency": null
     },
     {
-      "title": "US energy sector ETFs see $4B in outflows as investor sentiment flips after record year",
-      "link": "https://cryptobriefing.com/us-energy-etf-outflows-4-billion/",
-      "published_at": "2026-08-15T15:46:42+00:00",
+      "title": "Israeli strikes kill 11 in Lebanon two months into truce",
+      "link": "https://cryptobriefing.com/israeli-strikes-kill-11-lebanon-truce/",
+      "published_at": "2026-08-15T16:42:09+00:00",
       "source": "cryptobriefing.com",
-      "score": 4,
-      "ntitle": "us energy sector etfs see 4b outflows investor sentiment flips after record year",
+      "score": 1,
+      "ntitle": "israeli strikes kill 11 lebanon two months into truce",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     }
@@ -250,14 +262,14 @@
       "agency": null
     },
     {
-      "title": "DeFiLlama exposes scam app by deliberately letting it drain a wallet",
-      "link": "https://cryptobriefing.com/defillama-exposes-scam-app-wallet-drain/",
-      "published_at": "2026-08-15T15:29:00+00:00",
+      "title": "US energy sector ETFs see $4B in outflows as investor sentiment flips after record year",
+      "link": "https://cryptobriefing.com/us-energy-etf-outflows-4-billion/",
+      "published_at": "2026-08-15T15:46:42+00:00",
       "source": "cryptobriefing.com",
-      "score": 3,
-      "ntitle": "defillama exposes scam app deliberately letting it drain wallet",
+      "score": 4,
+      "ntitle": "us energy sector etfs see 4b outflows investor sentiment flips after record year",
       "coins": [],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -414,14 +426,16 @@
       "agency": null
     },
     {
-      "title": "TSLA Price Prediction: $396 Mean Target Is Alive, But the 50 SMA Is Playing Gatekeeper",
-      "link": "https://Blockchain.News/news/20260814-price-prediction-target-tsla-396-mean-is-alive-but-the",
-      "published_at": "2026-08-14T19:23:23+00:00",
+      "title": "TON Price Prediction: Coiling at $1.60 With a Loaded Spring — But the Bears Have the Edge",
+      "link": "https://Blockchain.News/news/20260815-price-prediction-ton-coiling-at-160-with-a-loaded",
+      "published_at": "2026-08-15T08:47:48+00:00",
       "source": "blockchain.news",
-      "score": 4,
-      "ntitle": "tsla price prediction 396 mean target alive but 50 sma playing gatekeeper",
-      "coins": [],
-      "sentiment": "bullish",
+      "score": 2,
+      "ntitle": "ton price prediction coiling 1 60 loaded spring but bears have edge",
+      "coins": [
+        "TON"
+      ],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -1062,7 +1076,7 @@
   "trending": [
     {
       "tag": "#Ai",
-      "count": 59,
+      "count": 61,
       "type": "topic",
       "pct": 100
     },
@@ -1070,44 +1084,44 @@
       "tag": "#XRP",
       "count": 48,
       "type": "coin",
-      "pct": 81
+      "pct": 79
     },
     {
       "tag": "#Xrp",
-      "count": 44,
+      "count": 43,
       "type": "topic",
-      "pct": 75
+      "pct": 70
     },
     {
       "tag": "#Defi",
       "count": 33,
       "type": "topic",
-      "pct": 56
-    },
-    {
-      "tag": "#BTC",
-      "count": 28,
-      "type": "coin",
-      "pct": 47
+      "pct": 54
     },
     {
       "tag": "#Bitcoin",
       "count": 28,
       "type": "topic",
-      "pct": 47
+      "pct": 46
     },
     {
-      "tag": "#ETH",
-      "count": 19,
+      "tag": "#BTC",
+      "count": 25,
       "type": "coin",
-      "pct": 32
+      "pct": 41
     },
     {
       "tag": "#Etf",
-      "count": 18,
+      "count": 19,
       "type": "topic",
       "pct": 31
+    },
+    {
+      "tag": "#ETH",
+      "count": 17,
+      "type": "coin",
+      "pct": 28
     }
   ],
-  "generated_at": "2026-08-15T16:36:33.906635+00:00"
+  "generated_at": "2026-08-15T16:55:19.958488+00:00"
 }
