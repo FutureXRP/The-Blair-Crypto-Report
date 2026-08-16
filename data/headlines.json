@@ -14,18 +14,16 @@
       "agency": null
     },
     {
-      "title": "Bitcoin (BTC) Scarcity Crisis: CZ Warns Millionaires May Be Priced Out of Whole Coins",
-      "link": "https://blockonomi.com/bitcoin-btc-scarcity-crisis-cz-warns-millionaires-may-be-priced-out-of-whole-coins/",
-      "published_at": "2026-08-16T05:36:36+00:00",
+      "title": "Bitget Enforces Sanctions on 16 Crypto Platforms While Adding 20+ US Stock Tokens",
+      "link": "https://blockonomi.com/bitget-enforces-sanctions-on-16-crypto-platforms-while-adding-20-us-stock-tokens/",
+      "published_at": "2026-08-16T05:42:30+00:00",
       "source": "blockonomi.com",
-      "score": 2,
-      "ntitle": "bitcoin btc scarcity crisis cz warns millionaires may be priced out whole coins",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
+      "score": 4,
+      "ntitle": "bitget enforces sanctions 16 crypto platforms while adding 20 us stock tokens",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": true,
+      "agency": "Regulatory"
     },
     {
       "title": "Malaysia emerges as key AI hub amid data centre boom",
@@ -83,13 +81,15 @@
       "agency": null
     },
     {
-      "title": "Bybit Introduces Pre-IPO Futures Trading for Unitree and Moonshot AI",
-      "link": "https://blockonomi.com/bybit-introduces-pre-ipo-futures-trading-for-unitree-and-moonshot-ai/",
-      "published_at": "2026-08-16T05:30:01+00:00",
+      "title": "Bitcoin (BTC) Scarcity Crisis: CZ Warns Millionaires May Be Priced Out of Whole Coins",
+      "link": "https://blockonomi.com/bitcoin-btc-scarcity-crisis-cz-warns-millionaires-may-be-priced-out-of-whole-coins/",
+      "published_at": "2026-08-16T05:36:36+00:00",
       "source": "blockonomi.com",
-      "score": 3,
-      "ntitle": "bybit introduces pre ipo futures trading unitree moonshot ai",
-      "coins": [],
+      "score": 2,
+      "ntitle": "bitcoin btc scarcity crisis cz warns millionaires may be priced out whole coins",
+      "coins": [
+        "BTC"
+      ],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
@@ -1074,40 +1074,11 @@
       "agency": null
     }
   ],
-  "clusters": [
-    {
-      "id": 6,
-      "title": "Bybit Introduces Pre-IPO Futures Trading for Unitree and Moonshot AI",
-      "link": "https://blockonomi.com/bybit-introduces-pre-ipo-futures-trading-for-unitree-and-moonshot-ai/",
-      "source": "blockonomi.com",
-      "published_at": "2026-08-16T05:30:01+00:00",
-      "sentiment": "bearish",
-      "coins": [],
-      "sources": [
-        "blockonomi.com",
-        "cointelegraph.com"
-      ],
-      "count": 2,
-      "members": [
-        {
-          "title": "Bybit Introduces Pre-IPO Futures Trading for Unitree and Moonshot AI",
-          "link": "https://blockonomi.com/bybit-introduces-pre-ipo-futures-trading-for-unitree-and-moonshot-ai/",
-          "source": "blockonomi.com",
-          "published_at": "2026-08-16T05:30:01+00:00"
-        },
-        {
-          "title": "Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup",
-          "link": "https://cointelegraph.com/news/bybit-launches-unitree-pre-ipo-perpetual-as-crypto-platforms-push-into-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "cointelegraph.com",
-          "published_at": "2026-08-15T19:27:29+00:00"
-        }
-      ]
-    }
-  ],
+  "clusters": [],
   "trending": [
     {
       "tag": "#Ai",
-      "count": 57,
+      "count": 59,
       "type": "topic",
       "pct": 100
     },
@@ -1115,44 +1086,44 @@
       "tag": "#XRP",
       "count": 50,
       "type": "coin",
-      "pct": 88
+      "pct": 85
     },
     {
       "tag": "#Xrp",
-      "count": 45,
+      "count": 44,
       "type": "topic",
-      "pct": 79
+      "pct": 75
     },
     {
       "tag": "#Defi",
       "count": 34,
       "type": "topic",
-      "pct": 60
-    },
-    {
-      "tag": "#BTC",
-      "count": 28,
-      "type": "coin",
-      "pct": 49
+      "pct": 58
     },
     {
       "tag": "#Bitcoin",
       "count": 26,
       "type": "topic",
-      "pct": 46
+      "pct": 44
+    },
+    {
+      "tag": "#BTC",
+      "count": 25,
+      "type": "coin",
+      "pct": 42
     },
     {
       "tag": "#Etf",
-      "count": 18,
+      "count": 20,
       "type": "topic",
-      "pct": 32
+      "pct": 34
     },
     {
       "tag": "#ETH",
-      "count": 16,
+      "count": 17,
       "type": "coin",
-      "pct": 28
+      "pct": 29
     }
   ],
-  "generated_at": "2026-08-16T05:41:57.280022+00:00"
+  "generated_at": "2026-08-16T05:59:59.993452+00:00"
 }
