@@ -2,16 +2,31 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "Bitcoin exchange reserves rise – Is BTC’s $62K support in danger?",
-      "link": "https://ambcrypto.com/bitcoin-exchange-reserves-rise-is-btcs-62k-support-in-danger/",
-      "published_at": "2026-08-16T08:00:53+00:00",
+      "title": "Dogecoin’s rare setup mirrors 2022 – Can DOGE repeat its 140% rally?",
+      "link": "https://ambcrypto.com/dogecoin-mirrors-its-2022-setup-can-doge-repeat-its-140-rally/",
+      "published_at": "2026-08-16T09:00:45+00:00",
       "source": "ambcrypto.com",
       "score": 1,
-      "ntitle": "bitcoin exchange reserves rise btc s 62k support danger",
+      "ntitle": "dogecoin s rare setup mirrors 2022 can doge repeat 140 rally",
       "coins": [
-        "BTC"
+        "DOGE"
       ],
       "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Millionaires Soon Won’t Be Able to Afford 1 Bitcoin, Says Binance Founder CZ",
+      "link": "https://beincrypto.com/cz-millionaires-cannot-afford-bitcoin/",
+      "published_at": "2026-08-16T08:51:03+00:00",
+      "source": "beincrypto.com",
+      "score": 1,
+      "ntitle": "millionaires soon won t be able afford 1 bitcoin says binance founder cz",
+      "coins": [
+        "BNB",
+        "BTC"
+      ],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -30,41 +45,52 @@
       "agency": null
     },
     {
-      "title": "HTX says Binance curbs affect only UK, EU users",
-      "link": "https://crypto.news/htx-says-binance-curbs-affect-only-uk-eu-users/",
-      "published_at": "2026-08-16T08:45:37+00:00",
+      "title": "Mark Cuban says AI chips will be the ‘new crypto’",
+      "link": "https://crypto.news/mark-cuban-says-ai-chips-will-be-the-new-crypto/",
+      "published_at": "2026-08-16T09:17:20+00:00",
       "source": "crypto.news",
       "score": 1,
-      "ntitle": "htx says binance curbs affect only uk eu users",
-      "coins": [
-        "BNB"
-      ],
+      "ntitle": "mark cuban says ai chips will be new crypto",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "Regulatory"
+    },
+    {
+      "title": "Trump’s secret backchannel to Iran’s Revolutionary Guard revealed: Axios",
+      "link": "https://cryptobriefing.com/trumps-secret-backchannel-to-irans-revolutionary-guard-revealed-axios/",
+      "published_at": "2026-08-16T09:14:23+00:00",
+      "source": "cryptobriefing.com",
+      "score": 1,
+      "ntitle": "trump s secret backchannel iran s revolutionary guard revealed axios",
+      "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "GEN.G take the first game against T1 after 43-minute match",
-      "link": "https://cryptobriefing.com/geng-take-the-first-game-against-t1-after-43-minute-match/",
-      "published_at": "2026-08-16T08:55:30+00:00",
-      "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "gen g take first game against t1 after 43 minute match",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
+      "title": "Trump-linked World Liberty Financial wins OCC bank approval as $112 million DeFi position sits near liquidation",
+      "link": "https://cryptoslate.com/trump-linked-world-liberty-financial-wins-occ-bank-approval-as-112-million-defi-position-sits-near-liquidation/",
+      "published_at": "2026-08-16T09:20:53+00:00",
+      "source": "cryptoslate.com",
+      "score": 12,
+      "ntitle": "trump linked world liberty financial wins occ bank approval 112 million defi position sits near liquidation",
+      "coins": [
+        "NEAR"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "Regulatory"
     },
     {
-      "title": "Bitcoin and Ethereum ETF Flows Shifted Last Week: Here’s What You Missed",
-      "link": "https://cryptopotato.com/bitcoin-and-ethereum-etf-flows-shifted-last-week-heres-what-you-missed/",
-      "published_at": "2026-08-16T08:25:28+00:00",
-      "source": "cryptopotato.com",
-      "score": 3,
-      "ntitle": "bitcoin ethereum etf flows shifted last week here s what you missed",
+      "title": "Bitcoin price trades above $63,000 as Saylor calls it ‘digital monetary energy’",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-trades-above-63000-as-saylor-calls-it-digital-monetary-energy-4861953",
+      "published_at": "2026-08-16T09:22:42+00:00",
+      "source": "investing.com",
+      "score": 1,
+      "ntitle": "bitcoin price trades above 63 000 saylor calls it digital monetary energy",
       "coins": [
-        "BTC",
-        "ETH"
+        "BTC"
       ],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -83,42 +109,42 @@
       "agency": null
     },
     {
-      "title": "Algorand v5.0.0 Clears 90% Support as Post-Quantum Upgrade Nears Mainnet",
-      "link": "https://blockonomi.com/algorand-v5-0-0-clears-90-support-as-post-quantum-upgrade-nears-mainnet/",
-      "published_at": "2026-08-16T08:19:49+00:00",
-      "source": "blockonomi.com",
-      "score": 5,
-      "ntitle": "algorand v5 0 0 clears 90 support post quantum upgrade nears mainnet",
+      "title": "Ethereum Hegotá narrows 2027 upgrade proposals",
+      "link": "https://crypto.news/ethereum-hegota-narrows-2027-upgrade-proposals/",
+      "published_at": "2026-08-16T09:10:22+00:00",
+      "source": "crypto.news",
+      "score": 3,
+      "ntitle": "ethereum hegot narrows 2027 upgrade proposals",
       "coins": [
-        "ALGO"
+        "ETH"
       ],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Dhaval Joshi warns AI is not one bubble but a rolling sequence of them",
-      "link": "https://cryptobriefing.com/joshi-warns-rolling-ai-bubbles/",
-      "published_at": "2026-08-16T08:50:53+00:00",
+      "title": "Policymakers push for profit-sharing from AI data centers as states revolt against Big Tech’s energy appetite",
+      "link": "https://cryptobriefing.com/policymakers-profit-sharing-ai-data-centers/",
+      "published_at": "2026-08-16T09:08:52+00:00",
       "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "dhaval joshi warns ai not one bubble but rolling sequence them",
+      "score": 2,
+      "ntitle": "policymakers push profit sharing ai data centers states revolt against big tech s energy appetite",
       "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
+      "sentiment": "bullish",
+      "is_regulation": true,
+      "agency": "Regulatory"
     }
   ],
   "day": [
     {
-      "title": "Avalanche’s RWA volume jumps 360% – Can whales push AVAX to $7.20?",
-      "link": "https://ambcrypto.com/avalanches-rwa-volume-jumps-360-can-whales-push-avax-to-7-20/",
-      "published_at": "2026-08-16T07:00:14+00:00",
+      "title": "Bitcoin exchange reserves rise – Is BTC’s $62K support in danger?",
+      "link": "https://ambcrypto.com/bitcoin-exchange-reserves-rise-is-btcs-62k-support-in-danger/",
+      "published_at": "2026-08-16T08:00:53+00:00",
       "source": "ambcrypto.com",
-      "score": 5,
-      "ntitle": "avalanche s rwa volume jumps 360 can whales push avax 7 20",
+      "score": 1,
+      "ntitle": "bitcoin exchange reserves rise btc s 62k support danger",
       "coins": [
-        "AVAX"
+        "BTC"
       ],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -153,13 +179,15 @@
       "agency": null
     },
     {
-      "title": "Nvidia (NVDA) Stock Surges as $500B AI Infrastructure Initiative Wins Analyst Support",
-      "link": "https://blockonomi.com/nvidia-nvda-stock-surges-as-500b-ai-infrastructure-initiative-wins-analyst-support/",
-      "published_at": "2026-08-16T07:39:48+00:00",
+      "title": "Algorand v5.0.0 Clears 90% Support as Post-Quantum Upgrade Nears Mainnet",
+      "link": "https://blockonomi.com/algorand-v5-0-0-clears-90-support-as-post-quantum-upgrade-nears-mainnet/",
+      "published_at": "2026-08-16T08:19:49+00:00",
       "source": "blockonomi.com",
-      "score": 2,
-      "ntitle": "nvidia nvda stock surges 500b ai infrastructure initiative wins analyst support",
-      "coins": [],
+      "score": 5,
+      "ntitle": "algorand v5 0 0 clears 90 support post quantum upgrade nears mainnet",
+      "coins": [
+        "ALGO"
+      ],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
@@ -230,28 +258,29 @@
       "agency": null
     },
     {
-      "title": "German companies cut US investment to three-year low as tariff uncertainty bites",
-      "link": "https://cryptobriefing.com/german-companies-cut-us-investment-three-year-low/",
-      "published_at": "2026-08-16T07:35:22+00:00",
+      "title": "Russia launches new airstrikes across Ukraine, killing three",
+      "link": "https://cryptobriefing.com/russia-launches-new-airstrikes-across-ukraine-killing-three/",
+      "published_at": "2026-08-16T08:25:35+00:00",
       "source": "cryptobriefing.com",
-      "score": 2,
-      "ntitle": "german companies cut us investment three year low tariff uncertainty bites",
+      "score": 3,
+      "ntitle": "russia launches new airstrikes across ukraine killing three",
       "coins": [],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Biggest Weekly Alt Gainers and Losers Revealed as BTC Stalls at $63K: Weekend Watch",
-      "link": "https://cryptopotato.com/biggest-weekly-alt-gainers-and-losers-revealed-as-btc-stalls-at-63k-weekend-watch/",
-      "published_at": "2026-08-16T05:21:04+00:00",
+      "title": "Bitcoin and Ethereum ETF Flows Shifted Last Week: Here’s What You Missed",
+      "link": "https://cryptopotato.com/bitcoin-and-ethereum-etf-flows-shifted-last-week-heres-what-you-missed/",
+      "published_at": "2026-08-16T08:25:28+00:00",
       "source": "cryptopotato.com",
-      "score": 9,
-      "ntitle": "biggest weekly alt gainers losers revealed btc stalls 63k weekend watch",
+      "score": 3,
+      "ntitle": "bitcoin ethereum etf flows shifted last week here s what you missed",
       "coins": [
-        "BTC"
+        "BTC",
+        "ETH"
       ],
-      "sentiment": "bullish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -344,16 +373,16 @@
       "agency": null
     },
     {
-      "title": "Will XRP’s price drop below $0.60? Here’s what KEY metrics suggest",
-      "link": "https://ambcrypto.com/will-xrps-price-drop-below-0-60-heres-what-key-metrics-suggest/",
-      "published_at": "2026-08-16T06:00:49+00:00",
+      "title": "Avalanche’s RWA volume jumps 360% – Can whales push AVAX to $7.20?",
+      "link": "https://ambcrypto.com/avalanches-rwa-volume-jumps-360-can-whales-push-avax-to-7-20/",
+      "published_at": "2026-08-16T07:00:14+00:00",
       "source": "ambcrypto.com",
-      "score": 6,
-      "ntitle": "will xrp s price drop below 0 60 here s what key metrics suggest",
+      "score": 5,
+      "ntitle": "avalanche s rwa volume jumps 360 can whales push avax 7 20",
       "coins": [
-        "XRP"
+        "AVAX"
       ],
-      "sentiment": "bearish",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -386,16 +415,14 @@
       "agency": null
     },
     {
-      "title": "Cardano’s Charles Hoskinson Takes Aim at Claude Watermarks With New Anthropies Tool",
-      "link": "https://blockonomi.com/cardanos-charles-hoskinson-takes-aim-at-claude-watermarks-with-new-anthropies-tool/",
-      "published_at": "2026-08-16T07:38:41+00:00",
+      "title": "Nvidia (NVDA) Stock Surges as $500B AI Infrastructure Initiative Wins Analyst Support",
+      "link": "https://blockonomi.com/nvidia-nvda-stock-surges-as-500b-ai-infrastructure-initiative-wins-analyst-support/",
+      "published_at": "2026-08-16T07:39:48+00:00",
       "source": "blockonomi.com",
-      "score": 4,
-      "ntitle": "cardano s charles hoskinson takes aim claude watermarks new anthropies tool",
-      "coins": [
-        "ADA"
-      ],
-      "sentiment": "neutral",
+      "score": 2,
+      "ntitle": "nvidia nvda stock surges 500b ai infrastructure initiative wins analyst support",
+      "coins": [],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -468,28 +495,28 @@
       "agency": null
     },
     {
-      "title": "UAE uneasy over Mecca defense pact amid 2026 Iran war tensions",
-      "link": "https://cryptobriefing.com/uae-uneasy-over-mecca-defense-pact-amid-2026-iran-war-tensions/",
-      "published_at": "2026-08-16T07:22:31+00:00",
+      "title": "CoreWeave co-founders have sold billions in stock since lockup expired",
+      "link": "https://cryptobriefing.com/coreweave-insider-stock-sales-analysis/",
+      "published_at": "2026-08-16T08:25:25+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "uae uneasy over mecca defense pact amid 2026 iran war tensions",
+      "ntitle": "coreweave co founders have sold billions stock since lockup expired",
       "coins": [],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "We Asked ChatGPT: Is XRP’s Bottom Finally In After the Crash Below $1?",
-      "link": "https://cryptopotato.com/we-asked-chatgpt-is-xrps-bottom-finally-in-after-the-crash-below-1/",
-      "published_at": "2026-08-16T04:01:03+00:00",
+      "title": "Biggest Weekly Alt Gainers and Losers Revealed as BTC Stalls at $63K: Weekend Watch",
+      "link": "https://cryptopotato.com/biggest-weekly-alt-gainers-and-losers-revealed-as-btc-stalls-at-63k-weekend-watch/",
+      "published_at": "2026-08-16T05:21:04+00:00",
       "source": "cryptopotato.com",
-      "score": 6,
-      "ntitle": "we asked chatgpt xrp s bottom finally after crash below 1",
+      "score": 9,
+      "ntitle": "biggest weekly alt gainers losers revealed btc stalls 63k weekend watch",
       "coins": [
-        "XRP"
+        "BTC"
       ],
-      "sentiment": "bearish",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -588,16 +615,14 @@
       "agency": null
     },
     {
-      "title": "BitMEX Blog Highlights Bitcoin ($BTC) Trading Trends",
-      "link": "https://Blockchain.News/news/bitmex-blog-bitcoin-trading-trends",
-      "published_at": "2026-08-15T08:59:32+00:00",
+      "title": "WIF Price Prediction: Trapped at $0.14 With Sellers in Control — Flush or Squeeze in the Next 30 Days",
+      "link": "https://Blockchain.News/news/20260815-price-prediction-wif-trapped-at-014-with-sellers-in",
+      "published_at": "2026-08-15T09:25:16+00:00",
       "source": "blockchain.news",
-      "score": 1,
-      "ntitle": "bitmex blog highlights bitcoin btc trading trends",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "neutral",
+      "score": 2,
+      "ntitle": "wif price prediction trapped 0 14 sellers control flush or squeeze next 30 days",
+      "coins": [],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -731,14 +756,16 @@
       "agency": null
     },
     {
-      "title": "FTC Is Sending $23,800,000 to 640,000 Consumers Over Grubhub Settlement",
-      "link": "https://dailyhodl.com/2026/08/15/ftc-is-sending-23800000-to-640000-consumers-over-grubhub-settlement/",
-      "published_at": "2026-08-15T07:04:56+00:00",
+      "title": "US Fiscal Deficits Keep Galaxy Digital CEO Mike Novogratz Bullish on Bitcoin",
+      "link": "https://dailyhodl.com/2026/08/15/u-s-fiscal-deficits-keep-galaxy-digital-ceo-mike-novogratz-bullish-on-bitcoin/",
+      "published_at": "2026-08-15T09:15:18+00:00",
       "source": "dailyhodl.com",
       "score": 3,
-      "ntitle": "ftc sending 23 800 000 640 000 consumers over grubhub settlement",
-      "coins": [],
-      "sentiment": "neutral",
+      "ntitle": "us fiscal deficits keep galaxy digital ceo mike novogratz bullish bitcoin",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -1072,56 +1099,116 @@
       "agency": null
     }
   ],
-  "clusters": [],
+  "clusters": [
+    {
+      "id": 3,
+      "title": "Mark Cuban says AI chips will be the ‘new crypto’",
+      "link": "https://crypto.news/mark-cuban-says-ai-chips-will-be-the-new-crypto/",
+      "source": "crypto.news",
+      "published_at": "2026-08-16T09:17:20+00:00",
+      "sentiment": "bearish",
+      "coins": [],
+      "sources": [
+        "u.today",
+        "crypto.news"
+      ],
+      "count": 2,
+      "members": [
+        {
+          "title": "Mark Cuban says AI chips will be the ‘new crypto’",
+          "link": "https://crypto.news/mark-cuban-says-ai-chips-will-be-the-new-crypto/",
+          "source": "crypto.news",
+          "published_at": "2026-08-16T09:17:20+00:00"
+        },
+        {
+          "title": "Billionaire Cuban Predicts 'New Crypto'",
+          "link": "https://u.today/billionaire-cuban-predicts-new-crypto",
+          "source": "u.today",
+          "published_at": "2026-08-16T07:55:41+00:00"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Millionaires Soon Won’t Be Able to Afford 1 Bitcoin, Says Binance Founder CZ",
+      "link": "https://beincrypto.com/cz-millionaires-cannot-afford-bitcoin/",
+      "source": "beincrypto.com",
+      "published_at": "2026-08-16T08:51:03+00:00",
+      "sentiment": "neutral",
+      "coins": [
+        "BTC",
+        "BNB"
+      ],
+      "sources": [
+        "coingape.com",
+        "beincrypto.com"
+      ],
+      "count": 2,
+      "members": [
+        {
+          "title": "Millionaires Soon Won’t Be Able to Afford 1 Bitcoin, Says Binance Founder CZ",
+          "link": "https://beincrypto.com/cz-millionaires-cannot-afford-bitcoin/",
+          "source": "beincrypto.com",
+          "published_at": "2026-08-16T08:51:03+00:00"
+        },
+        {
+          "title": "Binance Founder CZ Says Millionaires May Struggle to Afford 1 Bitcoin, Here’s Why",
+          "link": "https://coingape.com/binance-founder-cz-says-millionaires-may-struggle-to-afford-1-bitcoin-heres-why/",
+          "source": "coingape.com",
+          "published_at": "2026-08-15T17:39:38+00:00"
+        }
+      ]
+    }
+  ],
   "trending": [
     {
       "tag": "#Ai",
-      "count": 59,
+      "count": 62,
       "type": "topic",
       "pct": 100
     },
     {
       "tag": "#XRP",
-      "count": 50,
+      "count": 51,
       "type": "coin",
-      "pct": 85
+      "pct": 82
     },
     {
       "tag": "#Xrp",
-      "count": 45,
+      "count": 44,
       "type": "topic",
-      "pct": 76
+      "pct": 71
     },
     {
       "tag": "#Defi",
-      "count": 33,
+      "count": 34,
       "type": "topic",
-      "pct": 56
-    },
-    {
-      "tag": "#BTC",
-      "count": 26,
-      "type": "coin",
-      "pct": 44
+      "pct": 55
     },
     {
       "tag": "#Bitcoin",
       "count": 24,
       "type": "topic",
-      "pct": 41
+      "pct": 39
+    },
+    {
+      "tag": "#BTC",
+      "count": 23,
+      "type": "coin",
+      "pct": 37
     },
     {
       "tag": "#ETH",
-      "count": 18,
+      "count": 17,
       "type": "coin",
-      "pct": 31
+      "pct": 27
     },
     {
       "tag": "#Etf",
-      "count": 16,
+      "count": 17,
       "type": "topic",
       "pct": 27
     }
   ],
-  "generated_at": "2026-08-16T09:00:30.128200+00:00"
+  "generated_at": "2026-08-16T09:27:20.452538+00:00"
 }
