@@ -2,24 +2,26 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "U.S. ETF boom eyes 1,470 launches – Are crypto funds falling behind?",
-      "link": "https://ambcrypto.com/u-s-etf-boom-eyes-1470-launches-are-crypto-funds-falling-behind/",
-      "published_at": "2026-08-16T11:00:53+00:00",
+      "title": "Michael Saylor calls Bitcoin the ‘solution to money’ – Can BTC prove him right?",
+      "link": "https://ambcrypto.com/michael-saylor-calls-bitcoin-the-solution-to-money-can-btc-prove-him-right/",
+      "published_at": "2026-08-16T11:30:38+00:00",
       "source": "ambcrypto.com",
-      "score": 5,
-      "ntitle": "u s etf boom eyes 1 470 launches crypto funds falling behind",
-      "coins": [],
+      "score": 1,
+      "ntitle": "michael saylor calls bitcoin solution money can btc prove him right",
+      "coins": [
+        "BTC"
+      ],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "PLTR Price Prediction: Blowout Earnings Meet Overbought Technicals — Brace for a $165–$195 Decision Point",
-      "link": "https://Blockchain.News/news/20260816-price-prediction-pltr-blowout-earnings-meet-overbought-technicals-brace",
-      "published_at": "2026-08-16T10:28:48+00:00",
-      "source": "blockchain.news",
-      "score": 2,
-      "ntitle": "pltr price prediction blowout earnings meet overbought technicals brace 165 195 decision point",
+      "title": "Peter Thiel’s Second-Biggest Bet is Not a Tech Stock Anymore",
+      "link": "https://beincrypto.com/thiel-second-biggest-bet-vista-energy/",
+      "published_at": "2026-08-16T11:24:39+00:00",
+      "source": "beincrypto.com",
+      "score": 1,
+      "ntitle": "peter thiel s second biggest bet not tech stock anymore",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -55,14 +57,16 @@
       "agency": null
     },
     {
-      "title": "Payward Q2 revenue hits $508M as EBITDA falls",
-      "link": "https://crypto.news/payward-q2-revenue-hits-508m-as-ebitda-falls/",
-      "published_at": "2026-08-16T11:02:10+00:00",
+      "title": "Cardano Dijkstra targets 2026 Leios, 2027 Peras rollout",
+      "link": "https://crypto.news/cardano-dijkstra-targets-2026-leios/",
+      "published_at": "2026-08-16T11:36:59+00:00",
       "source": "crypto.news",
       "score": 1,
-      "ntitle": "payward q2 revenue hits 508m ebitda falls",
-      "coins": [],
-      "sentiment": "bearish",
+      "ntitle": "cardano dijkstra targets 2026 leios 2027 peras rollout",
+      "coins": [
+        "ADA"
+      ],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -79,42 +83,55 @@
       "agency": null
     },
     {
-      "title": "Wall Street finally turned staking into a dividend, now Ethereum and Solana want to shrink it",
-      "link": "https://cryptoslate.com/wall-street-finally-turned-staking-into-a-dividend-now-ethereum-and-solana-want-to-shrink-it/",
-      "published_at": "2026-08-16T10:40:50+00:00",
-      "source": "cryptoslate.com",
-      "score": 4,
-      "ntitle": "wall street finally turned staking into dividend now ethereum solana want shrink it",
+      "title": "Grayscale: ETH, SOL Supply Growth Could Fall Below Gold by 2031",
+      "link": "https://news.bitcoin.com/featured/grayscale-eth-sol-inflation-below-gold-2031/",
+      "published_at": "2026-08-16T11:30:03+00:00",
+      "source": "news.bitcoin.com",
+      "score": 3,
+      "ntitle": "grayscale eth sol supply growth could fall below gold 2031",
       "coins": [
         "ETH",
         "SOL"
       ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Roman Storm Targets Google and OpenAI Over DOJ Crypto Conviction",
-      "link": "https://news.bitcoin.com/crypto-news/roman-storm-targets-google-and-openai-over-doj-crypto-conviction/",
-      "published_at": "2026-08-16T10:30:01+00:00",
-      "source": "news.bitcoin.com",
-      "score": 1,
-      "ntitle": "roman storm targets google openai over doj crypto conviction",
-      "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "XRP price rebounds above $1 as Peter Brandt favors Bitcoin",
-      "link": "https://crypto.news/xrp-rebounds-above-1-as-peter-favors-bitcoin/",
-      "published_at": "2026-08-16T10:33:58+00:00",
-      "source": "crypto.news",
-      "score": 6,
-      "ntitle": "xrp price rebounds above 1 peter brandt favors bitcoin",
+      "title": "'Make RLUSD Great Again': Ex-Ripple Engineer Teases Secret XRP Ledger Startup",
+      "link": "https://u.today/make-rlusd-great-again-ex-ripple-engineer-teases-secret-xrp-ledger-startup",
+      "published_at": "2026-08-16T11:20:30+00:00",
+      "source": "u.today",
+      "score": 8,
+      "ntitle": "make rlusd great again ex ripple engineer teases secret xrp ledger startup",
       "coins": [
-        "BTC",
         "XRP"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "U.S. ETF boom eyes 1,470 launches – Are crypto funds falling behind?",
+      "link": "https://ambcrypto.com/u-s-etf-boom-eyes-1470-launches-are-crypto-funds-falling-behind/",
+      "published_at": "2026-08-16T11:00:53+00:00",
+      "source": "ambcrypto.com",
+      "score": 5,
+      "ntitle": "u s etf boom eyes 1 470 launches crypto funds falling behind",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Harvard holds $101M Bitcoin ETF stake steady in Q2",
+      "link": "https://crypto.news/harvard-holds-101m-bitcoin-etf-stake-steady-in-q2/",
+      "published_at": "2026-08-16T11:27:11+00:00",
+      "source": "crypto.news",
+      "score": 3,
+      "ntitle": "harvard holds 101m bitcoin etf stake steady q2",
+      "coins": [
+        "BTC"
       ],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -161,14 +178,14 @@
       "agency": null
     },
     {
-      "title": "HOOD Price Prediction: Bulls Choking Below $100 — Smart Money Is Loaded but the Tape Is Lying",
-      "link": "https://Blockchain.News/news/20260816-price-prediction-hood-bulls-choking-below-100-smart-money",
-      "published_at": "2026-08-16T10:24:33+00:00",
+      "title": "PLTR Price Prediction: Blowout Earnings Meet Overbought Technicals — Brace for a $165–$195 Decision Point",
+      "link": "https://Blockchain.News/news/20260816-price-prediction-pltr-blowout-earnings-meet-overbought-technicals-brace",
+      "published_at": "2026-08-16T10:28:48+00:00",
       "source": "blockchain.news",
-      "score": 4,
-      "ntitle": "hood price prediction bulls choking below 100 smart money loaded but tape lying",
+      "score": 2,
+      "ntitle": "pltr price prediction blowout earnings meet overbought technicals brace 165 195 decision point",
       "coins": [],
-      "sentiment": "bullish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -240,27 +257,27 @@
       "agency": null
     },
     {
-      "title": "Solana reaches XRP Ledger DEX with issuer warning",
-      "link": "https://crypto.news/solana-reaches-xrp-ledger-dex-with-issuer-warning/",
-      "published_at": "2026-08-16T10:16:44+00:00",
+      "title": "XRP price rebounds above $1 as Peter Brandt favors Bitcoin",
+      "link": "https://crypto.news/xrp-rebounds-above-1-as-peter-favors-bitcoin/",
+      "published_at": "2026-08-16T10:33:58+00:00",
       "source": "crypto.news",
       "score": 6,
-      "ntitle": "solana reaches xrp ledger dex issuer warning",
+      "ntitle": "xrp price rebounds above 1 peter brandt favors bitcoin",
       "coins": [
-        "SOL",
+        "BTC",
         "XRP"
       ],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Israel’s economy rebounds in Q2 after contraction from Iran war",
-      "link": "https://cryptobriefing.com/israel-economy-rebounds-q2-iran-war/",
-      "published_at": "2026-08-16T10:22:20+00:00",
+      "title": "Rodri’s Ballon d’Or win stirs tension with Real Madrid, boosts Barcelona odds",
+      "link": "https://cryptobriefing.com/rodris-ballon-dor-win-stirs-tension-with-real-madrid-boosts-barcelona-odds/",
+      "published_at": "2026-08-16T10:37:23+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "israel s economy rebounds q2 after contraction iran war",
+      "ntitle": "rodri s ballon d or win stirs tension real madrid boosts barcelona odds",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -281,18 +298,19 @@
       "agency": null
     },
     {
-      "title": "Trump-linked World Liberty Financial wins OCC bank approval as $112 million DeFi position sits near liquidation",
-      "link": "https://cryptoslate.com/trump-linked-world-liberty-financial-wins-occ-bank-approval-as-112-million-defi-position-sits-near-liquidation/",
-      "published_at": "2026-08-16T09:20:53+00:00",
+      "title": "Wall Street finally turned staking into a dividend, now Ethereum and Solana want to shrink it",
+      "link": "https://cryptoslate.com/wall-street-finally-turned-staking-into-a-dividend-now-ethereum-and-solana-want-to-shrink-it/",
+      "published_at": "2026-08-16T10:40:50+00:00",
       "source": "cryptoslate.com",
-      "score": 12,
-      "ntitle": "trump linked world liberty financial wins occ bank approval 112 million defi position sits near liquidation",
+      "score": 4,
+      "ntitle": "wall street finally turned staking into dividend now ethereum solana want shrink it",
       "coins": [
-        "NEAR"
+        "ETH",
+        "SOL"
       ],
       "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Regulatory"
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Scammers Drain $35,000 From Pennsylvania Man After Posing as FTC Officials",
@@ -333,12 +351,12 @@
       "agency": null
     },
     {
-      "title": "EU Crypto Adoption Stalls as ECB Finds Mere 0.2% Online Usage",
-      "link": "https://news.bitcoin.com/crypto-news/eu-crypto-adoption-stalls-as-ecb-finds-mere-0-2-online-usage/",
-      "published_at": "2026-08-16T09:30:05+00:00",
+      "title": "Roman Storm Targets Google and OpenAI Over DOJ Crypto Conviction",
+      "link": "https://news.bitcoin.com/crypto-news/roman-storm-targets-google-and-openai-over-doj-crypto-conviction/",
+      "published_at": "2026-08-16T10:30:01+00:00",
       "source": "news.bitcoin.com",
       "score": 1,
-      "ntitle": "eu crypto adoption stalls ecb finds mere 0 2 online usage",
+      "ntitle": "roman storm targets google openai over doj crypto conviction",
       "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -399,14 +417,14 @@
       "agency": null
     },
     {
-      "title": "COIN Price Prediction: Bulls Are Trapped Below $150 — The Flush to $141 Is Loading",
-      "link": "https://Blockchain.News/news/20260816-price-prediction-coin-bulls-are-trapped-below-150-the",
-      "published_at": "2026-08-16T10:19:33+00:00",
+      "title": "HOOD Price Prediction: Bulls Choking Below $100 — Smart Money Is Loaded but the Tape Is Lying",
+      "link": "https://Blockchain.News/news/20260816-price-prediction-hood-bulls-choking-below-100-smart-money",
+      "published_at": "2026-08-16T10:24:33+00:00",
       "source": "blockchain.news",
-      "score": 2,
-      "ntitle": "coin price prediction bulls trapped below 150 flush 141 loading",
+      "score": 4,
+      "ntitle": "hood price prediction bulls choking below 100 smart money loaded but tape lying",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -479,26 +497,31 @@
       "agency": null
     },
     {
-      "title": "Mark Cuban says AI chips will be the ‘new crypto’",
-      "link": "https://crypto.news/mark-cuban-says-ai-chips-will-be-the-new-crypto/",
-      "published_at": "2026-08-16T09:17:20+00:00",
+      "title": "Solana reaches XRP Ledger DEX with issuer warning",
+      "link": "https://crypto.news/solana-reaches-xrp-ledger-dex-with-issuer-warning/",
+      "published_at": "2026-08-16T10:16:44+00:00",
       "source": "crypto.news",
-      "score": 1,
-      "ntitle": "mark cuban says ai chips will be new crypto",
-      "coins": [],
+      "score": 6,
+      "ntitle": "solana reaches xrp ledger dex issuer warning",
+      "coins": [
+        "SOL",
+        "XRP"
+      ],
       "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Regulatory"
+      "is_regulation": false,
+      "agency": null
     },
     {
-      "title": "Bits of Gold reported to have suffered data breach affecting 200,000 customers",
-      "link": "https://cryptobriefing.com/bits-of-gold-data-breach-200000-customers/",
-      "published_at": "2026-08-16T10:14:07+00:00",
+      "title": "Riot Platforms signs $9B AI compute deal with Anthropic, shifts from Bitcoin mining",
+      "link": "https://cryptobriefing.com/riot-platforms-signs-9b-ai-compute-deal-with-anthropic-shifts-from-bitcoin/",
+      "published_at": "2026-08-16T10:33:14+00:00",
       "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "bits gold reported have suffered data breach affecting 200 000 customers",
-      "coins": [],
-      "sentiment": "bullish",
+      "score": 2,
+      "ntitle": "riot platforms signs 9b ai compute deal anthropic shifts bitcoin mining",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -518,18 +541,18 @@
       "agency": null
     },
     {
-      "title": "Trump to meet Coinbase, Ripple and crypto leaders as CLARITY Act odds collapse to 10%",
-      "link": "https://cryptoslate.com/trump-to-meet-coinbase-ripple-and-crypto-leaders-as-clarity-act-odds-collapse-to-10/",
-      "published_at": "2026-08-15T20:40:13+00:00",
+      "title": "Trump-linked World Liberty Financial wins OCC bank approval as $112 million DeFi position sits near liquidation",
+      "link": "https://cryptoslate.com/trump-linked-world-liberty-financial-wins-occ-bank-approval-as-112-million-defi-position-sits-near-liquidation/",
+      "published_at": "2026-08-16T09:20:53+00:00",
       "source": "cryptoslate.com",
-      "score": 4,
-      "ntitle": "trump meet coinbase ripple crypto leaders clarity act odds collapse 10",
+      "score": 12,
+      "ntitle": "trump linked world liberty financial wins occ bank approval 112 million defi position sits near liquidation",
       "coins": [
-        "XRP"
+        "NEAR"
       ],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "is_regulation": true,
-      "agency": "Congress"
+      "agency": "Regulatory"
     }
   ],
   "week": [
@@ -558,28 +581,14 @@
       "agency": null
     },
     {
-      "title": "EtherFi's Bet Against Crypto's Casino Economy",
-      "link": "https://www.bankless.com/read/etherfis-bet-against-cryptos-casino-economy",
-      "published_at": "2026-08-14T18:56:29+00:00",
-      "source": "bankless.com",
-      "score": 3,
-      "ntitle": "etherfi s bet against crypto s casino economy",
+      "title": "Tim Draper’s AI Doppelgänger: More Polite and Better Than the Original?",
+      "link": "https://beincrypto.com/tim-draper-ai-doppelganger-startup-pitches/",
+      "published_at": "2026-08-15T11:41:04+00:00",
+      "source": "beincrypto.com",
+      "score": 1,
+      "ntitle": "tim draper s ai doppelg nger more polite better than original",
       "coins": [],
       "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Bitcoin Drop Cost Abu Dhabi $118 Million: Will They Sell?",
-      "link": "https://beincrypto.com/bitcoin-abu-dhabi-etf-holdings-q2/",
-      "published_at": "2026-08-15T11:05:06+00:00",
-      "source": "beincrypto.com",
-      "score": 3,
-      "ntitle": "bitcoin drop cost abu dhabi 118 million will they sell",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -651,18 +660,6 @@
       "agency": null
     },
     {
-      "title": "Rizon Review: A Stablecoin Card With Real Fine Print",
-      "link": "https://coincodecap.com/rizon-review?utm_source=rss&utm_medium=rss&utm_campaign=rizon-review",
-      "published_at": "2026-08-13T15:52:48+00:00",
-      "source": "coincodecap.com",
-      "score": 3,
-      "ntitle": "rizon review stablecoin card real fine print",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
       "title": "Trump expected to attend White House meeting with crypto CEOs, sources say",
       "link": "https://www.coindesk.com/policy/2026/08/14/trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say",
       "published_at": "2026-08-14T23:41:49+00:00",
@@ -675,16 +672,18 @@
       "agency": null
     },
     {
-      "title": "Bitget Restricts HTX, EXMO & Other Entities Amid Sanctions Crackdown",
-      "link": "https://coingape.com/bitget-restricts-htx-exmo-other-entities-amid-sanctions-crackdown/",
-      "published_at": "2026-08-15T10:36:53+00:00",
+      "title": "Dogecoin Price Prediction Ahead of Trump’s Wednesday White House Crypto Meeting",
+      "link": "https://coingape.com/markets/dogecoin-price-prediction-ahead-of-trumps-wednesday-white-house-crypto-meeting/",
+      "published_at": "2026-08-15T11:41:06+00:00",
       "source": "coingape.com",
-      "score": 5,
-      "ntitle": "bitget restricts htx exmo other entities amid sanctions crackdown",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Regulatory"
+      "score": 6,
+      "ntitle": "dogecoin price prediction ahead trump s wednesday white house crypto meeting",
+      "coins": [
+        "DOGE"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "LDO surges as SharpLink seeks to stake $200m in ETH via Lido",
@@ -713,16 +712,14 @@
       "agency": null
     },
     {
-      "title": "Solana Company posts $30.3M Q2 loss despite staking gains",
-      "link": "https://crypto.news/solana-company-posts-30-3m-loss-despite-staking-gains/",
-      "published_at": "2026-08-15T11:04:38+00:00",
+      "title": "Bitget expands stock dual investment to 20+ U.S. assets",
+      "link": "https://crypto.news/bitget-expands-stock-dual-investment-to-20-u-s-assets/",
+      "published_at": "2026-08-15T11:28:50+00:00",
       "source": "crypto.news",
-      "score": 1,
-      "ntitle": "solana company posts 30 3m q2 loss despite staking gains",
-      "coins": [
-        "SOL"
-      ],
-      "sentiment": "neutral",
+      "score": 7,
+      "ntitle": "bitget expands stock dual investment 20 u s assets",
+      "coins": [],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -911,14 +908,44 @@
       "agency": null
     },
     {
-      "title": "SEC Delays Vote on Crypto Fundraising Rules",
-      "link": "https://www.bankless.com/read/news/sec-delays-vote-on-crypto-fundraising-rules",
-      "published_at": "2026-08-14T16:03:17+00:00",
-      "source": "bankless.com",
+      "title": "Bitcoin Drop Cost Abu Dhabi $118 Million: Will They Sell?",
+      "link": "https://beincrypto.com/bitcoin-abu-dhabi-etf-holdings-q2/",
+      "published_at": "2026-08-15T11:05:06+00:00",
+      "source": "beincrypto.com",
+      "score": 3,
+      "ntitle": "bitcoin drop cost abu dhabi 118 million will they sell",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Solana Rallies 7% After Breaking Multi-Week Downtrend",
+      "link": "https://bitcoinist.com/solana-rallies-7-after-breaking-multi-week-downtrend/",
+      "published_at": "2026-08-12T10:45:00+00:00",
+      "source": "bitcoinist.com",
       "score": 1,
-      "ntitle": "sec delays vote crypto fundraising rules",
-      "coins": [],
-      "sentiment": "neutral",
+      "ntitle": "solana rallies 7 after breaking multi week downtrend",
+      "coins": [
+        "SOL"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Abu Dhabi Sovereign Wealth Funds Keep Big Bitcoin Positions",
+      "link": "https://bitcoinmagazine.com/news/abu-dhabi-funds-keep-big-bitcoin-positions",
+      "published_at": "2026-08-14T21:17:12+00:00",
+      "source": "bitcoinmagazine.com",
+      "score": 3,
+      "ntitle": "abu dhabi sovereign wealth funds keep big bitcoin positions",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     }
@@ -937,20 +964,6 @@
       "agency": null
     },
     {
-      "title": "Breaking Down Ethereum's New Issuance Debate",
-      "link": "https://www.bankless.com/read/breaking-down-ethereums-new-issuance-debate",
-      "published_at": "2026-08-06T20:40:09+00:00",
-      "source": "bankless.com",
-      "score": 1,
-      "ntitle": "breaking down ethereum s new issuance debate",
-      "coins": [
-        "ETH"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
       "title": "Penlink Plugs Into Trusted Blockchain Data With Chainalysis",
       "link": "https://www.chainalysis.com/blog/penlink-integration-blockchain-intelligence-august-2026/",
       "published_at": "2026-08-06T14:22:56+00:00",
@@ -959,18 +972,6 @@
       "ntitle": "penlink plugs into trusted blockchain data chainalysis",
       "coins": [],
       "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Taiwan to roll out crypto travel rule for domestic transfers soon",
-      "link": "https://coincodecap.com/taiwan-to-roll-out-crypto-travel-rule-for-domestic-transfers-soon?utm_source=rss&utm_medium=rss&utm_campaign=taiwan-to-roll-out-crypto-travel-rule-for-domestic-transfers-soon",
-      "published_at": "2026-08-05T09:02:33+00:00",
-      "source": "coincodecap.com",
-      "score": 1,
-      "ntitle": "taiwan roll out crypto travel rule domestic transfers soon",
-      "coins": [],
-      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -1037,18 +1038,6 @@
       "agency": null
     },
     {
-      "title": "MetaMask Launches Agent Wallets",
-      "link": "https://www.bankless.com/read/news/metamask-launches-agent-wallets",
-      "published_at": "2026-08-06T19:36:06+00:00",
-      "source": "bankless.com",
-      "score": 6,
-      "ntitle": "metamask launches agent wallets",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
       "title": "Estimated $30 Million Stolen in Violent Crypto Attacks in 2026 as France Records Emerges as Hotspot",
       "link": "https://www.chainalysis.com/blog/violent-crypto-wrench-attacks-2026/",
       "published_at": "2026-08-06T12:00:41+00:00",
@@ -1108,12 +1097,12 @@
       "published_at": "2026-08-16T10:43:20+00:00",
       "sentiment": "neutral",
       "coins": [
-        "XRP",
-        "BTC"
+        "BTC",
+        "XRP"
       ],
       "sources": [
-        "blockonomi.com",
-        "crypto.news"
+        "crypto.news",
+        "blockonomi.com"
       ],
       "count": 2,
       "members": [
@@ -1130,34 +1119,6 @@
           "published_at": "2026-08-16T10:33:58+00:00"
         }
       ]
-    },
-    {
-      "id": 10,
-      "title": "This Asset Class Will Become the Next Crypto, Says Billionaire Mark Cuban",
-      "link": "https://beincrypto.com/chips-asset-class-new-crypto-mark-cuban/",
-      "source": "beincrypto.com",
-      "published_at": "2026-08-16T09:56:46+00:00",
-      "sentiment": "bearish",
-      "coins": [],
-      "sources": [
-        "crypto.news",
-        "beincrypto.com"
-      ],
-      "count": 2,
-      "members": [
-        {
-          "title": "This Asset Class Will Become the Next Crypto, Says Billionaire Mark Cuban",
-          "link": "https://beincrypto.com/chips-asset-class-new-crypto-mark-cuban/",
-          "source": "beincrypto.com",
-          "published_at": "2026-08-16T09:56:46+00:00"
-        },
-        {
-          "title": "Mark Cuban says AI chips will be the ‘new crypto’",
-          "link": "https://crypto.news/mark-cuban-says-ai-chips-will-be-the-new-crypto/",
-          "source": "crypto.news",
-          "published_at": "2026-08-16T09:17:20+00:00"
-        }
-      ]
     }
   ],
   "trending": [
@@ -1169,46 +1130,46 @@
     },
     {
       "tag": "#XRP",
-      "count": 54,
+      "count": 55,
       "type": "coin",
-      "pct": 82
+      "pct": 83
     },
     {
       "tag": "#Xrp",
-      "count": 49,
+      "count": 50,
       "type": "topic",
-      "pct": 74
+      "pct": 76
     },
     {
       "tag": "#Defi",
-      "count": 34,
+      "count": 32,
       "type": "topic",
-      "pct": 52
+      "pct": 48
     },
     {
       "tag": "#BTC",
-      "count": 21,
+      "count": 27,
       "type": "coin",
-      "pct": 32
+      "pct": 41
     },
     {
       "tag": "#Bitcoin",
-      "count": 21,
+      "count": 24,
       "type": "topic",
-      "pct": 32
+      "pct": 36
     },
     {
       "tag": "#Etf",
-      "count": 18,
+      "count": 20,
       "type": "topic",
-      "pct": 27
+      "pct": 30
     },
     {
       "tag": "#ETH",
-      "count": 17,
+      "count": 16,
       "type": "coin",
-      "pct": 26
+      "pct": 24
     }
   ],
-  "generated_at": "2026-08-16T11:25:56.522016+00:00"
+  "generated_at": "2026-08-16T11:41:57.722997+00:00"
 }
