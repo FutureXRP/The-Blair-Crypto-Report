@@ -2,14 +2,30 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "20-Year Tech Veteran Spent 15,000 Hours Trying to Kill Bitcoin, What Did He Find?",
-      "link": "https://beincrypto.com/jeff-booth-15000-hours-kill-bitcoin/",
-      "published_at": "2026-08-16T20:29:14+00:00",
-      "source": "beincrypto.com",
-      "score": 2,
-      "ntitle": "20 year tech veteran spent 15 000 hours trying kill bitcoin what did he find",
+      "title": "Solana adds $378M in tokenized T-bills – Is Ethereum losing ground?",
+      "link": "https://ambcrypto.com/solana-adds-378m-in-tokenized-t-bills-is-ethereum-losing-ground/",
+      "published_at": "2026-08-16T21:00:53+00:00",
+      "source": "ambcrypto.com",
+      "score": 9,
+      "ntitle": "solana adds 378m tokenized t bills ethereum losing ground",
       "coins": [
-        "BTC"
+        "ETH",
+        "SOL"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "4 Reasons This Could Be the Most Important Week of August for Bitcoin and XRP",
+      "link": "https://beincrypto.com/4-reasons-bitcoin-xrp-august-week/",
+      "published_at": "2026-08-16T21:03:27+00:00",
+      "source": "beincrypto.com",
+      "score": 6,
+      "ntitle": "4 reasons this could be most important week august bitcoin xrp",
+      "coins": [
+        "BTC",
+        "XRP"
       ],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -54,6 +70,20 @@
       "sentiment": "bullish",
       "is_regulation": true,
       "agency": "Treasury"
+    },
+    {
+      "title": "20-Year Tech Veteran Spent 15,000 Hours Trying to Kill Bitcoin, What Did He Find?",
+      "link": "https://beincrypto.com/jeff-booth-15000-hours-kill-bitcoin/",
+      "published_at": "2026-08-16T20:29:14+00:00",
+      "source": "beincrypto.com",
+      "score": 2,
+      "ntitle": "20 year tech veteran spent 15 000 hours trying kill bitcoin what did he find",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "RC Lens defeats PSG to win first-ever Trophée des Champions",
@@ -168,14 +198,14 @@
       "agency": null
     },
     {
-      "title": "Stripe in advanced talks to acquire OpenRouter for around $10B",
-      "link": "https://cryptobriefing.com/stripe-acquires-openrouter-7-billion/",
-      "published_at": "2026-08-16T19:54:46+00:00",
+      "title": "Google releases Gemini 3.7 Flash as EU AI rules kick in",
+      "link": "https://cryptobriefing.com/google-gemini-flash-eu-ai-regulation/",
+      "published_at": "2026-08-16T20:07:11+00:00",
       "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "stripe advanced talks acquire openrouter around 10b",
+      "score": 7,
+      "ntitle": "google releases gemini 3 7 flash eu ai rules kick",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -382,12 +412,12 @@
       "agency": null
     },
     {
-      "title": "Tether Gold leads market cap growth in tokenized gold assets, adding $237M",
-      "link": "https://cryptobriefing.com/tether-gold-leads-tokenized-gold-growth/",
-      "published_at": "2026-08-16T19:41:12+00:00",
+      "title": "Anthropic, OpenAI models more cost-efficient than Chinese rivals despite higher fees",
+      "link": "https://cryptobriefing.com/anthropic-openai-models-more-cost-efficient-than-chinese-rivals-despite-higher/",
+      "published_at": "2026-08-16T20:03:41+00:00",
       "source": "cryptobriefing.com",
-      "score": 7,
-      "ntitle": "tether gold leads market cap growth tokenized gold assets adding 237m",
+      "score": 4,
+      "ntitle": "anthropic openai models more cost efficient than chinese rivals despite higher fees",
       "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -491,20 +521,6 @@
       "score": 3,
       "ntitle": "etherfi s bet against crypto s casino economy",
       "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Could Bitcoin Ever Break the 21 Million Cap? Adam Back Says It’s a Trap",
-      "link": "https://beincrypto.com/bitcoin-21-million-cap-adam-back/",
-      "published_at": "2026-08-15T19:07:25+00:00",
-      "source": "beincrypto.com",
-      "score": 1,
-      "ntitle": "could bitcoin ever break 21 million cap adam back says it s trap",
-      "coins": [
-        "BTC"
-      ],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
@@ -846,6 +862,20 @@
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
+    },
+    {
+      "title": "Abu Dhabi Sovereign Wealth Funds Keep Big Bitcoin Positions",
+      "link": "https://bitcoinmagazine.com/news/abu-dhabi-funds-keep-big-bitcoin-positions",
+      "published_at": "2026-08-14T21:17:12+00:00",
+      "source": "bitcoinmagazine.com",
+      "score": 3,
+      "ntitle": "abu dhabi sovereign wealth funds keep big bitcoin positions",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     }
   ],
   "month": [
@@ -1024,49 +1054,78 @@
       "agency": null
     }
   ],
-  "clusters": [],
+  "clusters": [
+    {
+      "id": 15,
+      "title": "Google releases Gemini 3.7 Flash as EU AI rules kick in",
+      "link": "https://cryptobriefing.com/google-gemini-flash-eu-ai-regulation/",
+      "source": "cryptobriefing.com",
+      "published_at": "2026-08-16T20:07:11+00:00",
+      "sentiment": "bullish",
+      "coins": [],
+      "sources": [
+        "decrypt.co",
+        "cryptobriefing.com"
+      ],
+      "count": 2,
+      "members": [
+        {
+          "title": "Google releases Gemini 3.7 Flash as EU AI rules kick in",
+          "link": "https://cryptobriefing.com/google-gemini-flash-eu-ai-regulation/",
+          "source": "cryptobriefing.com",
+          "published_at": "2026-08-16T20:07:11+00:00"
+        },
+        {
+          "title": "Gemini 3.7 Flash Review: Google's Cheap Model Isn’t Dumb Anymore",
+          "link": "https://decrypt.co/375730/gemini-3-7-flash-review-google-cheap-model",
+          "source": "decrypt.co",
+          "published_at": "2026-08-16T16:00:05+00:00"
+        }
+      ]
+    }
+  ],
   "trending": [
     {
       "tag": "#Ai",
-      "count": 61,
+      "count": 60,
       "type": "topic",
       "pct": 100
     },
     {
       "tag": "#XRP",
-      "count": 56,
+      "count": 57,
       "type": "coin",
-      "pct": 92
+      "pct": 95
     },
     {
       "tag": "#Xrp",
-      "count": 53,
+      "count": 54,
       "type": "topic",
-      "pct": 87
+      "pct": 90
     },
     {
       "tag": "#Defi",
       "count": 38,
       "type": "topic",
-      "pct": 62
+      "pct": 63
     },
     {
       "tag": "#BTC",
-      "count": 22,
+      "count": 23,
       "type": "coin",
-      "pct": 36
+      "pct": 38
     },
     {
       "tag": "#Bitcoin",
-      "count": 22,
+      "count": 23,
       "type": "topic",
-      "pct": 36
+      "pct": 38
     },
     {
       "tag": "#ETH",
-      "count": 17,
+      "count": 18,
       "type": "coin",
-      "pct": 28
+      "pct": 30
     },
     {
       "tag": "#Etf",
@@ -1075,5 +1134,5 @@
       "pct": 25
     }
   ],
-  "generated_at": "2026-08-16T20:59:20.015007+00:00"
+  "generated_at": "2026-08-16T21:17:28.111801+00:00"
 }
