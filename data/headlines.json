@@ -2,6 +2,86 @@
   "x_breaking": [],
   "breaking": [
     {
+      "title": "Bitcoin buying activity falls to 2022-era levels — Has the market fully reset?",
+      "link": "https://ambcrypto.com/bitcoin-buying-activity-falls-to-2022-era-levels-has-the-market-fully-reset/",
+      "published_at": "2026-08-17T23:30:28+00:00",
+      "source": "ambcrypto.com",
+      "score": 1,
+      "ntitle": "bitcoin buying activity falls 2022 era levels has market fully reset",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "5% Treasury Yields Won’t Crush Record-High Stocks. Can Bitcoin Say the Same?",
+      "link": "https://beincrypto.com/treasury-yields-5-percent-bitcoin-price/",
+      "published_at": "2026-08-17T23:03:53+00:00",
+      "source": "beincrypto.com",
+      "score": 3,
+      "ntitle": "5 treasury yields won t crush record high stocks can bitcoin say same",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": true,
+      "agency": "Treasury"
+    },
+    {
+      "title": "Anthropic tells investors annualized revenue run rate climbed to $65 billion in July",
+      "link": "https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html",
+      "published_at": "2026-08-17T22:55:31+00:00",
+      "source": "cnbc.com",
+      "score": 2,
+      "ntitle": "anthropic tells investors annualized revenue run rate climbed 65 billion july",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Gold holds two-day gain as Fed rate-hike expectations ease",
+      "link": "https://cryptobriefing.com/gold-holds-two-day-gain-as-fed-rate-hike-expectations-ease/",
+      "published_at": "2026-08-17T23:31:12+00:00",
+      "source": "cryptobriefing.com",
+      "score": 1,
+      "ntitle": "gold holds two day gain fed rate hike expectations ease",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Solana treasury firm cuts shares 700-for-1 but leaves room for nearly 100 billion more",
+      "link": "https://cryptoslate.com/solana-treasury-firm-cuts-shares-700-for-1-but-leaves-room-for-nearly-100-billion-more/",
+      "published_at": "2026-08-17T22:40:18+00:00",
+      "source": "cryptoslate.com",
+      "score": 4,
+      "ntitle": "solana treasury firm cuts shares 700 1 but leaves room nearly 100 billion more",
+      "coins": [
+        "SOL"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": true,
+      "agency": "Treasury"
+    },
+    {
+      "title": "Binance Pay Expands Crypto Payments to 3,700 Bhutan Merchants",
+      "link": "https://news.bitcoin.com/crypto-news/binance-pay-expands-crypto-payments-to-3700-bhutan-merchants/",
+      "published_at": "2026-08-17T23:20:12+00:00",
+      "source": "news.bitcoin.com",
+      "score": 3,
+      "ntitle": "binance pay expands crypto payments 3 700 bhutan merchants",
+      "coins": [
+        "BNB"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
       "title": "Crypto loans decline 16% in Q2 – Is the lending market resetting?",
       "link": "https://ambcrypto.com/crypto-loans-decline-16-in-q2-is-the-lending-market-resetting/",
       "published_at": "2026-08-17T23:00:29+00:00",
@@ -26,116 +106,14 @@
       "agency": null
     },
     {
-      "title": "Anthropic tells investors annualized revenue run rate climbed to $65 billion in July",
-      "link": "https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html",
-      "published_at": "2026-08-17T22:55:31+00:00",
-      "source": "cnbc.com",
-      "score": 2,
-      "ntitle": "anthropic tells investors annualized revenue run rate climbed 65 billion july",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Music publisher Round Hill sues Anthropic and Suno over AI training with 500+ songs",
-      "link": "https://cryptobriefing.com/round-hill-music-sues-anthropic-suno-ai-training/",
-      "published_at": "2026-08-17T22:49:49+00:00",
-      "source": "cryptobriefing.com",
-      "score": 2,
-      "ntitle": "music publisher round hill sues anthropic suno over ai training 500 songs",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Solana treasury firm cuts shares 700-for-1 but leaves room for nearly 100 billion more",
-      "link": "https://cryptoslate.com/solana-treasury-firm-cuts-shares-700-for-1-but-leaves-room-for-nearly-100-billion-more/",
-      "published_at": "2026-08-17T22:40:18+00:00",
-      "source": "cryptoslate.com",
-      "score": 4,
-      "ntitle": "solana treasury firm cuts shares 700 1 but leaves room nearly 100 billion more",
-      "coins": [
-        "SOL"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": true,
-      "agency": "Treasury"
-    },
-    {
-      "title": "Kraken Parent Payward Joins Glasswing, Gets Access to Claude Mythos to Hunt Security Flaws",
-      "link": "https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos",
-      "published_at": "2026-08-17T22:35:46+00:00",
-      "source": "decrypt.co",
-      "score": 2,
-      "ntitle": "kraken parent payward joins glasswing gets access claude mythos hunt security flaws",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Bitcoin catches a bid after weekly loss, on track for best day in over a month",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-635k-iran-tensions-us-regulations-in-focus-4862213",
-      "published_at": "2026-08-17T22:27:24+00:00",
-      "source": "investing.com",
-      "score": 1,
-      "ntitle": "bitcoin catches bid after weekly loss track best day over month",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Bank of Russia Limits Crypto Equity to 25% for Market Brokers",
-      "link": "https://news.bitcoin.com/regulation-and-legal/bank-of-russia-limits-crypto-equity-to-25-for-market-brokers/",
-      "published_at": "2026-08-17T22:17:00+00:00",
-      "source": "news.bitcoin.com",
-      "score": 5,
-      "ntitle": "bank russia limits crypto equity 25 market brokers",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Nike Stock Hits 12-Year Low: Riskier Than Bitcoin?",
-      "link": "https://beincrypto.com/nike-stock-12-year-low-bitcoin/",
-      "published_at": "2026-08-17T22:18:36+00:00",
-      "source": "beincrypto.com",
-      "score": 1,
-      "ntitle": "nike stock hits 12 year low riskier than bitcoin",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "US and Canada negotiate to close gaps on auto tariff cuts as deadline looms",
-      "link": "https://cryptobriefing.com/us-canada-auto-tariff-negotiations/",
-      "published_at": "2026-08-17T22:46:33+00:00",
+      "title": "Hong Kong cuts taxes for hedge funds, sparking financial sector maneuvering",
+      "link": "https://cryptobriefing.com/hong-kong-hedge-fund-tax-cuts/",
+      "published_at": "2026-08-17T23:21:14+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "us canada negotiate close gaps auto tariff cuts deadline looms",
+      "ntitle": "hong kong cuts taxes hedge funds sparking financial sector maneuvering",
       "coins": [],
       "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Minnesota Says xAI's Grok Created 'Marketplace for Digital Sexual Violence'",
-      "link": "https://decrypt.co/375828/minnesota-xai-grok-marketplace-digital-sexual-violence",
-      "published_at": "2026-08-17T22:16:03+00:00",
-      "source": "decrypt.co",
-      "score": 1,
-      "ntitle": "minnesota says xai s grok created marketplace digital sexual violence",
-      "coins": [],
-      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     }
@@ -166,13 +144,15 @@
       "agency": null
     },
     {
-      "title": "Top US Stock Picks From Warren Buffett Successor Greg Abel",
-      "link": "https://beincrypto.com/greg-abel-warren-buffett-top-us-stock-picks/",
-      "published_at": "2026-08-17T21:27:43+00:00",
+      "title": "Nike Stock Hits 12-Year Low: Riskier Than Bitcoin?",
+      "link": "https://beincrypto.com/nike-stock-12-year-low-bitcoin/",
+      "published_at": "2026-08-17T22:18:36+00:00",
       "source": "beincrypto.com",
       "score": 1,
-      "ntitle": "top us stock picks warren buffett successor greg abel",
-      "coins": [],
+      "ntitle": "nike stock hits 12 year low riskier than bitcoin",
+      "coins": [
+        "BTC"
+      ],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
@@ -218,14 +198,14 @@
       "agency": null
     },
     {
-      "title": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio",
-      "link": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
-      "published_at": "2026-08-17T21:22:37+00:00",
+      "title": "Jim Cramer says it’s not too late to own any one of these 4 soaring memory stocks",
+      "link": "https://www.cnbc.com/2026/08/17/cramer-buy-soaring-memory-stocks.html",
+      "published_at": "2026-08-17T22:20:01+00:00",
       "source": "cnbc.com",
-      "score": 1,
-      "ntitle": "nvidia backing 105 billion financing openai data center ohio",
+      "score": 2,
+      "ntitle": "jim cramer says it s not too late own any one these 4 soaring memory stocks",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -292,16 +272,16 @@
       "agency": "Regulatory"
     },
     {
-      "title": "30-year US Treasury yield hits highest level in nearly 20 years",
-      "link": "https://cryptobriefing.com/30-year-treasury-yield-highest-20-years/",
-      "published_at": "2026-08-17T22:11:12+00:00",
+      "title": "The White House hires cyber privateers to combat pig butchering scams",
+      "link": "https://cryptobriefing.com/white-house-cyber-privateers-pig-butchering-scams/",
+      "published_at": "2026-08-17T22:24:37+00:00",
       "source": "cryptobriefing.com",
-      "score": 3,
-      "ntitle": "30 year us treasury yield hits highest level nearly 20 years",
+      "score": 1,
+      "ntitle": "white house hires cyber privateers combat pig butchering scams",
       "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": true,
-      "agency": "Treasury"
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Pump.fun Under Fire Again: Curve Finance Founder Calls It a ‘Casino’ for Meme Coins",
@@ -340,38 +320,38 @@
       "agency": "Treasury"
     },
     {
-      "title": "Prediction Markets Give the Fed 74% Odds of Standing Pat in September",
-      "link": "https://decrypt.co/375821/prediction-fed-rate-change-september",
-      "published_at": "2026-08-17T21:16:17+00:00",
+      "title": "Kraken Parent Payward Joins Glasswing, Gets Access to Claude Mythos to Hunt Security Flaws",
+      "link": "https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos",
+      "published_at": "2026-08-17T22:35:46+00:00",
       "source": "decrypt.co",
-      "score": 1,
-      "ntitle": "prediction markets give fed 74 odds standing pat september",
+      "score": 2,
+      "ntitle": "kraken parent payward joins glasswing gets access claude mythos hunt security flaws",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Bitcoin tests $65,600 resistance with weak trend: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-coiled-at-63591-with-volatility-at-6month-lows-live-levels-93CH-4862234",
-      "published_at": "2026-08-17T19:19:17+00:00",
+      "title": "Bitcoin catches a bid after weekly loss, on track for best day in over a month",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-635k-iran-tensions-us-regulations-in-focus-4862213",
+      "published_at": "2026-08-17T22:27:24+00:00",
       "source": "investing.com",
       "score": 1,
-      "ntitle": "bitcoin tests 65 600 resistance weak trend live levels",
+      "ntitle": "bitcoin catches bid after weekly loss track best day over month",
       "coins": [
         "BTC"
       ],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "HIVE Digital Lands $350M AI Deal With 5-Year Cloud Contract",
-      "link": "https://news.bitcoin.com/technology/hive-digital-lands-350m-ai-deal-with-5-year-cloud-contract/",
-      "published_at": "2026-08-17T21:24:09+00:00",
+      "title": "Bank of Russia Limits Crypto Equity to 25% for Market Brokers",
+      "link": "https://news.bitcoin.com/regulation-and-legal/bank-of-russia-limits-crypto-equity-to-25-for-market-brokers/",
+      "published_at": "2026-08-17T22:17:00+00:00",
       "source": "news.bitcoin.com",
-      "score": 1,
-      "ntitle": "hive digital lands 350m ai deal 5 year cloud contract",
+      "score": 5,
+      "ntitle": "bank russia limits crypto equity 25 market brokers",
       "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
@@ -456,14 +436,14 @@
       "agency": "Treasury"
     },
     {
-      "title": "YouTube Views are About to Explode, But Your Money Won’t",
-      "link": "https://beincrypto.com/youtube-view-count-change-creator-pay/",
-      "published_at": "2026-08-17T20:05:25+00:00",
+      "title": "Top US Stock Picks From Warren Buffett Successor Greg Abel",
+      "link": "https://beincrypto.com/greg-abel-warren-buffett-top-us-stock-picks/",
+      "published_at": "2026-08-17T21:27:43+00:00",
       "source": "beincrypto.com",
       "score": 1,
-      "ntitle": "youtube views about explode but your money won t",
+      "ntitle": "top us stock picks warren buffett successor greg abel",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -511,14 +491,14 @@
       "agency": null
     },
     {
-      "title": "Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations",
-      "link": "https://www.cnbc.com/2026/08/15/strategic-petroleum-reserve-spr-oil-iran-war-caverns.html",
-      "published_at": "2026-08-17T18:09:01+00:00",
+      "title": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio",
+      "link": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
+      "published_at": "2026-08-17T21:22:37+00:00",
       "source": "cnbc.com",
-      "score": 2,
-      "ntitle": "depleted strategic oil reserve nears level that raises concerns about damage caverns operations",
+      "score": 1,
+      "ntitle": "nvidia backing 105 billion financing openai data center ohio",
       "coins": [],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     }
@@ -1095,7 +1075,7 @@
   ],
   "clusters": [
     {
-      "id": 5,
+      "id": 16,
       "title": "Kraken Parent Payward Joins Glasswing, Gets Access to Claude Mythos to Hunt Security Flaws",
       "link": "https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos",
       "source": "decrypt.co",
@@ -1103,22 +1083,22 @@
       "sentiment": "bearish",
       "coins": [],
       "sources": [
-        "decrypt.co",
-        "coindesk.com"
+        "coindesk.com",
+        "decrypt.co"
       ],
       "count": 2,
       "members": [
-        {
-          "title": "Kraken Parent Payward Joins Glasswing, Gets Access to Claude Mythos to Hunt Security Flaws",
-          "link": "https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos",
-          "source": "decrypt.co",
-          "published_at": "2026-08-17T22:35:46+00:00"
-        },
         {
           "title": "Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push",
           "link": "https://www.coindesk.com/tech/2026/08/17/kraken-parent-payward-joins-anthropic-s-project-glasswing-for-ai-security-push",
           "source": "coindesk.com",
           "published_at": "2026-08-17T22:12:00+00:00"
+        },
+        {
+          "title": "Kraken Parent Payward Joins Glasswing, Gets Access to Claude Mythos to Hunt Security Flaws",
+          "link": "https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos",
+          "source": "decrypt.co",
+          "published_at": "2026-08-17T22:35:46+00:00"
         }
       ]
     }
@@ -1126,52 +1106,52 @@
   "trending": [
     {
       "tag": "#Ai",
-      "count": 65,
+      "count": 60,
       "type": "topic",
       "pct": 100
     },
     {
       "tag": "#XRP",
-      "count": 43,
+      "count": 44,
       "type": "coin",
-      "pct": 66
+      "pct": 73
     },
     {
       "tag": "#Xrp",
-      "count": 38,
+      "count": 39,
       "type": "topic",
-      "pct": 58
+      "pct": 65
     },
     {
       "tag": "#Defi",
-      "count": 33,
+      "count": 32,
       "type": "topic",
-      "pct": 51
+      "pct": 53
+    },
+    {
+      "tag": "#BTC",
+      "count": 23,
+      "type": "coin",
+      "pct": 38
     },
     {
       "tag": "#Bitcoin",
       "count": 22,
       "type": "topic",
-      "pct": 34
-    },
-    {
-      "tag": "#BTC",
-      "count": 20,
-      "type": "coin",
-      "pct": 31
+      "pct": 37
     },
     {
       "tag": "#ETH",
-      "count": 15,
+      "count": 16,
       "type": "coin",
-      "pct": 23
+      "pct": 27
     },
     {
       "tag": "#Ethereum",
-      "count": 13,
+      "count": 12,
       "type": "topic",
       "pct": 20
     }
   ],
-  "generated_at": "2026-08-17T23:15:19.492159+00:00"
+  "generated_at": "2026-08-17T23:37:08.968247+00:00"
 }
