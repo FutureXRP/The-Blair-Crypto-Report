@@ -2,14 +2,16 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "CASHCAT pulls back 16% – $0.144 is still in play ONLY IF…",
-      "link": "https://ambcrypto.com/cashcat-pulls-back-16-0-144-is-still-in-play-only-if/",
-      "published_at": "2026-08-17T16:00:36+00:00",
+      "title": "BNB crypto stalls below $620 — Can bulls open the door to $666?",
+      "link": "https://ambcrypto.com/bnb-crypto-stalls-below-620-can-bulls-open-the-door-to-666/",
+      "published_at": "2026-08-17T16:29:58+00:00",
       "source": "ambcrypto.com",
       "score": 1,
-      "ntitle": "cashcat pulls back 16 0 144 still play only if",
-      "coins": [],
-      "sentiment": "bullish",
+      "ntitle": "bnb crypto stalls below 620 can bulls open door 666",
+      "coins": [
+        "BNB"
+      ],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -26,12 +28,24 @@
       "agency": null
     },
     {
-      "title": "Semiconductor Rally Defies Market Weakness as Retail Earnings Loom",
-      "link": "https://blockonomi.com/semiconductor-rally-defies-market-weakness-as-retail-earnings-loom/",
-      "published_at": "2026-08-17T16:10:19+00:00",
+      "title": "US Treasury Asks For Public Input on Landmark Genius Act Crypto Legislation",
+      "link": "https://bitcoinmagazine.com/news/us-treasury-asks-for-input-on-genius-act",
+      "published_at": "2026-08-17T16:36:51+00:00",
+      "source": "bitcoinmagazine.com",
+      "score": 5,
+      "ntitle": "us treasury asks public input landmark genius act crypto legislation",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": true,
+      "agency": "Treasury"
+    },
+    {
+      "title": "Nvidia (NVDA) Stock Climbs on $600B Revenue Projection from OpenAI Partnership",
+      "link": "https://blockonomi.com/nvidia-nvda-stock-climbs-on-600b-revenue-projection-from-openai-partnership/",
+      "published_at": "2026-08-17T16:47:03+00:00",
       "source": "blockonomi.com",
       "score": 3,
-      "ntitle": "semiconductor rally defies market weakness retail earnings loom",
+      "ntitle": "nvidia nvda stock climbs 600b revenue projection openai partnership",
       "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -50,80 +64,64 @@
       "agency": null
     },
     {
-      "title": "Compound bets $52 million, new leadership team in switch to institutional focus",
-      "link": "https://www.coindesk.com/business/2026/08/17/compound-bets-usd52-million-new-leadership-team-in-switch-to-institutional-focus",
-      "published_at": "2026-08-17T15:32:30+00:00",
+      "title": "BitMart founder dismisses calls for audit as users report blocked funds, unpaid employees",
+      "link": "https://www.coindesk.com/business/2026/08/17/bitmart-founder-dismisses-calls-for-audit-as-users-report-blocked-funds-unpaid-employees",
+      "published_at": "2026-08-17T16:40:08+00:00",
       "source": "coindesk.com",
-      "score": 3,
-      "ntitle": "compound bets 52 million new leadership team switch institutional focus",
+      "score": 2,
+      "ntitle": "bitmart founder dismisses calls audit users report blocked funds unpaid employees",
       "coins": [],
-      "sentiment": "bullish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Bitmine nears 5% of Ethereum supply despite $8.4B in unrealized losses",
-      "link": "https://cointelegraph.com/news/bitmine-ethereum-supply-5-82-million-eth-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-08-17T16:04:32+00:00",
+      "title": "US Treasury moves forward with rules on GENIUS Act after July deadline",
+      "link": "https://cointelegraph.com/news/us-treasury-public-comment-rules-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-08-17T16:29:48+00:00",
       "source": "cointelegraph.com",
-      "score": 3,
-      "ntitle": "bitmine nears 5 ethereum supply despite 8 4b unrealized losses",
-      "coins": [
-        "ETH"
-      ],
+      "score": 9,
+      "ntitle": "us treasury moves forward rules genius act after july deadline",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "Treasury"
+    },
+    {
+      "title": "The Odyssey pirated downloads target crypto wallets",
+      "link": "https://crypto.news/the-odyssey-pirated-downloads-target-crypto-wallets/",
+      "published_at": "2026-08-17T16:34:06+00:00",
+      "source": "crypto.news",
+      "score": 1,
+      "ntitle": "odyssey pirated downloads target crypto wallets",
+      "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Bitcoin price reclaims $64K as volatility trap hits 91",
-      "link": "https://crypto.news/bitcoin-price-reclaims-64k-as-volatility-trap-hits-91/",
-      "published_at": "2026-08-17T16:18:13+00:00",
-      "source": "crypto.news",
+      "title": "Trump demands Iran surrender as MoU expires, escalating tensions",
+      "link": "https://cryptobriefing.com/trump-demands-iran-surrender-as-mou-expires-escalating-tensions/",
+      "published_at": "2026-08-17T16:53:05+00:00",
+      "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "bitcoin price reclaims 64k volatility trap hits 91",
+      "ntitle": "trump demands iran surrender mou expires escalating tensions",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Bitcoin Core feature freeze nears as rebase issues hit unencrypted-connection proposal",
+      "link": "https://cryptoslate.com/merge-conflicts-and-unencrypted-traffic-risks-loom-as-bitcoin-core-prepares-to-lock-down-new-node-features-on-thursday/",
+      "published_at": "2026-08-17T16:30:39+00:00",
+      "source": "cryptoslate.com",
+      "score": 2,
+      "ntitle": "bitcoin core feature freeze nears rebase issues hit unencrypted connection proposal",
       "coins": [
         "BTC"
       ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "ByteDance signs AI copyright MOU with Motion Picture Association in historic first deal",
-      "link": "https://cryptobriefing.com/bytedance-mpa-copyright-agreement-ai/",
-      "published_at": "2026-08-17T16:25:40+00:00",
-      "source": "cryptobriefing.com",
-      "score": 2,
-      "ntitle": "bytedance signs ai copyright mou motion picture association historic first deal",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Trader Turns $9.6K Into $282K Tracking CZ’s Wallet",
-      "link": "https://cryptopotato.com/trader-turns-9-6k-into-282k-tracking-czs-wallet/",
-      "published_at": "2026-08-17T15:45:54+00:00",
-      "source": "cryptopotato.com",
-      "score": 1,
-      "ntitle": "trader turns 9 6k into 282k tracking cz s wallet",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Ethereum’s next major upgrade just slipped to late 2026, forcing a two-week scramble to save its 2027 roadmap",
-      "link": "https://cryptoslate.com/ethereums-next-major-upgrade-just-slipped-to-late-2026-forcing-a-two-week-scramble-to-save-its-2027-roadmap/",
-      "published_at": "2026-08-17T15:35:20+00:00",
-      "source": "cryptoslate.com",
-      "score": 4,
-      "ntitle": "ethereum s next major upgrade just slipped late 2026 forcing two week scramble save 2027 roadmap",
-      "coins": [
-        "ETH"
-      ],
-      "sentiment": "bullish",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -164,86 +162,78 @@
       "agency": null
     },
     {
-      "title": "Stripe’s Reported $7 Billion OpenRouter Deal Buys Micropayments Without a Blockchain",
-      "link": "https://thedefiant.io/news/tradfi-and-fintech/stripe-openrouter-deal-micropayments-without-blockchain",
-      "published_at": "2026-08-17T15:52:20+00:00",
-      "source": "thedefiant.io",
-      "score": 4,
-      "ntitle": "stripe s reported 7 billion openrouter deal buys micropayments without blockchain",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Keep America 'The Crypto Capital of the World': US Treasury Chief Bessent Speaks Out on Stablecoins",
-      "link": "https://u.today/keep-america-the-crypto-capital-of-the-world-us-treasury-chief-bessent-speaks-out-on-stablecoins",
-      "published_at": "2026-08-17T16:05:15+00:00",
+      "title": "Bitcoin Drain Is Over: Santiment Data Shows Exchange Supplies Surge 84%",
+      "link": "https://u.today/bitcoin-drain-is-over-santiment-data-shows-exchange-supplies-surge-84",
+      "published_at": "2026-08-17T16:30:05+00:00",
       "source": "u.today",
-      "score": 4,
-      "ntitle": "keep america crypto capital world us treasury chief bessent speaks out stablecoins",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Treasury"
-    },
-    {
-      "title": "6 Altcoins That Could Benefit From Treasury’s New Stablecoin Rules",
-      "link": "https://beincrypto.com/altcoins-benefit-treasury-stablecoin-rules/",
-      "published_at": "2026-08-17T15:45:00+00:00",
-      "source": "beincrypto.com",
-      "score": 3,
-      "ntitle": "6 altcoins that could benefit treasury s new stablecoin rules",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Treasury"
-    },
-    {
-      "title": "Vista Energy (VIST) Stock Soars 5% as Peter Thiel’s Fund Takes $76M Position",
-      "link": "https://blockonomi.com/vista-energy-vist-stock-soars-5-as-peter-thiels-fund-takes-76m-position/",
-      "published_at": "2026-08-17T16:08:06+00:00",
-      "source": "blockonomi.com",
       "score": 1,
-      "ntitle": "vista energy vist stock soars 5 peter thiel s fund takes 76m position",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "An insight into Bitcoin’s safety: Coldcard firmware vulnerability exposed; $112 million in Bitcoin Stolen",
-      "link": "https://crypto.news/an-insight-into-bitcoins-safety-coldcard-firmware-vulnerability-exposed-112-million-in-bitcoin-stolen/",
-      "published_at": "2026-08-17T16:00:00+00:00",
-      "source": "crypto.news",
-      "score": 9,
-      "ntitle": "insight into bitcoin s safety coldcard firmware vulnerability exposed 112 million bitcoin stolen",
+      "ntitle": "bitcoin drain over santiment data shows exchange supplies surge 84",
       "coins": [
         "BTC"
       ],
-      "sentiment": "bearish",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Donald Trump says he is in no hurry to end war with Iran",
-      "link": "https://cryptobriefing.com/trump-no-hurry-end-iran-war/",
-      "published_at": "2026-08-17T16:25:09+00:00",
-      "source": "cryptobriefing.com",
+      "title": "CASHCAT pulls back 16% – $0.144 is still in play ONLY IF…",
+      "link": "https://ambcrypto.com/cashcat-pulls-back-16-0-144-is-still-in-play-only-if/",
+      "published_at": "2026-08-17T16:00:36+00:00",
+      "source": "ambcrypto.com",
       "score": 1,
-      "ntitle": "donald trump says he no hurry end war iran",
+      "ntitle": "cashcat pulls back 16 0 144 still play only if",
       "coins": [],
-      "sentiment": "bearish",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "What Stripe's $7 Billion OpenRouter Deal Actually Means for AI",
-      "link": "https://decrypt.co/375769/what-stripe-openrouter-deal-means-ai",
-      "published_at": "2026-08-17T15:54:29+00:00",
-      "source": "decrypt.co",
+      "title": "Semiconductor Rally Defies Market Weakness as Retail Earnings Loom",
+      "link": "https://blockonomi.com/semiconductor-rally-defies-market-weakness-as-retail-earnings-loom/",
+      "published_at": "2026-08-17T16:10:19+00:00",
+      "source": "blockonomi.com",
+      "score": 3,
+      "ntitle": "semiconductor rally defies market weakness retail earnings loom",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Bitcoin hits $64K as gold gains while oil shakes off Trump Oman threat",
+      "link": "https://cointelegraph.com/markets/bitcoin-hits-64k-as-gold-gains-while-oil-shakes-off-trump-oman-threat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-08-17T16:16:40+00:00",
+      "source": "cointelegraph.com",
       "score": 1,
-      "ntitle": "what stripe s 7 billion openrouter deal actually means ai",
+      "ntitle": "bitcoin hits 64k gold gains while oil shakes off trump oman threat",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Bitcoin price reclaims $64K as volatility trap hits 91",
+      "link": "https://crypto.news/bitcoin-price-reclaims-64k-as-volatility-trap-hits-91/",
+      "published_at": "2026-08-17T16:18:13+00:00",
+      "source": "crypto.news",
+      "score": 1,
+      "ntitle": "bitcoin price reclaims 64k volatility trap hits 91",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "US prosecutors investigate four businesses linked to billionaire Mark Walter",
+      "link": "https://cryptobriefing.com/us-prosecutors-investigate-mark-walter-businesses/",
+      "published_at": "2026-08-17T16:50:35+00:00",
+      "source": "cryptobriefing.com",
+      "score": 3,
+      "ntitle": "us prosecutors investigate four businesses linked billionaire mark walter",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -262,16 +252,16 @@
       "agency": "Regulatory"
     },
     {
-      "title": "Ledger CEO: 'Total Safety Doesn't Exist'",
-      "link": "https://u.today/ledger-ceo-total-safety-doesnt-exist",
-      "published_at": "2026-08-17T15:55:40+00:00",
+      "title": "Keep America 'The Crypto Capital of the World': US Treasury Chief Bessent Speaks Out on Stablecoins",
+      "link": "https://u.today/keep-america-the-crypto-capital-of-the-world-us-treasury-chief-bessent-speaks-out-on-stablecoins",
+      "published_at": "2026-08-17T16:05:15+00:00",
       "source": "u.today",
-      "score": 1,
-      "ntitle": "ledger ceo total safety doesn t exist",
+      "score": 4,
+      "ntitle": "keep america crypto capital world us treasury chief bessent speaks out stablecoins",
       "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Treasury"
     }
   ],
   "day": [
@@ -288,15 +278,13 @@
       "agency": null
     },
     {
-      "title": "AI Debt Lifts 30-Year Treasury Yield to 5.27%: Can Bitcoin Compete?",
-      "link": "https://beincrypto.com/ai-debt-treasury-yields-bitcoin/",
-      "published_at": "2026-08-17T15:00:20+00:00",
+      "title": "6 Altcoins That Could Benefit From Treasury’s New Stablecoin Rules",
+      "link": "https://beincrypto.com/altcoins-benefit-treasury-stablecoin-rules/",
+      "published_at": "2026-08-17T15:45:00+00:00",
       "source": "beincrypto.com",
       "score": 3,
-      "ntitle": "ai debt lifts 30 year treasury yield 5 27 can bitcoin compete",
-      "coins": [
-        "BTC"
-      ],
+      "ntitle": "6 altcoins that could benefit treasury s new stablecoin rules",
+      "coins": [],
       "sentiment": "neutral",
       "is_regulation": true,
       "agency": "Treasury"
@@ -330,6 +318,20 @@
       "agency": null
     },
     {
+      "title": "Strive, Inc. (ASST) Stock Climbs After Adding 79 Bitcoin to Treasury Reserves",
+      "link": "https://blockonomi.com/strive-inc-asst-stock-climbs-after-adding-79-bitcoin-to-treasury-reserves/",
+      "published_at": "2026-08-17T15:49:57+00:00",
+      "source": "blockonomi.com",
+      "score": 3,
+      "ntitle": "strive inc asst stock climbs after adding 79 bitcoin treasury reserves",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Treasury"
+    },
+    {
       "title": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio",
       "link": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
       "published_at": "2026-08-17T15:26:52+00:00",
@@ -342,16 +344,16 @@
       "agency": null
     },
     {
-      "title": "U.S. Treasury Department proposes GENIUS Act stablecoin rule",
-      "link": "https://www.coindesk.com/policy/2026/08/17/u-s-treasury-department-proposes-genius-act-stablecoin-rule",
-      "published_at": "2026-08-17T14:44:29+00:00",
+      "title": "Compound bets $52 million, new leadership team in switch to institutional focus",
+      "link": "https://www.coindesk.com/business/2026/08/17/compound-bets-usd52-million-new-leadership-team-in-switch-to-institutional-focus",
+      "published_at": "2026-08-17T15:32:30+00:00",
       "source": "coindesk.com",
       "score": 3,
-      "ntitle": "u s treasury department proposes genius act stablecoin rule",
+      "ntitle": "compound bets 52 million new leadership team switch institutional focus",
       "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Treasury"
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "U.S. Treasury Seeks Public Comment on Stablecoin Issuance to Implement GENIUS Act",
@@ -392,40 +394,40 @@
       "agency": null
     },
     {
-      "title": "SEC plans regulatory path for 24/7 tokenized stocks",
-      "link": "https://crypto.news/sec-plans-regulatory-path-for-24-7-tokenized-stocks/",
-      "published_at": "2026-08-17T15:14:13+00:00",
+      "title": "OpenAI secures 20-year Ohio data center lease backed by Nvidia",
+      "link": "https://crypto.news/openai-secures-20-year-ohio-data-center-backed-nvidia/",
+      "published_at": "2026-08-17T15:42:42+00:00",
       "source": "crypto.news",
-      "score": 5,
-      "ntitle": "sec plans regulatory path 24 7 tokenized stocks",
+      "score": 1,
+      "ntitle": "openai secures 20 year ohio data center lease backed nvidia",
       "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": true,
-      "agency": "SEC"
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     },
     {
-      "title": "BitMine Cuts Weekly Buyback to 1.7M Shares as ETH Treasury Hits 5.82 Million",
-      "link": "https://cryptopotato.com/bitmine-cuts-weekly-buyback-to-1-7m-shares-as-eth-treasury-hits-5-82-million/",
-      "published_at": "2026-08-17T14:00:59+00:00",
+      "title": "Trader Turns $9.6K Into $282K Tracking CZ’s Wallet",
+      "link": "https://cryptopotato.com/trader-turns-9-6k-into-282k-tracking-czs-wallet/",
+      "published_at": "2026-08-17T15:45:54+00:00",
       "source": "cryptopotato.com",
-      "score": 3,
-      "ntitle": "bitmine cuts weekly buyback 1 7m shares eth treasury hits 5 82 million",
+      "score": 1,
+      "ntitle": "trader turns 9 6k into 282k tracking cz s wallet",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Ethereum’s next major upgrade just slipped to late 2026, forcing a two-week scramble to save its 2027 roadmap",
+      "link": "https://cryptoslate.com/ethereums-next-major-upgrade-just-slipped-to-late-2026-forcing-a-two-week-scramble-to-save-its-2027-roadmap/",
+      "published_at": "2026-08-17T15:35:20+00:00",
+      "source": "cryptoslate.com",
+      "score": 4,
+      "ntitle": "ethereum s next major upgrade just slipped late 2026 forcing two week scramble save 2027 roadmap",
       "coins": [
         "ETH"
       ],
-      "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Treasury"
-    },
-    {
-      "title": "Why accepting crypto payments over €1,000 on Bitstamp can reportedly freeze your assets starting tomorrow",
-      "link": "https://cryptoslate.com/why-accepting-crypto-payments-over-e1000-on-bitstamp-can-freeze-your-assets-starting-tomorrow/",
-      "published_at": "2026-08-17T14:15:11+00:00",
-      "source": "cryptoslate.com",
-      "score": 2,
-      "ntitle": "why accepting crypto payments over 1 000 bitstamp can reportedly freeze your assets starting tomorrow",
-      "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -445,16 +447,14 @@
       "agency": null
     },
     {
-      "title": "Hackers Are Abusing a macOS Screen Sharing Flaw to Secretly Mine Monero",
-      "link": "https://decrypt.co/375749/hackers-macos-screen-sharing-secretly-mine-monero",
-      "published_at": "2026-08-17T13:31:04+00:00",
+      "title": "What Stripe's $7 Billion OpenRouter Deal Actually Means for AI",
+      "link": "https://decrypt.co/375769/what-stripe-openrouter-deal-means-ai",
+      "published_at": "2026-08-17T15:54:29+00:00",
       "source": "decrypt.co",
       "score": 1,
-      "ntitle": "hackers abusing macos screen sharing flaw secretly mine monero",
-      "coins": [
-        "XMR"
-      ],
-      "sentiment": "bearish",
+      "ntitle": "what stripe s 7 billion openrouter deal actually means ai",
+      "coins": [],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -501,28 +501,26 @@
       "agency": null
     },
     {
-      "title": "SafePal Breach Exposes 39,798 Buyers as Stolen Records Hit Cybercrime Forum",
-      "link": "https://thedefiant.io/news/security/safepal-breach-exposes-39-798-customers-stolen-records-for-sale",
-      "published_at": "2026-08-17T15:00:00+00:00",
+      "title": "Stripe’s Reported $7 Billion OpenRouter Deal Buys Micropayments Without a Blockchain",
+      "link": "https://thedefiant.io/news/tradfi-and-fintech/stripe-openrouter-deal-micropayments-without-blockchain",
+      "published_at": "2026-08-17T15:52:20+00:00",
       "source": "thedefiant.io",
-      "score": 1,
-      "ntitle": "safepal breach exposes 39 798 buyers stolen records hit cybercrime forum",
+      "score": 4,
+      "ntitle": "stripe s reported 7 billion openrouter deal buys micropayments without blockchain",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Hyperliquid Spikes 16% From Weekend Lows as ETF Demand Intensifies",
-      "link": "https://u.today/hyperliquid-spikes-16-from-weekend-lows-as-etf-demand-intensifies",
-      "published_at": "2026-08-17T15:11:34+00:00",
+      "title": "Ledger CEO: 'Total Safety Doesn't Exist'",
+      "link": "https://u.today/ledger-ceo-total-safety-doesnt-exist",
+      "published_at": "2026-08-17T15:55:40+00:00",
       "source": "u.today",
-      "score": 5,
-      "ntitle": "hyperliquid spikes 16 weekend lows etf demand intensifies",
-      "coins": [
-        "HYPE"
-      ],
-      "sentiment": "bullish",
+      "score": 1,
+      "ntitle": "ledger ceo total safety doesn t exist",
+      "coins": [],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -553,18 +551,18 @@
       "agency": null
     },
     {
-      "title": "Why the Dollar Hit a 3-Month Low and Bitcoin Only Moved 0.7%",
-      "link": "https://beincrypto.com/dollar-3-month-low-bitcoin-reaction/",
-      "published_at": "2026-08-17T14:16:25+00:00",
+      "title": "AI Debt Lifts 30-Year Treasury Yield to 5.27%: Can Bitcoin Compete?",
+      "link": "https://beincrypto.com/ai-debt-treasury-yields-bitcoin/",
+      "published_at": "2026-08-17T15:00:20+00:00",
       "source": "beincrypto.com",
-      "score": 1,
-      "ntitle": "why dollar hit 3 month low bitcoin only moved 0 7",
+      "score": 3,
+      "ntitle": "ai debt lifts 30 year treasury yield 5 27 can bitcoin compete",
       "coins": [
         "BTC"
       ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Treasury"
     },
     {
       "title": "LTC Price Prediction: $42 Comes Before $48 — The Chart Is Warning You",
@@ -581,6 +579,18 @@
       "agency": null
     },
     {
+      "title": "Ark Invest Pours $30M Into Cloudflare (NET) and $27M Into Nvidia (NVDA), Exits $60M Deere Position",
+      "link": "https://blockonomi.com/ark-invest-pours-30m-into-cloudflare-net-and-27m-into-nvidia-nvda-exits-60m-deere-position/",
+      "published_at": "2026-08-17T15:32:22+00:00",
+      "source": "blockonomi.com",
+      "score": 4,
+      "ntitle": "ark invest pours 30m into cloudflare net 27m into nvidia nvda exits 60m deere position",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
       "title": "Depleted strategic oil reserve nears level that raises concerns about damage to caverns, operations",
       "link": "https://www.cnbc.com/2026/08/15/strategic-petroleum-reserve-spr-oil-iran-war-caverns.html",
       "published_at": "2026-08-17T12:23:26+00:00",
@@ -593,16 +603,16 @@
       "agency": null
     },
     {
-      "title": "The Coldcard hack proves reputation is not a security model",
-      "link": "https://www.coindesk.com/opinion/2026/08/17/the-coldcard-hack-proves-reputation-is-not-a-security-model",
-      "published_at": "2026-08-17T14:09:46+00:00",
+      "title": "U.S. Treasury Department proposes GENIUS Act stablecoin rule",
+      "link": "https://www.coindesk.com/policy/2026/08/17/u-s-treasury-department-proposes-genius-act-stablecoin-rule",
+      "published_at": "2026-08-17T14:44:29+00:00",
       "source": "coindesk.com",
-      "score": 1,
-      "ntitle": "coldcard hack proves reputation not security model",
+      "score": 3,
+      "ntitle": "u s treasury department proposes genius act stablecoin rule",
       "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Treasury"
     },
     {
       "title": "BMNR Stock Outlook as Bitmine Repurchases 1.7M Shares as ETH Holdings Top 5.82M",
@@ -633,46 +643,16 @@
       "agency": null
     },
     {
-      "title": "XRP price loses $1 support as sellers target $0.98",
-      "link": "https://crypto.news/xrp-price-loses-1-support-as-sellers-target-0-98/",
-      "published_at": "2026-08-17T14:30:00+00:00",
+      "title": "SEC plans regulatory path for 24/7 tokenized stocks",
+      "link": "https://crypto.news/sec-plans-regulatory-path-for-24-7-tokenized-stocks/",
+      "published_at": "2026-08-17T15:14:13+00:00",
       "source": "crypto.news",
-      "score": 6,
-      "ntitle": "xrp price loses 1 support sellers target 0 98",
-      "coins": [
-        "XRP"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "How Will BTC React as US and Iran Reportedly Extend Ceasefire?",
-      "link": "https://cryptopotato.com/how-will-btc-react-as-us-and-iran-reportedly-extend-ceasefire/",
-      "published_at": "2026-08-17T12:41:34+00:00",
-      "source": "cryptopotato.com",
-      "score": 1,
-      "ntitle": "how will btc react us iran reportedly extend ceasefire",
-      "coins": [
-        "BTC"
-      ],
+      "score": 5,
+      "ntitle": "sec plans regulatory path 24 7 tokenized stocks",
+      "coins": [],
       "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Nasdaq healthcare company promised Bitcoin would safeguard its future – then sold every coin to stay afloat",
-      "link": "https://cryptoslate.com/nasdaq-healthcare-company-promised-bitcoin-would-safeguard-its-future-then-sold-every-coin-to-stay-afloat/",
-      "published_at": "2026-08-17T13:10:35+00:00",
-      "source": "cryptoslate.com",
-      "score": 4,
-      "ntitle": "nasdaq healthcare company promised bitcoin would safeguard future then sold every coin stay afloat",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
+      "is_regulation": true,
+      "agency": "SEC"
     }
   ],
   "week": [
@@ -855,12 +835,12 @@
       "agency": null
     },
     {
-      "title": "Michigan Survey Shows Consumer Sentiment Falling in August",
-      "link": "https://dailyhodl.com/2026/08/16/michigan-survey-shows-consumer-sentiment-falling-in-august/",
-      "published_at": "2026-08-16T14:30:51+00:00",
+      "title": "Scammers Orchestrate Elaborate Fraud Scheme, Drains $45,158 From Michigan Woman",
+      "link": "https://dailyhodl.com/2026/08/16/scammers-orchestrate-elaborate-fraud-scheme-drains-45158-from-michigan-woman/",
+      "published_at": "2026-08-16T16:55:33+00:00",
       "source": "dailyhodl.com",
       "score": 3,
-      "ntitle": "michigan survey shows consumer sentiment falling august",
+      "ntitle": "scammers orchestrate elaborate fraud scheme drains 45 158 michigan woman",
       "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
@@ -1260,7 +1240,35 @@
   ],
   "clusters": [
     {
-      "id": 13,
+      "id": 2,
+      "title": "US Treasury moves forward with rules on GENIUS Act after July deadline",
+      "link": "https://cointelegraph.com/news/us-treasury-public-comment-rules-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "published_at": "2026-08-17T16:29:48+00:00",
+      "sentiment": "bearish",
+      "coins": [],
+      "sources": [
+        "bitcoinmagazine.com",
+        "cointelegraph.com"
+      ],
+      "count": 2,
+      "members": [
+        {
+          "title": "US Treasury Asks For Public Input on Landmark Genius Act Crypto Legislation",
+          "link": "https://bitcoinmagazine.com/news/us-treasury-asks-for-input-on-genius-act",
+          "source": "bitcoinmagazine.com",
+          "published_at": "2026-08-17T16:36:51+00:00"
+        },
+        {
+          "title": "US Treasury moves forward with rules on GENIUS Act after July deadline",
+          "link": "https://cointelegraph.com/news/us-treasury-public-comment-rules-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "cointelegraph.com",
+          "published_at": "2026-08-17T16:29:48+00:00"
+        }
+      ]
+    },
+    {
+      "id": 33,
       "title": "Stripe’s Reported $7 Billion OpenRouter Deal Buys Micropayments Without a Blockchain",
       "link": "https://thedefiant.io/news/tradfi-and-fintech/stripe-openrouter-deal-micropayments-without-blockchain",
       "source": "thedefiant.io",
@@ -1274,21 +1282,49 @@
       "count": 2,
       "members": [
         {
-          "title": "Stripe’s Reported $7 Billion OpenRouter Deal Buys Micropayments Without a Blockchain",
-          "link": "https://thedefiant.io/news/tradfi-and-fintech/stripe-openrouter-deal-micropayments-without-blockchain",
-          "source": "thedefiant.io",
-          "published_at": "2026-08-17T15:52:20+00:00"
-        },
-        {
           "title": "What Stripe's $7 Billion OpenRouter Deal Actually Means for AI",
           "link": "https://decrypt.co/375769/what-stripe-openrouter-deal-means-ai",
           "source": "decrypt.co",
           "published_at": "2026-08-17T15:54:29+00:00"
+        },
+        {
+          "title": "Stripe’s Reported $7 Billion OpenRouter Deal Buys Micropayments Without a Blockchain",
+          "link": "https://thedefiant.io/news/tradfi-and-fintech/stripe-openrouter-deal-micropayments-without-blockchain",
+          "source": "thedefiant.io",
+          "published_at": "2026-08-17T15:52:20+00:00"
         }
       ]
     },
     {
-      "id": 26,
+      "id": 25,
+      "title": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio",
+      "link": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
+      "source": "cnbc.com",
+      "published_at": "2026-08-17T15:26:52+00:00",
+      "sentiment": "neutral",
+      "coins": [],
+      "sources": [
+        "crypto.news",
+        "cnbc.com"
+      ],
+      "count": 2,
+      "members": [
+        {
+          "title": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio",
+          "link": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
+          "source": "cnbc.com",
+          "published_at": "2026-08-17T15:26:52+00:00"
+        },
+        {
+          "title": "OpenAI secures 20-year Ohio data center lease backed by Nvidia",
+          "link": "https://crypto.news/openai-secures-20-year-ohio-data-center-backed-nvidia/",
+          "source": "crypto.news",
+          "published_at": "2026-08-17T15:42:42+00:00"
+        }
+      ]
+    },
+    {
+      "id": 27,
       "title": "U.S. Treasury Seeks Public Comment on Stablecoin Issuance to Implement GENIUS Act",
       "link": "https://coingape.com/u-s-treasury-seeks-public-comment-on-stablecoin-issuance-to-implement-genius-act/",
       "source": "coingape.com",
@@ -1302,51 +1338,21 @@
       "count": 2,
       "members": [
         {
-          "title": "U.S. Treasury Department proposes GENIUS Act stablecoin rule",
-          "link": "https://www.coindesk.com/policy/2026/08/17/u-s-treasury-department-proposes-genius-act-stablecoin-rule",
-          "source": "coindesk.com",
-          "published_at": "2026-08-17T14:44:29+00:00"
-        },
-        {
           "title": "U.S. Treasury Seeks Public Comment on Stablecoin Issuance to Implement GENIUS Act",
           "link": "https://coingape.com/u-s-treasury-seeks-public-comment-on-stablecoin-issuance-to-implement-genius-act/",
           "source": "coingape.com",
           "published_at": "2026-08-17T15:09:56+00:00"
-        }
-      ]
-    },
-    {
-      "id": 30,
-      "title": "BitMine Cuts Weekly Buyback to 1.7M Shares as ETH Treasury Hits 5.82 Million",
-      "link": "https://cryptopotato.com/bitmine-cuts-weekly-buyback-to-1-7m-shares-as-eth-treasury-hits-5-82-million/",
-      "source": "cryptopotato.com",
-      "published_at": "2026-08-17T14:00:59+00:00",
-      "sentiment": "bearish",
-      "coins": [
-        "ETH"
-      ],
-      "sources": [
-        "cryptopotato.com",
-        "coingape.com"
-      ],
-      "count": 2,
-      "members": [
-        {
-          "title": "BitMine Cuts Weekly Buyback to 1.7M Shares as ETH Treasury Hits 5.82 Million",
-          "link": "https://cryptopotato.com/bitmine-cuts-weekly-buyback-to-1-7m-shares-as-eth-treasury-hits-5-82-million/",
-          "source": "cryptopotato.com",
-          "published_at": "2026-08-17T14:00:59+00:00"
         },
         {
-          "title": "BMNR Stock Outlook as Bitmine Repurchases 1.7M Shares as ETH Holdings Top 5.82M",
-          "link": "https://coingape.com/markets/bmnr-stock-outlook-as-bitmine-repurchases-1-7m-shares-as-eth-holdings-top-5-82m/",
-          "source": "coingape.com",
-          "published_at": "2026-08-17T14:51:34+00:00"
+          "title": "U.S. Treasury Department proposes GENIUS Act stablecoin rule",
+          "link": "https://www.coindesk.com/policy/2026/08/17/u-s-treasury-department-proposes-genius-act-stablecoin-rule",
+          "source": "coindesk.com",
+          "published_at": "2026-08-17T14:44:29+00:00"
         }
       ]
     },
     {
-      "id": 39,
+      "id": 38,
       "title": "Strategy Raises $334 Million and Buys No Bitcoin With It for an Eighth Straight Week",
       "link": "https://unchainedcrypto.com/strategy-raises-334-million-and-buys-no-bitcoin-with-it-for-an-eighth-straight-week/",
       "source": "unchainedcrypto.com",
@@ -1379,52 +1385,52 @@
   "trending": [
     {
       "tag": "#Ai",
-      "count": 68,
+      "count": 64,
       "type": "topic",
       "pct": 100
     },
     {
       "tag": "#XRP",
-      "count": 48,
+      "count": 49,
       "type": "coin",
-      "pct": 71
+      "pct": 77
     },
     {
       "tag": "#Xrp",
-      "count": 43,
+      "count": 44,
       "type": "topic",
-      "pct": 63
+      "pct": 69
     },
     {
       "tag": "#Defi",
-      "count": 36,
+      "count": 35,
       "type": "topic",
-      "pct": 53
+      "pct": 55
     },
     {
       "tag": "#BTC",
       "count": 23,
       "type": "coin",
-      "pct": 34
+      "pct": 36
     },
     {
       "tag": "#Bitcoin",
-      "count": 23,
+      "count": 21,
       "type": "topic",
-      "pct": 34
+      "pct": 33
     },
     {
       "tag": "#ETH",
       "count": 17,
       "type": "coin",
-      "pct": 25
+      "pct": 27
     },
     {
       "tag": "#Ethereum",
-      "count": 14,
+      "count": 13,
       "type": "topic",
-      "pct": 21
+      "pct": 20
     }
   ],
-  "generated_at": "2026-08-17T16:29:24.857146+00:00"
+  "generated_at": "2026-08-17T16:55:51.827765+00:00"
 }
