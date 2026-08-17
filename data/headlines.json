@@ -2,24 +2,52 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "Tutorial crypto recovers 27% – Why TUT’s rally still faces a KEY test",
-      "link": "https://ambcrypto.com/tutorial-crypto-recovers-27-why-tuts-rally-still-faces-a-key-test/",
-      "published_at": "2026-08-17T14:00:30+00:00",
+      "title": "Chainalysis sues U.S. government over TRM Labs contract – Here’s why",
+      "link": "https://ambcrypto.com/chainalysis-sues-u-s-government-over-trm-labs-contract-heres-why/",
+      "published_at": "2026-08-17T14:30:49+00:00",
       "source": "ambcrypto.com",
       "score": 1,
-      "ntitle": "tutorial crypto recovers 27 why tut s rally still faces key test",
+      "ntitle": "chainalysis sues u s government over trm labs contract here s why",
       "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Why the Dollar Hit a 3-Month Low and Bitcoin Only Moved 0.7%",
+      "link": "https://beincrypto.com/dollar-3-month-low-bitcoin-reaction/",
+      "published_at": "2026-08-17T14:16:25+00:00",
+      "source": "beincrypto.com",
+      "score": 1,
+      "ntitle": "why dollar hit 3 month low bitcoin only moved 0 7",
+      "coins": [
+        "BTC"
+      ],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "RTX (RTX) Stock Climbs as Raytheon Secures Massive $23B Tomahawk Contract",
-      "link": "https://blockonomi.com/rtx-rtx-stock-climbs-as-raytheon-secures-massive-23b-tomahawk-contract/",
-      "published_at": "2026-08-17T14:08:16+00:00",
+      "title": "Strategy Goes Another Week Without Buying — Or Selling — Bitcoin, Builds Up Cash Reserve",
+      "link": "https://bitcoinmagazine.com/news/strategy-goes-another-week-without-buying",
+      "published_at": "2026-08-17T14:23:17+00:00",
+      "source": "bitcoinmagazine.com",
+      "score": 2,
+      "ntitle": "strategy goes another week without buying or selling bitcoin builds up cash reserve",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Keel Infrastructure (KEEL) Stock Jumps 8% Following CEO’s $196K Share Purchase",
+      "link": "https://blockonomi.com/keel-infrastructure-keel-stock-jumps-8-following-ceos-196k-share-purchase/",
+      "published_at": "2026-08-17T14:39:29+00:00",
       "source": "blockonomi.com",
       "score": 1,
-      "ntitle": "rtx rtx stock climbs raytheon secures massive 23b tomahawk contract",
+      "ntitle": "keel infrastructure keel stock jumps 8 following ceo s 196k share purchase",
       "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -50,50 +78,38 @@
       "agency": null
     },
     {
-      "title": "XRP Price Eyes Recovery as SEC Plans 24/7 On-Chain Stock Trading",
-      "link": "https://coingape.com/markets/xrp-price-eyes-recovery-as-sec-plans-24-7-on-chain-stock-trading/",
-      "published_at": "2026-08-17T13:53:42+00:00",
+      "title": "SEC Prepares Framework for 24/7 Trading of Tokenized U.S. Stocks",
+      "link": "https://coingape.com/sec-prepares-framework-for-24-7-trading-of-tokenized-u-s-stocks/",
+      "published_at": "2026-08-17T14:20:06+00:00",
       "source": "coingape.com",
-      "score": 6,
-      "ntitle": "xrp price eyes recovery sec plans 24 7 chain stock trading",
-      "coins": [
-        "XRP"
-      ],
+      "score": 7,
+      "ntitle": "sec prepares framework 24 7 trading tokenized u s stocks",
+      "coins": [],
       "sentiment": "bullish",
       "is_regulation": true,
       "agency": "SEC"
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-08-17T13:20:20+00:00",
-      "source": "cointelegraph.com",
-      "score": 4,
-      "ntitle": "here s what happened crypto today",
-      "coins": [],
-      "sentiment": "neutral",
+      "title": "XRP price loses $1 support as sellers target $0.98",
+      "link": "https://crypto.news/xrp-price-loses-1-support-as-sellers-target-0-98/",
+      "published_at": "2026-08-17T14:30:00+00:00",
+      "source": "crypto.news",
+      "score": 6,
+      "ntitle": "xrp price loses 1 support sellers target 0 98",
+      "coins": [
+        "XRP"
+      ],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "US Treasury seeks feedback on new GENIUS Act stablecoin rules",
-      "link": "https://crypto.news/us-treasury-seeks-feedback-on-new-genius-act-stablecoin-rules/",
-      "published_at": "2026-08-17T14:04:12+00:00",
-      "source": "crypto.news",
-      "score": 5,
-      "ntitle": "us treasury seeks feedback new genius act stablecoin rules",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Treasury"
-    },
-    {
-      "title": "Arm’s $300B valuation boosts acquisition potential in AI chip market",
-      "link": "https://cryptobriefing.com/arm-300b-valuation-ai-chip-acquisitions/",
-      "published_at": "2026-08-17T14:10:04+00:00",
+      "title": "Vista Energy shares surge after Peter Thiel discloses stake",
+      "link": "https://cryptobriefing.com/vista-energy-peter-thiel-stake/",
+      "published_at": "2026-08-17T14:35:15+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "arm s 300b valuation boosts acquisition potential ai chip market",
+      "ntitle": "vista energy shares surge after peter thiel discloses stake",
       "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -114,32 +130,16 @@
       "agency": "Treasury"
     },
     {
-      "title": "Hackers Are Abusing a macOS Screen Sharing Flaw to Secretly Mine Monero",
-      "link": "https://decrypt.co/375749/hackers-macos-screen-sharing-secretly-mine-monero",
-      "published_at": "2026-08-17T13:31:04+00:00",
-      "source": "decrypt.co",
-      "score": 1,
-      "ntitle": "hackers abusing macos screen sharing flaw secretly mine monero",
-      "coins": [
-        "XMR"
-      ],
-      "sentiment": "bearish",
+      "title": "Why accepting crypto payments over €1,000 on Bitstamp can reportedly freeze your assets starting tomorrow",
+      "link": "https://cryptoslate.com/why-accepting-crypto-payments-over-e1000-on-bitstamp-can-freeze-your-assets-starting-tomorrow/",
+      "published_at": "2026-08-17T14:15:11+00:00",
+      "source": "cryptoslate.com",
+      "score": 2,
+      "ntitle": "why accepting crypto payments over 1 000 bitstamp can reportedly freeze your assets starting tomorrow",
+      "coins": [],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
-    },
-    {
-      "title": "Bitcoin ticks higher to $63.5k; Iran tensions, U.S. regulations in focus",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-635k-iran-tensions-us-regulations-in-focus-4862213",
-      "published_at": "2026-08-17T13:26:41+00:00",
-      "source": "investing.com",
-      "score": 3,
-      "ntitle": "bitcoin ticks higher 63 5k iran tensions u s regulations focus",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Regulatory"
     },
     {
       "title": "Bitcoin Has Been Declared Dead 21 Times in 2026, Yet It Won’t Stay Buried",
@@ -156,21 +156,6 @@
       "agency": null
     },
     {
-      "title": "'Sometimes He Was Wrong': Adam Back on Bitcoin Creator Satoshi; Ripple in White House Regardless of Clarity Act; Coinbase CEO Drops AI Prediction: Crypto to Power Agents Economy — Morning Crypto Report",
-      "link": "https://u.today/sometimes-he-was-wrong-adam-back-on-bitcoin-creator-satoshi-ripple-in-white-house-regardless-of",
-      "published_at": "2026-08-17T13:34:05+00:00",
-      "source": "u.today",
-      "score": 7,
-      "ntitle": "sometimes he was wrong adam back bitcoin creator satoshi ripple white house regardless clarity act coinbase ceo drops ai prediction crypto power agents economy morning crypto report",
-      "coins": [
-        "BTC",
-        "XRP"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Congress"
-    },
-    {
       "title": "Strategy Raises $334 Million and Buys No Bitcoin With It for an Eighth Straight Week",
       "link": "https://unchainedcrypto.com/strategy-raises-334-million-and-buys-no-bitcoin-with-it-for-an-eighth-straight-week/",
       "published_at": "2026-08-17T13:48:13+00:00",
@@ -185,28 +170,40 @@
       "agency": null
     },
     {
-      "title": "Bitcoin ETF outflows hit $390M – Are investors turning to altcoins?",
-      "link": "https://ambcrypto.com/bitcoin-etf-outflows-hit-390m-are-investors-turning-to-altcoins/",
-      "published_at": "2026-08-17T13:15:00+00:00",
+      "title": "Tutorial crypto recovers 27% – Why TUT’s rally still faces a KEY test",
+      "link": "https://ambcrypto.com/tutorial-crypto-recovers-27-why-tuts-rally-still-faces-a-key-test/",
+      "published_at": "2026-08-17T14:00:30+00:00",
       "source": "ambcrypto.com",
-      "score": 3,
-      "ntitle": "bitcoin etf outflows hit 390m investors turning altcoins",
+      "score": 1,
+      "ntitle": "tutorial crypto recovers 27 why tut s rally still faces key test",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Binance Could Return to the UK with New Licence",
+      "link": "https://beincrypto.com/binance-return-uk-new-licence/",
+      "published_at": "2026-08-17T14:08:51+00:00",
+      "source": "beincrypto.com",
+      "score": 5,
+      "ntitle": "binance could return uk new licence",
       "coins": [
-        "BTC"
+        "BNB"
       ],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Snap (SNAP) Stock Plunges 12% as Legal Shield Crumbles in Court Decision",
-      "link": "https://blockonomi.com/snap-snap-stock-plunges-12-as-legal-shield-crumbles-in-court-decision/",
-      "published_at": "2026-08-17T14:07:12+00:00",
+      "title": "Astera Labs (ALAB) Stock Surges 5% Following Northland Upgrade and Amazon’s $134M Investment Disclosure",
+      "link": "https://blockonomi.com/astera-labs-alab-stock-surges-5-following-northland-upgrade-and-amazons-134m-investment-disclosure/",
+      "published_at": "2026-08-17T14:38:47+00:00",
       "source": "blockonomi.com",
-      "score": 1,
-      "ntitle": "snap snap stock plunges 12 legal shield crumbles court decision",
+      "score": 4,
+      "ntitle": "astera labs alab stock surges 5 following northland upgrade amazon s 134m investment disclosure",
       "coins": [],
-      "sentiment": "bearish",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -225,26 +222,38 @@
       "agency": null
     },
     {
-      "title": "Strategy skips Bitcoin purchase after raising $333.7M from MSTR sales",
-      "link": "https://crypto.news/strategy-skips-bitcoin-purchase-after-raising-333-7m-from-mstr-sales/",
-      "published_at": "2026-08-17T13:45:58+00:00",
-      "source": "crypto.news",
-      "score": 1,
-      "ntitle": "strategy skips bitcoin purchase after raising 333 7m mstr sales",
+      "title": "XRP Price Eyes Recovery as SEC Plans 24/7 On-Chain Stock Trading",
+      "link": "https://coingape.com/markets/xrp-price-eyes-recovery-as-sec-plans-24-7-on-chain-stock-trading/",
+      "published_at": "2026-08-17T13:53:42+00:00",
+      "source": "coingape.com",
+      "score": 6,
+      "ntitle": "xrp price eyes recovery sec plans 24 7 chain stock trading",
       "coins": [
-        "BTC"
+        "XRP"
       ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
+      "sentiment": "bullish",
+      "is_regulation": true,
+      "agency": "SEC"
     },
     {
-      "title": "Neityu discusses joining FaZe Clan and team progress after permanent signing",
-      "link": "https://cryptobriefing.com/neityu-faze-clan-permanent-signing/",
-      "published_at": "2026-08-17T14:08:48+00:00",
+      "title": "US Treasury seeks feedback on new GENIUS Act stablecoin rules",
+      "link": "https://crypto.news/us-treasury-seeks-feedback-on-new-genius-act-stablecoin-rules/",
+      "published_at": "2026-08-17T14:04:12+00:00",
+      "source": "crypto.news",
+      "score": 5,
+      "ntitle": "us treasury seeks feedback new genius act stablecoin rules",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Treasury"
+    },
+    {
+      "title": "Lavrov accuses Ukrainian troops of terrorism in Sahel, claims French support",
+      "link": "https://cryptobriefing.com/lavrov-accuses-ukrainian-troops-of-terrorism-in-sahel-claims-french-support/",
+      "published_at": "2026-08-17T14:34:51+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "neityu discusses joining faze clan team progress after permanent signing",
+      "ntitle": "lavrov accuses ukrainian troops terrorism sahel claims french support",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -253,16 +262,16 @@
   ],
   "day": [
     {
-      "title": "HBAR crypto eyes $0.07 – Can Hedera avoid a deeper sell-off?",
-      "link": "https://ambcrypto.com/hbar-crypto-eyes-0-07-can-hedera-prevent-a-deeper-sell-off/",
-      "published_at": "2026-08-17T13:00:06+00:00",
+      "title": "Bitcoin ETF outflows hit $390M – Are investors turning to altcoins?",
+      "link": "https://ambcrypto.com/bitcoin-etf-outflows-hit-390m-are-investors-turning-to-altcoins/",
+      "published_at": "2026-08-17T13:15:00+00:00",
       "source": "ambcrypto.com",
-      "score": 8,
-      "ntitle": "hbar crypto eyes 0 07 can hedera avoid deeper sell off",
+      "score": 3,
+      "ntitle": "bitcoin etf outflows hit 390m investors turning altcoins",
       "coins": [
-        "HBAR"
+        "BTC"
       ],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -336,40 +345,38 @@
       "agency": null
     },
     {
-      "title": "Strategy raises $334M through stock sales but buys no Bitcoin",
-      "link": "https://cointelegraph.com/news/strategy-stock-sales-buys-no-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-08-17T12:51:03+00:00",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-08-17T13:20:20+00:00",
       "source": "cointelegraph.com",
-      "score": 1,
-      "ntitle": "strategy raises 334m through stock sales but buys no bitcoin",
-      "coins": [
-        "BTC"
-      ],
+      "score": 4,
+      "ntitle": "here s what happened crypto today",
+      "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Bitcoin price rebounds to $63,600, but can BTC break $65,500?",
-      "link": "https://crypto.news/bitcoin-price-rebound-to-63600-but-can-btc-break-65500/",
-      "published_at": "2026-08-17T12:30:00+00:00",
+      "title": "Ethereum price rebounds as bulls target $1,960 breakout",
+      "link": "https://crypto.news/ethereum-price-rebounds-as-bulls-target-1960-breakout/",
+      "published_at": "2026-08-17T13:30:00+00:00",
       "source": "crypto.news",
-      "score": 3,
-      "ntitle": "bitcoin price rebounds 63 600 but can btc break 65 500",
+      "score": 1,
+      "ntitle": "ethereum price rebounds bulls target 1 960 breakout",
       "coins": [
-        "BTC"
+        "ETH"
       ],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Houthis claim attack on Saudi military vessel in Red Sea, escalating tensions",
-      "link": "https://cryptobriefing.com/houthis-claim-attack-on-saudi-military-vessel-in-red-sea-escalating-tensions/",
-      "published_at": "2026-08-17T13:12:12+00:00",
+      "title": "Wells Fargo Investment Institute cuts 2026 gold target to $4,900-$5,100",
+      "link": "https://cryptobriefing.com/wells-fargo-cuts-2026-gold-target/",
+      "published_at": "2026-08-17T13:39:58+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "houthis claim attack saudi military vessel red sea escalating tensions",
+      "ntitle": "wells fargo investment institute cuts 2026 gold target 4 900 5 100",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -419,30 +426,32 @@
       "agency": null
     },
     {
-      "title": "Morning Minute: Trump To Meet Crypto, Prediction Market CEOs This Week",
-      "link": "https://decrypt.co/375760/morning-minute-trump-to-meet-crypto-prediction-market-ceos-this-week",
-      "published_at": "2026-08-17T13:03:17+00:00",
+      "title": "Hackers Are Abusing a macOS Screen Sharing Flaw to Secretly Mine Monero",
+      "link": "https://decrypt.co/375749/hackers-macos-screen-sharing-secretly-mine-monero",
+      "published_at": "2026-08-17T13:31:04+00:00",
       "source": "decrypt.co",
       "score": 1,
-      "ntitle": "morning minute trump meet crypto prediction market ceos this week",
-      "coins": [],
-      "sentiment": "neutral",
+      "ntitle": "hackers abusing macos screen sharing flaw secretly mine monero",
+      "coins": [
+        "XMR"
+      ],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Bitcoin Infinity Day Study by crypto4me: Bitcoin Is Now Twice as Scarce as Gold",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-infinity-day-study-by-crypto4me-bitcoin-is-now-twice-as-scarce-as-gold-4862912",
-      "published_at": "2026-08-17T12:00:33+00:00",
+      "title": "Bitcoin ticks higher to $63.5k; Iran tensions, U.S. regulations in focus",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-635k-iran-tensions-us-regulations-in-focus-4862213",
+      "published_at": "2026-08-17T13:26:41+00:00",
       "source": "investing.com",
-      "score": 1,
-      "ntitle": "bitcoin infinity day study crypto4me bitcoin now twice scarce gold",
+      "score": 3,
+      "ntitle": "bitcoin ticks higher 63 5k iran tensions u s regulations focus",
       "coins": [
         "BTC"
       ],
       "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
+      "is_regulation": true,
+      "agency": "Regulatory"
     },
     {
       "title": "Strategy Holds Bitcoin at 840,447 BTC as Cash Reserve Hits $4.8B",
@@ -459,18 +468,19 @@
       "agency": null
     },
     {
-      "title": "Binance to Delist 8 USDC Margin Pairs: Full List",
-      "link": "https://u.today/binance-to-delist-8-usdc-margin-pairs-full-list",
-      "published_at": "2026-08-17T13:00:33+00:00",
+      "title": "'Sometimes He Was Wrong': Adam Back on Bitcoin Creator Satoshi; Ripple in White House Regardless of Clarity Act; Coinbase CEO Drops AI Prediction: Crypto to Power Agents Economy — Morning Crypto Report",
+      "link": "https://u.today/sometimes-he-was-wrong-adam-back-on-bitcoin-creator-satoshi-ripple-in-white-house-regardless-of",
+      "published_at": "2026-08-17T13:34:05+00:00",
       "source": "u.today",
-      "score": 1,
-      "ntitle": "binance delist 8 usdc margin pairs full list",
+      "score": 7,
+      "ntitle": "sometimes he was wrong adam back bitcoin creator satoshi ripple white house regardless clarity act coinbase ceo drops ai prediction crypto power agents economy morning crypto report",
       "coins": [
-        "BNB"
+        "BTC",
+        "XRP"
       ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "Congress"
     },
     {
       "title": "French Tax Agency Breach Exposes About 678,000 Taxpayers in the Country With the Most Violent Crypto Attacks",
@@ -485,16 +495,18 @@
       "agency": null
     },
     {
-      "title": "Here’s why the CLARITY Act could be a ‘matter of U.S. national security’",
-      "link": "https://ambcrypto.com/heres-why-the-clarity-act-could-be-a-matter-of-u-s-national-security/",
-      "published_at": "2026-08-17T12:00:18+00:00",
+      "title": "HBAR crypto eyes $0.07 – Can Hedera avoid a deeper sell-off?",
+      "link": "https://ambcrypto.com/hbar-crypto-eyes-0-07-can-hedera-prevent-a-deeper-sell-off/",
+      "published_at": "2026-08-17T13:00:06+00:00",
       "source": "ambcrypto.com",
-      "score": 1,
-      "ntitle": "here s why clarity act could be matter u s national security",
-      "coins": [],
+      "score": 8,
+      "ntitle": "hbar crypto eyes 0 07 can hedera avoid deeper sell off",
+      "coins": [
+        "HBAR"
+      ],
       "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Congress"
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "3 Token Unlocks to Watch in the Third Week of August 2026",
@@ -550,24 +562,12 @@
       "agency": null
     },
     {
-      "title": "Harmony plans rollback, wiping 109,000 transactions after ONE exploit",
-      "link": "https://cointelegraph.com/news/harmony-plans-rollback-transactions-one-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-08-17T12:31:36+00:00",
+      "title": "Strategy raises $334M through stock sales but buys no Bitcoin",
+      "link": "https://cointelegraph.com/news/strategy-stock-sales-buys-no-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-08-17T12:51:03+00:00",
       "source": "cointelegraph.com",
       "score": 1,
-      "ntitle": "harmony plans rollback wiping 109 000 transactions after one exploit",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Tudor Investment adds 109,446 shares to BlackRock Bitcoin ETF stake",
-      "link": "https://crypto.news/tudor-investment-adds-109446-shares-to-blackrock-bitcoin-etf-stake/",
-      "published_at": "2026-08-17T11:41:34+00:00",
-      "source": "crypto.news",
-      "score": 3,
-      "ntitle": "tudor investment adds 109 446 shares blackrock bitcoin etf stake",
+      "ntitle": "strategy raises 334m through stock sales but buys no bitcoin",
       "coins": [
         "BTC"
       ],
@@ -576,16 +576,32 @@
       "agency": null
     },
     {
-      "title": "Ukraine’s military said it struck a factory in Russia’s Rostov Oblast linked to missile fuel production",
-      "link": "https://cryptobriefing.com/ukraines-military-said-it-struck-a-factory-in-russias-rostov-oblast-linked-to/",
-      "published_at": "2026-08-17T13:08:23+00:00",
-      "source": "cryptobriefing.com",
-      "score": 6,
-      "ntitle": "ukraine s military said it struck factory russia s rostov oblast linked missile fuel production",
-      "coins": [],
-      "sentiment": "neutral",
+      "title": "Bitcoin price rebounds to $63,600, but can BTC break $65,500?",
+      "link": "https://crypto.news/bitcoin-price-rebound-to-63600-but-can-btc-break-65500/",
+      "published_at": "2026-08-17T12:30:00+00:00",
+      "source": "crypto.news",
+      "score": 3,
+      "ntitle": "bitcoin price rebounds 63 600 but can btc break 65 500",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
+    },
+    {
+      "title": "Bitmine adds 9,926 ETH as treasury nears 5% of total supply",
+      "link": "https://cryptobriefing.com/bitmine-adds-9926-eth-as-treasury-nears-5-of-total-supply/",
+      "published_at": "2026-08-17T13:35:37+00:00",
+      "source": "cryptobriefing.com",
+      "score": 3,
+      "ntitle": "bitmine adds 9 926 eth treasury nears 5 total supply",
+      "coins": [
+        "ETH"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Treasury"
     },
     {
       "title": "BITmarkets Publishes New Study Ranking the Top 10 Athletes in Crypto Partnerships",
@@ -626,26 +642,24 @@
       "agency": null
     },
     {
-      "title": "Strategy Leaves Bitcoin Untouched, Raises $334M Selling MSTR Stock",
-      "link": "https://decrypt.co/375762/strategy-leaves-bitcoin-untouched-raises-334m-selling-mstr-stock",
-      "published_at": "2026-08-17T12:56:55+00:00",
+      "title": "Morning Minute: Trump To Meet Crypto, Prediction Market CEOs This Week",
+      "link": "https://decrypt.co/375760/morning-minute-trump-to-meet-crypto-prediction-market-ceos-this-week",
+      "published_at": "2026-08-17T13:03:17+00:00",
       "source": "decrypt.co",
-      "score": 3,
-      "ntitle": "strategy leaves bitcoin untouched raises 334m selling mstr stock",
-      "coins": [
-        "BTC"
-      ],
+      "score": 1,
+      "ntitle": "morning minute trump meet crypto prediction market ceos this week",
+      "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Bitcoin coiled at $63,591 with volatility at 6-month lows: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-coiled-at-63591-with-volatility-at-6month-lows-live-levels-93CH-4862234",
-      "published_at": "2026-08-17T07:11:19+00:00",
+      "title": "Bitcoin Infinity Day Study by crypto4me: Bitcoin Is Now Twice as Scarce as Gold",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-infinity-day-study-by-crypto4me-bitcoin-is-now-twice-as-scarce-as-gold-4862912",
+      "published_at": "2026-08-17T12:00:33+00:00",
       "source": "investing.com",
       "score": 1,
-      "ntitle": "bitcoin coiled 63 591 volatility 6 month lows live levels",
+      "ntitle": "bitcoin infinity day study crypto4me bitcoin now twice scarce gold",
       "coins": [
         "BTC"
       ],
@@ -846,16 +860,16 @@
       "agency": null
     },
     {
-      "title": "Fraudsters Steal $30,000 From Wells Fargo Customer After Masquerading as Law Enforcement Officials",
-      "link": "https://dailyhodl.com/2026/08/16/fraudsters-steal-30000-from-wells-fargo-customer-after-masquerading-as-law-enforcement-officials/",
-      "published_at": "2026-08-16T11:45:16+00:00",
+      "title": "Michigan Survey Shows Consumer Sentiment Falling in August",
+      "link": "https://dailyhodl.com/2026/08/16/michigan-survey-shows-consumer-sentiment-falling-in-august/",
+      "published_at": "2026-08-16T14:30:51+00:00",
       "source": "dailyhodl.com",
-      "score": 4,
-      "ntitle": "fraudsters steal 30 000 wells fargo customer after masquerading law enforcement officials",
+      "score": 3,
+      "ntitle": "michigan survey shows consumer sentiment falling august",
       "coins": [],
       "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Regulatory"
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "People Are Turning to AI for Mental Health, California Wants It Banned",
@@ -959,15 +973,13 @@
       "agency": null
     },
     {
-      "title": "Dogecoin's Genesis Block Coinbase Reward Was 88 DOGE: Why It Matters",
-      "link": "https://u.today/dogecoins-genesis-block-coinbase-reward-was-88-doge-why-it-matters",
-      "published_at": "2026-08-16T13:59:07+00:00",
+      "title": "Zcash Risks Drop to $450 if Critical Support Breaks",
+      "link": "https://u.today/zcash-risks-drop-to-450-if-critical-support-breaks",
+      "published_at": "2026-08-16T14:15:04+00:00",
       "source": "u.today",
       "score": 1,
-      "ntitle": "dogecoin s genesis block coinbase reward was 88 doge why it matters",
-      "coins": [
-        "DOGE"
-      ],
+      "ntitle": "zcash risks drop 450 if critical support breaks",
+      "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
@@ -1227,7 +1239,7 @@
   ],
   "clusters": [
     {
-      "id": 13,
+      "id": 12,
       "title": "Strategy Raises $334 Million and Buys No Bitcoin With It for an Eighth Straight Week",
       "link": "https://unchainedcrypto.com/strategy-raises-334-million-and-buys-no-bitcoin-with-it-for-an-eighth-straight-week/",
       "source": "unchainedcrypto.com",
@@ -1237,8 +1249,8 @@
         "BTC"
       ],
       "sources": [
-        "unchainedcrypto.com",
-        "cointelegraph.com"
+        "cointelegraph.com",
+        "unchainedcrypto.com"
       ],
       "count": 2,
       "members": [
@@ -1257,7 +1269,7 @@
       ]
     },
     {
-      "id": 22,
+      "id": 23,
       "title": "Strategy Sells MSTR, Buys Back STRC Shares as Bitcoin Holdings Stay Unchanged",
       "link": "https://coingape.com/strategy-sells-mstr-buys-back-strc-shares-as-bitcoin-holdings-stay-unchanged/",
       "source": "coingape.com",
@@ -1290,52 +1302,52 @@
   "trending": [
     {
       "tag": "#Ai",
-      "count": 70,
+      "count": 64,
       "type": "topic",
       "pct": 100
     },
     {
       "tag": "#XRP",
-      "count": 52,
+      "count": 53,
       "type": "coin",
-      "pct": 74
+      "pct": 83
     },
     {
       "tag": "#Xrp",
-      "count": 47,
+      "count": 48,
       "type": "topic",
-      "pct": 67
+      "pct": 75
     },
     {
       "tag": "#Defi",
       "count": 34,
       "type": "topic",
-      "pct": 49
+      "pct": 53
     },
     {
       "tag": "#BTC",
       "count": 25,
       "type": "coin",
-      "pct": 36
+      "pct": 39
     },
     {
       "tag": "#Bitcoin",
-      "count": 24,
+      "count": 21,
       "type": "topic",
-      "pct": 34
+      "pct": 33
     },
     {
       "tag": "#ETH",
-      "count": 15,
+      "count": 17,
       "type": "coin",
-      "pct": 21
+      "pct": 27
     },
     {
       "tag": "#Ethereum",
       "count": 13,
       "type": "topic",
-      "pct": 19
+      "pct": 20
     }
   ],
-  "generated_at": "2026-08-17T14:12:35.293705+00:00"
+  "generated_at": "2026-08-17T14:42:38.698409+00:00"
 }
