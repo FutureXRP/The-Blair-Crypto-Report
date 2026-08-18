@@ -2,46 +2,52 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "Fundstrat says Bitcoin could move 30% — But which way?",
-      "link": "https://ambcrypto.com/fundstrat-says-bitcoin-could-move-30-but-which-way/",
-      "published_at": "2026-08-18T15:31:24+00:00",
+      "title": "Blockchain Association backs SEC rewrite to ‘promote U.S. leadership in digital assets’",
+      "link": "https://ambcrypto.com/blockchain-association-backs-sec-rewrite-to-promote-u-s-leadership-in-digital-assets/",
+      "published_at": "2026-08-18T16:00:37+00:00",
       "source": "ambcrypto.com",
-      "score": 1,
-      "ntitle": "fundstrat says bitcoin could move 30 but which way",
-      "coins": [
-        "BTC"
-      ],
+      "score": 2,
+      "ntitle": "blockchain association backs sec rewrite promote u s leadership digital assets",
+      "coins": [],
       "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Citi to Debut Bitcoin Custody for Institutional Investors",
-      "link": "https://bitcoinmagazine.com/news/citi-to-debut-bitcoin-custody",
-      "published_at": "2026-08-18T15:24:52+00:00",
-      "source": "bitcoinmagazine.com",
-      "score": 7,
-      "ntitle": "citi debut bitcoin custody institutional investors",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Metaplanet Bets 2,100 Bitcoin on New U.S. Treasury Platform",
-      "link": "https://blockonomi.com/metaplanet-bets-2100-bitcoin-on-new-u-s-treasury-platform/",
-      "published_at": "2026-08-18T15:35:52+00:00",
-      "source": "blockonomi.com",
-      "score": 3,
-      "ntitle": "metaplanet bets 2 100 bitcoin new u s treasury platform",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bullish",
       "is_regulation": true,
-      "agency": "Treasury"
+      "agency": "SEC"
+    },
+    {
+      "title": "South Korea Bans Polymarket, Citing Its Winner-Take-All Structure",
+      "link": "https://beincrypto.com/south-korea-blocks-polymarket-gambling/",
+      "published_at": "2026-08-18T15:47:21+00:00",
+      "source": "beincrypto.com",
+      "score": 1,
+      "ntitle": "south korea bans polymarket citing winner take all structure",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Hunting Down the Coldcard Hacker. Wave 1 Thief May Be Known to FBI",
+      "link": "https://bitcoinmagazine.com/technical/hunting-down-the-coldcard-hacker-wave-1-thief-may-be-known-to-fbi",
+      "published_at": "2026-08-18T16:02:05+00:00",
+      "source": "bitcoinmagazine.com",
+      "score": 1,
+      "ntitle": "hunting down coldcard hacker wave 1 thief may be known fbi",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "HashKey Pushes HKDAP Into Cross-Border Payments",
+      "link": "https://blockonomi.com/hashkey-pushes-hkdap-into-cross-border-payments/",
+      "published_at": "2026-08-18T16:01:30+00:00",
+      "source": "blockonomi.com",
+      "score": 5,
+      "ntitle": "hashkey pushes hkdap into cross border payments",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Disney-owned ABC files First Amendment lawsuit against FCC",
@@ -68,14 +74,16 @@
       "agency": null
     },
     {
-      "title": "Goldman Sachs to Acquire LCN Capital Partners in Deal Worth Up to $410 Million",
-      "link": "https://coingape.com/goldman-sachs-to-acquire-lcn-capital-partners-in-deal-worth-up-to-410-million/",
-      "published_at": "2026-08-18T15:18:45+00:00",
+      "title": "XRP News: Ripple Prime Closes $275M Upsized Offering to Support U.S. Expansion",
+      "link": "https://coingape.com/xrp-news-ripple-prime-closes-275m-upsized-offering-to-support-u-s-expansion/",
+      "published_at": "2026-08-18T16:03:35+00:00",
       "source": "coingape.com",
-      "score": 1,
-      "ntitle": "goldman sachs acquire lcn capital partners deal worth up 410 million",
-      "coins": [],
-      "sentiment": "neutral",
+      "score": 8,
+      "ntitle": "xrp news ripple prime closes 275m upsized offering support u s expansion",
+      "coins": [
+        "XRP"
+      ],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -106,16 +114,16 @@
       "agency": null
     },
     {
-      "title": "HIVE outlines AI expansion plans during earnings call",
-      "link": "https://cryptobriefing.com/hive-ai-expansion-gpu-cloud-earnings/",
-      "published_at": "2026-08-18T15:42:44+00:00",
+      "title": "White House to host digital asset policy meeting with Trump, industry leaders",
+      "link": "https://cryptobriefing.com/white-house-to-host-digital-asset-policy-meeting-with-trump-industry-leaders/",
+      "published_at": "2026-08-18T16:00:54+00:00",
       "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "hive outlines ai expansion plans during earnings call",
+      "score": 3,
+      "ntitle": "white house host digital asset policy meeting trump industry leaders",
       "coins": [],
       "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
+      "is_regulation": true,
+      "agency": "Regulatory"
     },
     {
       "title": "Blockchains may finally break their hidden reliance on a ticking randomness clock to keep networks secure",
@@ -130,42 +138,15 @@
       "agency": null
     },
     {
-      "title": "Tom Lee Says Ethereum Poised for Major Gains Against Bitcoin on Stronger Tailwinds",
-      "link": "https://dailyhodl.com/2026/08/18/tom-lee-says-ethereum-poised-for-major-gains-against-bitcoin-on-stronger-tailwinds/",
-      "published_at": "2026-08-18T15:00:35+00:00",
-      "source": "dailyhodl.com",
-      "score": 4,
-      "ntitle": "tom lee says ethereum poised major gains against bitcoin stronger tailwinds",
-      "coins": [
-        "BTC",
-        "ETH"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Japan's Metaplanet Plants Its Flag in the US With $132M Bitcoin Treasury Deal",
-      "link": "https://decrypt.co/375878/metaplanet-us-132m-bitcoin-treasury-deal",
-      "published_at": "2026-08-18T15:19:45+00:00",
+      "title": "Citi to Launch Bitcoin Custody as Wall Street Pushes Deeper Into Crypto",
+      "link": "https://decrypt.co/375880/citi-bitcoin-custody-wall-street-crypto",
+      "published_at": "2026-08-18T15:56:05+00:00",
       "source": "decrypt.co",
-      "score": 3,
-      "ntitle": "japan s metaplanet plants flag us 132m bitcoin treasury deal",
+      "score": 11,
+      "ntitle": "citi launch bitcoin custody wall street pushes deeper into crypto",
       "coins": [
         "BTC"
       ],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Treasury"
-    },
-    {
-      "title": "Wagyu.xyz Surpasses $700 Million in Cumulative Volume and Launches Public API for Developers",
-      "link": "https://www.investing.com/news/cryptocurrency-news/wagyuxyz-surpasses-700-million-in-cumulative-volume-and-launches-public-api-for-developers-4865672",
-      "published_at": "2026-08-18T15:00:37+00:00",
-      "source": "investing.com",
-      "score": 4,
-      "ntitle": "wagyu xyz surpasses 700 million cumulative volume launches public api developers",
-      "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
@@ -197,26 +178,48 @@
       "agency": "Treasury"
     },
     {
-      "title": "Solana whale who bought at $23.37 adds $3.6M – SOL eyes $78 IF…",
-      "link": "https://ambcrypto.com/solana-whale-who-bought-at-23-37-adds-3-6m-sol-eyes-78-if/",
-      "published_at": "2026-08-18T15:00:16+00:00",
+      "title": "Provable opens early access to Shield Swap, a confidential trading venue built for compliance",
+      "link": "https://ambcrypto.com/provable-opens-early-access-to-shield-swap-a-confidential-trading-venue-built-for-compliance/",
+      "published_at": "2026-08-18T15:50:03+00:00",
       "source": "ambcrypto.com",
+      "score": 6,
+      "ntitle": "provable opens early access shield swap confidential trading venue built compliance",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Regulatory"
+    },
+    {
+      "title": "Arthur Hayes’ New Token Will Airdrop Before Its Blockchain Exists: What Do Holders Get?",
+      "link": "https://beincrypto.com/arthur-hayes-flop-airdrop-before-blockchain/",
+      "published_at": "2026-08-18T15:43:43+00:00",
+      "source": "beincrypto.com",
+      "score": 2,
+      "ntitle": "arthur hayes new token will airdrop before blockchain exists what do holders get",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "DMND Integrates Mempool Accelerator With Miner Revenue Sharing Using StratumV2",
+      "link": "https://bitcoinmagazine.com/news/dmnd-integrates-mempool-accelerator-with-miner-revenue-sharing-using-stratumv2",
+      "published_at": "2026-08-18T16:01:35+00:00",
+      "source": "bitcoinmagazine.com",
       "score": 1,
-      "ntitle": "solana whale who bought 23 37 adds 3 6m sol eyes 78 if",
-      "coins": [
-        "SOL"
-      ],
+      "ntitle": "dmnd integrates mempool accelerator miner revenue sharing using stratumv2",
+      "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Home Depot (HD) Stock Rises After Earnings—Is a Breakout Next?",
-      "link": "https://blockonomi.com/home-depot-hd-stock-rises-after-earnings-is-a-breakout-next/",
-      "published_at": "2026-08-18T15:24:58+00:00",
+      "title": "MoonPay Opens Cash App to More Cryptocurrencies",
+      "link": "https://blockonomi.com/moonpay-opens-cash-app-to-more-cryptocurrencies/",
+      "published_at": "2026-08-18T15:46:58+00:00",
       "source": "blockonomi.com",
-      "score": 1,
-      "ntitle": "home depot hd stock rises after earnings breakout next",
+      "score": 8,
+      "ntitle": "moonpay opens cash app more cryptocurrencies",
       "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -235,14 +238,14 @@
       "agency": null
     },
     {
-      "title": "U.S.-Iran War Update: Trump Confirms No Talks With Iran Amid Strait of Hormuz Uncertainty",
-      "link": "https://coingape.com/u-s-iran-war-update-trump-confirms-no-talks-with-iran-amid-strait-of-hormuz-uncertainty/",
-      "published_at": "2026-08-18T14:48:18+00:00",
+      "title": "Goldman Sachs to Acquire LCN Capital Partners in Deal Worth Up to $410 Million",
+      "link": "https://coingape.com/goldman-sachs-to-acquire-lcn-capital-partners-in-deal-worth-up-to-410-million/",
+      "published_at": "2026-08-18T15:18:45+00:00",
       "source": "coingape.com",
-      "score": 2,
-      "ntitle": "u s iran war update trump confirms no talks iran amid strait hormuz uncertainty",
+      "score": 1,
+      "ntitle": "goldman sachs acquire lcn capital partners deal worth up 410 million",
       "coins": [],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -261,16 +264,32 @@
       "agency": "Treasury"
     },
     {
-      "title": "Ohtani shines in Dodgers win, reveals pitching comeback plan",
-      "link": "https://cryptobriefing.com/ohtani-shines-in-dodgers-win-reveals-pitching-comeback-plan/",
-      "published_at": "2026-08-18T15:42:01+00:00",
+      "title": "BlackRock calls Bitcoin’s 50% pullback a positioning correction, not a structural break",
+      "link": "https://cryptobriefing.com/blackrock-bitcoin-50-percent-pullback-positioning-correction/",
+      "published_at": "2026-08-18T15:58:22+00:00",
       "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "ohtani shines dodgers win reveals pitching comeback plan",
-      "coins": [],
+      "score": 2,
+      "ntitle": "blackrock calls bitcoin s 50 pullback positioning correction not structural break",
+      "coins": [
+        "BTC"
+      ],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
+    },
+    {
+      "title": "Japan's Metaplanet Plants Its Flag in the US With $132M Bitcoin Treasury Deal",
+      "link": "https://decrypt.co/375878/metaplanet-us-132m-bitcoin-treasury-deal",
+      "published_at": "2026-08-18T15:19:45+00:00",
+      "source": "decrypt.co",
+      "score": 3,
+      "ntitle": "japan s metaplanet plants flag us 132m bitcoin treasury deal",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Treasury"
     },
     {
       "title": "Mitsubishi Boosts MSTR Stake",
@@ -287,13 +306,15 @@
   ],
   "day": [
     {
-      "title": "Traders vs Gamblers: The psychological overlap",
-      "link": "https://ambcrypto.com/traders-vs-gamblers-the-psychological-overlap/",
-      "published_at": "2026-08-18T14:35:25+00:00",
+      "title": "Solana whale who bought at $23.37 adds $3.6M – SOL eyes $78 IF…",
+      "link": "https://ambcrypto.com/solana-whale-who-bought-at-23-37-adds-3-6m-sol-eyes-78-if/",
+      "published_at": "2026-08-18T15:00:16+00:00",
       "source": "ambcrypto.com",
       "score": 1,
-      "ntitle": "traders vs gamblers psychological overlap",
-      "coins": [],
+      "ntitle": "solana whale who bought 23 37 adds 3 6m sol eyes 78 if",
+      "coins": [
+        "SOL"
+      ],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
@@ -347,26 +368,28 @@
       "agency": null
     },
     {
-      "title": "Next Crypto to Explode: Why the $BULLSKI Meme Coin Presale Sits on the Shortlist",
-      "link": "https://blockonomi.com/next-crypto-to-explode-why-the-bullski-meme-coin-presale-sits-on-the-shortlist/",
-      "published_at": "2026-08-18T14:33:46+00:00",
+      "title": "Citi Bitcoin Custody Launch Targets Institutional Clients in 2026",
+      "link": "https://blockonomi.com/citi-bitcoin-custody-launch-targets-institutional-clients-in-2026/",
+      "published_at": "2026-08-18T15:00:59+00:00",
       "source": "blockonomi.com",
-      "score": 9,
-      "ntitle": "next crypto explode why bullski meme coin presale sits shortlist",
-      "coins": [],
+      "score": 11,
+      "ntitle": "citi bitcoin custody launch targets institutional clients 2026",
+      "coins": [
+        "BTC"
+      ],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Kalshi seeks to launch ‘perps’ on equity indexes as it moves in on traditional exchanges' turf",
-      "link": "https://www.cnbc.com/2026/08/18/kalshi-wants-to-launch-perps-tied-to-equity-indexes.html",
-      "published_at": "2026-08-18T14:22:10+00:00",
+      "title": "Anthropic tells investors annualized revenue run rate climbed to $65 billion in July",
+      "link": "https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html",
+      "published_at": "2026-08-18T15:02:22+00:00",
       "source": "cnbc.com",
-      "score": 4,
-      "ntitle": "kalshi seeks launch perps equity indexes it moves traditional exchanges turf",
+      "score": 2,
+      "ntitle": "anthropic tells investors annualized revenue run rate climbed 65 billion july",
       "coins": [],
-      "sentiment": "bullish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -385,18 +408,16 @@
       "agency": null
     },
     {
-      "title": "BREAKING: Metaplanet Invests 2100 BTC to Launch US Bitcoin Treasury Superplanet",
-      "link": "https://coingape.com/metaplanet-invests-btc-to-launch-us-bitcoin-treasury-superplanet/",
-      "published_at": "2026-08-18T14:13:42+00:00",
+      "title": "U.S.-Iran War Update: Trump Confirms No Talks With Iran Amid Strait of Hormuz Uncertainty",
+      "link": "https://coingape.com/u-s-iran-war-update-trump-confirms-no-talks-with-iran-amid-strait-of-hormuz-uncertainty/",
+      "published_at": "2026-08-18T14:48:18+00:00",
       "source": "coingape.com",
-      "score": 5,
-      "ntitle": "breaking metaplanet invests 2100 btc launch us bitcoin treasury superplanet",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": true,
-      "agency": "Treasury"
+      "score": 2,
+      "ntitle": "u s iran war update trump confirms no talks iran amid strait hormuz uncertainty",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "How to choose a crypto prop firm: three structural tests",
@@ -423,14 +444,26 @@
       "agency": null
     },
     {
-      "title": "MoonPay integrates Cash App Pay for US crypto purchases",
-      "link": "https://crypto.news/moonpay-integrates-cash-app-pay-for-us-crypto-purchases/",
-      "published_at": "2026-08-18T14:37:43+00:00",
+      "title": "Toyota Finance launches ¥1 billion tokenized bond via Toyota Wallet",
+      "link": "https://crypto.news/toyota-finance-launches-%c2%a51-billion-tokenized-bond-via-toyota-wallet/",
+      "published_at": "2026-08-18T14:49:58+00:00",
       "source": "crypto.news",
-      "score": 1,
-      "ntitle": "moonpay integrates cash app pay us crypto purchases",
+      "score": 7,
+      "ntitle": "toyota finance launches 1 billion tokenized bond via toyota wallet",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Fireblocks joins Agentic Payments Alliance to build infrastructure for AI-powered commerce",
+      "link": "https://cryptobriefing.com/fireblocks-agentic-payments-alliance/",
+      "published_at": "2026-08-18T15:01:03+00:00",
+      "source": "cryptobriefing.com",
+      "score": 4,
+      "ntitle": "fireblocks joins agentic payments alliance build infrastructure ai powered commerce",
+      "coins": [],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -461,14 +494,17 @@
       "agency": null
     },
     {
-      "title": "Florida’s Mount Sinai Medical Center To Pay $220,000 To Settle Claims Over Patient Data Shared Via Tracking Tools",
-      "link": "https://dailyhodl.com/2026/08/18/floridas-mount-sinai-medical-center-to-pay-220000-to-settle-claims-over-patient-data-shared-via-tracking-tools/",
-      "published_at": "2026-08-18T11:45:33+00:00",
+      "title": "Tom Lee Says Ethereum Poised for Major Gains Against Bitcoin on Stronger Tailwinds",
+      "link": "https://dailyhodl.com/2026/08/18/tom-lee-says-ethereum-poised-for-major-gains-against-bitcoin-on-stronger-tailwinds/",
+      "published_at": "2026-08-18T15:00:35+00:00",
       "source": "dailyhodl.com",
       "score": 4,
-      "ntitle": "florida s mount sinai medical center pay 220 000 settle claims over patient data shared via tracking tools",
-      "coins": [],
-      "sentiment": "bearish",
+      "ntitle": "tom lee says ethereum poised major gains against bitcoin stronger tailwinds",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -487,16 +523,14 @@
       "agency": null
     },
     {
-      "title": "Bitcoin pinned at $64k; Iran, rate jitters weigh on crypto",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-edges-up-to-64k-iran-rate-jitters-weigh-on-crypto-4864371",
-      "published_at": "2026-08-18T13:41:22+00:00",
+      "title": "Wagyu.xyz Surpasses $700 Million in Cumulative Volume and Launches Public API for Developers",
+      "link": "https://www.investing.com/news/cryptocurrency-news/wagyuxyz-surpasses-700-million-in-cumulative-volume-and-launches-public-api-for-developers-4865672",
+      "published_at": "2026-08-18T15:00:37+00:00",
       "source": "investing.com",
-      "score": 1,
-      "ntitle": "bitcoin pinned 64k iran rate jitters weigh crypto",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "neutral",
+      "score": 4,
+      "ntitle": "wagyu xyz surpasses 700 million cumulative volume launches public api developers",
+      "coins": [],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -569,16 +603,14 @@
       "agency": null
     },
     {
-      "title": "XRP whales turn active with 280% surge – Can price reclaim $1?",
-      "link": "https://ambcrypto.com/xrp-whales-turn-active-with-280-surge-can-price-reclaim-1/",
-      "published_at": "2026-08-18T14:00:29+00:00",
+      "title": "Traders vs Gamblers: The psychological overlap",
+      "link": "https://ambcrypto.com/traders-vs-gamblers-the-psychological-overlap/",
+      "published_at": "2026-08-18T14:35:25+00:00",
       "source": "ambcrypto.com",
-      "score": 6,
-      "ntitle": "xrp whales turn active 280 surge can price reclaim 1",
-      "coins": [
-        "XRP"
-      ],
-      "sentiment": "bullish",
+      "score": 1,
+      "ntitle": "traders vs gamblers psychological overlap",
+      "coins": [],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -633,39 +665,25 @@
       "agency": null
     },
     {
-      "title": "Blue Origin, Firefly, and L3Harris Win NASA’s $100M Spacecraft Processing Deal",
-      "link": "https://blockonomi.com/blue-origin-firefly-and-l3harris-win-nasas-100m-spacecraft-processing-deal/",
-      "published_at": "2026-08-18T14:02:59+00:00",
+      "title": "Next Crypto to Explode: Why the $BULLSKI Meme Coin Presale Sits on the Shortlist",
+      "link": "https://blockonomi.com/next-crypto-to-explode-why-the-bullski-meme-coin-presale-sits-on-the-shortlist/",
+      "published_at": "2026-08-18T14:33:46+00:00",
       "source": "blockonomi.com",
-      "score": 1,
-      "ntitle": "blue origin firefly l3harris win nasa s 100m spacecraft processing deal",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Contrarian vs. the crowd: One trader made a massive bet against chip stocks",
-      "link": "https://www.cnbc.com/2026/08/18/contrarian-vs-the-crowd-one-trader-made-a-massive-bet-against-chip-stocks.html",
-      "published_at": "2026-08-18T13:13:13+00:00",
-      "source": "cnbc.com",
-      "score": 3,
-      "ntitle": "contrarian vs crowd one trader made massive bet against chip stocks",
+      "score": 9,
+      "ntitle": "next crypto explode why bullski meme coin presale sits shortlist",
       "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Global bond yields surge as debt fears test bitcoin’s hedge narrative",
-      "link": "https://www.coindesk.com/markets/2026/08/18/global-bond-yields-surge-as-debt-fears-test-bitcoin-s-hedge-narrative",
-      "published_at": "2026-08-18T14:40:41+00:00",
-      "source": "coindesk.com",
-      "score": 1,
-      "ntitle": "global bond yields surge debt fears test bitcoin s hedge narrative",
-      "coins": [
-        "BTC"
-      ],
+      "title": "Millennials and Gen Z are landing fast-growing, high-paying AI jobs, according to LinkedIn study",
+      "link": "https://www.cnbc.com/2026/08/18/millennials-and-gen-z-are-landing-fast-growing-high-paying-ai-jobs-linkedin-study.html",
+      "published_at": "2026-08-18T14:50:01+00:00",
+      "source": "cnbc.com",
+      "score": 4,
+      "ntitle": "millennials gen z landing fast growing high paying ai jobs according linkedin study",
+      "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
@@ -773,18 +791,6 @@
       "agency": null
     },
     {
-      "title": "U.S. Treasury Seeks Public Comment on Stablecoin Issuance to Implement GENIUS Act",
-      "link": "https://coingape.com/u-s-treasury-seeks-public-comment-on-stablecoin-issuance-to-implement-genius-act/",
-      "published_at": "2026-08-17T15:09:56+00:00",
-      "source": "coingape.com",
-      "score": 6,
-      "ntitle": "u s treasury seeks public comment stablecoin issuance implement genius act",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Treasury"
-    },
-    {
       "title": "Bitcoin volatility could surge as BTC trades within the $62,300–$66,500 range",
       "link": "https://coinjournal.net/news/bitcoin-volatility-could-surge-as-btc-trades-within-the-62300-66500-range/",
       "published_at": "2026-08-17T11:44:19+00:00",
@@ -799,16 +805,16 @@
       "agency": null
     },
     {
-      "title": "Strategy raises $334M through stock sales but buys no Bitcoin",
-      "link": "https://cointelegraph.com/news/strategy-stock-sales-buys-no-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-08-17T12:51:03+00:00",
+      "title": "Bitmine nears 5% of Ethereum supply despite $8.4B in unrealized losses",
+      "link": "https://cointelegraph.com/news/bitmine-ethereum-supply-5-82-million-eth-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-08-17T16:04:32+00:00",
       "source": "cointelegraph.com",
-      "score": 1,
-      "ntitle": "strategy raises 334m through stock sales but buys no bitcoin",
+      "score": 3,
+      "ntitle": "bitmine nears 5 ethereum supply despite 8 4b unrealized losses",
       "coins": [
-        "BTC"
+        "ETH"
       ],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -840,16 +846,14 @@
       "agency": null
     },
     {
-      "title": "Hackers Are Abusing a macOS Screen Sharing Flaw to Secretly Mine Monero",
-      "link": "https://decrypt.co/375749/hackers-macos-screen-sharing-secretly-mine-monero",
-      "published_at": "2026-08-17T13:31:04+00:00",
+      "title": "What Stripe's $7 Billion OpenRouter Deal Actually Means for AI",
+      "link": "https://decrypt.co/375769/what-stripe-openrouter-deal-means-ai",
+      "published_at": "2026-08-17T15:54:29+00:00",
       "source": "decrypt.co",
       "score": 1,
-      "ntitle": "hackers abusing macos screen sharing flaw secretly mine monero",
-      "coins": [
-        "XMR"
-      ],
-      "sentiment": "bearish",
+      "ntitle": "what stripe s 7 billion openrouter deal actually means ai",
+      "coins": [],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -906,18 +910,16 @@
       "agency": null
     },
     {
-      "title": "Polkadot ETF realized $4.52 of loss per $1 in staking rewards",
-      "link": "https://protos.com/polkadot-etf-realized-4-52-of-loss-per-1-in-staking-rewards/",
-      "published_at": "2026-08-17T15:11:31+00:00",
+      "title": "Will Mark Cuban eat his words with his newest crypto prediction?",
+      "link": "https://protos.com/will-mark-cuban-eat-his-words-with-his-newest-crypto-prediction/",
+      "published_at": "2026-08-17T15:57:08+00:00",
       "source": "protos.com",
-      "score": 3,
-      "ntitle": "polkadot etf realized 4 52 loss per 1 staking rewards",
-      "coins": [
-        "DOT"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
+      "score": 1,
+      "ntitle": "will mark cuban eat his words his newest crypto prediction",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Regulatory"
     },
     {
       "title": "SEC Charges Boiler Room Operator and Three Entities with Defrauding Retail Investors in $74 Million Pre-IPO Investment Scam",
@@ -932,28 +934,26 @@
       "agency": "SEC"
     },
     {
-      "title": "SafePal Breach Exposes 39,798 Buyers as Stolen Records Hit Cybercrime Forum",
-      "link": "https://thedefiant.io/news/security/safepal-breach-exposes-39-798-customers-stolen-records-for-sale",
-      "published_at": "2026-08-17T15:00:00+00:00",
+      "title": "Stripe’s Reported $7 Billion OpenRouter Deal Buys Micropayments Without a Blockchain",
+      "link": "https://thedefiant.io/news/tradfi-and-fintech/stripe-openrouter-deal-micropayments-without-blockchain",
+      "published_at": "2026-08-17T15:52:20+00:00",
       "source": "thedefiant.io",
-      "score": 1,
-      "ntitle": "safepal breach exposes 39 798 buyers stolen records hit cybercrime forum",
+      "score": 4,
+      "ntitle": "stripe s reported 7 billion openrouter deal buys micropayments without blockchain",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Hyperliquid Spikes 16% From Weekend Lows as ETF Demand Intensifies",
-      "link": "https://u.today/hyperliquid-spikes-16-from-weekend-lows-as-etf-demand-intensifies",
-      "published_at": "2026-08-17T15:11:34+00:00",
+      "title": "Ledger CEO: 'Total Safety Doesn't Exist'",
+      "link": "https://u.today/ledger-ceo-total-safety-doesnt-exist",
+      "published_at": "2026-08-17T15:55:40+00:00",
       "source": "u.today",
-      "score": 5,
-      "ntitle": "hyperliquid spikes 16 weekend lows etf demand intensifies",
-      "coins": [
-        "HYPE"
-      ],
-      "sentiment": "bullish",
+      "score": 1,
+      "ntitle": "ledger ceo total safety doesn t exist",
+      "coins": [],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -1058,6 +1058,20 @@
       "sentiment": "neutral",
       "is_regulation": true,
       "agency": "Treasury"
+    },
+    {
+      "title": "LDO surges as SharpLink seeks to stake $200m in ETH via Lido",
+      "link": "https://coinjournal.net/news/ldo-surges-as-sharplink-seeks-to-stake-200m-in-eth-via-lido/",
+      "published_at": "2026-08-14T12:29:42+00:00",
+      "source": "coinjournal.net",
+      "score": 5,
+      "ntitle": "ldo surges sharplink seeks stake 200m eth via lido",
+      "coins": [
+        "ETH"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     }
   ],
   "month": [
@@ -1264,7 +1278,65 @@
   ],
   "clusters": [
     {
-      "id": 2,
+      "id": 11,
+      "title": "Citi to Launch Bitcoin Custody as Wall Street Pushes Deeper Into Crypto",
+      "link": "https://decrypt.co/375880/citi-bitcoin-custody-wall-street-crypto",
+      "source": "decrypt.co",
+      "published_at": "2026-08-18T15:56:05+00:00",
+      "sentiment": "bullish",
+      "coins": [
+        "BTC"
+      ],
+      "sources": [
+        "decrypt.co",
+        "blockonomi.com"
+      ],
+      "count": 2,
+      "members": [
+        {
+          "title": "Citi to Launch Bitcoin Custody as Wall Street Pushes Deeper Into Crypto",
+          "link": "https://decrypt.co/375880/citi-bitcoin-custody-wall-street-crypto",
+          "source": "decrypt.co",
+          "published_at": "2026-08-18T15:56:05+00:00"
+        },
+        {
+          "title": "Citi Bitcoin Custody Launch Targets Institutional Clients in 2026",
+          "link": "https://blockonomi.com/citi-bitcoin-custody-launch-targets-institutional-clients-in-2026/",
+          "source": "blockonomi.com",
+          "published_at": "2026-08-18T15:00:59+00:00"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Goldman Sachs buys LCN in deal worth up to $410M",
+      "link": "https://crypto.news/goldman-sachs-buys-lcn-in-deal-worth-up-to-410m-dollar/",
+      "source": "crypto.news",
+      "published_at": "2026-08-18T15:42:07+00:00",
+      "sentiment": "neutral",
+      "coins": [],
+      "sources": [
+        "crypto.news",
+        "coingape.com"
+      ],
+      "count": 2,
+      "members": [
+        {
+          "title": "Goldman Sachs buys LCN in deal worth up to $410M",
+          "link": "https://crypto.news/goldman-sachs-buys-lcn-in-deal-worth-up-to-410m-dollar/",
+          "source": "crypto.news",
+          "published_at": "2026-08-18T15:42:07+00:00"
+        },
+        {
+          "title": "Goldman Sachs to Acquire LCN Capital Partners in Deal Worth Up to $410 Million",
+          "link": "https://coingape.com/goldman-sachs-to-acquire-lcn-capital-partners-in-deal-worth-up-to-410-million/",
+          "source": "coingape.com",
+          "published_at": "2026-08-18T15:18:45+00:00"
+        }
+      ]
+    },
+    {
+      "id": 13,
       "title": "Metaplanet Makes 2,100 BTC Investment to Launch U.S. Bitcoin Treasury Platform",
       "link": "https://u.today/metaplanet-makes-2100-btc-investment-to-launch-us-bitcoin-treasury-platform",
       "source": "u.today",
@@ -1274,25 +1346,11 @@
         "BTC"
       ],
       "sources": [
-        "blockonomi.com",
-        "decrypt.co",
         "u.today",
         "crypto.news"
       ],
-      "count": 4,
+      "count": 2,
       "members": [
-        {
-          "title": "Metaplanet Bets 2,100 Bitcoin on New U.S. Treasury Platform",
-          "link": "https://blockonomi.com/metaplanet-bets-2100-bitcoin-on-new-u-s-treasury-platform/",
-          "source": "blockonomi.com",
-          "published_at": "2026-08-18T15:35:52+00:00"
-        },
-        {
-          "title": "Japan's Metaplanet Plants Its Flag in the US With $132M Bitcoin Treasury Deal",
-          "link": "https://decrypt.co/375878/metaplanet-us-132m-bitcoin-treasury-deal",
-          "source": "decrypt.co",
-          "published_at": "2026-08-18T15:19:45+00:00"
-        },
         {
           "title": "Metaplanet Makes 2,100 BTC Investment to Launch U.S. Bitcoin Treasury Platform",
           "link": "https://u.today/metaplanet-makes-2100-btc-investment-to-launch-us-bitcoin-treasury-platform",
@@ -1308,30 +1366,30 @@
       ]
     },
     {
-      "id": 5,
-      "title": "Goldman Sachs to Acquire LCN Capital Partners in Deal Worth Up to $410 Million",
-      "link": "https://coingape.com/goldman-sachs-to-acquire-lcn-capital-partners-in-deal-worth-up-to-410-million/",
-      "source": "coingape.com",
-      "published_at": "2026-08-18T15:18:45+00:00",
-      "sentiment": "neutral",
+      "id": 31,
+      "title": "Toyota Finance launches ¥1 billion tokenized bond via Toyota Wallet",
+      "link": "https://crypto.news/toyota-finance-launches-%c2%a51-billion-tokenized-bond-via-toyota-wallet/",
+      "source": "crypto.news",
+      "published_at": "2026-08-18T14:49:58+00:00",
+      "sentiment": "bullish",
       "coins": [],
       "sources": [
         "crypto.news",
-        "coingape.com"
+        "cointelegraph.com"
       ],
       "count": 2,
       "members": [
         {
-          "title": "Goldman Sachs to Acquire LCN Capital Partners in Deal Worth Up to $410 Million",
-          "link": "https://coingape.com/goldman-sachs-to-acquire-lcn-capital-partners-in-deal-worth-up-to-410-million/",
-          "source": "coingape.com",
-          "published_at": "2026-08-18T15:18:45+00:00"
+          "title": "Toyota Finance opens tokenized bonds to retail investors via mobile payment app",
+          "link": "https://cointelegraph.com/news/toyota-finance-tokenized-bond-offering-mobile-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "cointelegraph.com",
+          "published_at": "2026-08-18T13:41:56+00:00"
         },
         {
-          "title": "Goldman Sachs buys LCN in deal worth up to $410M",
-          "link": "https://crypto.news/goldman-sachs-buys-lcn-in-deal-worth-up-to-410m-dollar/",
+          "title": "Toyota Finance launches ¥1 billion tokenized bond via Toyota Wallet",
+          "link": "https://crypto.news/toyota-finance-launches-%c2%a51-billion-tokenized-bond-via-toyota-wallet/",
           "source": "crypto.news",
-          "published_at": "2026-08-18T15:42:07+00:00"
+          "published_at": "2026-08-18T14:49:58+00:00"
         }
       ]
     }
@@ -1339,7 +1397,7 @@
   "trending": [
     {
       "tag": "#Ai",
-      "count": 64,
+      "count": 63,
       "type": "topic",
       "pct": 100
     },
@@ -1347,13 +1405,13 @@
       "tag": "#XRP",
       "count": 46,
       "type": "coin",
-      "pct": 72
+      "pct": 73
     },
     {
       "tag": "#Xrp",
       "count": 41,
       "type": "topic",
-      "pct": 64
+      "pct": 65
     },
     {
       "tag": "#Defi",
@@ -1363,15 +1421,15 @@
     },
     {
       "tag": "#BTC",
-      "count": 22,
+      "count": 24,
       "type": "coin",
-      "pct": 34
+      "pct": 38
     },
     {
       "tag": "#Bitcoin",
-      "count": 21,
+      "count": 23,
       "type": "topic",
-      "pct": 33
+      "pct": 37
     },
     {
       "tag": "#ETH",
@@ -1386,5 +1444,5 @@
       "pct": 22
     }
   ],
-  "generated_at": "2026-08-18T15:47:35.148791+00:00"
+  "generated_at": "2026-08-18T16:04:52.043958+00:00"
 }
