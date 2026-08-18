@@ -2,16 +2,31 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "Fundstrat Predicts Bitcoin to $83,200, But Also $44,800 With 30% Swing Overdue",
-      "link": "https://beincrypto.com/fundstrat-bitcoin-30-percent-swing/",
-      "published_at": "2026-08-18T04:13:27+00:00",
-      "source": "beincrypto.com",
-      "score": 1,
-      "ntitle": "fundstrat predicts bitcoin 83 200 but also 44 800 30 swing overdue",
+      "title": "Ethereum explores UTXO-style model as storage demands grow — Can it scale more efficiently?",
+      "link": "https://ambcrypto.com/ethereum-explores-utxo-style-model-as-storage-demands-grow-can-it-scale-more-efficiently/",
+      "published_at": "2026-08-18T05:00:25+00:00",
+      "source": "ambcrypto.com",
+      "score": 2,
+      "ntitle": "ethereum explores utxo style model storage demands grow can it scale more efficiently",
       "coins": [
-        "BTC"
+        "ETH"
       ],
       "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Tom Lee Sees Ethereum Pulling Ahead of Bitcoin — and Names 2 Reasons",
+      "link": "https://beincrypto.com/tom-lee-eth-btc-ratio-bitmine/",
+      "published_at": "2026-08-18T04:40:37+00:00",
+      "source": "beincrypto.com",
+      "score": 5,
+      "ntitle": "tom lee sees ethereum pulling ahead bitcoin names 2 reasons",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -30,54 +45,28 @@
       "agency": null
     },
     {
-      "title": "South Korea’s Jeonbuk Bank taps Ripple for cross-border payments",
-      "link": "https://cointelegraph.com/news/jeonbuk-bank-ripple-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-08-18T04:11:02+00:00",
-      "source": "cointelegraph.com",
-      "score": 9,
-      "ntitle": "south korea s jeonbuk bank taps ripple cross border payments",
+      "title": "Crypto Ponzi suspect faces 25 charges after deportation",
+      "link": "https://crypto.news/crypto-ponzi-suspect-faces-25-charges/",
+      "published_at": "2026-08-18T05:09:02+00:00",
+      "source": "crypto.news",
+      "score": 1,
+      "ntitle": "crypto ponzi suspect faces 25 charges after deportation",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "XRP whale transactions surge 280% in 24 hours",
+      "link": "https://cryptobriefing.com/xrp-whale-transactions-surge-280-percent/",
+      "published_at": "2026-08-18T05:12:01+00:00",
+      "source": "cryptobriefing.com",
+      "score": 6,
+      "ntitle": "xrp whale transactions surge 280 24 hours",
       "coins": [
         "XRP"
       ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Jane Street reports over $1B in Bitcoin ETF shares",
-      "link": "https://crypto.news/jane-street-reports-over-1b-in-bitcoin-etf-shares/",
-      "published_at": "2026-08-18T04:38:13+00:00",
-      "source": "crypto.news",
-      "score": 3,
-      "ntitle": "jane street reports over 1b bitcoin etf shares",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Chinese AI platforms challenge US giants with lower costs and competitive capabilities",
-      "link": "https://cryptobriefing.com/chinese-ai-platforms-challenge-us-giants/",
-      "published_at": "2026-08-18T04:11:06+00:00",
-      "source": "cryptobriefing.com",
-      "score": 2,
-      "ntitle": "chinese ai platforms challenge us giants lower costs competitive capabilities",
-      "coins": [],
       "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "BitMart Account Demands Answers Over Frozen User Funds and Unpaid Salaries",
-      "link": "https://cryptopotato.com/bitmart-account-demands-answers-over-frozen-user-funds-and-unpaid-salaries/",
-      "published_at": "2026-08-18T03:55:32+00:00",
-      "source": "cryptopotato.com",
-      "score": 1,
-      "ntitle": "bitmart account demands answers over frozen user funds unpaid salaries",
-      "coins": [],
-      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -108,40 +97,29 @@
       "agency": null
     },
     {
-      "title": "S&P 500 Falls, Bitcoin Surges as Traders Await the Fed Minutes: What Next?",
-      "link": "https://beincrypto.com/sp500-bitcoin-diverge-fomc-minutes-preview/",
-      "published_at": "2026-08-18T04:05:29+00:00",
-      "source": "beincrypto.com",
+      "title": "Farcaster seeks new operator seven months after sale",
+      "link": "https://crypto.news/farcaster-seeks-new-operator-seven-months-after-sale/",
+      "published_at": "2026-08-18T04:54:57+00:00",
+      "source": "crypto.news",
       "score": 1,
-      "ntitle": "s p 500 falls bitcoin surges traders await fed minutes what next",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
+      "ntitle": "farcaster seeks new operator seven months after sale",
+      "coins": [],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Blockchain Association urges SEC to drop 2 trading rules",
-      "link": "https://crypto.news/blockchain-association-urges-sec-to-drop-2-rules/",
-      "published_at": "2026-08-18T04:15:58+00:00",
-      "source": "crypto.news",
-      "score": 5,
-      "ntitle": "blockchain association urges sec drop 2 trading rules",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "SEC"
-    },
-    {
-      "title": "US scales back joint military exercises amid Middle East naval redeployment",
-      "link": "https://cryptobriefing.com/us-scales-back-joint-military-exercises-amid-middle-east-naval-redeployment/",
-      "published_at": "2026-08-18T04:07:33+00:00",
+      "title": "Moscow Exchange plans to launch Bitcoin, Ethereum perpetual futures next month",
+      "link": "https://cryptobriefing.com/moscow-exchange-bitcoin-ethereum-perpetual-futures/",
+      "published_at": "2026-08-18T05:10:32+00:00",
       "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "us scales back joint military exercises amid middle east naval redeployment",
-      "coins": [],
-      "sentiment": "neutral",
+      "score": 3,
+      "ntitle": "moscow exchange plans launch bitcoin ethereum perpetual futures next month",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     }
@@ -174,14 +152,16 @@
       "agency": null
     },
     {
-      "title": "Anthropic Run Rate Hits $65 Billion and Leaves OpenAI $25 Billion Behind",
-      "link": "https://beincrypto.com/anthropic-revenue-run-rate-65-billion-2/",
-      "published_at": "2026-08-18T03:25:55+00:00",
+      "title": "Fundstrat Predicts Bitcoin to $83,200, But Also $44,800 With 30% Swing Overdue",
+      "link": "https://beincrypto.com/fundstrat-bitcoin-30-percent-swing/",
+      "published_at": "2026-08-18T04:13:27+00:00",
       "source": "beincrypto.com",
-      "score": 3,
-      "ntitle": "anthropic run rate hits 65 billion leaves openai 25 billion behind",
-      "coins": [],
-      "sentiment": "bearish",
+      "score": 1,
+      "ntitle": "fundstrat predicts bitcoin 83 200 but also 44 800 30 swing overdue",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -200,15 +180,13 @@
       "agency": null
     },
     {
-      "title": "Hyperliquid ($HYPE) Growth Tests Institutional Trading Workflows",
-      "link": "https://Blockchain.News/news/hyperliquid-tests-institutional-workflows",
-      "published_at": "2026-08-17T12:43:23+00:00",
+      "title": "EURC Surpasses €400M Circulation, Solidifies Lead in Euro Stablecoins",
+      "link": "https://Blockchain.News/news/eurc-surpasses-400m-circulation",
+      "published_at": "2026-08-17T20:52:06+00:00",
       "source": "blockchain.news",
       "score": 5,
-      "ntitle": "hyperliquid hype growth tests institutional trading workflows",
-      "coins": [
-        "HYPE"
-      ],
+      "ntitle": "eurc surpasses 400m circulation solidifies lead euro stablecoins",
+      "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
@@ -276,50 +254,54 @@
       "agency": null
     },
     {
-      "title": "Alleged $165M crypto Ponzi mastermind faces US charges after Fiji deportation",
-      "link": "https://cointelegraph.com/news/edward-zimbardi-165m-crypto-ponzi-fiji-deportation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-08-18T03:21:26+00:00",
+      "title": "South Korea’s Jeonbuk Bank taps Ripple for cross-border payments",
+      "link": "https://cointelegraph.com/news/jeonbuk-bank-ripple-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-08-18T04:11:02+00:00",
       "source": "cointelegraph.com",
-      "score": 3,
-      "ntitle": "alleged 165m crypto ponzi mastermind faces us charges after fiji deportation",
-      "coins": [],
+      "score": 9,
+      "ntitle": "south korea s jeonbuk bank taps ripple cross border payments",
+      "coins": [
+        "XRP"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Ripple signs first Korean regional bank payments deal",
+      "link": "https://crypto.news/ripple-signs-first-korean-regional-bank-payments-deal/",
+      "published_at": "2026-08-18T04:02:28+00:00",
+      "source": "crypto.news",
+      "score": 7,
+      "ntitle": "ripple signs first korean regional bank payments deal",
+      "coins": [
+        "XRP"
+      ],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "World Liberty wins conditional approval for US trust bank",
-      "link": "https://crypto.news/world-liberty-wins-conditional-approval-us-trust-bank/",
-      "published_at": "2026-08-17T21:45:41+00:00",
-      "source": "crypto.news",
-      "score": 7,
-      "ntitle": "world liberty wins conditional approval us trust bank",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Regulatory"
-    },
-    {
-      "title": "Iran bill to restrict foreign contacts sparks widespread opposition",
-      "link": "https://cryptobriefing.com/iran-bill-to-restrict-foreign-contacts-sparks-widespread-opposition/",
-      "published_at": "2026-08-18T03:40:49+00:00",
+      "title": "Chinese AI platforms challenge US giants with lower costs and competitive capabilities",
+      "link": "https://cryptobriefing.com/chinese-ai-platforms-challenge-us-giants/",
+      "published_at": "2026-08-18T04:11:06+00:00",
       "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "iran bill restrict foreign contacts sparks widespread opposition",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Regulatory"
-    },
-    {
-      "title": "Pump.fun Under Fire Again: Curve Finance Founder Calls It a ‘Casino’ for Meme Coins",
-      "link": "https://cryptopotato.com/pump-fun-under-fire-again-curve-finance-founder-calls-it-a-casino-for-meme-coins/",
-      "published_at": "2026-08-17T22:05:33+00:00",
-      "source": "cryptopotato.com",
-      "score": 4,
-      "ntitle": "pump fun under fire again curve finance founder calls it casino meme coins",
+      "score": 2,
+      "ntitle": "chinese ai platforms challenge us giants lower costs competitive capabilities",
       "coins": [],
       "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "BitMart Account Demands Answers Over Frozen User Funds and Unpaid Salaries",
+      "link": "https://cryptopotato.com/bitmart-account-demands-answers-over-frozen-user-funds-and-unpaid-salaries/",
+      "published_at": "2026-08-18T03:55:32+00:00",
+      "source": "cryptopotato.com",
+      "score": 1,
+      "ntitle": "bitmart account demands answers over frozen user funds unpaid salaries",
+      "coins": [],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -468,14 +450,16 @@
       "agency": "Treasury"
     },
     {
-      "title": "4 Memory Stocks Cramer Says Could Avoid an AI Bust and Keep Climbing",
-      "link": "https://beincrypto.com/memory-stocks-cramer-ai-demand/",
-      "published_at": "2026-08-18T03:22:49+00:00",
+      "title": "S&P 500 Falls, Bitcoin Surges as Traders Await the Fed Minutes: What Next?",
+      "link": "https://beincrypto.com/sp500-bitcoin-diverge-fomc-minutes-preview/",
+      "published_at": "2026-08-18T04:05:29+00:00",
       "source": "beincrypto.com",
       "score": 1,
-      "ntitle": "4 memory stocks cramer says could avoid ai bust keep climbing",
-      "coins": [],
-      "sentiment": "neutral",
+      "ntitle": "s p 500 falls bitcoin surges traders await fed minutes what next",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -494,16 +478,13 @@
       "agency": null
     },
     {
-      "title": "Bitcoin BTC Hovers Near $63.5K Amid Market Consolidation",
-      "link": "https://Blockchain.News/news/bitcoin-btc-price-august-2026-update",
-      "published_at": "2026-08-17T12:36:23+00:00",
+      "title": "NVIDIA Unveils Nemotron 3.5 Lightning NVFP4 for AI Efficiency",
+      "link": "https://Blockchain.News/news/nvidia-nemotron-3-5-lightning-nvfp4-qad",
+      "published_at": "2026-08-17T18:45:09+00:00",
       "source": "blockchain.news",
-      "score": 3,
-      "ntitle": "bitcoin btc hovers near 63 5k amid market consolidation",
-      "coins": [
-        "BTC",
-        "NEAR"
-      ],
+      "score": 1,
+      "ntitle": "nvidia unveils nemotron 3 5 lightning nvfp4 ai efficiency",
+      "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
@@ -585,18 +566,6 @@
         "BTC"
       ],
       "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "PLTR Price Prediction: Blowout Earnings Meet Overbought Technicals — Brace for a $165–$195 Decision Point",
-      "link": "https://Blockchain.News/news/20260816-price-prediction-pltr-blowout-earnings-meet-overbought-technicals-brace",
-      "published_at": "2026-08-16T10:28:48+00:00",
-      "source": "blockchain.news",
-      "score": 2,
-      "ntitle": "pltr price prediction blowout earnings meet overbought technicals brace 165 195 decision point",
-      "coins": [],
-      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -883,18 +852,6 @@
       "agency": null
     },
     {
-      "title": "HOOD Price Prediction: Bulls Choking Below $100 — Smart Money Is Loaded but the Tape Is Lying",
-      "link": "https://Blockchain.News/news/20260816-price-prediction-hood-bulls-choking-below-100-smart-money",
-      "published_at": "2026-08-16T10:24:33+00:00",
-      "source": "blockchain.news",
-      "score": 4,
-      "ntitle": "hood price prediction bulls choking below 100 smart money loaded but tape lying",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
       "title": "SEC, CFTC sue Goliath Ventures founder over $400 Million crypto ponzi scheme",
       "link": "https://coincodecap.com/sec-cftc-sue-goliath-ventures-founder-over-400-million-crypto-ponzi-scheme?utm_source=rss&utm_medium=rss&utm_campaign=sec-cftc-sue-goliath-ventures-founder-over-400-million-crypto-ponzi-scheme",
       "published_at": "2026-08-12T00:46:45+00:00",
@@ -916,6 +873,36 @@
       "coins": [
         "BTC",
         "HYPE"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Crypto Market Update August 16: Bitcoin, Ethereum and XRP Stall Ahead of FOMC Minutes",
+      "link": "https://coingape.com/markets/crypto-market-update-august-16-bitcoin-ethereum-and-xrp-stall-ahead-of-fomc-minutes/",
+      "published_at": "2026-08-16T12:30:39+00:00",
+      "source": "coingape.com",
+      "score": 9,
+      "ntitle": "crypto market update august 16 bitcoin ethereum xrp stall ahead fomc minutes",
+      "coins": [
+        "BTC",
+        "ETH",
+        "XRP"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Bitcoin holds $62,300 support as BTC attempts short-term recovery",
+      "link": "https://coinjournal.net/news/bitcoin-holds-62300-support-as-btc-attempts-short-term-recovery/",
+      "published_at": "2026-08-14T12:11:31+00:00",
+      "source": "coinjournal.net",
+      "score": 1,
+      "ntitle": "bitcoin holds 62 300 support btc attempts short term recovery",
+      "coins": [
+        "BTC"
       ],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -1114,7 +1101,7 @@
   ],
   "clusters": [
     {
-      "id": 2,
+      "id": 6,
       "title": "South Korea’s Jeonbuk Bank taps Ripple for cross-border payments",
       "link": "https://cointelegraph.com/news/jeonbuk-bank-ripple-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "cointelegraph.com",
@@ -1124,11 +1111,18 @@
         "XRP"
       ],
       "sources": [
+        "cointelegraph.com",
         "u.today",
-        "cointelegraph.com"
+        "crypto.news"
       ],
-      "count": 2,
+      "count": 3,
       "members": [
+        {
+          "title": "Ripple Payments Adopted by South Korean Bank",
+          "link": "https://u.today/ripple-payments-adopted-by-south-korean-bank",
+          "source": "u.today",
+          "published_at": "2026-08-18T04:31:48+00:00"
+        },
         {
           "title": "South Korea’s Jeonbuk Bank taps Ripple for cross-border payments",
           "link": "https://cointelegraph.com/news/jeonbuk-bank-ripple-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1136,38 +1130,10 @@
           "published_at": "2026-08-18T04:11:02+00:00"
         },
         {
-          "title": "Ripple Payments Adopted by South Korean Bank",
-          "link": "https://u.today/ripple-payments-adopted-by-south-korean-bank",
-          "source": "u.today",
-          "published_at": "2026-08-18T04:31:48+00:00"
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "title": "Anthropic Run Rate Hits $65 Billion and Leaves OpenAI $25 Billion Behind",
-      "link": "https://beincrypto.com/anthropic-revenue-run-rate-65-billion-2/",
-      "source": "beincrypto.com",
-      "published_at": "2026-08-18T03:25:55+00:00",
-      "sentiment": "bearish",
-      "coins": [],
-      "sources": [
-        "cnbc.com",
-        "beincrypto.com"
-      ],
-      "count": 2,
-      "members": [
-        {
-          "title": "Anthropic Run Rate Hits $65 Billion and Leaves OpenAI $25 Billion Behind",
-          "link": "https://beincrypto.com/anthropic-revenue-run-rate-65-billion-2/",
-          "source": "beincrypto.com",
-          "published_at": "2026-08-18T03:25:55+00:00"
-        },
-        {
-          "title": "Anthropic tells investors annualized revenue run rate climbed to $65 billion in July",
-          "link": "https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html",
-          "source": "cnbc.com",
-          "published_at": "2026-08-17T22:55:31+00:00"
+          "title": "Ripple signs first Korean regional bank payments deal",
+          "link": "https://crypto.news/ripple-signs-first-korean-regional-bank-payments-deal/",
+          "source": "crypto.news",
+          "published_at": "2026-08-18T04:02:28+00:00"
         }
       ]
     },
@@ -1180,8 +1146,8 @@
       "sentiment": "bearish",
       "coins": [],
       "sources": [
-        "decrypt.co",
-        "coindesk.com"
+        "coindesk.com",
+        "decrypt.co"
       ],
       "count": 2,
       "members": [
@@ -1198,36 +1164,6 @@
           "published_at": "2026-08-17T22:35:46+00:00"
         }
       ]
-    },
-    {
-      "id": 3,
-      "title": "Jane Street Reveals Nearly $1B Bitcoin Position",
-      "link": "https://bitcoinmagazine.com/news/jane-street-bitcoin-position",
-      "source": "bitcoinmagazine.com",
-      "published_at": "2026-08-17T20:37:07+00:00",
-      "sentiment": "bullish",
-      "coins": [
-        "BTC"
-      ],
-      "sources": [
-        "crypto.news",
-        "bitcoinmagazine.com"
-      ],
-      "count": 2,
-      "members": [
-        {
-          "title": "Jane Street reports over $1B in Bitcoin ETF shares",
-          "link": "https://crypto.news/jane-street-reports-over-1b-in-bitcoin-etf-shares/",
-          "source": "crypto.news",
-          "published_at": "2026-08-18T04:38:13+00:00"
-        },
-        {
-          "title": "Jane Street Reveals Nearly $1B Bitcoin Position",
-          "link": "https://bitcoinmagazine.com/news/jane-street-bitcoin-position",
-          "source": "bitcoinmagazine.com",
-          "published_at": "2026-08-17T20:37:07+00:00"
-        }
-      ]
     }
   ],
   "trending": [
@@ -1239,15 +1175,15 @@
     },
     {
       "tag": "#XRP",
-      "count": 49,
+      "count": 50,
       "type": "coin",
-      "pct": 82
+      "pct": 83
     },
     {
       "tag": "#Xrp",
-      "count": 40,
+      "count": 41,
       "type": "topic",
-      "pct": 67
+      "pct": 68
     },
     {
       "tag": "#Defi",
@@ -1257,28 +1193,28 @@
     },
     {
       "tag": "#BTC",
-      "count": 21,
+      "count": 22,
       "type": "coin",
-      "pct": 35
+      "pct": 37
     },
     {
       "tag": "#Bitcoin",
-      "count": 19,
+      "count": 20,
       "type": "topic",
-      "pct": 32
+      "pct": 33
     },
     {
       "tag": "#ETH",
-      "count": 16,
+      "count": 17,
       "type": "coin",
-      "pct": 27
+      "pct": 28
     },
     {
       "tag": "#Ethereum",
-      "count": 12,
+      "count": 13,
       "type": "topic",
-      "pct": 20
+      "pct": 22
     }
   ],
-  "generated_at": "2026-08-18T04:46:35.877764+00:00"
+  "generated_at": "2026-08-18T05:15:05.888971+00:00"
 }
