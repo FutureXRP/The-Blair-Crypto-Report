@@ -2,6 +2,112 @@
   "x_breaking": [],
   "breaking": [
     {
+      "title": "Coldcard exploit reveals years-long Bitcoin theft campaign — Details",
+      "link": "https://ambcrypto.com/coldcard-exploit-reveals-years-long-bitcoin-theft-campaign-details/",
+      "published_at": "2026-08-18T05:30:33+00:00",
+      "source": "ambcrypto.com",
+      "score": 1,
+      "ntitle": "coldcard exploit reveals years long bitcoin theft campaign details",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Treasury Department Opens Public Comment Period on GENIUS Act Stablecoin Licensing Rules",
+      "link": "https://blockonomi.com/treasury-department-opens-public-comment-period-on-genius-act-stablecoin-licensing-rules/",
+      "published_at": "2026-08-18T05:40:28+00:00",
+      "source": "blockonomi.com",
+      "score": 4,
+      "ntitle": "treasury department opens public comment period genius act stablecoin licensing rules",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Treasury"
+    },
+    {
+      "title": "XRP slips below $1 even as a Korean regional bank adopts Ripple Payments",
+      "link": "https://www.coindesk.com/markets/2026/08/18/xrp-slips-below-usd1-even-as-korean-regional-bank-adopts-ripple-payments",
+      "published_at": "2026-08-18T05:34:32+00:00",
+      "source": "coindesk.com",
+      "score": 10,
+      "ntitle": "xrp slips below 1 even korean regional bank adopts ripple payments",
+      "coins": [
+        "XRP"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "XRP News: Ripple Partners with Korea’s Bank to Replace SWIFT with Real-Time Payments",
+      "link": "https://coingape.com/xrp-news-ripple-partners-with-korea-bank-replace-swift-with-real-time-payments/",
+      "published_at": "2026-08-18T05:19:26+00:00",
+      "source": "coingape.com",
+      "score": 17,
+      "ntitle": "xrp news ripple partners korea s bank replace swift real time payments",
+      "coins": [
+        "XRP"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Ethereum Foundation warns some tools may break with Glamsterdam upgrade",
+      "link": "https://cointelegraph.com/news/ethereum-foundation-warns-some-tools-may-break-with-glamsterdam-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-08-18T05:12:18+00:00",
+      "source": "cointelegraph.com",
+      "score": 7,
+      "ntitle": "ethereum foundation warns some tools may break glamsterdam upgrade",
+      "coins": [
+        "ETH"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Binance plans UK return with FCA license bid: report",
+      "link": "https://crypto.news/binance-plans-uk-return-with-fca-license-bid/",
+      "published_at": "2026-08-18T05:44:02+00:00",
+      "source": "crypto.news",
+      "score": 3,
+      "ntitle": "binance plans uk return fca license bid report",
+      "coins": [
+        "BNB"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Iran boosts missile production as US-Iran negotiation window closes",
+      "link": "https://cryptobriefing.com/iran-boosts-missile-production-as-us-iran-negotiation-window-closes/",
+      "published_at": "2026-08-18T05:18:36+00:00",
+      "source": "cryptobriefing.com",
+      "score": 3,
+      "ntitle": "iran boosts missile production us iran negotiation window closes",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "A Mystery Winner Claimed $24 Million Just Two Days Before the Deadline. Officials Think They Waited on Purpose",
+      "link": "https://news.bitcoin.com/featured/a-mystery-winner-claimed-24-million-just-two-days-before-the-deadline-officials-think-they-waited-on-purpose-49201/",
+      "published_at": "2026-08-18T05:30:09+00:00",
+      "source": "news.bitcoin.com",
+      "score": 2,
+      "ntitle": "mystery winner claimed 24 million just two days before deadline officials think they waited purpose",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
       "title": "Ethereum explores UTXO-style model as storage demands grow — Can it scale more efficiently?",
       "link": "https://ambcrypto.com/ethereum-explores-utxo-style-model-as-storage-demands-grow-can-it-scale-more-efficiently/",
       "published_at": "2026-08-18T05:00:25+00:00",
@@ -16,27 +122,12 @@
       "agency": null
     },
     {
-      "title": "Tom Lee Sees Ethereum Pulling Ahead of Bitcoin — and Names 2 Reasons",
-      "link": "https://beincrypto.com/tom-lee-eth-btc-ratio-bitmine/",
-      "published_at": "2026-08-18T04:40:37+00:00",
-      "source": "beincrypto.com",
-      "score": 5,
-      "ntitle": "tom lee sees ethereum pulling ahead bitcoin names 2 reasons",
-      "coins": [
-        "BTC",
-        "ETH"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Bitcoin climbs above $64,000 while most majors slip",
-      "link": "https://www.coindesk.com/markets/2026/08/18/bitcoin-climbs-above-usd64-000-while-most-majors-slip",
-      "published_at": "2026-08-18T04:32:38+00:00",
-      "source": "coindesk.com",
-      "score": 1,
-      "ntitle": "bitcoin climbs above 64 000 while most majors slip",
+      "title": "Bitcoin (BTC) Climbs Back to $64K Level Before Major White House Crypto Summit",
+      "link": "https://blockonomi.com/bitcoin-btc-climbs-back-to-64k-level-before-major-white-house-crypto-summit/",
+      "published_at": "2026-08-18T05:33:23+00:00",
+      "source": "blockonomi.com",
+      "score": 3,
+      "ntitle": "bitcoin btc climbs back 64k level before major white house crypto summit",
       "coins": [
         "BTC"
       ],
@@ -45,14 +136,28 @@
       "agency": null
     },
     {
-      "title": "Crypto Ponzi suspect faces 25 charges after deportation",
-      "link": "https://crypto.news/crypto-ponzi-suspect-faces-25-charges/",
-      "published_at": "2026-08-18T05:09:02+00:00",
+      "title": "Monad, an Ethereum rival, offered early investors up to $60 million to cash out. Almost all said no",
+      "link": "https://www.coindesk.com/markets/2026/08/18/monad-an-ethereum-rival-offered-early-investors-up-to-usd60-million-to-cash-out-almost-all-said-no",
+      "published_at": "2026-08-18T05:18:18+00:00",
+      "source": "coindesk.com",
+      "score": 2,
+      "ntitle": "monad ethereum rival offered early investors up 60 million cash out almost all said no",
+      "coins": [
+        "ETH"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Compound approves $52M institutional DeFi program",
+      "link": "https://crypto.news/compound-approves-52m-institutional-defi-program/",
+      "published_at": "2026-08-18T05:25:56+00:00",
       "source": "crypto.news",
-      "score": 1,
-      "ntitle": "crypto ponzi suspect faces 25 charges after deportation",
+      "score": 7,
+      "ntitle": "compound approves 52m institutional defi program",
       "coins": [],
-      "sentiment": "bearish",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -65,59 +170,6 @@
       "ntitle": "xrp whale transactions surge 280 24 hours",
       "coins": [
         "XRP"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "EU Empowers Regulators to Block Third-Country Crypto Platforms",
-      "link": "https://news.bitcoin.com/regulation-and-legal/eu-empowers-regulators-to-block-third-country-crypto-platforms/",
-      "published_at": "2026-08-18T04:30:11+00:00",
-      "source": "news.bitcoin.com",
-      "score": 3,
-      "ntitle": "eu empowers regulators block third country crypto platforms",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Ripple Payments Adopted by South Korean Bank",
-      "link": "https://u.today/ripple-payments-adopted-by-south-korean-bank",
-      "published_at": "2026-08-18T04:31:48+00:00",
-      "source": "u.today",
-      "score": 5,
-      "ntitle": "ripple payments adopted south korean bank",
-      "coins": [
-        "XRP"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Farcaster seeks new operator seven months after sale",
-      "link": "https://crypto.news/farcaster-seeks-new-operator-seven-months-after-sale/",
-      "published_at": "2026-08-18T04:54:57+00:00",
-      "source": "crypto.news",
-      "score": 1,
-      "ntitle": "farcaster seeks new operator seven months after sale",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Moscow Exchange plans to launch Bitcoin, Ethereum perpetual futures next month",
-      "link": "https://cryptobriefing.com/moscow-exchange-bitcoin-ethereum-perpetual-futures/",
-      "published_at": "2026-08-18T05:10:32+00:00",
-      "source": "cryptobriefing.com",
-      "score": 3,
-      "ntitle": "moscow exchange plans launch bitcoin ethereum perpetual futures next month",
-      "coins": [
-        "BTC",
-        "ETH"
       ],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -152,16 +204,17 @@
       "agency": null
     },
     {
-      "title": "Fundstrat Predicts Bitcoin to $83,200, But Also $44,800 With 30% Swing Overdue",
-      "link": "https://beincrypto.com/fundstrat-bitcoin-30-percent-swing/",
-      "published_at": "2026-08-18T04:13:27+00:00",
+      "title": "Tom Lee Sees Ethereum Pulling Ahead of Bitcoin — and Names 2 Reasons",
+      "link": "https://beincrypto.com/tom-lee-eth-btc-ratio-bitmine/",
+      "published_at": "2026-08-18T04:40:37+00:00",
       "source": "beincrypto.com",
-      "score": 1,
-      "ntitle": "fundstrat predicts bitcoin 83 200 but also 44 800 30 swing overdue",
+      "score": 5,
+      "ntitle": "tom lee sees ethereum pulling ahead bitcoin names 2 reasons",
       "coins": [
-        "BTC"
+        "BTC",
+        "ETH"
       ],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -216,14 +269,16 @@
       "agency": null
     },
     {
-      "title": "Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push",
-      "link": "https://www.coindesk.com/tech/2026/08/17/kraken-parent-payward-joins-anthropic-s-project-glasswing-for-ai-security-push",
-      "published_at": "2026-08-17T22:12:00+00:00",
+      "title": "Bitcoin climbs above $64,000 while most majors slip",
+      "link": "https://www.coindesk.com/markets/2026/08/18/bitcoin-climbs-above-usd64-000-while-most-majors-slip",
+      "published_at": "2026-08-18T04:32:38+00:00",
       "source": "coindesk.com",
       "score": 1,
-      "ntitle": "kraken parent payward joins anthropic s project glasswing ai security push",
-      "coins": [],
-      "sentiment": "bearish",
+      "ntitle": "bitcoin climbs above 64 000 while most majors slip",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -268,16 +323,16 @@
       "agency": null
     },
     {
-      "title": "Ripple signs first Korean regional bank payments deal",
-      "link": "https://crypto.news/ripple-signs-first-korean-regional-bank-payments-deal/",
-      "published_at": "2026-08-18T04:02:28+00:00",
+      "title": "Jane Street reports over $1B in Bitcoin ETF shares",
+      "link": "https://crypto.news/jane-street-reports-over-1b-in-bitcoin-etf-shares/",
+      "published_at": "2026-08-18T04:38:13+00:00",
       "source": "crypto.news",
-      "score": 7,
-      "ntitle": "ripple signs first korean regional bank payments deal",
+      "score": 3,
+      "ntitle": "jane street reports over 1b bitcoin etf shares",
       "coins": [
-        "XRP"
+        "BTC"
       ],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -358,14 +413,14 @@
       "agency": null
     },
     {
-      "title": "Harmony Protocol to Roll Back Network After Massive Exploit",
-      "link": "https://news.bitcoin.com/blockchain/harmony-protocol-to-roll-back-network-after-massive-exploit/",
-      "published_at": "2026-08-18T03:30:41+00:00",
+      "title": "EU Empowers Regulators to Block Third-Country Crypto Platforms",
+      "link": "https://news.bitcoin.com/regulation-and-legal/eu-empowers-regulators-to-block-third-country-crypto-platforms/",
+      "published_at": "2026-08-18T04:30:11+00:00",
       "source": "news.bitcoin.com",
-      "score": 1,
-      "ntitle": "harmony protocol roll back network after massive exploit",
+      "score": 3,
+      "ntitle": "eu empowers regulators block third country crypto platforms",
       "coins": [],
-      "sentiment": "bearish",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -396,18 +451,16 @@
       "agency": null
     },
     {
-      "title": "XRP, Bitcoin (BTC), Shiba Inu (SHIB) and Zcash (ZEC) Price Analysis for August 18: Market Volumes Fly Over the Top",
-      "link": "https://u.today/price-analysis/xrp-bitcoin-btc-shiba-inu-shib-and-zcash-zec-price-analysis-for-august-18-market-volumes-fly-over",
-      "published_at": "2026-08-18T00:01:00+00:00",
+      "title": "Ripple Payments Adopted by South Korean Bank",
+      "link": "https://u.today/ripple-payments-adopted-by-south-korean-bank",
+      "published_at": "2026-08-18T04:31:48+00:00",
       "source": "u.today",
-      "score": 7,
-      "ntitle": "xrp bitcoin btc shiba inu shib zcash zec price analysis august 18 market volumes fly over top",
+      "score": 5,
+      "ntitle": "ripple payments adopted south korean bank",
       "coins": [
-        "BTC",
-        "SHIB",
         "XRP"
       ],
-      "sentiment": "bullish",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -450,16 +503,16 @@
       "agency": "Treasury"
     },
     {
-      "title": "S&P 500 Falls, Bitcoin Surges as Traders Await the Fed Minutes: What Next?",
-      "link": "https://beincrypto.com/sp500-bitcoin-diverge-fomc-minutes-preview/",
-      "published_at": "2026-08-18T04:05:29+00:00",
+      "title": "Fundstrat Predicts Bitcoin to $83,200, But Also $44,800 With 30% Swing Overdue",
+      "link": "https://beincrypto.com/fundstrat-bitcoin-30-percent-swing/",
+      "published_at": "2026-08-18T04:13:27+00:00",
       "source": "beincrypto.com",
       "score": 1,
-      "ntitle": "s p 500 falls bitcoin surges traders await fed minutes what next",
+      "ntitle": "fundstrat predicts bitcoin 83 200 but also 44 800 30 swing overdue",
       "coins": [
         "BTC"
       ],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -879,22 +932,6 @@
       "agency": null
     },
     {
-      "title": "Crypto Market Update August 16: Bitcoin, Ethereum and XRP Stall Ahead of FOMC Minutes",
-      "link": "https://coingape.com/markets/crypto-market-update-august-16-bitcoin-ethereum-and-xrp-stall-ahead-of-fomc-minutes/",
-      "published_at": "2026-08-16T12:30:39+00:00",
-      "source": "coingape.com",
-      "score": 9,
-      "ntitle": "crypto market update august 16 bitcoin ethereum xrp stall ahead fomc minutes",
-      "coins": [
-        "BTC",
-        "ETH",
-        "XRP"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
       "title": "Bitcoin holds $62,300 support as BTC attempts short-term recovery",
       "link": "https://coinjournal.net/news/bitcoin-holds-62300-support-as-btc-attempts-short-term-recovery/",
       "published_at": "2026-08-14T12:11:31+00:00",
@@ -905,6 +942,18 @@
         "BTC"
       ],
       "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Data of 54,000 wallet users leaked, CLARITY odds just 10%: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-08-16T23:54:50+00:00",
+      "source": "cointelegraph.com",
+      "score": 1,
+      "ntitle": "data 54 000 wallet users leaked clarity odds just 10 hodler s digest",
+      "coins": [],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     }
@@ -1101,67 +1150,127 @@
   ],
   "clusters": [
     {
-      "id": 6,
-      "title": "South Korea’s Jeonbuk Bank taps Ripple for cross-border payments",
-      "link": "https://cointelegraph.com/news/jeonbuk-bank-ripple-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "published_at": "2026-08-18T04:11:02+00:00",
+      "id": 1,
+      "title": "U.S. Treasury Department Seeks Public Comment on Implementation of GENIUS Act Stablecoin Legislation",
+      "link": "https://dailyhodl.com/2026/08/17/u-s-treasury-department-seeks-public-comment-on-implementation-of-genius-act-stablecoin-legislation/",
+      "source": "dailyhodl.com",
+      "published_at": "2026-08-17T20:09:00+00:00",
       "sentiment": "neutral",
+      "coins": [],
+      "sources": [
+        "blockonomi.com",
+        "dailyhodl.com",
+        "bankless.com"
+      ],
+      "count": 3,
+      "members": [
+        {
+          "title": "Treasury Department Opens Public Comment Period on GENIUS Act Stablecoin Licensing Rules",
+          "link": "https://blockonomi.com/treasury-department-opens-public-comment-period-on-genius-act-stablecoin-licensing-rules/",
+          "source": "blockonomi.com",
+          "published_at": "2026-08-18T05:40:28+00:00"
+        },
+        {
+          "title": "U.S. Treasury Department Seeks Public Comment on Implementation of GENIUS Act Stablecoin Legislation",
+          "link": "https://dailyhodl.com/2026/08/17/u-s-treasury-department-seeks-public-comment-on-implementation-of-genius-act-stablecoin-legislation/",
+          "source": "dailyhodl.com",
+          "published_at": "2026-08-17T20:09:00+00:00"
+        },
+        {
+          "title": "Treasury Proposes Rules for How GENIUS Act Stablecoin Licensing Works",
+          "link": "https://www.bankless.com/read/news/treasury-proposes-rules-for-how-genius-act-stablecoin-licensing-works",
+          "source": "bankless.com",
+          "published_at": "2026-08-17T19:07:21+00:00"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "XRP slips below $1 even as a Korean regional bank adopts Ripple Payments",
+      "link": "https://www.coindesk.com/markets/2026/08/18/xrp-slips-below-usd1-even-as-korean-regional-bank-adopts-ripple-payments",
+      "source": "coindesk.com",
+      "published_at": "2026-08-18T05:34:32+00:00",
+      "sentiment": "bearish",
       "coins": [
         "XRP"
       ],
       "sources": [
-        "cointelegraph.com",
-        "u.today",
-        "crypto.news"
+        "coindesk.com",
+        "u.today"
       ],
-      "count": 3,
+      "count": 2,
       "members": [
+        {
+          "title": "XRP slips below $1 even as a Korean regional bank adopts Ripple Payments",
+          "link": "https://www.coindesk.com/markets/2026/08/18/xrp-slips-below-usd1-even-as-korean-regional-bank-adopts-ripple-payments",
+          "source": "coindesk.com",
+          "published_at": "2026-08-18T05:34:32+00:00"
+        },
         {
           "title": "Ripple Payments Adopted by South Korean Bank",
           "link": "https://u.today/ripple-payments-adopted-by-south-korean-bank",
           "source": "u.today",
           "published_at": "2026-08-18T04:31:48+00:00"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "XRP News: Ripple Partners with Korea’s Bank to Replace SWIFT with Real-Time Payments",
+      "link": "https://coingape.com/xrp-news-ripple-partners-with-korea-bank-replace-swift-with-real-time-payments/",
+      "source": "coingape.com",
+      "published_at": "2026-08-18T05:19:26+00:00",
+      "sentiment": "bearish",
+      "coins": [
+        "XRP"
+      ],
+      "sources": [
+        "cointelegraph.com",
+        "coingape.com"
+      ],
+      "count": 2,
+      "members": [
+        {
+          "title": "XRP News: Ripple Partners with Korea’s Bank to Replace SWIFT with Real-Time Payments",
+          "link": "https://coingape.com/xrp-news-ripple-partners-with-korea-bank-replace-swift-with-real-time-payments/",
+          "source": "coingape.com",
+          "published_at": "2026-08-18T05:19:26+00:00"
         },
         {
           "title": "South Korea’s Jeonbuk Bank taps Ripple for cross-border payments",
           "link": "https://cointelegraph.com/news/jeonbuk-bank-ripple-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "source": "cointelegraph.com",
           "published_at": "2026-08-18T04:11:02+00:00"
-        },
-        {
-          "title": "Ripple signs first Korean regional bank payments deal",
-          "link": "https://crypto.news/ripple-signs-first-korean-regional-bank-payments-deal/",
-          "source": "crypto.news",
-          "published_at": "2026-08-18T04:02:28+00:00"
         }
       ]
     },
     {
-      "id": 16,
-      "title": "Kraken Parent Payward Joins Glasswing, Gets Access to Claude Mythos to Hunt Security Flaws",
-      "link": "https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos",
-      "source": "decrypt.co",
-      "published_at": "2026-08-17T22:35:46+00:00",
-      "sentiment": "bearish",
-      "coins": [],
+      "id": 23,
+      "title": "Jane Street Reveals Nearly $1B Bitcoin Position",
+      "link": "https://bitcoinmagazine.com/news/jane-street-bitcoin-position",
+      "source": "bitcoinmagazine.com",
+      "published_at": "2026-08-17T20:37:07+00:00",
+      "sentiment": "bullish",
+      "coins": [
+        "BTC"
+      ],
       "sources": [
-        "coindesk.com",
-        "decrypt.co"
+        "bitcoinmagazine.com",
+        "crypto.news"
       ],
       "count": 2,
       "members": [
         {
-          "title": "Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push",
-          "link": "https://www.coindesk.com/tech/2026/08/17/kraken-parent-payward-joins-anthropic-s-project-glasswing-for-ai-security-push",
-          "source": "coindesk.com",
-          "published_at": "2026-08-17T22:12:00+00:00"
+          "title": "Jane Street reports over $1B in Bitcoin ETF shares",
+          "link": "https://crypto.news/jane-street-reports-over-1b-in-bitcoin-etf-shares/",
+          "source": "crypto.news",
+          "published_at": "2026-08-18T04:38:13+00:00"
         },
         {
-          "title": "Kraken Parent Payward Joins Glasswing, Gets Access to Claude Mythos to Hunt Security Flaws",
-          "link": "https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos",
-          "source": "decrypt.co",
-          "published_at": "2026-08-17T22:35:46+00:00"
+          "title": "Jane Street Reveals Nearly $1B Bitcoin Position",
+          "link": "https://bitcoinmagazine.com/news/jane-street-bitcoin-position",
+          "source": "bitcoinmagazine.com",
+          "published_at": "2026-08-17T20:37:07+00:00"
         }
       ]
     }
@@ -1169,7 +1278,7 @@
   "trending": [
     {
       "tag": "#Ai",
-      "count": 60,
+      "count": 58,
       "type": "topic",
       "pct": 100
     },
@@ -1177,37 +1286,37 @@
       "tag": "#XRP",
       "count": 50,
       "type": "coin",
-      "pct": 83
+      "pct": 86
     },
     {
       "tag": "#Xrp",
       "count": 41,
       "type": "topic",
-      "pct": 68
+      "pct": 71
     },
     {
       "tag": "#Defi",
-      "count": 32,
+      "count": 33,
       "type": "topic",
-      "pct": 53
+      "pct": 57
     },
     {
       "tag": "#BTC",
-      "count": 22,
+      "count": 20,
       "type": "coin",
-      "pct": 37
+      "pct": 34
     },
     {
       "tag": "#Bitcoin",
-      "count": 20,
+      "count": 18,
       "type": "topic",
-      "pct": 33
+      "pct": 31
     },
     {
       "tag": "#ETH",
       "count": 17,
       "type": "coin",
-      "pct": 28
+      "pct": 29
     },
     {
       "tag": "#Ethereum",
@@ -1216,5 +1325,5 @@
       "pct": 22
     }
   ],
-  "generated_at": "2026-08-18T05:15:05.888971+00:00"
+  "generated_at": "2026-08-18T05:46:07.057936+00:00"
 }
