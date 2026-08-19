@@ -2,16 +2,14 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "Bitcoin is a “Cheat Code” to Retire Without Selling, Analyst Explains Why",
-      "link": "https://beincrypto.com/mark-moss-bitcoin-cheat-code-retirement/",
-      "published_at": "2026-08-19T18:35:37+00:00",
-      "source": "beincrypto.com",
-      "score": 1,
-      "ntitle": "bitcoin cheat code retire without selling analyst explains why",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "neutral",
+      "title": "The Debasement Trade Returns",
+      "link": "https://www.bankless.com/read/the-debasement-trade-returns",
+      "published_at": "2026-08-19T19:32:37+00:00",
+      "source": "bankless.com",
+      "score": 2,
+      "ntitle": "debasement trade returns",
+      "coins": [],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -30,18 +28,16 @@
       "agency": null
     },
     {
-      "title": "Ethereum Price Breaks $2,000 for the First Time This Summer: Will Rally Countinue?",
-      "link": "https://coingape.com/markets/ethereum-price-breaks-2000-for-the-first-time-this-summer-will-rally-countinue/",
-      "published_at": "2026-08-19T19:05:24+00:00",
+      "title": "Grayscale Says SEC Crypto Proposal Could Expand U.S. Token Based Fundraising",
+      "link": "https://coingape.com/grayscale-says-sec-crypto-proposal-could-expand-u-s-token-based-fundraising/",
+      "published_at": "2026-08-19T19:34:51+00:00",
       "source": "coingape.com",
-      "score": 4,
-      "ntitle": "ethereum price breaks 2 000 first time this summer will rally countinue",
-      "coins": [
-        "ETH"
-      ],
+      "score": 3,
+      "ntitle": "grayscale says sec crypto proposal could expand u s token based fundraising",
+      "coins": [],
       "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
+      "is_regulation": true,
+      "agency": "SEC"
     },
     {
       "title": "Crypto PAC notches primary wins, but loses $2M Florida race",
@@ -68,12 +64,12 @@
       "agency": null
     },
     {
-      "title": "Two Sigma Investments loses major investor amid co-founder feud",
-      "link": "https://cryptobriefing.com/two-sigma-loses-investor-cofounder-feud/",
-      "published_at": "2026-08-19T19:11:59+00:00",
+      "title": "UAE imposes financial embargo on Iran amid missile threat",
+      "link": "https://cryptobriefing.com/uae-financial-embargo-iran-missile-threat/",
+      "published_at": "2026-08-19T19:35:54+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "two sigma investments loses major investor amid co founder feud",
+      "ntitle": "uae imposes financial embargo iran amid missile threat",
       "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
@@ -108,28 +104,79 @@
       "agency": null
     },
     {
-      "title": "Six-Bug Exploit Halts Maya Protocol After $1.4 Million in Bitcoin Stolen",
-      "link": "https://decrypt.co/375976/maya-protocol-halts-network-bitcoin-exploit",
-      "published_at": "2026-08-19T18:20:35+00:00",
+      "title": "Kalshi Pushes Beyond Prediction Markets With Copper Perpetual Futures",
+      "link": "https://decrypt.co/375987/kalshi-copper-perpetual-futures",
+      "published_at": "2026-08-19T19:16:04+00:00",
       "source": "decrypt.co",
-      "score": 1,
-      "ntitle": "six bug exploit halts maya protocol after 1 4 million bitcoin stolen",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
+      "score": 3,
+      "ntitle": "kalshi pushes beyond prediction markets copper perpetual futures",
+      "coins": [],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "CryptoCapitalFund Makes Major Investment in IBNAi with Acquisition of 200 Million Tokens",
-      "link": "https://www.investing.com/news/cryptocurrency-news/cryptocapitalfund-makes-major-investment-in-ibnai-with-acquisition-of-200-million-tokens-4868038",
-      "published_at": "2026-08-19T18:30:33+00:00",
+      "title": "Bitcoin breaks out near $68K, overbought signals flash: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-coiled-at-63591-with-volatility-at-6month-lows-live-levels-93CH-4862234",
+      "published_at": "2026-08-19T19:20:13+00:00",
       "source": "investing.com",
-      "score": 2,
-      "ntitle": "cryptocapitalfund makes major investment ibnai acquisition 200 million tokens",
+      "score": 1,
+      "ntitle": "bitcoin breaks out near 68k overbought signals flash live levels",
+      "coins": [
+        "BTC",
+        "NEAR"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Kalshi Seeks CFTC Nod for Perpetual Bets on 500 Shares and Copper",
+      "link": "https://news.bitcoin.com/regulation-and-legal/kalshi-seeks-cftc-nod-for-perpetual-bets-on-500-shares-and-copper/",
+      "published_at": "2026-08-19T19:22:01+00:00",
+      "source": "news.bitcoin.com",
+      "score": 1,
+      "ntitle": "kalshi seeks cftc nod perpetual bets 500 shares copper",
       "coins": [],
       "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "CFTC"
+    },
+    {
+      "title": "How Maple Finance Became the #2 Crypto Lender Behind Tether — Sid Powell Explains",
+      "link": "https://thedefiant.io/converge/podcast/how-maple-finance-became-the-2-crypto-lender-behind-tether-sid-powell-explains",
+      "published_at": "2026-08-19T19:25:14+00:00",
+      "source": "thedefiant.io",
+      "score": 2,
+      "ntitle": "how maple finance became 2 crypto lender behind tether sid powell explains",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Ethereum Price Breaks $2,000 for the First Time This Summer: Will Rally Countinue?",
+      "link": "https://coingape.com/markets/ethereum-price-breaks-2000-for-the-first-time-this-summer-will-rally-countinue/",
+      "published_at": "2026-08-19T19:05:24+00:00",
+      "source": "coingape.com",
+      "score": 4,
+      "ntitle": "ethereum price breaks 2 000 first time this summer will rally countinue",
+      "coins": [
+        "ETH"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Bank of England may hold rates steady after UK inflation data shows energy-driven uptick",
+      "link": "https://cryptobriefing.com/bank-of-england-rates-uk-inflation/",
+      "published_at": "2026-08-19T19:34:56+00:00",
+      "source": "cryptobriefing.com",
+      "score": 4,
+      "ntitle": "bank england may hold rates steady after uk inflation data shows energy driven uptick",
+      "coins": [],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -140,60 +187,6 @@
       "source": "news.bitcoin.com",
       "score": 3,
       "ntitle": "bitcoin s 70k rip vaporizes 1 9b shorts get steamrolled",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Bitcoin Sees Biggest-Ever Short Liquidation Volume as It Surges to Nearly $70K",
-      "link": "https://u.today/bitcoin-sees-biggest-ever-short-liquidation-volume-as-it-surges-to-nearly-70k",
-      "published_at": "2026-08-19T18:25:21+00:00",
-      "source": "u.today",
-      "score": 1,
-      "ntitle": "bitcoin sees biggest ever short liquidation volume it surges nearly 70k",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "INJ Price Rallies 9% as Injective Receives Transfer Agent Registration from US SEC",
-      "link": "https://coingape.com/inj-price-rallies-9-as-injective-receives-transfer-agent-registration-from-us-sec/",
-      "published_at": "2026-08-19T18:33:23+00:00",
-      "source": "coingape.com",
-      "score": 4,
-      "ntitle": "inj price rallies 9 injective receives transfer agent registration us sec",
-      "coins": [
-        "INJ"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "IBM introduces BenchDrift to quantify wording effects in LLM benchmarks",
-      "link": "https://cryptobriefing.com/ibm-benchdrift-llm-benchmark-wording/",
-      "published_at": "2026-08-19T19:10:50+00:00",
-      "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "ibm introduces benchdrift quantify wording effects llm benchmarks",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Why Did the Bitcoin Price Suddenly Spike Toward $70K?",
-      "link": "https://cryptopotato.com/why-did-the-bitcoin-price-suddenly-spike-toward-70k/",
-      "published_at": "2026-08-19T18:36:46+00:00",
-      "source": "cryptopotato.com",
-      "score": 3,
-      "ntitle": "why did bitcoin price suddenly spike toward 70k",
       "coins": [
         "BTC"
       ],
@@ -244,16 +237,16 @@
       "agency": null
     },
     {
-      "title": "Fed Minutes Pressure Bitcoin as Hawkish Rate Risks Return",
-      "link": "https://beincrypto.com/fed-minutes-bitcoin-hawkish-risks/",
-      "published_at": "2026-08-19T18:11:01+00:00",
+      "title": "Bitcoin is a “Cheat Code” to Retire Without Selling, Analyst Explains Why",
+      "link": "https://beincrypto.com/mark-moss-bitcoin-cheat-code-retirement/",
+      "published_at": "2026-08-19T18:35:37+00:00",
       "source": "beincrypto.com",
-      "score": 3,
-      "ntitle": "fed minutes pressure bitcoin hawkish rate risks return",
+      "score": 1,
+      "ntitle": "bitcoin cheat code retire without selling analyst explains why",
       "coins": [
         "BTC"
       ],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -332,13 +325,15 @@
       "agency": null
     },
     {
-      "title": "Why are Crypto Prices Surging Today?",
-      "link": "https://coingape.com/markets/why-are-crypto-prices-surging-today/",
-      "published_at": "2026-08-19T17:51:49+00:00",
+      "title": "INJ Price Rallies 9% as Injective Receives Transfer Agent Registration from US SEC",
+      "link": "https://coingape.com/inj-price-rallies-9-as-injective-receives-transfer-agent-registration-from-us-sec/",
+      "published_at": "2026-08-19T18:33:23+00:00",
       "source": "coingape.com",
-      "score": 2,
-      "ntitle": "why crypto prices surging today",
-      "coins": [],
+      "score": 4,
+      "ntitle": "inj price rallies 9 injective receives transfer agent registration us sec",
+      "coins": [
+        "INJ"
+      ],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
@@ -386,26 +381,28 @@
       "agency": null
     },
     {
-      "title": "Celtic hosts LASK in Champions League play-off as both domestic champions chase group stage berth",
-      "link": "https://cryptobriefing.com/celtic-lask-champions-league-playoff/",
-      "published_at": "2026-08-19T18:13:05+00:00",
+      "title": "The Ships and the Line",
+      "link": "https://cryptobriefing.com/research-ships-and-the-line/",
+      "published_at": "2026-08-19T18:30:49+00:00",
       "source": "cryptobriefing.com",
-      "score": 2,
-      "ntitle": "celtic hosts lask champions league play off both domestic champions chase group stage berth",
+      "score": 0,
+      "ntitle": "ships line",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Arthur Hayes Called AI a Bubble, Now He’s Launching an AI Project",
-      "link": "https://cryptopotato.com/arthur-hayes-called-ai-a-bubble-now-hes-launching-an-ai-project/",
-      "published_at": "2026-08-19T17:10:07+00:00",
+      "title": "Why Did the Bitcoin Price Suddenly Spike Toward $70K?",
+      "link": "https://cryptopotato.com/why-did-the-bitcoin-price-suddenly-spike-toward-70k/",
+      "published_at": "2026-08-19T18:36:46+00:00",
       "source": "cryptopotato.com",
       "score": 3,
-      "ntitle": "arthur hayes called ai bubble now he s launching ai project",
-      "coins": [],
-      "sentiment": "bullish",
+      "ntitle": "why did bitcoin price suddenly spike toward 70k",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -434,14 +431,16 @@
       "agency": null
     },
     {
-      "title": "Moderna Stock Doubles on Cancer Breakthrough: Here’s What It Means",
-      "link": "https://decrypt.co/375968/moderna-stock-doubles-cancer-vaccine",
-      "published_at": "2026-08-19T16:54:46+00:00",
+      "title": "Six-Bug Exploit Halts Maya Protocol After $1.4 Million in Bitcoin Stolen",
+      "link": "https://decrypt.co/375976/maya-protocol-halts-network-bitcoin-exploit",
+      "published_at": "2026-08-19T18:20:35+00:00",
       "source": "decrypt.co",
       "score": 1,
-      "ntitle": "moderna stock doubles cancer breakthrough here s what it means",
-      "coins": [],
-      "sentiment": "neutral",
+      "ntitle": "six bug exploit halts maya protocol after 1 4 million bitcoin stolen",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -470,16 +469,16 @@
       "agency": null
     },
     {
-      "title": "FTX executives avoid fines in CFTC settlement over exchange collapse",
-      "link": "https://www.investing.com/news/cryptocurrency-news/ftx-executives-avoid-fines-in-cftc-settlement-over-exchange-collapse-93CH-4867915",
-      "published_at": "2026-08-19T16:10:53+00:00",
+      "title": "CryptoCapitalFund Makes Major Investment in IBNAi with Acquisition of 200 Million Tokens",
+      "link": "https://www.investing.com/news/cryptocurrency-news/cryptocapitalfund-makes-major-investment-in-ibnai-with-acquisition-of-200-million-tokens-4868038",
+      "published_at": "2026-08-19T18:30:33+00:00",
       "source": "investing.com",
-      "score": 3,
-      "ntitle": "ftx executives avoid fines cftc settlement over exchange collapse",
+      "score": 2,
+      "ntitle": "cryptocapitalfund makes major investment ibnai acquisition 200 million tokens",
       "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "CFTC"
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Blackrock Drives $260M Bitcoin and Ether ETF Inflow",
@@ -535,16 +534,16 @@
       "agency": null
     },
     {
-      "title": "MoneyGram CEO: Solana Deal to Give Developers Access to 500,000 Retail Locations",
-      "link": "https://u.today/moneygram-ceo-solana-deal-to-give-developers-access-to-500000-retail-locations",
-      "published_at": "2026-08-19T16:28:05+00:00",
+      "title": "Bitcoin Sees Biggest-Ever Short Liquidation Volume as It Surges to Nearly $70K",
+      "link": "https://u.today/bitcoin-sees-biggest-ever-short-liquidation-volume-as-it-surges-to-nearly-70k",
+      "published_at": "2026-08-19T18:25:21+00:00",
       "source": "u.today",
-      "score": 4,
-      "ntitle": "moneygram ceo solana deal give developers access 500 000 retail locations",
+      "score": 1,
+      "ntitle": "bitcoin sees biggest ever short liquidation volume it surges nearly 70k",
       "coins": [
-        "SOL"
+        "BTC"
       ],
-      "sentiment": "neutral",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -601,14 +600,14 @@
       "agency": null
     },
     {
-      "title": "Why Stripe Wants OpenRouter",
-      "link": "https://www.bankless.com/read/why-stripe-wants-openrouter-analysis",
-      "published_at": "2026-08-17T20:33:34+00:00",
+      "title": "TCRs Will Rise Again",
+      "link": "https://www.bankless.com/read/tcrs-will-rise-again",
+      "published_at": "2026-08-18T19:34:09+00:00",
       "source": "bankless.com",
       "score": 0,
-      "ntitle": "why stripe wants openrouter",
+      "ntitle": "tcrs will rise again",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -663,16 +662,16 @@
       "agency": null
     },
     {
-      "title": "Pi Network Price Outlook: Pi App Studio Updates Pricing August 24",
-      "link": "https://coingape.com/markets/pi-network-price-outlook-pi-app-studio-updates-pricing-august-24/",
-      "published_at": "2026-08-18T18:59:23+00:00",
+      "title": "U.S. SEC Releases Proposed ‘Reg Crypto’ Framework for Crypto Investment Contracts",
+      "link": "https://coingape.com/u-s-sec-releases-reg-crypto-framework-for-crypto-investment-contracts/",
+      "published_at": "2026-08-18T19:38:02+00:00",
       "source": "coingape.com",
-      "score": 1,
-      "ntitle": "pi network price outlook pi app studio updates pricing august 24",
+      "score": 4,
+      "ntitle": "u s sec releases proposed reg crypto framework crypto investment contracts",
       "coins": [],
       "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
+      "is_regulation": true,
+      "agency": "SEC"
     },
     {
       "title": "How to choose a crypto prop firm: three structural tests",
@@ -687,14 +686,14 @@
       "agency": null
     },
     {
-      "title": "Kraken’s Krak debuts US debit card as Payward broadens financial services push",
-      "link": "https://cointelegraph.com/news/krakens-krak-launches-us-debit-card-as-payward-broadens-financial-services-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-08-18T17:39:37+00:00",
+      "title": "Cypherpunk launches Zcash mining fleet controlling 18% of network hashrate",
+      "link": "https://cointelegraph.com/news/cypherpunk-zcash-mining-winklevoss-capital-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-08-18T19:31:16+00:00",
       "source": "cointelegraph.com",
-      "score": 1,
-      "ntitle": "kraken s krak debuts us debit card payward broadens financial services push",
+      "score": 3,
+      "ntitle": "cypherpunk launches zcash mining fleet controlling 18 network hashrate",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -726,14 +725,14 @@
       "agency": null
     },
     {
-      "title": "Trump Family Crypto Firm Tied to Chinese AI Models US Government Called a Security Risk",
-      "link": "https://decrypt.co/375887/trump-crypto-firm-chinese-ai-government-called-security-risk",
-      "published_at": "2026-08-18T18:36:04+00:00",
+      "title": "Markets Confident OpenAI Releases Its Next AI Model in Weeks",
+      "link": "https://decrypt.co/375892/openai-next-ai-model-gpt6-astra-prediction",
+      "published_at": "2026-08-18T19:15:26+00:00",
       "source": "decrypt.co",
-      "score": 2,
-      "ntitle": "trump family crypto firm tied chinese ai models us government called security risk",
+      "score": 1,
+      "ntitle": "markets confident openai releases next ai model weeks",
       "coins": [],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -812,30 +811,30 @@
       "agency": null
     },
     {
-      "title": "Ripple's $449 Million Stablecoin Mint on XRP Ledger Ends Up With 99% Burn Rate",
-      "link": "https://u.today/ripples-449-million-stablecoin-mint-on-xrp-ledger-ends-up-with-99-burn-rate",
-      "published_at": "2026-08-18T16:34:15+00:00",
+      "title": "Scaramucci Names One Reason to Be Optimistic About Bitcoin Bear Market",
+      "link": "https://u.today/scaramucci-names-one-reason-to-be-optimistic-about-bitcoin-bear-market",
+      "published_at": "2026-08-18T19:27:41+00:00",
       "source": "u.today",
-      "score": 8,
-      "ntitle": "ripple s 449 million stablecoin mint xrp ledger ends up 99 burn rate",
+      "score": 1,
+      "ntitle": "scaramucci names one reason be optimistic about bitcoin bear market",
       "coins": [
-        "XRP"
+        "BTC"
       ],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Treasury Proposes Rules for How GENIUS Act Stablecoin Licensing Works",
-      "link": "https://www.bankless.com/read/news/treasury-proposes-rules-for-how-genius-act-stablecoin-licensing-works",
-      "published_at": "2026-08-17T19:07:21+00:00",
+      "title": "Why Stripe Wants OpenRouter",
+      "link": "https://www.bankless.com/read/why-stripe-wants-openrouter-analysis",
+      "published_at": "2026-08-17T20:33:34+00:00",
       "source": "bankless.com",
-      "score": 3,
-      "ntitle": "treasury proposes rules how genius act stablecoin licensing works",
+      "score": 0,
+      "ntitle": "why stripe wants openrouter",
       "coins": [],
       "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Treasury"
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Bitcoin as Digital Real Estate: An Excerpt from Leon Wankum’s Digital Real Estate",
@@ -864,16 +863,14 @@
       "agency": null
     },
     {
-      "title": "Bhutan Govt Offloads 300 BTC Again as Bitcoin Targets $65K Resistance",
-      "link": "https://coingape.com/bhutan-govt-offloads-300-btc-again-as-bitcoin-targets-65k-resistance/",
-      "published_at": "2026-08-18T17:38:22+00:00",
+      "title": "Pi Network Price Outlook: Pi App Studio Updates Pricing August 24",
+      "link": "https://coingape.com/markets/pi-network-price-outlook-pi-app-studio-updates-pricing-august-24/",
+      "published_at": "2026-08-18T18:59:23+00:00",
       "source": "coingape.com",
       "score": 1,
-      "ntitle": "bhutan govt offloads 300 btc again bitcoin targets 65k resistance",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bullish",
+      "ntitle": "pi network price outlook pi app studio updates pricing august 24",
+      "coins": [],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -890,12 +887,12 @@
       "agency": null
     },
     {
-      "title": "Federal prosecutors blast ex-Celsius CEO’s motion to vacate as ‘without merit’",
-      "link": "https://cointelegraph.com/news/us-prosecutors-celsius-ceo-alex-mashinsky-motion-vacate-deny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-08-18T16:49:58+00:00",
+      "title": "Kraken’s Krak debuts US debit card as Payward broadens financial services push",
+      "link": "https://cointelegraph.com/news/krakens-krak-launches-us-debit-card-as-payward-broadens-financial-services-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-08-18T17:39:37+00:00",
       "source": "cointelegraph.com",
       "score": 1,
-      "ntitle": "federal prosecutors blast ex celsius ceo s motion vacate without merit",
+      "ntitle": "kraken s krak debuts us debit card payward broadens financial services push",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -931,15 +928,13 @@
       "agency": null
     },
     {
-      "title": "Bitcoin Wallet Maker BitBox Says AI Found Severe Flaws in Firmware",
-      "link": "https://decrypt.co/375886/bitcoin-wallet-bitbox-ai-severe-flaws-firmware",
-      "published_at": "2026-08-18T18:06:42+00:00",
+      "title": "Trump Family Crypto Firm Tied to Chinese AI Models US Government Called a Security Risk",
+      "link": "https://decrypt.co/375887/trump-crypto-firm-chinese-ai-government-called-security-risk",
+      "published_at": "2026-08-18T18:36:04+00:00",
       "source": "decrypt.co",
-      "score": 1,
-      "ntitle": "bitcoin wallet maker bitbox says ai found severe flaws firmware",
-      "coins": [
-        "BTC"
-      ],
+      "score": 2,
+      "ntitle": "trump family crypto firm tied chinese ai models us government called security risk",
+      "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
@@ -995,16 +990,16 @@
       "agency": null
     },
     {
-      "title": "BitGo Launches Public Bitcoin Quantum Risk Checker",
-      "link": "https://www.bankless.com/bitgo-launches-public-bitcoin-quantum-risk-checker",
-      "published_at": "2026-08-12T14:50:24+00:00",
+      "title": "Gnosis Chain Just Made the First Move Toward the Ethereum Economic Zone",
+      "link": "https://www.bankless.com/read/gnosis-chain-just-made-the-first-move-toward-the-ethereum-economic-zone",
+      "published_at": "2026-08-12T19:27:24+00:00",
       "source": "bankless.com",
-      "score": 3,
-      "ntitle": "bitgo launches public bitcoin quantum risk checker",
+      "score": 1,
+      "ntitle": "gnosis chain just made first move toward ethereum economic zone",
       "coins": [
-        "BTC"
+        "ETH"
       ],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -1111,16 +1106,14 @@
       "agency": "SEC"
     },
     {
-      "title": "Solana Community Argues Over Whether Its Foundation Should Pick Winners",
-      "link": "https://thedefiant.io/news/blockchains/solana-foundation-kingmaking-debate-flash-trade-lily-liu",
-      "published_at": "2026-08-12T16:32:20+00:00",
+      "title": "Pump.fun's Share Of Launchpad Fees Fell To 27% In July. Four Weeks Later It's Back Above Half",
+      "link": "https://thedefiant.io/news/defi/pump-fun-launchpad-fee-share-falls-robinhood-chain-pons-noxa",
+      "published_at": "2026-08-12T19:31:54+00:00",
       "source": "thedefiant.io",
-      "score": 1,
-      "ntitle": "solana community argues over whether foundation should pick winners",
-      "coins": [
-        "SOL"
-      ],
-      "sentiment": "bearish",
+      "score": 4,
+      "ntitle": "pump fun s share launchpad fees fell 27 july four weeks later it s back above half",
+      "coins": [],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -1137,16 +1130,16 @@
       "agency": null
     },
     {
-      "title": "Anthropic Signs Huge Data Center Deal With Bitcoin Miner Riot Platforms",
-      "link": "https://www.bankless.com/read/news/anthropic-signs-huge-data-center-deal-with-bitcoin-miner-riot-platforms",
-      "published_at": "2026-08-11T17:29:09+00:00",
+      "title": "BitGo Launches Public Bitcoin Quantum Risk Checker",
+      "link": "https://www.bankless.com/bitgo-launches-public-bitcoin-quantum-risk-checker",
+      "published_at": "2026-08-12T14:50:24+00:00",
       "source": "bankless.com",
-      "score": 1,
-      "ntitle": "anthropic signs huge data center deal bitcoin miner riot platforms",
+      "score": 3,
+      "ntitle": "bitgo launches public bitcoin quantum risk checker",
       "coins": [
         "BTC"
       ],
-      "sentiment": "bullish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -1225,49 +1218,21 @@
       "agency": "SEC"
     },
     {
-      "title": "Bitwise Cuts 14% of Staff as Client Assets Fall to $9 Billion",
-      "link": "https://thedefiant.io/converge/cefi/bitwise-cuts-14-of-staff-as-client-assets-fall-to-9-billion",
-      "published_at": "2026-08-12T15:31:25+00:00",
+      "title": "Marinade Says 28.83% of Solana Stake Went Delinquent, Nearing Finality Halt",
+      "link": "https://thedefiant.io/news/blockchains/marinade-says-28-83-of-solana-stake-went-delinquent-nearing-finality-halt",
+      "published_at": "2026-08-12T19:31:22+00:00",
       "source": "thedefiant.io",
       "score": 1,
-      "ntitle": "bitwise cuts 14 staff client assets fall 9 billion",
-      "coins": [],
-      "sentiment": "bearish",
+      "ntitle": "marinade says 28 83 solana stake went delinquent nearing finality halt",
+      "coins": [
+        "SOL"
+      ],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     }
   ],
   "clusters": [
-    {
-      "id": 8,
-      "title": "Six-Bug Exploit Halts Maya Protocol After $1.4 Million in Bitcoin Stolen",
-      "link": "https://decrypt.co/375976/maya-protocol-halts-network-bitcoin-exploit",
-      "source": "decrypt.co",
-      "published_at": "2026-08-19T18:20:35+00:00",
-      "sentiment": "bearish",
-      "coins": [
-        "BTC"
-      ],
-      "sources": [
-        "decrypt.co",
-        "coincodecap.com"
-      ],
-      "count": 2,
-      "members": [
-        {
-          "title": "Six-Bug Exploit Halts Maya Protocol After $1.4 Million in Bitcoin Stolen",
-          "link": "https://decrypt.co/375976/maya-protocol-halts-network-bitcoin-exploit",
-          "source": "decrypt.co",
-          "published_at": "2026-08-19T18:20:35+00:00"
-        },
-        {
-          "title": "Maya Protocol halts operations after chained Exploit Drains $1.7 Million",
-          "link": "https://coincodecap.com/maya-protocol-halts-operations-after-chained-exploit-drains-1-7-million?utm_source=rss&utm_medium=rss&utm_campaign=maya-protocol-halts-operations-after-chained-exploit-drains-1-7-million",
-          "source": "coincodecap.com",
-          "published_at": "2026-08-19T10:52:51+00:00"
-        }
-      ]
-    },
     {
       "id": 17,
       "title": "Nethermind Drops LayerZero Verifier Role, Joins Chainlink",
@@ -1279,8 +1244,8 @@
         "LINK"
       ],
       "sources": [
-        "bankless.com",
-        "blockonomi.com"
+        "blockonomi.com",
+        "bankless.com"
       ],
       "count": 2,
       "members": [
@@ -1297,12 +1262,42 @@
           "published_at": "2026-08-19T18:12:31+00:00"
         }
       ]
+    },
+    {
+      "id": 22,
+      "title": "Maya Protocol halts operations after chained Exploit Drains $1.7 Million",
+      "link": "https://coincodecap.com/maya-protocol-halts-operations-after-chained-exploit-drains-1-7-million?utm_source=rss&utm_medium=rss&utm_campaign=maya-protocol-halts-operations-after-chained-exploit-drains-1-7-million",
+      "source": "coincodecap.com",
+      "published_at": "2026-08-19T10:52:51+00:00",
+      "sentiment": "bearish",
+      "coins": [
+        "BTC"
+      ],
+      "sources": [
+        "decrypt.co",
+        "coincodecap.com"
+      ],
+      "count": 2,
+      "members": [
+        {
+          "title": "Maya Protocol halts operations after chained Exploit Drains $1.7 Million",
+          "link": "https://coincodecap.com/maya-protocol-halts-operations-after-chained-exploit-drains-1-7-million?utm_source=rss&utm_medium=rss&utm_campaign=maya-protocol-halts-operations-after-chained-exploit-drains-1-7-million",
+          "source": "coincodecap.com",
+          "published_at": "2026-08-19T10:52:51+00:00"
+        },
+        {
+          "title": "Six-Bug Exploit Halts Maya Protocol After $1.4 Million in Bitcoin Stolen",
+          "link": "https://decrypt.co/375976/maya-protocol-halts-network-bitcoin-exploit",
+          "source": "decrypt.co",
+          "published_at": "2026-08-19T18:20:35+00:00"
+        }
+      ]
     }
   ],
   "trending": [
     {
       "tag": "#Ai",
-      "count": 70,
+      "count": 68,
       "type": "topic",
       "pct": 100
     },
@@ -1310,31 +1305,31 @@
       "tag": "#XRP",
       "count": 46,
       "type": "coin",
-      "pct": 66
+      "pct": 68
     },
     {
       "tag": "#Xrp",
       "count": 41,
       "type": "topic",
-      "pct": 59
+      "pct": 60
     },
     {
       "tag": "#Defi",
       "count": 32,
       "type": "topic",
-      "pct": 46
+      "pct": 47
     },
     {
       "tag": "#BTC",
-      "count": 29,
+      "count": 30,
       "type": "coin",
-      "pct": 41
+      "pct": 44
     },
     {
       "tag": "#Bitcoin",
-      "count": 29,
+      "count": 30,
       "type": "topic",
-      "pct": 41
+      "pct": 44
     },
     {
       "tag": "#ETH",
@@ -1346,8 +1341,8 @@
       "tag": "#Stablecoin",
       "count": 12,
       "type": "topic",
-      "pct": 17
+      "pct": 18
     }
   ],
-  "generated_at": "2026-08-19T19:14:44.479893+00:00"
+  "generated_at": "2026-08-19T19:39:55.235721+00:00"
 }
