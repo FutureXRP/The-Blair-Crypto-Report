@@ -2,20 +2,6 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "Ethereum ETF inflows hit $189M – Will ETH price reach $2,500?",
-      "link": "https://ambcrypto.com/ethereum-etf-inflows-hit-189m-will-eth-price-reach-2500/",
-      "published_at": "2026-08-20T22:00:32+00:00",
-      "source": "ambcrypto.com",
-      "score": 3,
-      "ntitle": "ethereum etf inflows hit 189m will eth price reach 2 500",
-      "coins": [
-        "ETH"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
       "title": "Justin Sun Wins Key Court Battle Against Trump-Backed World Liberty Financial",
       "link": "https://beincrypto.com/justin-sun-world-liberty-court-win-wlfi-lawsuit/",
       "published_at": "2026-08-20T22:19:36+00:00",
@@ -40,16 +26,18 @@
       "agency": "Regulatory"
     },
     {
-      "title": "Apple renews legal battle with OpenAI over alleged trade secret theft",
-      "link": "https://cryptobriefing.com/apple-renews-legal-battle-with-openai-over-alleged-trade-secret-theft/",
-      "published_at": "2026-08-20T22:39:16+00:00",
+      "title": "Arbitrum activates ArbOS 61 Elara with optional compliance filters for Orbit chains",
+      "link": "https://cryptobriefing.com/arbitrum-arbos-61-elara-compliance-filters/",
+      "published_at": "2026-08-20T22:56:45+00:00",
       "source": "cryptobriefing.com",
-      "score": 3,
-      "ntitle": "apple renews legal battle openai over alleged trade secret theft",
-      "coins": [],
+      "score": 6,
+      "ntitle": "arbitrum activates arbos 61 elara optional compliance filters orbit chains",
+      "coins": [
+        "ARB"
+      ],
       "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
+      "is_regulation": true,
+      "agency": "Regulatory"
     },
     {
       "title": "HSBC and Standard Chartered Run First Live Tokenized Deposit Transfer on SWIFT’s Blockchain Ledger",
@@ -92,18 +80,86 @@
       "agency": null
     },
     {
-      "title": "Bitcoin at $72k, highest since May after Trump calls for clear crypto legislation",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-to-near-70k-on-trump-comments-falling-yields-4868746",
-      "published_at": "2026-08-20T21:49:05+00:00",
-      "source": "investing.com",
-      "score": 2,
-      "ntitle": "bitcoin 72k highest since may after trump calls clear crypto legislation",
+      "title": "ARK’s Valente Sees RWA Trading Reshaping DeFi Platform Economics",
+      "link": "https://news.bitcoin.com/interview/arks-valente-sees-rwa-trading-reshaping-defi-platform-economics/",
+      "published_at": "2026-08-20T22:45:48+00:00",
+      "source": "news.bitcoin.com",
+      "score": 11,
+      "ntitle": "ark s valente sees rwa trading reshaping defi platform economics",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Optimism Redirects $49.7 Million Airdrop Reserve After Late Deciding Vote",
+      "link": "https://thedefiant.io/news/blockchains/optimism-redirects-49-7-million-airdrop-reserve-after-late-deciding-vote",
+      "published_at": "2026-08-20T22:54:21+00:00",
+      "source": "thedefiant.io",
+      "score": 3,
+      "ntitle": "optimism redirects 49 7 million airdrop reserve after late deciding vote",
       "coins": [
-        "BTC"
+        "OP"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "David Crowley leads Tom Tiffany in Wisconsin governor race: poll",
+      "link": "https://cryptobriefing.com/david-crowley-leads-tom-tiffany-in-wisconsin-governor-race-poll/",
+      "published_at": "2026-08-20T22:45:36+00:00",
+      "source": "cryptobriefing.com",
+      "score": 1,
+      "ntitle": "david crowley leads tom tiffany wisconsin governor race poll",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Arbitrum Activates Elara With Optional Compliance Filters for Dedicated Chains",
+      "link": "https://thedefiant.io/news/blockchains/arbitrum-activates-elara-with-optional-compliance-filters-for-dedicated-chains",
+      "published_at": "2026-08-20T22:50:28+00:00",
+      "source": "thedefiant.io",
+      "score": 3,
+      "ntitle": "arbitrum activates elara optional compliance filters dedicated chains",
+      "coins": [
+        "ARB"
       ],
       "sentiment": "neutral",
       "is_regulation": true,
       "agency": "Regulatory"
+    }
+  ],
+  "day": [
+    {
+      "title": "Ethereum ETF inflows hit $189M – Will ETH price reach $2,500?",
+      "link": "https://ambcrypto.com/ethereum-etf-inflows-hit-189m-will-eth-price-reach-2500/",
+      "published_at": "2026-08-20T22:00:32+00:00",
+      "source": "ambcrypto.com",
+      "score": 3,
+      "ntitle": "ethereum etf inflows hit 189m will eth price reach 2 500",
+      "coins": [
+        "ETH"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "ETH's Comeback Is Overdue",
+      "link": "https://www.bankless.com/read/eths-comeback-is-overdue",
+      "published_at": "2026-08-20T20:58:36+00:00",
+      "source": "bankless.com",
+      "score": 0,
+      "ntitle": "eth s comeback overdue",
+      "coins": [
+        "ETH"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Ex-FBI Officer is Watching Every Polymarket Trader, Says CEO Coplan",
@@ -116,60 +172,6 @@
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
-    },
-    {
-      "title": "Binance Launches Binance Agent OS and Binance MCP Server for AI-Driven Trading",
-      "link": "https://blockonomi.com/binance-launches-binance-agent-os-and-binance-mcp-server-for-ai-driven-trading/",
-      "published_at": "2026-08-20T21:47:24+00:00",
-      "source": "blockonomi.com",
-      "score": 3,
-      "ntitle": "binance launches binance agent os binance mcp server ai driven trading",
-      "coins": [
-        "BNB"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Anthropic unveils Claude Academy to boost AI education and adoption",
-      "link": "https://cryptobriefing.com/anthropic-unveils-claude-academy-to-boost-ai-education-and-adoption/",
-      "published_at": "2026-08-20T22:25:15+00:00",
-      "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "anthropic unveils claude academy boost ai education adoption",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    }
-  ],
-  "day": [
-    {
-      "title": "Solana hits 112M transactions, SOL races toward $88 — What’s next?",
-      "link": "https://ambcrypto.com/solana-hits-112m-transactions-sol-races-toward-88-whats-next/",
-      "published_at": "2026-08-20T21:30:39+00:00",
-      "source": "ambcrypto.com",
-      "score": 3,
-      "ntitle": "solana hits 112m transactions sol races toward 88 what s next",
-      "coins": [
-        "SOL"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "CME Group CEO Terry Duffy Clashes With CFTC Chair Over Prediction Markets",
-      "link": "https://beincrypto.com/cme-duffy-cftc-selig-prediction-markets/",
-      "published_at": "2026-08-20T20:43:31+00:00",
-      "source": "beincrypto.com",
-      "score": 1,
-      "ntitle": "cme group ceo terry duffy clashes cftc chair over prediction markets",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "CFTC"
     },
     {
       "title": "Bitcoin Could Attract More Buyers As Fast Money Is Washed Out, Says Lyn Alden",
@@ -198,13 +200,15 @@
       "agency": null
     },
     {
-      "title": "Broadcom (AVGO) Stock: Surge as $60 Billion AI Debt Talks Target Anthropic Expansion",
-      "link": "https://blockonomi.com/broadcom-avgo-stock-surge-as-60-billion-ai-debt-talks-target-anthropic-expansion/",
-      "published_at": "2026-08-20T21:29:31+00:00",
+      "title": "Binance Launches Binance Agent OS and Binance MCP Server for AI-Driven Trading",
+      "link": "https://blockonomi.com/binance-launches-binance-agent-os-and-binance-mcp-server-for-ai-driven-trading/",
+      "published_at": "2026-08-20T21:47:24+00:00",
       "source": "blockonomi.com",
-      "score": 2,
-      "ntitle": "broadcom avgo stock surge 60 billion ai debt talks target anthropic expansion",
-      "coins": [],
+      "score": 3,
+      "ntitle": "binance launches binance agent os binance mcp server ai driven trading",
+      "coins": [
+        "BNB"
+      ],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
@@ -220,6 +224,18 @@
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
+    },
+    {
+      "title": "Trump pushes Senate to pass Crypto Market Structure Bill",
+      "link": "https://coincodecap.com/trump-pushes-senate-to-pass-crypto-market-structure-bill?utm_source=rss&utm_medium=rss&utm_campaign=trump-pushes-senate-to-pass-crypto-market-structure-bill",
+      "published_at": "2026-08-20T06:52:52+00:00",
+      "source": "coincodecap.com",
+      "score": 1,
+      "ntitle": "trump pushes senate pass crypto market structure bill",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Congress"
     },
     {
       "title": "U.S. CFTC chief puts staff on notice to create crypto regulations if Clarity Act fails",
@@ -288,16 +304,14 @@
       "agency": null
     },
     {
-      "title": "$DRAM ETF assets surge 20% to $28B amid strong retail demand",
-      "link": "https://cryptobriefing.com/dram-etf-assets-surge-28b-retail-demand/",
-      "published_at": "2026-08-20T21:41:42+00:00",
+      "title": "Trump threatens ‘economic warfare’ against Iran, impacting 2026 deal prospects",
+      "link": "https://cryptobriefing.com/trump-threatens-economic-warfare-against-iran-impacting-2026-deal-prospects/",
+      "published_at": "2026-08-20T22:01:27+00:00",
       "source": "cryptobriefing.com",
-      "score": 3,
-      "ntitle": "dram etf assets surge 20 28b amid strong retail demand",
-      "coins": [
-        "DRAM"
-      ],
-      "sentiment": "neutral",
+      "score": 1,
+      "ntitle": "trump threatens economic warfare against iran impacting 2026 deal prospects",
+      "coins": [],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -378,18 +392,18 @@
       "agency": null
     },
     {
-      "title": "XRP Climbs 13% In a Green Day",
-      "link": "https://www.investing.com/news/cryptocurrency-news/xrp-climbs-13-in-a-green-day-4870539",
-      "published_at": "2026-08-20T20:58:03+00:00",
+      "title": "Bitcoin at $72k, highest since May after Trump calls for clear crypto legislation",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-to-near-70k-on-trump-comments-falling-yields-4868746",
+      "published_at": "2026-08-20T21:49:05+00:00",
       "source": "investing.com",
-      "score": 5,
-      "ntitle": "xrp climbs 13 green day",
+      "score": 2,
+      "ntitle": "bitcoin 72k highest since may after trump calls clear crypto legislation",
       "coins": [
-        "XRP"
+        "BTC"
       ],
       "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
+      "is_regulation": true,
+      "agency": "Regulatory"
     },
     {
       "title": "Selig Turns up the Heat as CFTC Readies Its Own Crypto Rules",
@@ -470,68 +484,42 @@
       "agency": null
     },
     {
-      "title": "Bitcoin shorts lose $431M as BTC clears $70K – Can fresh demand take over?",
-      "link": "https://ambcrypto.com/bitcoin-shorts-lose-431m-as-btc-clears-70k-can-fresh-demand-take-over/",
-      "published_at": "2026-08-20T21:00:11+00:00",
+      "title": "Solana hits 112M transactions, SOL races toward $88 — What’s next?",
+      "link": "https://ambcrypto.com/solana-hits-112m-transactions-sol-races-toward-88-whats-next/",
+      "published_at": "2026-08-20T21:30:39+00:00",
       "source": "ambcrypto.com",
-      "score": 1,
-      "ntitle": "bitcoin shorts lose 431m btc clears 70k can fresh demand take over",
+      "score": 3,
+      "ntitle": "solana hits 112m transactions sol races toward 88 what s next",
       "coins": [
-        "BTC"
+        "SOL"
       ],
-      "sentiment": "bullish",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "MicroStrategy Erases 2-Month Loss as Crypto Stocks Rally: Is the Damage Over?",
-      "link": "https://beincrypto.com/microstrategy-erases-2-month-loss-crypto-stocks/",
-      "published_at": "2026-08-20T20:22:50+00:00",
-      "source": "beincrypto.com",
-      "score": 5,
-      "ntitle": "microstrategy erases 2 month loss crypto stocks rally damage over",
+      "title": "X Explores Stablecoin Payments for Creators",
+      "link": "https://www.bankless.com/read/news/x-explores-stablecoin-payments-for-creators",
+      "published_at": "2026-08-20T17:58:29+00:00",
+      "source": "bankless.com",
+      "score": 1,
+      "ntitle": "x explores stablecoin payments creators",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Open Source vs. Source-Available: What the Coldcard Failure Teaches About Bitcoin Software Incentives",
-      "link": "https://bitcoinmagazine.com/culture/open-source-vs-source-available-what-the-coldcard-failure-teaches-about-bitcoin-software-incentives",
-      "published_at": "2026-08-20T20:49:28+00:00",
-      "source": "bitcoinmagazine.com",
-      "score": 4,
-      "ntitle": "open source vs source available what coldcard failure teaches about bitcoin software incentives",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "HOOD Price Prediction: $109 or Bust — The Squeeze Is On and the Clock Is Ticking",
-      "link": "https://Blockchain.News/news/20260820-price-prediction-hood-109-or-bust-the-squeeze-is",
-      "published_at": "2026-08-20T10:43:17+00:00",
-      "source": "blockchain.news",
-      "score": 4,
-      "ntitle": "hood price prediction 109 or bust squeeze clock ticking",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Ross Stores (ROST) Stock: Jumps as Q2 Sales Surge 13% and EPS Hits $2.66",
-      "link": "https://blockonomi.com/ross-stores-rost-stock-jumps-as-q2-sales-surge-13-and-eps-hits-2-66/",
-      "published_at": "2026-08-20T20:59:11+00:00",
-      "source": "blockonomi.com",
+      "title": "CME Group CEO Terry Duffy Clashes With CFTC Chair Over Prediction Markets",
+      "link": "https://beincrypto.com/cme-duffy-cftc-selig-prediction-markets/",
+      "published_at": "2026-08-20T20:43:31+00:00",
+      "source": "beincrypto.com",
       "score": 1,
-      "ntitle": "ross stores rost stock jumps q2 sales surge 13 eps hits 2 66",
+      "ntitle": "cme group ceo terry duffy clashes cftc chair over prediction markets",
       "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "CFTC"
     }
   ],
   "week": [
@@ -544,6 +532,18 @@
       "ntitle": "how become ai agents manager",
       "coins": [],
       "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "The Debasement Trade Returns",
+      "link": "https://www.bankless.com/read/the-debasement-trade-returns",
+      "published_at": "2026-08-19T19:32:37+00:00",
+      "source": "bankless.com",
+      "score": 2,
+      "ntitle": "debasement trade returns",
+      "coins": [],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -594,6 +594,18 @@
       "ntitle": "u s government debt passes 40 trillion more than doubling decade",
       "coins": [],
       "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Maya Protocol halts operations after chained Exploit Drains $1.7 Million",
+      "link": "https://coincodecap.com/maya-protocol-halts-operations-after-chained-exploit-drains-1-7-million?utm_source=rss&utm_medium=rss&utm_campaign=maya-protocol-halts-operations-after-chained-exploit-drains-1-7-million",
+      "published_at": "2026-08-19T10:52:51+00:00",
+      "source": "coincodecap.com",
+      "score": 1,
+      "ntitle": "maya protocol halts operations after chained exploit drains 1 7 million",
+      "coins": [],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -780,6 +792,20 @@
       "agency": null
     },
     {
+      "title": "Nethermind Drops LayerZero Verifier Role, Joins Chainlink",
+      "link": "https://www.bankless.com/read/news/nethermind-drops-layerzero-verifier-role-joins-chainlink",
+      "published_at": "2026-08-19T17:55:55+00:00",
+      "source": "bankless.com",
+      "score": 5,
+      "ntitle": "nethermind drops layerzero verifier role joins chainlink",
+      "coins": [
+        "LINK"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
       "title": "Bitcoin Shortsellers Get Destroyed With $1.7B in Positions Liquidated Following BTC Price Jump",
       "link": "https://bitcoinmagazine.com/news/bitcoin-shortsellers-get-destroyed",
       "published_at": "2026-08-19T19:11:09+00:00",
@@ -880,44 +906,6 @@
       "sentiment": "neutral",
       "is_regulation": true,
       "agency": "Regulatory"
-    },
-    {
-      "title": "GTA VI leaker is using game footage to pump crypto token",
-      "link": "https://protos.com/gta-vi-leaker-is-using-game-footage-to-pump-crypto-token/",
-      "published_at": "2026-08-19T12:36:50+00:00",
-      "source": "protos.com",
-      "score": 1,
-      "ntitle": "gta vi leaker using game footage pump crypto token",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "SEC Proposes New Regulation Crypto Assets",
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-76-sec-proposes-new-regulation-crypto-assets",
-      "published_at": "2026-08-18T17:15:48+00:00",
-      "source": "sec.gov",
-      "score": 5,
-      "ntitle": "sec proposes new regulation crypto assets",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "SEC"
-    },
-    {
-      "title": "Bitcoin Tops $68,000 as Short Liquidations Hit $1.7 Billion",
-      "link": "https://thedefiant.io/news/markets/bitcoin-tops-68k-as-short-liquidations-hit-1-7-billion",
-      "published_at": "2026-08-19T17:16:33+00:00",
-      "source": "thedefiant.io",
-      "score": 3,
-      "ntitle": "bitcoin tops 68 000 short liquidations hit 1 7 billion",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
     }
   ],
   "month": [
@@ -946,6 +934,20 @@
       "agency": null
     },
     {
+      "title": "Justin Drake: The EF Is Moving Away From Poseidon for Ethereum L1",
+      "link": "https://www.bankless.com/read/news/justin-drake-the-ef-is-moving-away-from-poseidon-for-ethereum-l1",
+      "published_at": "2026-08-13T18:44:42+00:00",
+      "source": "bankless.com",
+      "score": 1,
+      "ntitle": "justin drake ef moving away poseidon ethereum l1",
+      "coins": [
+        "ETH"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
       "title": "Arthur Hayes Says Yen-Quake Could Put Bitcoin Back In Liquidity Spotlight",
       "link": "https://bitcoinist.com/arthur-hayes-says-yen-quake-could-put-bitcoin-back-in-liquidity-spotlight/",
       "published_at": "2026-08-12T11:30:00+00:00",
@@ -970,6 +972,18 @@
       "sentiment": "neutral",
       "is_regulation": true,
       "agency": "Regulatory"
+    },
+    {
+      "title": "Rizon Review: A Stablecoin Card With Real Fine Print",
+      "link": "https://coincodecap.com/rizon-review?utm_source=rss&utm_medium=rss&utm_campaign=rizon-review",
+      "published_at": "2026-08-13T15:52:48+00:00",
+      "source": "coincodecap.com",
+      "score": 3,
+      "ntitle": "rizon review stablecoin card real fine print",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
@@ -1046,6 +1060,20 @@
       "agency": null
     },
     {
+      "title": "Gnosis Chain Just Made the First Move Toward the Ethereum Economic Zone",
+      "link": "https://www.bankless.com/read/gnosis-chain-just-made-the-first-move-toward-the-ethereum-economic-zone",
+      "published_at": "2026-08-12T19:27:24+00:00",
+      "source": "bankless.com",
+      "score": 1,
+      "ntitle": "gnosis chain just made first move toward ethereum economic zone",
+      "coins": [
+        "ETH"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
       "title": "Solana Rallies 7% After Breaking Multi-Week Downtrend",
       "link": "https://bitcoinist.com/solana-rallies-7-after-breaking-multi-week-downtrend/",
       "published_at": "2026-08-12T10:45:00+00:00",
@@ -1070,6 +1098,18 @@
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
+    },
+    {
+      "title": "SEC, CFTC sue Goliath Ventures founder over $400 Million crypto ponzi scheme",
+      "link": "https://coincodecap.com/sec-cftc-sue-goliath-ventures-founder-over-400-million-crypto-ponzi-scheme?utm_source=rss&utm_medium=rss&utm_campaign=sec-cftc-sue-goliath-ventures-founder-over-400-million-crypto-ponzi-scheme",
+      "published_at": "2026-08-12T00:46:45+00:00",
+      "source": "coincodecap.com",
+      "score": 1,
+      "ntitle": "sec cftc sue goliath ventures founder over 400 million crypto ponzi scheme",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": true,
+      "agency": "CFTC"
     },
     {
       "title": "Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc.",
@@ -1111,6 +1151,36 @@
   "clusters": [
     {
       "id": 1,
+      "title": "Arbitrum activates ArbOS 61 Elara with optional compliance filters for Orbit chains",
+      "link": "https://cryptobriefing.com/arbitrum-arbos-61-elara-compliance-filters/",
+      "source": "cryptobriefing.com",
+      "published_at": "2026-08-20T22:56:45+00:00",
+      "sentiment": "bullish",
+      "coins": [
+        "ARB"
+      ],
+      "sources": [
+        "thedefiant.io",
+        "cryptobriefing.com"
+      ],
+      "count": 2,
+      "members": [
+        {
+          "title": "Arbitrum activates ArbOS 61 Elara with optional compliance filters for Orbit chains",
+          "link": "https://cryptobriefing.com/arbitrum-arbos-61-elara-compliance-filters/",
+          "source": "cryptobriefing.com",
+          "published_at": "2026-08-20T22:56:45+00:00"
+        },
+        {
+          "title": "Arbitrum Activates Elara With Optional Compliance Filters for Dedicated Chains",
+          "link": "https://thedefiant.io/news/blockchains/arbitrum-activates-elara-with-optional-compliance-filters-for-dedicated-chains",
+          "source": "thedefiant.io",
+          "published_at": "2026-08-20T22:50:28+00:00"
+        }
+      ]
+    },
+    {
+      "id": 0,
       "title": "Justin Sun Wins Key Court Battle Against Trump-Backed World Liberty Financial",
       "link": "https://beincrypto.com/justin-sun-world-liberty-court-win-wlfi-lawsuit/",
       "source": "beincrypto.com",
@@ -1118,8 +1188,8 @@
       "sentiment": "bullish",
       "coins": [],
       "sources": [
-        "beincrypto.com",
-        "blockonomi.com"
+        "blockonomi.com",
+        "beincrypto.com"
       ],
       "count": 2,
       "members": [
@@ -1147,33 +1217,33 @@
     },
     {
       "tag": "#XRP",
-      "count": 51,
+      "count": 50,
       "type": "coin",
-      "pct": 72
+      "pct": 70
     },
     {
       "tag": "#Xrp",
-      "count": 46,
+      "count": 45,
       "type": "topic",
-      "pct": 65
-    },
-    {
-      "tag": "#BTC",
-      "count": 31,
-      "type": "coin",
-      "pct": 44
+      "pct": 63
     },
     {
       "tag": "#Defi",
-      "count": 29,
+      "count": 32,
       "type": "topic",
-      "pct": 41
+      "pct": 45
     },
     {
       "tag": "#Bitcoin",
-      "count": 28,
+      "count": 26,
       "type": "topic",
-      "pct": 39
+      "pct": 37
+    },
+    {
+      "tag": "#BTC",
+      "count": 25,
+      "type": "coin",
+      "pct": 35
     },
     {
       "tag": "#ETH",
@@ -1182,11 +1252,11 @@
       "pct": 15
     },
     {
-      "tag": "#XDC",
-      "count": 9,
-      "type": "coin",
-      "pct": 13
+      "tag": "#Stablecoin",
+      "count": 10,
+      "type": "topic",
+      "pct": 14
     }
   ],
-  "generated_at": "2026-08-20T22:45:06.211746+00:00"
+  "generated_at": "2026-08-20T23:03:52.449249+00:00"
 }
