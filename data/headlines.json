@@ -30,16 +30,16 @@
       "agency": null
     },
     {
-      "title": "SEC outlines steps to reverse Biden-era crypto enforcement",
-      "link": "https://cryptobriefing.com/sec-reverses-biden-crypto-enforcement/",
-      "published_at": "2026-08-21T23:25:36+00:00",
+      "title": "US Treasury doubles bond buybacks, clashing with Fed Chair Warsh’s market-independence approach",
+      "link": "https://cryptobriefing.com/treasury-undercuts-fed-warsh-bond-buybacks/",
+      "published_at": "2026-08-21T23:46:00+00:00",
       "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "sec outlines steps reverse biden era crypto enforcement",
+      "score": 6,
+      "ntitle": "us treasury doubles bond buybacks clashing fed chair warsh s market independence approach",
       "coins": [],
       "sentiment": "bearish",
       "is_regulation": true,
-      "agency": "SEC"
+      "agency": "Fed"
     },
     {
       "title": "MANTRA Chain stays offline after exploit as Aug. 21 restart hinges on patch test",
@@ -66,14 +66,16 @@
       "agency": null
     },
     {
-      "title": "Anthropic’s Opus 4.6 model bypasses content restrictions, tests show",
-      "link": "https://cryptobriefing.com/anthropic-opus-4-6-content-restrictions-bypass/",
-      "published_at": "2026-08-21T23:12:06+00:00",
+      "title": "Bitwise Solana staking ETF pulls in $20M this week as institutional appetite grows",
+      "link": "https://cryptobriefing.com/bitwise-solana-staking-etf-20m-inflows/",
+      "published_at": "2026-08-21T23:44:28+00:00",
       "source": "cryptobriefing.com",
-      "score": 3,
-      "ntitle": "anthropic s opus 4 6 model bypasses content restrictions tests show",
-      "coins": [],
-      "sentiment": "bearish",
+      "score": 6,
+      "ntitle": "bitwise solana staking etf pulls 20m this week institutional appetite grows",
+      "coins": [
+        "SOL"
+      ],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     }
@@ -1084,45 +1086,45 @@
   "trending": [
     {
       "tag": "#Ai",
-      "count": 68,
+      "count": 67,
       "type": "topic",
       "pct": 100
     },
     {
       "tag": "#XRP",
-      "count": 58,
+      "count": 59,
       "type": "coin",
-      "pct": 85
+      "pct": 88
     },
     {
       "tag": "#Xrp",
-      "count": 52,
+      "count": 53,
       "type": "topic",
-      "pct": 76
+      "pct": 79
     },
     {
       "tag": "#Defi",
-      "count": 32,
+      "count": 31,
       "type": "topic",
-      "pct": 47
-    },
-    {
-      "tag": "#Bitcoin",
-      "count": 26,
-      "type": "topic",
-      "pct": 38
+      "pct": 46
     },
     {
       "tag": "#BTC",
-      "count": 24,
+      "count": 25,
       "type": "coin",
-      "pct": 35
+      "pct": 37
+    },
+    {
+      "tag": "#Bitcoin",
+      "count": 24,
+      "type": "topic",
+      "pct": 36
     },
     {
       "tag": "#ETH",
-      "count": 18,
+      "count": 20,
       "type": "coin",
-      "pct": 26
+      "pct": 30
     },
     {
       "tag": "#Ethereum",
@@ -1131,5 +1133,5 @@
       "pct": 19
     }
   ],
-  "generated_at": "2026-08-21T23:38:47.622952+00:00"
+  "generated_at": "2026-08-21T23:56:19.544283+00:00"
 }
