@@ -1,5 +1,16 @@
 [
   {
+    "title": "Bitcoin Price Roars Towards $80,000 Following Positive Regulatory News, US Buyback Pledge",
+    "link": "https://bitcoinmagazine.com/news/bitcoin-surges-towards-80000",
+    "source": "bitcoinmagazine.com",
+    "published_at": "2026-08-21T15:24:23+00:00",
+    "agency": "Regulatory",
+    "sentiment": "bullish",
+    "coins": [
+      "BTC"
+    ]
+  },
+  {
     "title": "European Union reviews crypto lending regulations under MiCA",
     "link": "https://cryptobriefing.com/eu-reviews-crypto-lending-mica/",
     "source": "cryptobriefing.com",
@@ -36,27 +47,6 @@
     "coins": []
   },
   {
-    "title": "Rep. Stephen Lynch warns the Clarity Act will damage the banking system and weaken the dollar",
-    "link": "https://cryptobriefing.com/stephen-lynch-clarity-act-banking-system-warning/",
-    "source": "cryptobriefing.com",
-    "published_at": "2026-08-21T14:02:06+00:00",
-    "agency": "Congress",
-    "sentiment": "bearish",
-    "coins": []
-  },
-  {
-    "title": "Hyperliquid’s HYPE token hits new all-time high amid regulatory optimism",
-    "link": "https://cryptobriefing.com/hyperliquids-hype-token-hits-new-all-time-high-amid-regulatory-optimism/",
-    "source": "cryptobriefing.com",
-    "published_at": "2026-08-21T13:56:29+00:00",
-    "agency": "Regulatory",
-    "sentiment": "bullish",
-    "coins": [
-      "HYPE",
-      "OP"
-    ]
-  },
-  {
     "title": "Bitcoin rallies to near $78k as Trump spurs U.S. regulatory hopes",
     "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-75k-as-trump-spurs-us-regulatory-optimism-4870820",
     "source": "investing.com",
@@ -66,18 +56,6 @@
     "coins": [
       "BTC",
       "NEAR"
-    ]
-  },
-  {
-    "title": "SEC, CFTC classify XRP, SOL as commodities amid crypto policy shifts",
-    "link": "https://cryptobriefing.com/sec-cftc-classify-xrp-sol-as-commodities-amid-crypto-policy-shifts/",
-    "source": "cryptobriefing.com",
-    "published_at": "2026-08-21T13:53:59+00:00",
-    "agency": "CFTC",
-    "sentiment": "neutral",
-    "coins": [
-      "SOL",
-      "XRP"
     ]
   },
   {
@@ -295,5 +273,23 @@
     "coins": [
       "BTC"
     ]
+  },
+  {
+    "title": "CFTC chair says agency will move forward on crypto regulation if CLARITY fails",
+    "link": "https://cointelegraph.com/news/cftc-chair-crypto-regulation-without-clarity-act-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "cointelegraph.com",
+    "published_at": "2026-08-20T20:56:23+00:00",
+    "agency": "CFTC",
+    "sentiment": "bearish",
+    "coins": []
+  },
+  {
+    "title": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
+    "source": "federalreserve.gov",
+    "published_at": "2026-08-20T20:00:00+00:00",
+    "agency": "Fed",
+    "sentiment": "neutral",
+    "coins": []
   }
 ]
