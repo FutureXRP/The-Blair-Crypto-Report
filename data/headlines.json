@@ -2,30 +2,111 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "Aster jumps 10% on Hyperliquid optimism – Is $0.80 next?",
-      "link": "https://ambcrypto.com/aster-jumps-10-on-hyperliquid-optimism-is-0-80-next/",
-      "published_at": "2026-08-21T04:00:13+00:00",
+      "title": "Dogecoin up 10% after volume spikes by 3.5x — Are OG memecoins back?",
+      "link": "https://ambcrypto.com/dogecoin-up-10-after-volume-spikes-by-3-5x-are-og-memecoins-back/",
+      "published_at": "2026-08-21T05:00:06+00:00",
       "source": "ambcrypto.com",
       "score": 1,
-      "ntitle": "aster jumps 10 hyperliquid optimism 0 80 next",
+      "ntitle": "dogecoin up 10 after volume spikes 3 5x og memecoins back",
       "coins": [
-        "HYPE",
-        "OP"
+        "DOGE"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Hyperliquid Briefly Flips Dogecoin In Market Cap As HYPE Rally Extends",
+      "link": "https://bitcoinist.com/hyperliquid-briefly-flips-dogecoin-in-market-cap-as-hype-rally-extends/",
+      "published_at": "2026-08-21T05:00:00+00:00",
+      "source": "bitcoinist.com",
+      "score": 1,
+      "ntitle": "hyperliquid briefly flips dogecoin market cap hype rally extends",
+      "coins": [
+        "DOGE",
+        "HYPE"
       ],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Asian Stocks Slide on Bond Stress: Will Safe Havens BTC and Gold Keep Rallying?",
-      "link": "https://beincrypto.com/asian-stocks-slide-bitcoin-gold-rally/",
-      "published_at": "2026-08-21T03:43:31+00:00",
-      "source": "beincrypto.com",
+      "title": "Bitcoin, ether and solana climb as another $1 billion shorts get wiped out",
+      "link": "https://www.coindesk.com/markets/2026/08/21/bitcoin-ether-and-solana-climb-as-another-usd1-billion-shorts-get-wiped-out",
+      "published_at": "2026-08-21T04:56:30+00:00",
+      "source": "coindesk.com",
       "score": 1,
-      "ntitle": "asian stocks slide bond stress will safe havens btc gold keep rallying",
+      "ntitle": "bitcoin ether solana climb another 1 billion shorts get wiped out",
+      "coins": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "MANTRA price falls 10% as network halts transactions",
+      "link": "https://crypto.news/mantra-price-falls-as-network-halts-transactions/",
+      "published_at": "2026-08-21T05:00:13+00:00",
+      "source": "crypto.news",
+      "score": 1,
+      "ntitle": "mantra price falls 10 network halts transactions",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "US officials assure no imminent large-scale bombing in Iran conflict",
+      "link": "https://cryptobriefing.com/us-officials-assure-no-imminent-large-scale-bombing-in-iran-conflict/",
+      "published_at": "2026-08-21T05:02:47+00:00",
+      "source": "cryptobriefing.com",
+      "score": 1,
+      "ntitle": "us officials assure no imminent large scale bombing iran conflict",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "BTCS used Ethereum to repay Aave debt and ended Q2 with just $317,000 in cash",
+      "link": "https://cryptoslate.com/btcs-used-ethereum-to-repay-aave-debt-and-ended-quarter-with-just-317000-in-cash/",
+      "published_at": "2026-08-21T05:00:12+00:00",
+      "source": "cryptoslate.com",
+      "score": 3,
+      "ntitle": "btcs used ethereum repay aave debt ended q2 just 317 000 cash",
+      "coins": [
+        "AAVE",
+        "ETH"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Bitcoin tests $75k as Trump spurs U.S. regulatory hopes",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-75k-as-trump-spurs-us-regulatory-optimism-4870820",
+      "published_at": "2026-08-21T04:14:46+00:00",
+      "source": "investing.com",
+      "score": 1,
+      "ntitle": "bitcoin tests 75k trump spurs u s regulatory hopes",
       "coins": [
         "BTC"
       ],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Regulatory"
+    },
+    {
+      "title": "After 100 Hours of 3D Printing, a Student Built a Modular Arm for His Sister",
+      "link": "https://news.bitcoin.com/technology/after-100-hours-of-3d-printing-a-student-built-a-modular-arm-for-his-sister/",
+      "published_at": "2026-08-21T04:30:26+00:00",
+      "source": "news.bitcoin.com",
+      "score": 1,
+      "ntitle": "after 100 hours 3d printing student built modular arm his sister",
+      "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
@@ -45,82 +126,43 @@
       "agency": null
     },
     {
-      "title": "Upbit lists 4 altcoins in South Korea with 8 pairs",
-      "link": "https://crypto.news/upbit-lists-4-altcoins-in-south-korea-with-8-pairs/",
-      "published_at": "2026-08-21T04:32:34+00:00",
+      "title": "Binance founder CZ says ‘tokenize everything’ to attract investors",
+      "link": "https://crypto.news/cz-says-tokenize-everything-to-attract-investors/",
+      "published_at": "2026-08-21T04:48:20+00:00",
       "source": "crypto.news",
       "score": 3,
-      "ntitle": "upbit lists 4 altcoins south korea 8 pairs",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Ethereum spot ETFs purchase $189M in ETH, largest single-day inflow in 10 months",
-      "link": "https://cryptobriefing.com/ethereum-spot-etfs-189m-largest-10-months/",
-      "published_at": "2026-08-21T03:38:45+00:00",
-      "source": "cryptobriefing.com",
-      "score": 8,
-      "ntitle": "ethereum spot etfs purchase 189m eth largest single day inflow 10 months",
-      "coins": [
-        "ETH"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": true,
-      "agency": "Regulatory"
-    },
-    {
-      "title": "After 100 Hours of 3D Printing, a Student Built a Modular Arm for His Sister",
-      "link": "https://news.bitcoin.com/technology/after-100-hours-of-3d-printing-a-student-built-a-modular-arm-for-his-sister/",
-      "published_at": "2026-08-21T04:30:26+00:00",
-      "source": "news.bitcoin.com",
-      "score": 1,
-      "ntitle": "after 100 hours 3d printing student built modular arm his sister",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Inverse Cramer Strikes Again as Jim Tells Caller to Buy the Bitcoin He Sold",
-      "link": "https://beincrypto.com/cramer-sells-bitcoin-tells-caller-buy/",
-      "published_at": "2026-08-21T03:37:44+00:00",
-      "source": "beincrypto.com",
-      "score": 1,
-      "ntitle": "inverse cramer strikes again jim tells caller buy bitcoin he sold",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Binance launches Agent OS and MCP trading server",
-      "link": "https://crypto.news/binance-launches-agent-os-and-mcp-trading-server/",
-      "published_at": "2026-08-21T04:21:31+00:00",
-      "source": "crypto.news",
-      "score": 3,
-      "ntitle": "binance launches agent os mcp trading server",
+      "ntitle": "binance founder cz says tokenize everything attract investors",
       "coins": [
         "BNB"
       ],
-      "sentiment": "bullish",
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "JD Vance backs economic pressure as key to US strategy on Iran",
+      "link": "https://cryptobriefing.com/jd-vance-backs-economic-pressure-as-key-to-us-strategy-on-iran/",
+      "published_at": "2026-08-21T04:40:39+00:00",
+      "source": "cryptobriefing.com",
+      "score": 1,
+      "ntitle": "jd vance backs economic pressure key us strategy iran",
+      "coins": [],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     }
   ],
   "day": [
     {
-      "title": "Avalanche crypto breaks $7 as tokenized asset value tops $3B",
-      "link": "https://ambcrypto.com/avalanche-crypto-breaks-7-as-tokenized-asset-value-tops-3b/",
-      "published_at": "2026-08-21T03:30:29+00:00",
+      "title": "Aster jumps 10% on Hyperliquid optimism – Is $0.80 next?",
+      "link": "https://ambcrypto.com/aster-jumps-10-on-hyperliquid-optimism-is-0-80-next/",
+      "published_at": "2026-08-21T04:00:13+00:00",
       "source": "ambcrypto.com",
-      "score": 5,
-      "ntitle": "avalanche crypto breaks 7 tokenized asset value tops 3b",
+      "score": 1,
+      "ntitle": "aster jumps 10 hyperliquid optimism 0 80 next",
       "coins": [
-        "AVAX"
+        "HYPE",
+        "OP"
       ],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -141,14 +183,16 @@
       "agency": null
     },
     {
-      "title": "Upbit Listings Send 4 Tokens Higher as ETHGas Leads With 11% Gain",
-      "link": "https://beincrypto.com/upbit-listings-bico-bmt-nil-gwei/",
-      "published_at": "2026-08-21T02:06:24+00:00",
+      "title": "Asian Stocks Slide on Bond Stress: Will Safe Havens BTC and Gold Keep Rallying?",
+      "link": "https://beincrypto.com/asian-stocks-slide-bitcoin-gold-rally/",
+      "published_at": "2026-08-21T03:43:31+00:00",
       "source": "beincrypto.com",
-      "score": 3,
-      "ntitle": "upbit listings send 4 tokens higher ethgas leads 11 gain",
-      "coins": [],
-      "sentiment": "bullish",
+      "score": 1,
+      "ntitle": "asian stocks slide bond stress will safe havens btc gold keep rallying",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -282,30 +326,30 @@
       "agency": null
     },
     {
-      "title": "Bitcoin whale moves $86M after 11 years of dormancy",
-      "link": "https://crypto.news/bitcoin-whale-moves-86m-after-11-years-of-dormancy/",
-      "published_at": "2026-08-20T20:29:14+00:00",
+      "title": "HMRC sends 81,172 crypto tax warnings in one year",
+      "link": "https://crypto.news/hmrc-sends-81172-crypto-tax-warnings-in-one-year/",
+      "published_at": "2026-08-21T04:07:08+00:00",
       "source": "crypto.news",
       "score": 1,
-      "ntitle": "bitcoin whale moves 86m after 11 years dormancy",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Ship crossings in Strait of Hormuz drop amid US-Iran tensions: Reuters",
-      "link": "https://cryptobriefing.com/ship-crossings-in-strait-of-hormuz-drop-amid-us-iran-tensions-reuters/",
-      "published_at": "2026-08-21T02:43:28+00:00",
-      "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "ship crossings strait hormuz drop amid us iran tensions reuters",
+      "ntitle": "hmrc sends 81 172 crypto tax warnings one year",
       "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
+    },
+    {
+      "title": "Ethereum spot ETFs purchase $189M in ETH, largest single-day inflow in 10 months",
+      "link": "https://cryptobriefing.com/ethereum-spot-etfs-189m-largest-10-months/",
+      "published_at": "2026-08-21T03:38:45+00:00",
+      "source": "cryptobriefing.com",
+      "score": 8,
+      "ntitle": "ethereum spot etfs purchase 189m eth largest single day inflow 10 months",
+      "coins": [
+        "ETH"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": true,
+      "agency": "Regulatory"
     },
     {
       "title": "HSBC and Standard Chartered Run First Live Tokenized Deposit Transfer on SWIFT’s Blockchain Ledger",
@@ -477,12 +521,12 @@
       "agency": null
     },
     {
-      "title": "Avalanche: Why AVAX’s rally faces THIS test after $2.4M whale deposit",
-      "link": "https://ambcrypto.com/avalanche-why-avaxs-rally-faces-this-test-after-2-4m-whale-deposit/",
-      "published_at": "2026-08-21T03:00:08+00:00",
+      "title": "Avalanche crypto breaks $7 as tokenized asset value tops $3B",
+      "link": "https://ambcrypto.com/avalanche-crypto-breaks-7-as-tokenized-asset-value-tops-3b/",
+      "published_at": "2026-08-21T03:30:29+00:00",
       "source": "ambcrypto.com",
-      "score": 1,
-      "ntitle": "avalanche why avax s rally faces this test after 2 4m whale deposit",
+      "score": 5,
+      "ntitle": "avalanche crypto breaks 7 tokenized asset value tops 3b",
       "coins": [
         "AVAX"
       ],
@@ -561,18 +605,6 @@
       "source": "chainalysis.com",
       "score": 1,
       "ntitle": "machine learning has specific role blockchain intelligence",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "U.S. government debt passes $40 trillion, more than doubling in a decade",
-      "link": "https://www.cnbc.com/2026/08/19/us-government-debt-passes-40-trillion-mark-for-the-first-time.html",
-      "published_at": "2026-08-19T22:34:33+00:00",
-      "source": "cnbc.com",
-      "score": 1,
-      "ntitle": "u s government debt passes 40 trillion more than doubling decade",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -892,6 +924,18 @@
       "sentiment": "neutral",
       "is_regulation": true,
       "agency": "Regulatory"
+    },
+    {
+      "title": "GTA VI leaker is using game footage to pump crypto token",
+      "link": "https://protos.com/gta-vi-leaker-is-using-game-footage-to-pump-crypto-token/",
+      "published_at": "2026-08-19T12:36:50+00:00",
+      "source": "protos.com",
+      "score": 1,
+      "ntitle": "gta vi leaker using game footage pump crypto token",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     }
   ],
   "month": [
@@ -930,20 +974,6 @@
         "ETH"
       ],
       "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Arthur Hayes Says Yen-Quake Could Put Bitcoin Back In Liquidity Spotlight",
-      "link": "https://bitcoinist.com/arthur-hayes-says-yen-quake-could-put-bitcoin-back-in-liquidity-spotlight/",
-      "published_at": "2026-08-12T11:30:00+00:00",
-      "source": "bitcoinist.com",
-      "score": 1,
-      "ntitle": "arthur hayes says yen quake could put bitcoin back liquidity spotlight",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -1124,7 +1154,7 @@
   "trending": [
     {
       "tag": "#Ai",
-      "count": 69,
+      "count": 70,
       "type": "topic",
       "pct": 100
     },
@@ -1132,13 +1162,13 @@
       "tag": "#XRP",
       "count": 48,
       "type": "coin",
-      "pct": 70
+      "pct": 69
     },
     {
       "tag": "#Xrp",
       "count": 43,
       "type": "topic",
-      "pct": 62
+      "pct": 61
     },
     {
       "tag": "#Defi",
@@ -1150,19 +1180,19 @@
       "tag": "#Bitcoin",
       "count": 28,
       "type": "topic",
-      "pct": 41
+      "pct": 40
     },
     {
       "tag": "#BTC",
       "count": 22,
       "type": "coin",
-      "pct": 32
+      "pct": 31
     },
     {
       "tag": "#ETH",
-      "count": 12,
+      "count": 13,
       "type": "coin",
-      "pct": 17
+      "pct": 19
     },
     {
       "tag": "#LINK",
@@ -1171,5 +1201,5 @@
       "pct": 16
     }
   ],
-  "generated_at": "2026-08-21T04:35:34.615581+00:00"
+  "generated_at": "2026-08-21T05:07:57.370109+00:00"
 }
