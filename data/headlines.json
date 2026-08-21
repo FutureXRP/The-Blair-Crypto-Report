@@ -2,34 +2,6 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "XRP jumps 18% as ETFs record $13.24M inflows – Is $1.50 next?",
-      "link": "https://ambcrypto.com/xrp-jumps-18-as-etfs-record-13-24m-inflows-is-1-50-next/",
-      "published_at": "2026-08-21T10:00:32+00:00",
-      "source": "ambcrypto.com",
-      "score": 10,
-      "ntitle": "xrp jumps 18 etfs record 13 24m inflows 1 50 next",
-      "coins": [
-        "XRP"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Ethereum’s 29% Price Rally Divides Whales Across the Market",
-      "link": "https://beincrypto.com/ethereum-29-percent-price-rally-whales-split/",
-      "published_at": "2026-08-21T09:41:19+00:00",
-      "source": "beincrypto.com",
-      "score": 5,
-      "ntitle": "ethereum s 29 price rally divides whales across market",
-      "coins": [
-        "ETH"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
       "title": "AMZN Price Prediction: Trapped at $262 — Reclaim $266 or the $255 Test Is Coming Faster Than You Think",
       "link": "https://Blockchain.News/news/20260821-price-prediction-amzn-trapped-at-262-reclaim-266-or",
       "published_at": "2026-08-21T10:17:11+00:00",
@@ -42,14 +14,16 @@
       "agency": null
     },
     {
-      "title": "UK Crypto Tax Crackdown: HMRC Warning Letters Triple to 81,000 in 2025/26",
-      "link": "https://blockonomi.com/uk-crypto-tax-crackdown-hmrc-warning-letters-triple-to-81000-in-2025-26/",
-      "published_at": "2026-08-21T10:34:21+00:00",
+      "title": "Strategy Sits on $1.4B Bitcoin Profit as BTC Price Surges Past $77K",
+      "link": "https://blockonomi.com/strategy-sits-on-1-4b-bitcoin-profit-as-btc-price-surges-past-77k/",
+      "published_at": "2026-08-21T10:53:56+00:00",
       "source": "blockonomi.com",
-      "score": 3,
-      "ntitle": "uk crypto tax crackdown hmrc warning letters triple 81 000 2025 26",
-      "coins": [],
-      "sentiment": "bearish",
+      "score": 1,
+      "ntitle": "strategy sits 1 4b bitcoin profit btc price surges past 77k",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -66,18 +40,16 @@
       "agency": null
     },
     {
-      "title": "Bitcoin tops $77,000 as best week since 2023 pulls altcoins along for the ride",
-      "link": "https://www.coindesk.com/markets/2026/08/21/bitcoin-tops-usd77-000-as-best-week-since-2023-pulls-altcoins-along-for-the-ride",
-      "published_at": "2026-08-21T10:15:36+00:00",
+      "title": "Nomura-backed Laser Digital wins Japan's first crypto approval in four years",
+      "link": "https://www.coindesk.com/policy/2026/08/21/nomura-backed-laser-digital-wins-japan-s-first-crypto-approval-in-four-years",
+      "published_at": "2026-08-21T10:38:47+00:00",
       "source": "coindesk.com",
-      "score": 1,
-      "ntitle": "bitcoin tops 77 000 best week since 2023 pulls altcoins along ride",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
+      "score": 3,
+      "ntitle": "nomura backed laser digital wins japan s first crypto approval four years",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": true,
+      "agency": "Regulatory"
     },
     {
       "title": "Ethereum Price Outlook: Analyst Predicts ETH Could Hit $3,000 This Month",
@@ -120,14 +92,42 @@
       "agency": null
     },
     {
-      "title": "Tesla recalls nearly 2 million China-made Model 3 and Model Y vehicles",
-      "link": "https://cryptobriefing.com/tesla-recalls-2m-china-model-3-model-y/",
-      "published_at": "2026-08-21T10:26:05+00:00",
+      "title": "IEM Beijing 2026 features 24 teams competing across closed qualifiers",
+      "link": "https://cryptobriefing.com/iem-beijing-2026-closed-qualifiers/",
+      "published_at": "2026-08-21T10:57:25+00:00",
       "source": "cryptobriefing.com",
-      "score": 3,
-      "ntitle": "tesla recalls nearly 2 million china made model 3 model y vehicles",
+      "score": 1,
+      "ntitle": "iem beijing 2026 features 24 teams competing across closed qualifiers",
       "coins": [],
       "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "The Real Reason Behind Bitcoin’s Mind-Blowing Surge to $80K? One Word: Cramer",
+      "link": "https://cryptopotato.com/the-real-reason-behind-bitcoins-mind-blowing-surge-to-80k-one-word-cramer/",
+      "published_at": "2026-08-21T10:38:15+00:00",
+      "source": "cryptopotato.com",
+      "score": 1,
+      "ntitle": "real reason behind bitcoin s mind blowing surge 80k one word cramer",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Bitcoin is closing in on $80,000 and already destroyed a record $4 billion in short bets",
+      "link": "https://cryptoslate.com/bitcoins-road-to-80000-has-already-destroyed-4-billion-in-short-bets/",
+      "published_at": "2026-08-21T10:43:30+00:00",
+      "source": "cryptoslate.com",
+      "score": 2,
+      "ntitle": "bitcoin closing 80 000 already destroyed record 4 billion short bets",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -160,16 +160,16 @@
       "agency": null
     },
     {
-      "title": "XRP Sees Record-Breaking 130% Volume Spike Amid Bull Run Strengthening",
-      "link": "https://u.today/xrp-sees-record-breaking-130-volume-spike-amid-bull-run-strengthening",
-      "published_at": "2026-08-21T10:20:00+00:00",
+      "title": "Potential Bull Trap? Dogecoin Contributor Warns on Crypto Market Surge",
+      "link": "https://u.today/potential-bull-trap-dogecoin-contributor-warns-on-crypto-market-surge",
+      "published_at": "2026-08-21T10:35:00+00:00",
       "source": "u.today",
-      "score": 6,
-      "ntitle": "xrp sees record breaking 130 volume spike amid bull run strengthening",
+      "score": 1,
+      "ntitle": "potential bull trap dogecoin contributor warns crypto market surge",
       "coins": [
-        "XRP"
+        "DOGE"
       ],
-      "sentiment": "bullish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -186,18 +186,6 @@
       "agency": "CFTC"
     },
     {
-      "title": "Stacks crypto price prediction: Why $0.26 is KEY to STX’s next rally",
-      "link": "https://ambcrypto.com/stacks-crypto-price-prediction-why-0-26-is-key-to-stxs-next-rally/",
-      "published_at": "2026-08-21T09:45:18+00:00",
-      "source": "ambcrypto.com",
-      "score": 1,
-      "ntitle": "stacks crypto price prediction why 0 26 key stx s next rally",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
       "title": "META Price Prediction: Flush to $534 Before Any Real Bounce — Don't Get Caught in This Crowded Long",
       "link": "https://Blockchain.News/news/20260821-price-prediction-meta-flush-to-534-before-any-real",
       "published_at": "2026-08-21T10:12:21+00:00",
@@ -210,16 +198,14 @@
       "agency": null
     },
     {
-      "title": "Binance Founder CZ Says Countries Should Tokenize Assets To Attract Investors",
-      "link": "https://blockonomi.com/binance-founder-cz-says-countries-should-tokenize-assets-to-attract-investors/",
-      "published_at": "2026-08-21T10:13:50+00:00",
+      "title": "UK Crypto Tax Crackdown: HMRC Warning Letters Triple to 81,000 in 2025/26",
+      "link": "https://blockonomi.com/uk-crypto-tax-crackdown-hmrc-warning-letters-triple-to-81000-in-2025-26/",
+      "published_at": "2026-08-21T10:34:21+00:00",
       "source": "blockonomi.com",
-      "score": 7,
-      "ntitle": "binance founder cz says countries should tokenize assets attract investors",
-      "coins": [
-        "BNB"
-      ],
-      "sentiment": "bullish",
+      "score": 3,
+      "ntitle": "uk crypto tax crackdown hmrc warning letters triple 81 000 2025 26",
+      "coins": [],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -232,6 +218,20 @@
       "ntitle": "nato member romania scrambles f 16 fighter jets destroy drone near critical european gas project",
       "coins": [
         "NEAR"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Bitcoin tops $77,000 as best week since 2023 pulls altcoins along for the ride",
+      "link": "https://www.coindesk.com/markets/2026/08/21/bitcoin-tops-usd77-000-as-best-week-since-2023-pulls-altcoins-along-for-the-ride",
+      "published_at": "2026-08-21T10:15:36+00:00",
+      "source": "coindesk.com",
+      "score": 1,
+      "ntitle": "bitcoin tops 77 000 best week since 2023 pulls altcoins along ride",
+      "coins": [
+        "BTC"
       ],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -252,12 +252,12 @@
       "agency": null
     },
     {
-      "title": "Digital Reef’s proposed London datacentre could emit 1M tonnes of CO2 annually, clashing with UK net zero goals",
-      "link": "https://cryptobriefing.com/digital-reef-datacentre-co2-emissions-uk/",
-      "published_at": "2026-08-21T10:14:51+00:00",
+      "title": "BNK FEARX forces Game 3 against Hanjin Brion with series tied 1-1 in LCK",
+      "link": "https://cryptobriefing.com/bnk-fearx-defeats-hanjin-brion-lck/",
+      "published_at": "2026-08-21T10:56:37+00:00",
       "source": "cryptobriefing.com",
-      "score": 2,
-      "ntitle": "digital reef s proposed london datacentre could emit 1m tonnes co2 annually clashing uk net zero goals",
+      "score": 1,
+      "ntitle": "bnk fearx forces game 3 against hanjin brion series tied 1 1 lck",
       "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -279,6 +279,20 @@
       "agency": "Regulatory"
     },
     {
+      "title": "XRP Sees Record-Breaking 130% Volume Spike Amid Bull Run Strengthening",
+      "link": "https://u.today/xrp-sees-record-breaking-130-volume-spike-amid-bull-run-strengthening",
+      "published_at": "2026-08-21T10:20:00+00:00",
+      "source": "u.today",
+      "score": 6,
+      "ntitle": "xrp sees record breaking 130 volume spike amid bull run strengthening",
+      "coins": [
+        "XRP"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
       "title": "Bitcoin Tops $75,000 for First Time in Three Months as Treasury Buyback Plan Fuels Short Squeeze",
       "link": "https://unchainedcrypto.com/bitcoin-tops-75000-for-first-time-in-three-months-as-treasury-buyback-plan-fuels-short-squeeze/",
       "published_at": "2026-08-21T10:06:49+00:00",
@@ -295,16 +309,18 @@
   ],
   "day": [
     {
-      "title": "Why is crypto going up today? $3.5B liquidation, treasury buybacks & more…",
-      "link": "https://ambcrypto.com/why-is-crypto-going-up-today-3-5b-liquidation-treasury-buybacks-more/",
-      "published_at": "2026-08-21T08:45:43+00:00",
+      "title": "XRP jumps 18% as ETFs record $13.24M inflows – Is $1.50 next?",
+      "link": "https://ambcrypto.com/xrp-jumps-18-as-etfs-record-13-24m-inflows-is-1-50-next/",
+      "published_at": "2026-08-21T10:00:32+00:00",
       "source": "ambcrypto.com",
-      "score": 3,
-      "ntitle": "why crypto going up today 3 5b liquidation treasury buybacks more",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Treasury"
+      "score": 10,
+      "ntitle": "xrp jumps 18 etfs record 13 24m inflows 1 50 next",
+      "coins": [
+        "XRP"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "ETH's Comeback Is Overdue",
@@ -321,16 +337,16 @@
       "agency": null
     },
     {
-      "title": "What Is Bitcoin Infinity Day? The 8/21 Ritual That Bans Selling for a Day",
-      "link": "https://beincrypto.com/bitcoin-infinity-day-august-21-explained/",
-      "published_at": "2026-08-21T09:23:35+00:00",
+      "title": "Ethereum’s 29% Price Rally Divides Whales Across the Market",
+      "link": "https://beincrypto.com/ethereum-29-percent-price-rally-whales-split/",
+      "published_at": "2026-08-21T09:41:19+00:00",
       "source": "beincrypto.com",
-      "score": 1,
-      "ntitle": "what bitcoin infinity day 8 21 ritual that bans selling day",
+      "score": 5,
+      "ntitle": "ethereum s 29 price rally divides whales across market",
       "coins": [
-        "BTC"
+        "ETH"
       ],
-      "sentiment": "neutral",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -365,30 +381,26 @@
       "agency": null
     },
     {
-      "title": "AAVE Price Prediction: Momentum Exhaustion Flags a Pullback Before the Next Leg to $118",
-      "link": "https://Blockchain.News/news/20260821-price-prediction-aave-momentum-exhaustion-flags-a-pullback-before",
-      "published_at": "2026-08-21T09:35:29+00:00",
+      "title": "MSTR Price Prediction: $132 Cap or $139 Breakout — The Next 72 Hours Are Decisive",
+      "link": "https://Blockchain.News/news/20260821-price-prediction-mstr-132-cap-or-139-breakout-the",
+      "published_at": "2026-08-21T09:56:03+00:00",
       "source": "blockchain.news",
       "score": 2,
-      "ntitle": "aave price prediction momentum exhaustion flags pullback before next leg 118",
-      "coins": [
-        "AAVE"
-      ],
-      "sentiment": "bearish",
+      "ntitle": "mstr price prediction 132 cap or 139 breakout next 72 hours decisive",
+      "coins": [],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Bitcoin Miners Spend $5.1 Billion Chasing AI Revenue in 2026",
-      "link": "https://blockonomi.com/bitcoin-miners-spend-5-1-billion-chasing-ai-revenue-in-2026/",
-      "published_at": "2026-08-21T09:39:27+00:00",
+      "title": "South Korea Pushes for Enhanced FIU Authority Over Unlicensed Crypto Exchanges",
+      "link": "https://blockonomi.com/south-korea-pushes-for-enhanced-fiu-authority-over-unlicensed-crypto-exchanges/",
+      "published_at": "2026-08-21T09:53:34+00:00",
       "source": "blockonomi.com",
       "score": 1,
-      "ntitle": "bitcoin miners spend 5 1 billion chasing ai revenue 2026",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "neutral",
+      "ntitle": "south korea pushes enhanced fiu authority over unlicensed crypto exchanges",
+      "coins": [],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -476,24 +488,26 @@
       "agency": "Treasury"
     },
     {
-      "title": "Hungary scraps crypto trading penalties of up to eight years in prison",
-      "link": "https://crypto.news/hungary-scraps-crypto-trading-penalties-of-up-to-eight-years-in-prison/",
-      "published_at": "2026-08-21T08:50:51+00:00",
+      "title": "Bitcoin rally sends Upbit trading volume up 273% to $1.84 billion",
+      "link": "https://crypto.news/bitcoin-rally-sends-upbit-trading-volume-up-273-to-1-84-billion/",
+      "published_at": "2026-08-21T09:45:39+00:00",
       "source": "crypto.news",
       "score": 1,
-      "ntitle": "hungary scraps crypto trading penalties up eight years prison",
-      "coins": [],
-      "sentiment": "neutral",
+      "ntitle": "bitcoin rally sends upbit trading volume up 273 1 84 billion",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Samsung to return record up to $79B to shareholders as AI chip profits surge",
-      "link": "https://cryptobriefing.com/samsung-record-80b-shareholder-return/",
-      "published_at": "2026-08-21T09:39:19+00:00",
+      "title": "Samsung, SK Hynix face pressure to share AI boom profits",
+      "link": "https://cryptobriefing.com/samsung-sk-hynix-ai-profit-sharing-pressure/",
+      "published_at": "2026-08-21T10:00:39+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "samsung return record up 79b shareholders ai chip profits surge",
+      "ntitle": "samsung sk hynix face pressure share ai boom profits",
       "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -590,15 +604,13 @@
       "agency": null
     },
     {
-      "title": "Bitcoin Approaches $80,000 as Vaneck’s Sigel Sees $100,000 Target by 2027",
-      "link": "https://news.bitcoin.com/crypto-news/vaneck-sigel-bitcoin-100000-500000-2029/",
-      "published_at": "2026-08-21T09:20:34+00:00",
+      "title": "BYDFi Joins Coinfest Asia 2026, Connecting With Institutions, Builders and Traders in Bali",
+      "link": "https://news.bitcoin.com/press-releases/bydfi-joins-coinfest-asia-2026-connecting-with-institutions-builders-and-traders-in-bali/",
+      "published_at": "2026-08-21T10:00:31+00:00",
       "source": "news.bitcoin.com",
-      "score": 1,
-      "ntitle": "bitcoin approaches 80 000 vaneck s sigel sees 100 000 target 2027",
-      "coins": [
-        "BTC"
-      ],
+      "score": 4,
+      "ntitle": "bydfi joins coinfest asia 2026 connecting institutions builders traders bali",
+      "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
@@ -670,16 +682,14 @@
       "agency": null
     },
     {
-      "title": "BNB Chain leads RWA ownership as CZ says ‘tokenize everything’ – Details",
-      "link": "https://ambcrypto.com/bnb-chain-leads-rwa-ownership-as-cz-says-tokenize-everything-details/",
-      "published_at": "2026-08-21T08:30:16+00:00",
+      "title": "Stacks crypto price prediction: Why $0.26 is KEY to STX’s next rally",
+      "link": "https://ambcrypto.com/stacks-crypto-price-prediction-why-0-26-is-key-to-stxs-next-rally/",
+      "published_at": "2026-08-21T09:45:18+00:00",
       "source": "ambcrypto.com",
-      "score": 5,
-      "ntitle": "bnb chain leads rwa ownership cz says tokenize everything details",
-      "coins": [
-        "BNB"
-      ],
-      "sentiment": "neutral",
+      "score": 1,
+      "ntitle": "stacks crypto price prediction why 0 26 key stx s next rally",
+      "coins": [],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -736,16 +746,16 @@
       "agency": "Congress"
     },
     {
-      "title": "COIN Price Prediction: Treasury-Fueled Breakout Eyes $182 — But This Extension Has a Shelf Life",
-      "link": "https://Blockchain.News/news/20260820-price-prediction-coin-treasury-fueled-breakout-eyes-182-but",
-      "published_at": "2026-08-20T10:37:58+00:00",
+      "title": "PLTR Price Prediction: Bears Are Fighting the Tape — $192 Magnet Incoming, But $177.64 Is the Line in the Sand",
+      "link": "https://Blockchain.News/news/20260820-price-prediction-pltr-bears-are-fighting-the-tape-192",
+      "published_at": "2026-08-20T10:47:33+00:00",
       "source": "blockchain.news",
-      "score": 6,
-      "ntitle": "coin price prediction treasury fueled breakout eyes 182 but this extension has shelf life",
+      "score": 4,
+      "ntitle": "pltr price prediction bears fighting tape 192 magnet incoming but 177 64 line sand",
       "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Treasury"
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Machine Learning Has a Specific Role in Blockchain Intelligence",
@@ -772,26 +782,28 @@
       "agency": "Congress"
     },
     {
-      "title": "Elon Musk's X is exploring stablecoins to pay influencers and content providers",
-      "link": "https://www.coindesk.com/business/2026/08/20/elon-musk-s-x-is-exploring-stablecoins-to-pay-influencers-and-content-providers",
-      "published_at": "2026-08-20T09:40:25+00:00",
+      "title": "Bitcoin rally sparks debate whether Clarity Act is already priced in",
+      "link": "https://www.coindesk.com/markets/2026/08/20/crypto-s-bottom-is-near-as-ai-hype-fades-okx-europe-ceo-says",
+      "published_at": "2026-08-20T10:47:35+00:00",
       "source": "coindesk.com",
       "score": 1,
-      "ntitle": "elon musk s x exploring stablecoins pay influencers content providers",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
+      "ntitle": "bitcoin rally sparks debate whether clarity act already priced",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": true,
+      "agency": "Congress"
     },
     {
-      "title": "Pi Network tops $0.09 as the broader crypto market rally",
-      "link": "https://coinjournal.net/news/pi-network-tops-0-09-as-the-broader-crypto-market-rally/",
-      "published_at": "2026-08-20T09:01:09+00:00",
+      "title": "KuCoin lands ISO 42001 certification as crypto’s AI race raises trust concerns",
+      "link": "https://coinjournal.net/news/kucoin-lands-iso-42001-certification-as-cryptos-ai-race-raises-trust-concerns/",
+      "published_at": "2026-08-20T10:41:44+00:00",
       "source": "coinjournal.net",
       "score": 3,
-      "ntitle": "pi network tops 0 09 broader crypto market rally",
+      "ntitle": "kucoin lands iso 42001 certification crypto s ai race raises trust concerns",
       "coins": [],
-      "sentiment": "bullish",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -908,14 +920,16 @@
       "agency": "CFTC"
     },
     {
-      "title": "Crypto Giant OKX Bans Claude Use",
-      "link": "https://u.today/crypto-giant-okx-bans-claude-use",
-      "published_at": "2026-08-20T10:35:38+00:00",
+      "title": "Shiba Inu (SHIB) Up 12% as $3 Billion Short Squeeze Fuels Crypto Market Rally",
+      "link": "https://u.today/shiba-inu-shib-up-12-as-3-billion-short-squeeze-fuels-crypto-market-rally",
+      "published_at": "2026-08-20T10:45:30+00:00",
       "source": "u.today",
-      "score": 0,
-      "ntitle": "crypto giant okx bans claude use",
-      "coins": [],
-      "sentiment": "bearish",
+      "score": 1,
+      "ntitle": "shiba inu shib up 12 3 billion short squeeze fuels crypto market rally",
+      "coins": [
+        "SHIB"
+      ],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -960,14 +974,14 @@
       "agency": null
     },
     {
-      "title": "BABA Price Prediction: Post-Earnings Shakeout Sets Up a $135–$140 Recovery — If the Bulls Can Hold $122",
-      "link": "https://Blockchain.News/news/20260820-price-prediction-baba-post-earnings-shakeout-sets-up-a",
-      "published_at": "2026-08-20T10:33:32+00:00",
+      "title": "HOOD Price Prediction: $109 or Bust — The Squeeze Is On and the Clock Is Ticking",
+      "link": "https://Blockchain.News/news/20260820-price-prediction-hood-109-or-bust-the-squeeze-is",
+      "published_at": "2026-08-20T10:43:17+00:00",
       "source": "blockchain.news",
       "score": 4,
-      "ntitle": "baba price prediction post earnings shakeout sets up 135 140 recovery if bulls can hold 122",
+      "ntitle": "hood price prediction 109 or bust squeeze clock ticking",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -984,30 +998,30 @@
       "agency": null
     },
     {
-      "title": "BitGo secures South Korea virtual asset license, says it's the first global crypto company to do so",
-      "link": "https://www.coindesk.com/business/2026/08/20/bitgo-secures-south-korea-virtual-asset-license-says-it-s-the-first-global-crypto-company-to-do-so",
-      "published_at": "2026-08-20T09:25:25+00:00",
+      "title": "Bitcoin breaks out of six-week range, tops $71,000 as $3 billion in shorts get wiped out",
+      "link": "https://www.coindesk.com/markets/2026/08/20/bitcoin-breaks-out-of-six-week-range-tops-usd71-000-as-usd3-billion-in-shorts-get-wiped-out",
+      "published_at": "2026-08-20T10:46:21+00:00",
       "source": "coindesk.com",
       "score": 2,
-      "ntitle": "bitgo secures south korea virtual asset license says it s first global crypto company do so",
-      "coins": [],
+      "ntitle": "bitcoin breaks out six week range tops 71 000 3 billion shorts get wiped out",
+      "coins": [
+        "BTC"
+      ],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Hyperliquid targets $60 breakout as policy center urges SEC to allow pre-IPO markets",
-      "link": "https://coinjournal.net/news/hyperliquid-targets-60-breakout-as-policy-center-urges-sec-to-allow-pre-ipo-markets/",
-      "published_at": "2026-08-19T11:27:55+00:00",
+      "title": "Pi Network tops $0.09 as the broader crypto market rally",
+      "link": "https://coinjournal.net/news/pi-network-tops-0-09-as-the-broader-crypto-market-rally/",
+      "published_at": "2026-08-20T09:01:09+00:00",
       "source": "coinjournal.net",
-      "score": 2,
-      "ntitle": "hyperliquid targets 60 breakout policy center urges sec allow pre ipo markets",
-      "coins": [
-        "HYPE"
-      ],
+      "score": 3,
+      "ntitle": "pi network tops 0 09 broader crypto market rally",
+      "coins": [],
       "sentiment": "bullish",
-      "is_regulation": true,
-      "agency": "SEC"
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "GnosisDAO approves Gnosis Chain for Ethereum Economic Zone",
@@ -1276,56 +1290,94 @@
       "agency": null
     }
   ],
-  "clusters": [],
+  "clusters": [
+    {
+      "id": 1,
+      "title": "Strategy Bitcoin treasury hits breakeven point as BTC price passes $77K",
+      "link": "https://cointelegraph.com/markets/strategy-bitcoin-treasury-hits-breakeven-point-as-btc-price-passes-77k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "published_at": "2026-08-21T08:48:52+00:00",
+      "sentiment": "bullish",
+      "coins": [
+        "BTC"
+      ],
+      "sources": [
+        "news.bitcoin.com",
+        "blockonomi.com",
+        "cointelegraph.com"
+      ],
+      "count": 3,
+      "members": [
+        {
+          "title": "Strategy Sits on $1.4B Bitcoin Profit as BTC Price Surges Past $77K",
+          "link": "https://blockonomi.com/strategy-sits-on-1-4b-bitcoin-profit-as-btc-price-surges-past-77k/",
+          "source": "blockonomi.com",
+          "published_at": "2026-08-21T10:53:56+00:00"
+        },
+        {
+          "title": "$1.2B Wiped out: Bitcoin Squeeze Returns Strategy to Profit",
+          "link": "https://news.bitcoin.com/market-updates/1-2b-wiped-out-bitcoin-squeeze-returns-strategy-to-profit/",
+          "source": "news.bitcoin.com",
+          "published_at": "2026-08-21T10:10:15+00:00"
+        },
+        {
+          "title": "Strategy Bitcoin treasury hits breakeven point as BTC price passes $77K",
+          "link": "https://cointelegraph.com/markets/strategy-bitcoin-treasury-hits-breakeven-point-as-btc-price-passes-77k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "cointelegraph.com",
+          "published_at": "2026-08-21T08:48:52+00:00"
+        }
+      ]
+    }
+  ],
   "trending": [
     {
-      "tag": "#XRP",
-      "count": 59,
-      "type": "coin",
+      "tag": "#Ai",
+      "count": 65,
+      "type": "topic",
       "pct": 100
     },
     {
-      "tag": "#Ai",
-      "count": 59,
-      "type": "topic",
-      "pct": 100
+      "tag": "#XRP",
+      "count": 56,
+      "type": "coin",
+      "pct": 86
     },
     {
       "tag": "#Xrp",
-      "count": 53,
+      "count": 50,
       "type": "topic",
-      "pct": 90
+      "pct": 77
     },
     {
       "tag": "#Defi",
       "count": 30,
       "type": "topic",
-      "pct": 51
+      "pct": 46
     },
     {
       "tag": "#Bitcoin",
-      "count": 23,
+      "count": 25,
       "type": "topic",
-      "pct": 39
+      "pct": 38
     },
     {
       "tag": "#BTC",
-      "count": 22,
+      "count": 21,
       "type": "coin",
-      "pct": 37
+      "pct": 32
     },
     {
       "tag": "#ETH",
-      "count": 14,
+      "count": 12,
       "type": "coin",
-      "pct": 24
+      "pct": 18
     },
     {
       "tag": "#Ethereum",
       "count": 10,
       "type": "topic",
-      "pct": 17
+      "pct": 15
     }
   ],
-  "generated_at": "2026-08-21T10:40:14.138810+00:00"
+  "generated_at": "2026-08-21T11:02:20.651472+00:00"
 }
