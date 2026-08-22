@@ -2,20 +2,6 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "Ethereum’s breakout gains credibility – 3 metrics support ETH’s $3K bid",
-      "link": "https://ambcrypto.com/ethereums-breakout-gains-credibility-3-metrics-support-eths-3k-bid/",
-      "published_at": "2026-08-22T13:00:43+00:00",
-      "source": "ambcrypto.com",
-      "score": 1,
-      "ntitle": "ethereum s breakout gains credibility 3 metrics support eth s 3k bid",
-      "coins": [
-        "ETH"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
       "title": "Bitcoin Price Correction Risk Grows After Rapid $15K BTC Surge",
       "link": "https://blockonomi.com/bitcoin-price-correction-risk-grows-after-rapid-15k-btc-surge/",
       "published_at": "2026-08-22T13:13:17+00:00",
@@ -42,16 +28,16 @@
       "agency": null
     },
     {
-      "title": "Kalshi off-limits in multiple states as prediction markets, CFTC team up for battle",
-      "link": "https://www.coindesk.com/news-analysis/2026/08/21/kalshi-off-limits-in-multiple-states-as-prediction-markets-cftc-team-up-for-battle",
-      "published_at": "2026-08-22T13:30:00+00:00",
+      "title": "Tokenized stocks risk repeating Wall Street’s 1960s ‘paper crisis,’ Fairmint CEO says",
+      "link": "https://www.coindesk.com/tech/2026/08/22/tokenized-stocks-risk-repeating-wall-street-s-1960s-paper-crisis-fairmint-ceo-says",
+      "published_at": "2026-08-22T14:00:00+00:00",
       "source": "coindesk.com",
-      "score": 2,
-      "ntitle": "kalshi off limits multiple states prediction markets cftc team up battle",
+      "score": 6,
+      "ntitle": "tokenized stocks risk repeating wall street s 1960s paper crisis fairmint ceo says",
       "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "CFTC"
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Brian Armstrong: CLARITY Act’s Clear Rules Protect Consumers and Guard Against Government Overreach",
@@ -78,16 +64,16 @@
       "agency": "EU"
     },
     {
-      "title": "Microsoft introduces Agent Lightning v1.0, a framework for training AI agents without breaking their production setup",
-      "link": "https://cryptobriefing.com/microsoft-agent-lightning-agentic-rl/",
-      "published_at": "2026-08-22T13:38:49+00:00",
+      "title": "Anthropic and OpenAI’s combined ARR tops $115B, closing in on Microsoft",
+      "link": "https://cryptobriefing.com/anthropic-openai-arr-115-billion-microsoft/",
+      "published_at": "2026-08-22T14:01:13+00:00",
       "source": "cryptobriefing.com",
-      "score": 6,
-      "ntitle": "microsoft introduces agent lightning v1 0 framework training ai agents without breaking their production setup",
+      "score": 1,
+      "ntitle": "anthropic openai s combined arr tops 115b closing microsoft",
       "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Regulatory"
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Ray Dalio Predicts US Debt Crisis and Backs Bitcoin, Gold Over Bonds",
@@ -156,30 +142,40 @@
       "agency": null
     },
     {
-      "title": "Bitcoin ETFs buy $1.92B this week, largest stash in 10 months",
-      "link": "https://cryptobriefing.com/bitcoin-etfs-buy-2b-largest-10-months/",
-      "published_at": "2026-08-22T13:38:43+00:00",
+      "title": "Kalshi off-limits in multiple states as prediction markets, CFTC team up for battle",
+      "link": "https://www.coindesk.com/news-analysis/2026/08/21/kalshi-off-limits-in-multiple-states-as-prediction-markets-cftc-team-up-for-battle",
+      "published_at": "2026-08-22T13:30:00+00:00",
+      "source": "coindesk.com",
+      "score": 2,
+      "ntitle": "kalshi off limits multiple states prediction markets cftc team up battle",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "CFTC"
+    },
+    {
+      "title": "Microsoft introduces Agent Lightning v1.0, a framework for training AI agents without breaking their production setup",
+      "link": "https://cryptobriefing.com/microsoft-agent-lightning-agentic-rl/",
+      "published_at": "2026-08-22T13:38:49+00:00",
       "source": "cryptobriefing.com",
-      "score": 5,
-      "ntitle": "bitcoin etfs buy 1 92b this week largest stash 10 months",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
+      "score": 6,
+      "ntitle": "microsoft introduces agent lightning v1 0 framework training ai agents without breaking their production setup",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Regulatory"
     }
   ],
   "day": [
     {
-      "title": "Bitcoin jumps 23% amid $4B crypto short squeeze – Is BTC’s bottom in?",
-      "link": "https://ambcrypto.com/bitcoin-jumps-23-amid-4b-crypto-short-squeeze-is-btcs-bottom-in/",
-      "published_at": "2026-08-22T11:00:16+00:00",
+      "title": "Ethereum’s breakout gains credibility – 3 metrics support ETH’s $3K bid",
+      "link": "https://ambcrypto.com/ethereums-breakout-gains-credibility-3-metrics-support-eths-3k-bid/",
+      "published_at": "2026-08-22T13:00:43+00:00",
       "source": "ambcrypto.com",
       "score": 1,
-      "ntitle": "bitcoin jumps 23 amid 4b crypto short squeeze btc s bottom",
+      "ntitle": "ethereum s breakout gains credibility 3 metrics support eth s 3k bid",
       "coins": [
-        "BTC"
+        "ETH"
       ],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -351,12 +347,12 @@
       "agency": null
     },
     {
-      "title": "Team Vision becomes first grand finalist at TI 2026",
-      "link": "https://cryptobriefing.com/team-vision-first-ti-2026-grand-finalist/",
-      "published_at": "2026-08-22T12:47:01+00:00",
+      "title": "Circle Internet Group’s tokenized stocks add $48M in market cap in a single week",
+      "link": "https://cryptobriefing.com/circle-tokenized-stocks-market-cap-growth/",
+      "published_at": "2026-08-22T13:02:41+00:00",
       "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "team vision becomes first grand finalist ti 2026",
+      "score": 6,
+      "ntitle": "circle internet group s tokenized stocks add 48m market cap single week",
       "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -507,16 +503,16 @@
       "agency": null
     },
     {
-      "title": "BounceBit abandons its Layer 1 after 286.5M BB exploit – Why BNB Chain?",
-      "link": "https://ambcrypto.com/bouncebit-abandons-its-layer-1-after-286-5m-bb-exploit-why-bnb-chain/",
-      "published_at": "2026-08-22T09:00:33+00:00",
+      "title": "Bitcoin jumps 23% amid $4B crypto short squeeze – Is BTC’s bottom in?",
+      "link": "https://ambcrypto.com/bitcoin-jumps-23-amid-4b-crypto-short-squeeze-is-btcs-bottom-in/",
+      "published_at": "2026-08-22T11:00:16+00:00",
       "source": "ambcrypto.com",
       "score": 1,
-      "ntitle": "bouncebit abandons layer 1 after 286 5m bb exploit why bnb chain",
+      "ntitle": "bitcoin jumps 23 amid 4b crypto short squeeze btc s bottom",
       "coins": [
-        "BNB"
+        "BTC"
       ],
-      "sentiment": "bearish",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -625,20 +621,6 @@
       "ntitle": "pltr price prediction earnings were otherworldly but 178 wall that matters right now",
       "coins": [],
       "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "NATO member Romania scrambles F-16 fighter jets to destroy drone near critical European gas project",
-      "link": "https://www.cnbc.com/2026/08/21/romania-russia-ukraine-drone-gas-nato.html",
-      "published_at": "2026-08-21T10:15:18+00:00",
-      "source": "cnbc.com",
-      "score": 2,
-      "ntitle": "nato member romania scrambles f 16 fighter jets destroy drone near critical european gas project",
-      "coins": [
-        "NEAR"
-      ],
-      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -813,14 +795,16 @@
       "agency": null
     },
     {
-      "title": "LayerZero has lost a dozen partnerships this year",
-      "link": "https://protos.com/layerzero-has-lost-a-dozen-partnerships-this-year/",
-      "published_at": "2026-08-20T18:36:18+00:00",
+      "title": "Bitcoin short-seller staged a $6 million liquidation",
+      "link": "https://protos.com/bitcoin-short-seller-staged-a-6-million-liquidation/",
+      "published_at": "2026-08-21T13:53:10+00:00",
       "source": "protos.com",
-      "score": 3,
-      "ntitle": "layerzero has lost dozen partnerships this year",
-      "coins": [],
-      "sentiment": "bullish",
+      "score": 1,
+      "ntitle": "bitcoin short seller staged 6 million liquidation",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -962,6 +946,20 @@
       "ntitle": "cardano price prediction 1 9t t rowe adds ada active crypto etf",
       "coins": [
         "ADA"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Pepe price rallies 25% as whale demand and futures interest surge",
+      "link": "https://coinjournal.net/news/pepe-price-rallies-25-as-whale-demand-and-futures-interest-surge/",
+      "published_at": "2026-08-21T08:41:28+00:00",
+      "source": "coinjournal.net",
+      "score": 1,
+      "ntitle": "pepe price rallies 25 whale demand futures interest surge",
+      "coins": [
+        "PEPE"
       ],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -1166,7 +1164,7 @@
   ],
   "clusters": [
     {
-      "id": 7,
+      "id": 6,
       "title": "Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin",
       "link": "https://www.cnbc.com/2026/08/21/ray-dalio-bessent-debt-crisis-bitcoin-gold.html",
       "source": "cnbc.com",
@@ -1176,8 +1174,8 @@
         "BTC"
       ],
       "sources": [
-        "cnbc.com",
         "bitcoinmagazine.com",
+        "cnbc.com",
         "cryptopotato.com"
       ],
       "count": 3,
@@ -1203,7 +1201,7 @@
       ]
     },
     {
-      "id": 1,
+      "id": 0,
       "title": "Bitcoin Price Correction Risk Grows After Rapid $15K BTC Surge",
       "link": "https://blockonomi.com/bitcoin-price-correction-risk-grows-after-rapid-15k-btc-surge/",
       "source": "blockonomi.com",
@@ -1213,8 +1211,8 @@
         "BTC"
       ],
       "sources": [
-        "cryptopotato.com",
-        "blockonomi.com"
+        "blockonomi.com",
+        "cryptopotato.com"
       ],
       "count": 2,
       "members": [
@@ -1236,7 +1234,7 @@
   "trending": [
     {
       "tag": "#Ai",
-      "count": 64,
+      "count": 65,
       "type": "topic",
       "pct": 100
     },
@@ -1244,31 +1242,31 @@
       "tag": "#XRP",
       "count": 60,
       "type": "coin",
-      "pct": 94
+      "pct": 92
     },
     {
       "tag": "#Xrp",
       "count": 56,
       "type": "topic",
-      "pct": 88
+      "pct": 86
     },
     {
       "tag": "#Defi",
       "count": 32,
       "type": "topic",
-      "pct": 50
+      "pct": 49
     },
     {
       "tag": "#Bitcoin",
       "count": 26,
       "type": "topic",
-      "pct": 41
+      "pct": 40
     },
     {
       "tag": "#BTC",
       "count": 24,
       "type": "coin",
-      "pct": 38
+      "pct": 37
     },
     {
       "tag": "#ETH",
@@ -1280,8 +1278,8 @@
       "tag": "#Ethereum",
       "count": 12,
       "type": "topic",
-      "pct": 19
+      "pct": 18
     }
   ],
-  "generated_at": "2026-08-22T13:52:35.536743+00:00"
+  "generated_at": "2026-08-22T14:03:46.329076+00:00"
 }
