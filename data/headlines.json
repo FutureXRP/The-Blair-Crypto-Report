@@ -2,34 +2,6 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "Bitcoin jumps 23% amid $4B crypto short squeeze – Is BTC’s bottom in?",
-      "link": "https://ambcrypto.com/bitcoin-jumps-23-amid-4b-crypto-short-squeeze-is-btcs-bottom-in/",
-      "published_at": "2026-08-22T11:00:16+00:00",
-      "source": "ambcrypto.com",
-      "score": 1,
-      "ntitle": "bitcoin jumps 23 amid 4b crypto short squeeze btc s bottom",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "XRP Price Suffers a Brutal Flash Crash as $1.35 Billion Crypto Liquidation",
-      "link": "https://beincrypto.com/xrp-flash-crash-500-million-liquidated/",
-      "published_at": "2026-08-22T10:59:29+00:00",
-      "source": "beincrypto.com",
-      "score": 6,
-      "ntitle": "xrp price suffers brutal flash crash 1 35 billion crypto liquidation",
-      "coins": [
-        "XRP"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
       "title": "Infleqtion (INFQ) Stock Surges 8% Following Citi’s Price Target Upgrade to $22",
       "link": "https://blockonomi.com/infleqtion-infq-stock-surges-8-following-citis-price-target-upgrade-to-22/",
       "published_at": "2026-08-22T11:20:57+00:00",
@@ -38,6 +10,21 @@
       "ntitle": "infleqtion infq stock surges 8 following citi s price target upgrade 22",
       "coins": [],
       "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto week in 5 stories",
+      "link": "https://www.coindesk.com/business/2026/08/22/bitcoin-and-ether-bears-get-decimated-amid-squeeze-led-rally-and-musk-s-x-wants-to-pay-creators-in-stablecoins-crypto-week-in-5-stories",
+      "published_at": "2026-08-22T12:00:00+00:00",
+      "source": "coindesk.com",
+      "score": 3,
+      "ntitle": "bitcoin ether bears get decimated amid squeeze led rally musk s x wants pay creators stablecoins crypto week 5 stories",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -54,16 +41,16 @@
       "agency": null
     },
     {
-      "title": "Chelsea confirms João Pedro’s contract extension until 2034",
-      "link": "https://cryptobriefing.com/chelsea-joao-pedro-contract-extension-2034/",
-      "published_at": "2026-08-22T11:44:37+00:00",
+      "title": "S&P 500 pulls back amid rising Treasury yields and inflation concerns",
+      "link": "https://cryptobriefing.com/sp500-pullback-treasury-yields-inflation/",
+      "published_at": "2026-08-22T12:07:08+00:00",
       "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "chelsea confirms jo o pedro s contract extension until 2034",
+      "score": 3,
+      "ntitle": "s p 500 pulls back amid rising treasury yields inflation concerns",
       "coins": [],
       "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
+      "is_regulation": true,
+      "agency": "Treasury"
     },
     {
       "title": "TikTok To Pay $400,000,000 To Settle Allegations of Violating Children’s Privacy",
@@ -104,30 +91,30 @@
       "agency": null
     },
     {
-      "title": "Iran’s Basij leader warns against trusting potential US-Iran talks",
-      "link": "https://cryptobriefing.com/irans-basij-leader-warns-against-trusting-potential-us-iran-talks/",
-      "published_at": "2026-08-22T11:44:16+00:00",
+      "title": "Hull City takes early lead against Manchester United with Semi Ajayi goal",
+      "link": "https://cryptobriefing.com/hull-city-ajayi-goal-manchester-united/",
+      "published_at": "2026-08-22T12:05:19+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "iran s basij leader warns against trusting potential us iran talks",
+      "ntitle": "hull city takes early lead against manchester united semi ajayi goal",
       "coins": [],
-      "sentiment": "bearish",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     }
   ],
   "day": [
     {
-      "title": "BounceBit abandons its Layer 1 after 286.5M BB exploit – Why BNB Chain?",
-      "link": "https://ambcrypto.com/bouncebit-abandons-its-layer-1-after-286-5m-bb-exploit-why-bnb-chain/",
-      "published_at": "2026-08-22T09:00:33+00:00",
+      "title": "Bitcoin jumps 23% amid $4B crypto short squeeze – Is BTC’s bottom in?",
+      "link": "https://ambcrypto.com/bitcoin-jumps-23-amid-4b-crypto-short-squeeze-is-btcs-bottom-in/",
+      "published_at": "2026-08-22T11:00:16+00:00",
       "source": "ambcrypto.com",
       "score": 1,
-      "ntitle": "bouncebit abandons layer 1 after 286 5m bb exploit why bnb chain",
+      "ntitle": "bitcoin jumps 23 amid 4b crypto short squeeze btc s bottom",
       "coins": [
-        "BNB"
+        "BTC"
       ],
-      "sentiment": "bearish",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -146,14 +133,16 @@
       "agency": null
     },
     {
-      "title": "Zcash Price Hits 8-Year High as Grayscale ETF Gets Closer",
-      "link": "https://beincrypto.com/zcash-price-8-year-high-grayscale-etf/",
-      "published_at": "2026-08-22T09:17:46+00:00",
+      "title": "XRP Price Suffers a Brutal Flash Crash as $1.35 Billion Crypto Liquidation",
+      "link": "https://beincrypto.com/xrp-flash-crash-500-million-liquidated/",
+      "published_at": "2026-08-22T10:59:29+00:00",
       "source": "beincrypto.com",
-      "score": 5,
-      "ntitle": "zcash price hits 8 year high grayscale etf gets closer",
-      "coins": [],
-      "sentiment": "bullish",
+      "score": 6,
+      "ntitle": "xrp price suffers brutal flash crash 1 35 billion crypto liquidation",
+      "coins": [
+        "XRP"
+      ],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -293,26 +282,26 @@
       "agency": null
     },
     {
-      "title": "NFT sales surge 170% to $95.5M on $55M Pandora trade",
-      "link": "https://crypto.news/nft-sales-surge-170-to-95-5m-on-55m-pandora-trade/",
-      "published_at": "2026-08-22T09:05:43+00:00",
+      "title": "SAND bridge exploit contained after unbacked token mint",
+      "link": "https://crypto.news/sand-bridge-exploit-contained-unbacked-token-mint/",
+      "published_at": "2026-08-22T11:07:41+00:00",
       "source": "crypto.news",
       "score": 1,
-      "ntitle": "nft sales surge 170 95 5m 55m pandora trade",
+      "ntitle": "sand bridge exploit contained after unbacked token mint",
       "coins": [],
-      "sentiment": "bullish",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Gen.G secures top spot in LCK, advances to second playoff round",
-      "link": "https://cryptobriefing.com/geng-secures-top-spot-in-lck-advances-to-second-playoff-round/",
-      "published_at": "2026-08-22T10:52:33+00:00",
+      "title": "Ukrainian drone attack kills one in Russia’s Samara Oblast",
+      "link": "https://cryptobriefing.com/ukrainian-drone-attack-kills-one-in-russias-samara-oblast/",
+      "published_at": "2026-08-22T11:10:33+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "gen g secures top spot lck advances second playoff round",
+      "ntitle": "ukrainian drone attack kills one russia s samara oblast",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -463,16 +452,16 @@
       "agency": null
     },
     {
-      "title": "XRP hits 7-month high despite $109M liquidations — What happens next?",
-      "link": "https://ambcrypto.com/xrp-hits-7-month-high-despite-109m-liquidations-what-happens-next/",
-      "published_at": "2026-08-22T08:00:30+00:00",
+      "title": "BounceBit abandons its Layer 1 after 286.5M BB exploit – Why BNB Chain?",
+      "link": "https://ambcrypto.com/bouncebit-abandons-its-layer-1-after-286-5m-bb-exploit-why-bnb-chain/",
+      "published_at": "2026-08-22T09:00:33+00:00",
       "source": "ambcrypto.com",
-      "score": 8,
-      "ntitle": "xrp hits 7 month high despite 109m liquidations what happens next",
+      "score": 1,
+      "ntitle": "bouncebit abandons layer 1 after 286 5m bb exploit why bnb chain",
       "coins": [
-        "XRP"
+        "BNB"
       ],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -491,12 +480,12 @@
       "agency": null
     },
     {
-      "title": "AI is Making it Easy for Criminals, Especially in Crypto",
-      "link": "https://beincrypto.com/ai-crypto-crime-adoption-trm-labs/",
-      "published_at": "2026-08-22T09:09:01+00:00",
+      "title": "Zcash Price Hits 8-Year High as Grayscale ETF Gets Closer",
+      "link": "https://beincrypto.com/zcash-price-8-year-high-grayscale-etf/",
+      "published_at": "2026-08-22T09:17:46+00:00",
       "source": "beincrypto.com",
-      "score": 1,
-      "ntitle": "ai making it easy criminals especially crypto",
+      "score": 5,
+      "ntitle": "zcash price hits 8 year high grayscale etf gets closer",
       "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -597,16 +586,16 @@
       "agency": null
     },
     {
-      "title": "Analysts split on whether Bitcoin's surge past key levels signals a new bull run",
-      "link": "https://www.coindesk.com/markets/2026/08/21/analysts-split-on-whether-bitcoin-s-surge-past-key-levels-signals-a-new-bull-run",
-      "published_at": "2026-08-21T11:31:30+00:00",
+      "title": "Coldcard ships firmware after $114 million bitcoin theft; says AI helped catch more bugs",
+      "link": "https://www.coindesk.com/tech/2026/08/21/coldcard-ships-firmware-after-usd114-million-bitcoin-theft-says-ai-helped-catch-more-bugs",
+      "published_at": "2026-08-21T12:10:55+00:00",
       "source": "coindesk.com",
       "score": 2,
-      "ntitle": "analysts split whether bitcoin s surge past key levels signals new bull run",
+      "ntitle": "coldcard ships firmware after 114 million bitcoin theft says ai helped catch more bugs",
       "coins": [
         "BTC"
       ],
-      "sentiment": "bullish",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -639,14 +628,16 @@
       "agency": null
     },
     {
-      "title": "Coldcard strengthens seed generation with firmware update",
-      "link": "https://cointelegraph.com/news/coldcard-upgrade-strengthen-seed-phrase-generation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-08-21T10:13:23+00:00",
+      "title": "Standard Chartered wavers on $100K Bitcoin year-end call, says it may be ‘too low’",
+      "link": "https://cointelegraph.com/news/standard-chartered-100k-bitcoin-2026-prediction-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-08-21T11:58:10+00:00",
       "source": "cointelegraph.com",
-      "score": 3,
-      "ntitle": "coldcard strengthens seed generation firmware update",
-      "coins": [],
-      "sentiment": "bearish",
+      "score": 4,
+      "ntitle": "standard chartered wavers 100k bitcoin year end call says it may be too low",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -663,16 +654,16 @@
       "agency": null
     },
     {
-      "title": "ETH Rallied 30% After Sentiment Collapsed: Here’s the Level That Matters Next",
-      "link": "https://cryptopotato.com/eth-rallied-30-after-sentiment-collapsed-heres-the-level-that-matters-next/",
-      "published_at": "2026-08-21T11:37:17+00:00",
+      "title": "MANTRA Freezes Blockchain After Cosmos EVM Incident as Token Hits New Low",
+      "link": "https://cryptopotato.com/mantra-freezes-blockchain-after-cosmos-evm-incident-as-token-hits-new-low/",
+      "published_at": "2026-08-21T12:10:25+00:00",
       "source": "cryptopotato.com",
-      "score": 1,
-      "ntitle": "eth rallied 30 after sentiment collapsed here s level that matters next",
+      "score": 3,
+      "ntitle": "mantra freezes blockchain after cosmos evm incident token hits new low",
       "coins": [
-        "ETH"
+        "ATOM"
       ],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -866,16 +857,18 @@
       "agency": null
     },
     {
-      "title": "The hard truth is that the Clarity Act is an anti-crypto bill",
-      "link": "https://www.coindesk.com/opinion/2026/08/21/the-hard-truth-is-that-the-clarity-act-is-an-anti-crypto-bill",
-      "published_at": "2026-08-21T11:30:00+00:00",
+      "title": "Analysts split on whether Bitcoin's surge past key levels signals a new bull run",
+      "link": "https://www.coindesk.com/markets/2026/08/21/analysts-split-on-whether-bitcoin-s-surge-past-key-levels-signals-a-new-bull-run",
+      "published_at": "2026-08-21T11:31:30+00:00",
       "source": "coindesk.com",
-      "score": 1,
-      "ntitle": "hard truth that clarity act anti crypto bill",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Congress"
+      "score": 2,
+      "ntitle": "analysts split whether bitcoin s surge past key levels signals new bull run",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Ripple XRP Price Explodes 20% As XRPL Lending Protocol Upgrade Advances",
@@ -1106,33 +1099,33 @@
   "trending": [
     {
       "tag": "#Ai",
-      "count": 67,
+      "count": 68,
       "type": "topic",
       "pct": 100
     },
     {
       "tag": "#XRP",
-      "count": 64,
+      "count": 62,
       "type": "coin",
-      "pct": 96
+      "pct": 91
     },
     {
       "tag": "#Xrp",
-      "count": 60,
+      "count": 58,
       "type": "topic",
-      "pct": 90
+      "pct": 85
     },
     {
       "tag": "#Defi",
       "count": 32,
       "type": "topic",
-      "pct": 48
+      "pct": 47
     },
     {
       "tag": "#Bitcoin",
       "count": 28,
       "type": "topic",
-      "pct": 42
+      "pct": 41
     },
     {
       "tag": "#BTC",
@@ -1153,5 +1146,5 @@
       "pct": 18
     }
   ],
-  "generated_at": "2026-08-22T11:55:46.931827+00:00"
+  "generated_at": "2026-08-22T12:12:21.566190+00:00"
 }
