@@ -30,6 +30,30 @@
       "agency": null
     },
     {
+      "title": "The biggest U.S. stocks have done great for you. Experts say not to get greedy",
+      "link": "https://www.cnbc.com/2026/08/22/stocks-market-investments-diversification.html",
+      "published_at": "2026-08-22T13:26:14+00:00",
+      "source": "cnbc.com",
+      "score": 1,
+      "ntitle": "biggest u s stocks have done great you experts say not get greedy",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Kalshi off-limits in multiple states as prediction markets, CFTC team up for battle",
+      "link": "https://www.coindesk.com/news-analysis/2026/08/21/kalshi-off-limits-in-multiple-states-as-prediction-markets-cftc-team-up-for-battle",
+      "published_at": "2026-08-22T13:30:00+00:00",
+      "source": "coindesk.com",
+      "score": 2,
+      "ntitle": "kalshi off limits multiple states prediction markets cftc team up battle",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "CFTC"
+    },
+    {
       "title": "Brian Armstrong: CLARITY Act’s Clear Rules Protect Consumers and Guard Against Government Overreach",
       "link": "https://coingape.com/brian-armstrong-clarity-acts-clear-rules-protect-consumers-and-guard-against-government-overreach/",
       "published_at": "2026-08-22T13:07:25+00:00",
@@ -42,50 +66,103 @@
       "agency": "Congress"
     },
     {
-      "title": "Donald Trump escalates pressure on Iran with new sanctions and blockade",
-      "link": "https://cryptobriefing.com/trump-iran-sanctions-naval-blockade/",
-      "published_at": "2026-08-22T13:19:16+00:00",
-      "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "donald trump escalates pressure iran new sanctions blockade",
+      "title": "MiCA is coming for DeFi vaults, but regulation will be difficult",
+      "link": "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-08-22T13:30:00+00:00",
+      "source": "cointelegraph.com",
+      "score": 5,
+      "ntitle": "mica coming defi vaults but regulation will be difficult",
       "coins": [],
       "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "EU"
+    },
+    {
+      "title": "Microsoft introduces Agent Lightning v1.0, a framework for training AI agents without breaking their production setup",
+      "link": "https://cryptobriefing.com/microsoft-agent-lightning-agentic-rl/",
+      "published_at": "2026-08-22T13:38:49+00:00",
+      "source": "cryptobriefing.com",
+      "score": 6,
+      "ntitle": "microsoft introduces agent lightning v1 0 framework training ai agents without breaking their production setup",
+      "coins": [],
+      "sentiment": "neutral",
       "is_regulation": true,
       "agency": "Regulatory"
     },
     {
-      "title": "GensynAI’s Jeff Amico Says RWA Investors May Lack Creditor Rights",
-      "link": "https://news.bitcoin.com/interview/gensynais-jeff-amico-says-rwa-investors-may-lack-creditor-rights/",
-      "published_at": "2026-08-22T12:30:32+00:00",
-      "source": "news.bitcoin.com",
-      "score": 9,
-      "ntitle": "gensynai s jeff amico says rwa investors may lack creditor rights",
+      "title": "Ray Dalio Predicts US Debt Crisis and Backs Bitcoin, Gold Over Bonds",
+      "link": "https://cryptopotato.com/ray-dalio-predicts-us-debt-crisis-and-backs-bitcoin-gold-over-bonds/",
+      "published_at": "2026-08-22T13:49:02+00:00",
+      "source": "cryptopotato.com",
+      "score": 1,
+      "ntitle": "ray dalio predicts us debt crisis backs bitcoin gold over bonds",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "SEC proposes a path for crypto projects to raise $75 million and later end the token’s securities contract",
+      "link": "https://cryptoslate.com/sec-proposes-a-path-for-crypto-projects-to-raise-75-million-and-later-end-the-tokens-securities-contract/",
+      "published_at": "2026-08-22T13:45:53+00:00",
+      "source": "cryptoslate.com",
+      "score": 4,
+      "ntitle": "sec proposes path crypto projects raise 75 million later end token s securities contract",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "A Third of the Post-ChatGPT Web Is AI-Written, Pew Finds",
+      "link": "https://decrypt.co/376271/chatgpt-web-ai-written-pew",
+      "published_at": "2026-08-22T13:31:03+00:00",
+      "source": "decrypt.co",
+      "score": 1,
+      "ntitle": "third post chatgpt web ai written pew finds",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Crypto market sees $500B crash, then $110B drop amid volatility",
-      "link": "https://cryptobriefing.com/crypto-market-500b-surge-110b-drop-volatility/",
-      "published_at": "2026-08-22T13:19:12+00:00",
-      "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "crypto market sees 500b crash then 110b drop amid volatility",
-      "coins": [],
-      "sentiment": "bearish",
+      "title": "Bitcoin Jumps $10,000 in a Week as Shorts Lose $3 Billion",
+      "link": "https://news.bitcoin.com/crypto-news/bitcoin-jumps-10000-week-shorts-lose-2-7-billion/",
+      "published_at": "2026-08-22T13:30:37+00:00",
+      "source": "news.bitcoin.com",
+      "score": 3,
+      "ntitle": "bitcoin jumps 10 000 week shorts lose 3 billion",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Zcash, Bitcoin Cash, Cardano Rally as ZEC Leads With a 47% Surge",
-      "link": "https://news.bitcoin.com/crypto-news/zcash-leads-altcoin-rally-zec-surges-47-percent/",
-      "published_at": "2026-08-22T12:30:19+00:00",
-      "source": "news.bitcoin.com",
-      "score": 5,
-      "ntitle": "zcash bitcoin cash cardano rally zec leads 47 surge",
+      "title": "XRP More Likely to Hit $1.70 This August as 58% Rally Shifts Sentiment on Kalshi",
+      "link": "https://u.today/xrp-more-likely-to-hit-170-this-august-as-58-rally-shifts-sentiment-on-kalshi",
+      "published_at": "2026-08-22T13:35:13+00:00",
+      "source": "u.today",
+      "score": 7,
+      "ntitle": "xrp more likely hit 1 70 this august 58 rally shifts sentiment kalshi",
       "coins": [
-        "ADA",
+        "XRP"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Bitcoin ETFs buy $1.92B this week, largest stash in 10 months",
+      "link": "https://cryptobriefing.com/bitcoin-etfs-buy-2b-largest-10-months/",
+      "published_at": "2026-08-22T13:38:43+00:00",
+      "source": "cryptobriefing.com",
+      "score": 5,
+      "ntitle": "bitcoin etfs buy 1 92b this week largest stash 10 months",
+      "coins": [
         "BTC"
       ],
       "sentiment": "bullish",
@@ -274,14 +351,14 @@
       "agency": null
     },
     {
-      "title": "Lucas Vazquez scores to double Bayer Leverkusen’s lead",
-      "link": "https://cryptobriefing.com/lucas-vazquez-bayer-leverkusen-goal/",
-      "published_at": "2026-08-22T12:26:45+00:00",
+      "title": "Team Vision becomes first grand finalist at TI 2026",
+      "link": "https://cryptobriefing.com/team-vision-first-ti-2026-grand-finalist/",
+      "published_at": "2026-08-22T12:47:01+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "lucas vazquez scores double bayer leverkusen s lead",
+      "ntitle": "team vision becomes first grand finalist ti 2026",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -352,14 +429,14 @@
       "agency": "Treasury"
     },
     {
-      "title": "Beyond the Kimchi Premium: Korea’s Institutional Shift",
-      "link": "https://news.bitcoin.com/interview/beyond-the-kimchi-premium-koreas-institutional-shift/",
-      "published_at": "2026-08-22T10:30:33+00:00",
+      "title": "GensynAI’s Jeff Amico Says RWA Investors May Lack Creditor Rights",
+      "link": "https://news.bitcoin.com/interview/gensynais-jeff-amico-says-rwa-investors-may-lack-creditor-rights/",
+      "published_at": "2026-08-22T12:30:32+00:00",
       "source": "news.bitcoin.com",
-      "score": 5,
-      "ntitle": "beyond kimchi premium korea s institutional shift",
+      "score": 9,
+      "ntitle": "gensynai s jeff amico says rwa investors may lack creditor rights",
       "coins": [],
-      "sentiment": "bullish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -618,28 +695,30 @@
       "agency": null
     },
     {
-      "title": "Laser Digital gets Japan’s first crypto exchange approval in 4 years",
-      "link": "https://cointelegraph.com/news/nomuras-laser-digital-japans-first-crypto-exchange-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-08-21T13:08:12+00:00",
+      "title": "Solana cuts blockchain slot time to 350 milliseconds",
+      "link": "https://cointelegraph.com/news/solana-cuts-blockchain-slot-time-350-milliseconds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-08-21T13:45:13+00:00",
       "source": "cointelegraph.com",
-      "score": 5,
-      "ntitle": "laser digital gets japan s first crypto exchange approval 4 years",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": true,
-      "agency": "Regulatory"
+      "score": 1,
+      "ntitle": "solana cuts blockchain slot time 350 milliseconds",
+      "coins": [
+        "SOL"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
     },
     {
-      "title": "XRP price breaks months-long downtrend with $1.50 in sight",
-      "link": "https://crypto.news/xrp-price-breaks-months-long-downtrend-with-1-50-sight/",
-      "published_at": "2026-08-21T12:30:00+00:00",
+      "title": "Ethena price jumps 65% as Arthur Hayes backs breakout",
+      "link": "https://crypto.news/ethena-price-jumps-65-as-arthur-hayes-backs-breakout/",
+      "published_at": "2026-08-21T13:30:00+00:00",
       "source": "crypto.news",
-      "score": 6,
-      "ntitle": "xrp price breaks months long downtrend 1 50 sight",
+      "score": 1,
+      "ntitle": "ethena price jumps 65 arthur hayes backs breakout",
       "coins": [
-        "XRP"
+        "ENA"
       ],
-      "sentiment": "neutral",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -720,6 +799,20 @@
       "agency": null
     },
     {
+      "title": "Upbit Volume Jumps 273% As Bitcoin Rally Pulls Korean Traders Back In",
+      "link": "https://www.newsbtc.com/news/upbit-volume-jumps-273-bitcoin-rally-korean-traders/",
+      "published_at": "2026-08-21T13:45:00+00:00",
+      "source": "newsbtc.com",
+      "score": 1,
+      "ntitle": "upbit volume jumps 273 bitcoin rally pulls korean traders back",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
       "title": "LayerZero has lost a dozen partnerships this year",
       "link": "https://protos.com/layerzero-has-lost-a-dozen-partnerships-this-year/",
       "published_at": "2026-08-20T18:36:18+00:00",
@@ -758,17 +851,17 @@
       "agency": null
     },
     {
-      "title": "Strategy's $1 Billion Bitcoin Comeback vs. XRP's 'Black Friday' Ceiling: Main Crypto News This Morning",
-      "link": "https://u.today/strategys-1-billion-bitcoin-comeback-vs-xrps-black-friday-ceiling-main-crypto-news-this-morning",
-      "published_at": "2026-08-21T13:13:15+00:00",
+      "title": "Ethereum Flips XRP Ledger in RLUSD Supply: What Changed?",
+      "link": "https://u.today/ethereum-flips-xrp-ledger-in-rlusd-supply-what-changed",
+      "published_at": "2026-08-21T13:30:00+00:00",
       "source": "u.today",
-      "score": 9,
-      "ntitle": "strategy s 1 billion bitcoin comeback vs xrp s black friday ceiling main crypto news this morning",
+      "score": 8,
+      "ntitle": "ethereum flips xrp ledger rlusd supply what changed",
       "coins": [
-        "BTC",
+        "ETH",
         "XRP"
       ],
-      "sentiment": "bullish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -869,20 +962,6 @@
       "ntitle": "cardano price prediction 1 9t t rowe adds ada active crypto etf",
       "coins": [
         "ADA"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Pepe price rallies 25% as whale demand and futures interest surge",
-      "link": "https://coinjournal.net/news/pepe-price-rallies-25-as-whale-demand-and-futures-interest-surge/",
-      "published_at": "2026-08-21T08:41:28+00:00",
-      "source": "coinjournal.net",
-      "score": 1,
-      "ntitle": "pepe price rallies 25 whale demand futures interest surge",
-      "coins": [
-        "PEPE"
       ],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -1087,6 +1166,43 @@
   ],
   "clusters": [
     {
+      "id": 7,
+      "title": "Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin",
+      "link": "https://www.cnbc.com/2026/08/21/ray-dalio-bessent-debt-crisis-bitcoin-gold.html",
+      "source": "cnbc.com",
+      "published_at": "2026-08-21T20:19:21+00:00",
+      "sentiment": "neutral",
+      "coins": [
+        "BTC"
+      ],
+      "sources": [
+        "cnbc.com",
+        "bitcoinmagazine.com",
+        "cryptopotato.com"
+      ],
+      "count": 3,
+      "members": [
+        {
+          "title": "Ray Dalio Predicts US Debt Crisis and Backs Bitcoin, Gold Over Bonds",
+          "link": "https://cryptopotato.com/ray-dalio-predicts-us-debt-crisis-and-backs-bitcoin-gold-over-bonds/",
+          "source": "cryptopotato.com",
+          "published_at": "2026-08-22T13:49:02+00:00"
+        },
+        {
+          "title": "Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin",
+          "link": "https://www.cnbc.com/2026/08/21/ray-dalio-bessent-debt-crisis-bitcoin-gold.html",
+          "source": "cnbc.com",
+          "published_at": "2026-08-21T20:19:21+00:00"
+        },
+        {
+          "title": "Legendary Investor Ray Dalio Touts Bitcoin — With Gold — To Hedge Against Incoming Debt Crisis",
+          "link": "https://bitcoinmagazine.com/news/ray-dalio-touts-bitcoin",
+          "source": "bitcoinmagazine.com",
+          "published_at": "2026-08-21T20:14:52+00:00"
+        }
+      ]
+    },
+    {
       "id": 1,
       "title": "Bitcoin Price Correction Risk Grows After Rapid $15K BTC Surge",
       "link": "https://blockonomi.com/bitcoin-price-correction-risk-grows-after-rapid-15k-btc-surge/",
@@ -1097,8 +1213,8 @@
         "BTC"
       ],
       "sources": [
-        "blockonomi.com",
-        "cryptopotato.com"
+        "cryptopotato.com",
+        "blockonomi.com"
       ],
       "count": 2,
       "members": [
@@ -1115,42 +1231,12 @@
           "published_at": "2026-08-22T12:14:10+00:00"
         }
       ]
-    },
-    {
-      "id": 14,
-      "title": "Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin",
-      "link": "https://www.cnbc.com/2026/08/21/ray-dalio-bessent-debt-crisis-bitcoin-gold.html",
-      "source": "cnbc.com",
-      "published_at": "2026-08-21T20:19:21+00:00",
-      "sentiment": "neutral",
-      "coins": [
-        "BTC"
-      ],
-      "sources": [
-        "cnbc.com",
-        "bitcoinmagazine.com"
-      ],
-      "count": 2,
-      "members": [
-        {
-          "title": "Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin",
-          "link": "https://www.cnbc.com/2026/08/21/ray-dalio-bessent-debt-crisis-bitcoin-gold.html",
-          "source": "cnbc.com",
-          "published_at": "2026-08-21T20:19:21+00:00"
-        },
-        {
-          "title": "Legendary Investor Ray Dalio Touts Bitcoin — With Gold — To Hedge Against Incoming Debt Crisis",
-          "link": "https://bitcoinmagazine.com/news/ray-dalio-touts-bitcoin",
-          "source": "bitcoinmagazine.com",
-          "published_at": "2026-08-21T20:14:52+00:00"
-        }
-      ]
     }
   ],
   "trending": [
     {
       "tag": "#Ai",
-      "count": 65,
+      "count": 64,
       "type": "topic",
       "pct": 100
     },
@@ -1158,29 +1244,29 @@
       "tag": "#XRP",
       "count": 60,
       "type": "coin",
-      "pct": 92
+      "pct": 94
     },
     {
       "tag": "#Xrp",
       "count": 56,
       "type": "topic",
-      "pct": 86
+      "pct": 88
     },
     {
       "tag": "#Defi",
       "count": 32,
       "type": "topic",
-      "pct": 49
+      "pct": 50
     },
     {
       "tag": "#Bitcoin",
-      "count": 28,
+      "count": 26,
       "type": "topic",
-      "pct": 43
+      "pct": 41
     },
     {
       "tag": "#BTC",
-      "count": 25,
+      "count": 24,
       "type": "coin",
       "pct": 38
     },
@@ -1194,8 +1280,8 @@
       "tag": "#Ethereum",
       "count": 12,
       "type": "topic",
-      "pct": 18
+      "pct": 19
     }
   ],
-  "generated_at": "2026-08-22T13:29:42.264159+00:00"
+  "generated_at": "2026-08-22T13:52:35.536743+00:00"
 }
