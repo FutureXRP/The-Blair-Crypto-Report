@@ -2,40 +2,83 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "Paramount, California AG office reportedly plan to meet Monday to discuss settling WBD lawsuit",
-      "link": "https://www.cnbc.com/2026/08/22/paramount-california-ag-said-to-plan-meeting-on-settling-wbd-suit-.html",
-      "published_at": "2026-08-23T17:30:14+00:00",
-      "source": "cnbc.com",
-      "score": 4,
-      "ntitle": "paramount california ag office reportedly plan meet monday discuss settling wbd lawsuit",
+      "title": "Zcash price reclaims $800 amid ETF hype – Can ZEC hold its rally?",
+      "link": "https://ambcrypto.com/zcash-price-reclaims-800-amid-etf-hype-can-zec-hold-its-rally/",
+      "published_at": "2026-08-23T18:00:23+00:00",
+      "source": "ambcrypto.com",
+      "score": 3,
+      "ntitle": "zcash price reclaims 800 amid etf hype can zec hold rally",
+      "coins": [
+        "HYPE"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Regulation Crypto is here: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/08/23/regulation-crypto-is-here-state-of-crypto",
+      "published_at": "2026-08-23T18:30:00+00:00",
+      "source": "coindesk.com",
+      "score": 3,
+      "ntitle": "regulation crypto here state crypto",
       "coins": [],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
       "is_regulation": true,
       "agency": "Regulatory"
     },
     {
-      "title": "China buys 40 tonnes of gold in June, second-largest since early 2025",
-      "link": "https://cryptobriefing.com/china-buys-40-tonnes-of-gold-in-june-second-largest-since-early-2025/",
-      "published_at": "2026-08-23T17:58:01+00:00",
+      "title": "Central bankers fear dollar-based stablecoins threaten monetary sovereignty",
+      "link": "https://cryptobriefing.com/central-bankers-stablecoins-monetary-sovereignty/",
+      "published_at": "2026-08-23T18:15:32+00:00",
       "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "china buys 40 tonnes gold june second largest since early 2025",
+      "score": 3,
+      "ntitle": "central bankers fear dollar based stablecoins threaten monetary sovereignty",
       "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Bitcoin miner IPO demands 99.8% of funds from public buyers while handing them just 10% equity",
+      "link": "https://cryptoslate.com/bitcoin-miner-ipo-demands-99-8-of-funds-from-public-buyers-while-handing-them-just-10-equity/",
+      "published_at": "2026-08-23T18:05:40+00:00",
+      "source": "cryptoslate.com",
+      "score": 2,
+      "ntitle": "bitcoin miner ipo demands 99 8 funds public buyers while handing them just 10 equity",
+      "coins": [
+        "BTC"
+      ],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "US House Speaker Johnson expects new phase in Iran conflict with allied support",
-      "link": "https://cryptobriefing.com/us-house-speaker-johnson-expects-new-phase-in-iran-conflict-with-allied-support/",
-      "published_at": "2026-08-23T17:52:12+00:00",
-      "source": "cryptobriefing.com",
+      "title": "Bitcoin Mining Hits a Crossroads as Difficulty Hovers Near the Floor",
+      "link": "https://news.bitcoin.com/mining/bitcoin-mining-hits-a-crossroads-as-difficulty-hovers-near-the-floor/",
+      "published_at": "2026-08-23T18:05:06+00:00",
+      "source": "news.bitcoin.com",
       "score": 1,
-      "ntitle": "us house speaker johnson expects new phase iran conflict allied support",
-      "coins": [],
+      "ntitle": "bitcoin mining hits crossroads difficulty hovers near floor",
+      "coins": [
+        "BTC",
+        "NEAR"
+      ],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
+    },
+    {
+      "title": "Trump administration urged to boost sanctions on Russia amid Ukraine conflict",
+      "link": "https://cryptobriefing.com/trump-administration-urged-to-boost-sanctions-on-russia-amid-ukraine-conflict/",
+      "published_at": "2026-08-23T18:07:40+00:00",
+      "source": "cryptobriefing.com",
+      "score": 1,
+      "ntitle": "trump administration urged boost sanctions russia amid ukraine conflict",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Regulatory"
     }
   ],
   "day": [
@@ -92,16 +135,16 @@
       "agency": null
     },
     {
-      "title": "Equal-weight S&P 500 is leading the 2026 market and its flagship trade just hit $100 billion",
-      "link": "https://www.cnbc.com/2026/08/23/stocks-market-investing-sp500-spx.html",
-      "published_at": "2026-08-23T13:00:01+00:00",
+      "title": "Paramount, California AG office reportedly plan to meet Monday to discuss settling WBD lawsuit",
+      "link": "https://www.cnbc.com/2026/08/22/paramount-california-ag-said-to-plan-meeting-on-settling-wbd-suit-.html",
+      "published_at": "2026-08-23T17:30:14+00:00",
       "source": "cnbc.com",
       "score": 4,
-      "ntitle": "equal weight s p 500 leading 2026 market flagship trade just hit 100 billion",
+      "ntitle": "paramount california ag office reportedly plan meet monday discuss settling wbd lawsuit",
       "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "Regulatory"
     },
     {
       "title": "Laser Digital becomes Japan’s first new crypto exchange operator in 4 yrs",
@@ -168,16 +211,16 @@
       "agency": null
     },
     {
-      "title": "Federal Reserve owns over 50% of bonds maturing in 10 to 15 years",
-      "link": "https://cryptobriefing.com/fed-owns-majority-10-15-year-bonds/",
-      "published_at": "2026-08-23T16:55:44+00:00",
+      "title": "Canada to impose retaliatory tariffs on US goods after trade talks collapse",
+      "link": "https://cryptobriefing.com/canada-to-impose-retaliatory-tariffs-on-us-goods-after-trade-talks-collapse/",
+      "published_at": "2026-08-23T17:33:11+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "federal reserve owns over 50 bonds maturing 10 15 years",
+      "ntitle": "canada impose retaliatory tariffs us goods after trade talks collapse",
       "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Fed"
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Ripple ETFs See Best Week Since May as XRP Exploded to 7-Month High",
@@ -339,14 +382,14 @@
       "agency": null
     },
     {
-      "title": "Small UK power generator shut down after cyberattack linked to Iran: Telegraph",
-      "link": "https://www.cnbc.com/2026/08/23/small-uk-power-plant-shut-down-after-iran-linked-cyberattack-report.html",
-      "published_at": "2026-08-23T12:46:01+00:00",
+      "title": "Equal-weight S&P 500 is leading the 2026 market and its flagship trade just hit $100 billion",
+      "link": "https://www.cnbc.com/2026/08/23/stocks-market-investing-sp500-spx.html",
+      "published_at": "2026-08-23T13:00:01+00:00",
       "source": "cnbc.com",
-      "score": 3,
-      "ntitle": "small uk power generator shut down after cyberattack linked iran telegraph",
+      "score": 4,
+      "ntitle": "equal weight s p 500 leading 2026 market flagship trade just hit 100 billion",
       "coins": [],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -358,20 +401,6 @@
       "score": 2,
       "ntitle": "crypto card spending tops 1 billion stablecoins move into everyday purchases",
       "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Bitcoin Whale Dumps 7,700 Coins as BTC Targets to Break $80K Wall",
-      "link": "https://coingape.com/bitcoin-whale-dumps-7700-coins-as-btc-targets-to-break-80k-wall/",
-      "published_at": "2026-08-22T18:26:57+00:00",
-      "source": "coingape.com",
-      "score": 1,
-      "ntitle": "bitcoin whale dumps 7 700 coins btc targets break 80k wall",
-      "coins": [
-        "BTC"
-      ],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
@@ -389,15 +418,13 @@
       "agency": null
     },
     {
-      "title": "Ripple’s XRP enabled for FedNow payments via Volante integration",
-      "link": "https://cryptobriefing.com/xrp-fednow-volante-integration/",
-      "published_at": "2026-08-23T16:51:15+00:00",
+      "title": "Pershing Square deploys $3.3B across Visa, Mastercard, and S&P Global in fintech buying spree",
+      "link": "https://cryptobriefing.com/pershing-square-invests-visa-mastercard-sp-global/",
+      "published_at": "2026-08-23T17:28:41+00:00",
       "source": "cryptobriefing.com",
-      "score": 12,
-      "ntitle": "ripple s xrp enabled fednow payments via volante integration",
-      "coins": [
-        "XRP"
-      ],
+      "score": 2,
+      "ntitle": "pershing square deploys 3 3b across visa mastercard s p global fintech buying spree",
+      "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
@@ -423,6 +450,18 @@
       "ntitle": "how 20m crypto payout left micro cap firm under 83k usable cash reserves",
       "coins": [],
       "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Fraudsters Steal $5,900 From North Carolina Woman in Bank Impersonation Scam",
+      "link": "https://dailyhodl.com/2026/08/23/fraudsters-steal-5900-from-north-carolina-woman-in-bank-impersonation-scam/",
+      "published_at": "2026-08-23T14:30:52+00:00",
+      "source": "dailyhodl.com",
+      "score": 3,
+      "ntitle": "fraudsters steal 5 900 north carolina woman bank impersonation scam",
+      "coins": [],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     }
@@ -451,6 +490,21 @@
         "BTC"
       ],
       "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Bitcoin and Ethereum ETFs Score Biggest Week Since October with $2.3 Billion",
+      "link": "https://beincrypto.com/bitcoin-ethereum-etf-inflows-october-high/",
+      "published_at": "2026-08-22T18:32:04+00:00",
+      "source": "beincrypto.com",
+      "score": 3,
+      "ntitle": "bitcoin ethereum etfs score biggest week since october 2 3 billion",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -533,16 +587,18 @@
       "agency": null
     },
     {
-      "title": "Brian Armstrong: CLARITY Act’s Clear Rules Protect Consumers and Guard Against Government Overreach",
-      "link": "https://coingape.com/brian-armstrong-clarity-acts-clear-rules-protect-consumers-and-guard-against-government-overreach/",
-      "published_at": "2026-08-22T13:07:25+00:00",
+      "title": "Bitcoin Whale Dumps 7,700 Coins as BTC Targets to Break $80K Wall",
+      "link": "https://coingape.com/bitcoin-whale-dumps-7700-coins-as-btc-targets-to-break-80k-wall/",
+      "published_at": "2026-08-22T18:26:57+00:00",
       "source": "coingape.com",
-      "score": 2,
-      "ntitle": "brian armstrong clarity act s clear rules protect consumers guard against government overreach",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": true,
-      "agency": "Congress"
+      "score": 1,
+      "ntitle": "bitcoin whale dumps 7 700 coins btc targets break 80k wall",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "MiCA is coming for DeFi vaults, but regulation will be difficult",
@@ -800,18 +856,6 @@
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
-    },
-    {
-      "title": "South Korean Lawmakers push to give FIU direct probe powers over crypto violations: Report",
-      "link": "https://coincodecap.com/south-korean-lawmakers-push-to-give-fiu-direct-probe-powers-over-crypto-violations-report?utm_source=rss&utm_medium=rss&utm_campaign=south-korean-lawmakers-push-to-give-fiu-direct-probe-powers-over-crypto-violations-report",
-      "published_at": "2026-08-21T08:35:55+00:00",
-      "source": "coincodecap.com",
-      "score": 2,
-      "ntitle": "south korean lawmakers push give fiu direct probe powers over crypto violations report",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
     }
   ],
   "month": [
@@ -1012,7 +1056,7 @@
   ],
   "clusters": [
     {
-      "id": 12,
+      "id": 15,
       "title": "Michael Saylor Defines Bitcoin’s ‘Most Profound Breakthrough’",
       "link": "https://news.bitcoin.com/featured/michael-saylor-defines-bitcoins-most-profound-breakthrough/",
       "source": "news.bitcoin.com",
@@ -1022,8 +1066,8 @@
         "BTC"
       ],
       "sources": [
-        "news.bitcoin.com",
-        "crypto.news"
+        "crypto.news",
+        "news.bitcoin.com"
       ],
       "count": 2,
       "members": [
@@ -1087,10 +1131,10 @@
     },
     {
       "tag": "#Rwa",
-      "count": 12,
+      "count": 11,
       "type": "topic",
-      "pct": 17
+      "pct": 16
     }
   ],
-  "generated_at": "2026-08-23T18:02:06.602364+00:00"
+  "generated_at": "2026-08-23T18:33:45.536637+00:00"
 }
