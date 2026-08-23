@@ -2,28 +2,16 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "Bitcoin survives a $500M flush – Is a historic short squeeze next?",
-      "link": "https://ambcrypto.com/bitcoin-survives-a-500m-flush-is-a-historic-short-squeeze-next/",
-      "published_at": "2026-08-23T16:00:57+00:00",
+      "title": "Ethereum DeFi takes another hit – Term Finance governance attack drains $8.5M",
+      "link": "https://ambcrypto.com/ethereum-defi-takes-another-hit-term-finance-governance-attack-drains-8-5m/",
+      "published_at": "2026-08-23T17:00:54+00:00",
       "source": "ambcrypto.com",
-      "score": 1,
-      "ntitle": "bitcoin survives 500m flush historic short squeeze next",
+      "score": 3,
+      "ntitle": "ethereum defi takes another hit term finance governance attack drains 8 5m",
       "coins": [
-        "BTC"
+        "ETH"
       ],
       "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Donald Trump Sold MicroStrategy and Bought Two Other Crypto Stocks",
-      "link": "https://beincrypto.com/trump-june-trades-crypto-disclosure-filing/",
-      "published_at": "2026-08-23T16:02:52+00:00",
-      "source": "beincrypto.com",
-      "score": 1,
-      "ntitle": "donald trump sold microstrategy bought two other crypto stocks",
-      "coins": [],
-      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -42,16 +30,16 @@
       "agency": null
     },
     {
-      "title": "Federal Reserve owns over 50% of bonds maturing in 10 to 15 years",
-      "link": "https://cryptobriefing.com/fed-owns-majority-10-15-year-bonds/",
-      "published_at": "2026-08-23T16:55:44+00:00",
+      "title": "Iran dismisses new US sanctions threat as ‘desperate’ effort",
+      "link": "https://cryptobriefing.com/iran-dismisses-new-us-sanctions-threat-as-desperate-effort/",
+      "published_at": "2026-08-23T17:12:06+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "federal reserve owns over 50 bonds maturing 10 15 years",
+      "ntitle": "iran dismisses new us sanctions threat desperate effort",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "is_regulation": true,
-      "agency": "Fed"
+      "agency": "Regulatory"
     },
     {
       "title": "Ripple ETFs See Best Week Since May as XRP Exploded to 7-Month High",
@@ -64,6 +52,33 @@
         "XRP"
       ],
       "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Pakistan gives crypto platforms a September 5 deadline to comply or leave",
+      "link": "https://cryptoslate.com/pakistan-gives-crypto-platforms-a-september-5-deadline-to-comply-or-leave/",
+      "published_at": "2026-08-23T17:00:05+00:00",
+      "source": "cryptoslate.com",
+      "score": 1,
+      "ntitle": "pakistan gives crypto platforms september 5 deadline comply or leave",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Crypto Analyst Unveils Upside Price Target for Ethereum, Hints at Next Bitcoin Move",
+      "link": "https://dailyhodl.com/2026/08/23/crypto-analyst-unveils-upside-price-target-for-ethereum-hints-at-next-bitcoin-move/",
+      "published_at": "2026-08-23T16:55:39+00:00",
+      "source": "dailyhodl.com",
+      "score": 4,
+      "ntitle": "crypto analyst unveils upside price target ethereum hints next bitcoin move",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -94,40 +109,52 @@
       "agency": null
     },
     {
-      "title": "Ripple’s XRP enabled for FedNow payments via Volante integration",
-      "link": "https://cryptobriefing.com/xrp-fednow-volante-integration/",
-      "published_at": "2026-08-23T16:51:15+00:00",
+      "title": "Federal Reserve owns over 50% of bonds maturing in 10 to 15 years",
+      "link": "https://cryptobriefing.com/fed-owns-majority-10-15-year-bonds/",
+      "published_at": "2026-08-23T16:55:44+00:00",
       "source": "cryptobriefing.com",
-      "score": 12,
-      "ntitle": "ripple s xrp enabled fednow payments via volante integration",
-      "coins": [
-        "XRP"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
+      "score": 1,
+      "ntitle": "federal reserve owns over 50 bonds maturing 10 15 years",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Fed"
     }
   ],
   "day": [
     {
-      "title": "OriginTrail hits June highs after 15% surge – Will TRAC extend its rally?",
-      "link": "https://ambcrypto.com/origintrail-hits-june-highs-after-15-surge-will-trac-extend-its-rally/",
-      "published_at": "2026-08-23T14:00:00+00:00",
+      "title": "Bitcoin survives a $500M flush – Is a historic short squeeze next?",
+      "link": "https://ambcrypto.com/bitcoin-survives-a-500m-flush-is-a-historic-short-squeeze-next/",
+      "published_at": "2026-08-23T16:00:57+00:00",
       "source": "ambcrypto.com",
       "score": 1,
-      "ntitle": "origintrail hits june highs after 15 surge will trac extend rally",
-      "coins": [],
-      "sentiment": "bullish",
+      "ntitle": "bitcoin survives 500m flush historic short squeeze next",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Alibaba Launches Record $10 Billion Share Sale to Enter the AI Race",
-      "link": "https://beincrypto.com/alibaba-10-billion-share-sale-ai/",
-      "published_at": "2026-08-23T14:08:50+00:00",
+      "title": "Donald Trump Sold MicroStrategy and Bought Two Other Crypto Stocks",
+      "link": "https://beincrypto.com/trump-june-trades-crypto-disclosure-filing/",
+      "published_at": "2026-08-23T16:02:52+00:00",
       "source": "beincrypto.com",
-      "score": 3,
-      "ntitle": "alibaba launches record 10 billion share sale enter ai race",
+      "score": 1,
+      "ntitle": "donald trump sold microstrategy bought two other crypto stocks",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "PLTR Price Prediction: Momentum Has Stalled at $180 — A Flush to $172 Is the High-Probability Play Before Bulls Reload",
+      "link": "https://Blockchain.News/news/20260823-price-prediction-pltr-momentum-has-stalled-at-180-a",
+      "published_at": "2026-08-23T10:41:17+00:00",
+      "source": "blockchain.news",
+      "score": 2,
+      "ntitle": "pltr price prediction momentum has stalled 180 flush 172 high probability play before bulls reload",
       "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -224,16 +251,16 @@
       "agency": null
     },
     {
-      "title": "Neel Kashkari downplays concerns over rising US Treasury yields",
-      "link": "https://cryptobriefing.com/kashkari-downplays-treasury-yield-concerns/",
-      "published_at": "2026-08-23T15:57:19+00:00",
+      "title": "Commerzbank chair calls for review of German takeover rules after UniCredit bid",
+      "link": "https://cryptobriefing.com/commerzbank-german-takeover-rules-unicredit-bid/",
+      "published_at": "2026-08-23T16:07:20+00:00",
       "source": "cryptobriefing.com",
       "score": 3,
-      "ntitle": "neel kashkari downplays concerns over rising us treasury yields",
+      "ntitle": "commerzbank chair calls review german takeover rules after unicredit bid",
       "coins": [],
       "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Treasury"
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Crypto Market Went From ‘Frozen’ to Chaos in Days: What Is Really Happening?",
@@ -336,28 +363,38 @@
       "agency": null
     },
     {
-      "title": "Chainlink: Will a $2.3M whale transfer put LINK’s price rally at risk?",
-      "link": "https://ambcrypto.com/chainlink-will-a-2-3m-whale-transfer-put-links-price-rally-at-risk/",
-      "published_at": "2026-08-23T13:00:05+00:00",
+      "title": "OriginTrail hits June highs after 15% surge – Will TRAC extend its rally?",
+      "link": "https://ambcrypto.com/origintrail-hits-june-highs-after-15-surge-will-trac-extend-its-rally/",
+      "published_at": "2026-08-23T14:00:00+00:00",
       "source": "ambcrypto.com",
-      "score": 8,
-      "ntitle": "chainlink will 2 3m whale transfer put link s price rally risk",
-      "coins": [
-        "LINK"
-      ],
+      "score": 1,
+      "ntitle": "origintrail hits june highs after 15 surge will trac extend rally",
+      "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Another DeFi Hack: Term Labs Loses $8.5 Million in Governance Exploit",
-      "link": "https://beincrypto.com/term-labs-defi-exploit-vaults/",
-      "published_at": "2026-08-23T12:35:36+00:00",
+      "title": "Alibaba Launches Record $10 Billion Share Sale to Enter the AI Race",
+      "link": "https://beincrypto.com/alibaba-10-billion-share-sale-ai/",
+      "published_at": "2026-08-23T14:08:50+00:00",
       "source": "beincrypto.com",
       "score": 3,
-      "ntitle": "another defi hack term labs loses 8 5 million governance exploit",
+      "ntitle": "alibaba launches record 10 billion share sale enter ai race",
       "coins": [],
-      "sentiment": "bearish",
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "HOOD Price Prediction: Tokenization Supercycle Meets Technical Ceiling — $120 or Bust Within 30 Days",
+      "link": "https://Blockchain.News/news/20260823-price-prediction-hood-tokenization-supercycle-meets-technical-ceiling-120",
+      "published_at": "2026-08-23T10:35:57+00:00",
+      "source": "blockchain.news",
+      "score": 6,
+      "ntitle": "hood price prediction tokenization supercycle meets technical ceiling 120 or bust within 30 days",
+      "coins": [],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -424,16 +461,18 @@
       "agency": null
     },
     {
-      "title": "Team Spirit advances in Esports World Cup 2026 after sh1ro’s clutch play",
-      "link": "https://cryptobriefing.com/team-spirit-advances-in-esports-world-cup-2026-after-sh1ros-clutch-play/",
-      "published_at": "2026-08-23T15:56:04+00:00",
+      "title": "XRP poised for biggest weekly gain in 21 months as Treasury buyback boosts sentiment",
+      "link": "https://cryptobriefing.com/xrp-weekly-gain-treasury-buyback/",
+      "published_at": "2026-08-23T16:00:50+00:00",
       "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "team spirit advances esports world cup 2026 after sh1ro s clutch play",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
+      "score": 9,
+      "ntitle": "xrp poised biggest weekly gain 21 months treasury buyback boosts sentiment",
+      "coins": [
+        "XRP"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": true,
+      "agency": "Treasury"
     },
     {
       "title": "XRP Bulls Face One Final Test After the Surge – And This Level Will Decide Ripple’s Fate",
@@ -462,30 +501,6 @@
       "sentiment": "bullish",
       "is_regulation": true,
       "agency": "Regulatory"
-    },
-    {
-      "title": "Bank of America and Ernst & Young To Hand Out $2,500,000 To Settle Accusations of Failing To Protect Customers From MOVEit Data Breach",
-      "link": "https://dailyhodl.com/2026/08/23/bank-of-america-and-ernst-young-to-hand-out-2500000-to-settle-accusations-of-failing-to-protect-customers-from-moveit-data-breach/",
-      "published_at": "2026-08-23T11:45:43+00:00",
-      "source": "dailyhodl.com",
-      "score": 7,
-      "ntitle": "bank america ernst young hand out 2 500 000 settle accusations failing protect customers moveit data breach",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
-      "link": "https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code",
-      "published_at": "2026-08-22T17:31:03+00:00",
-      "source": "decrypt.co",
-      "score": 2,
-      "ntitle": "microsoft fixes perfect 10 exploit that could have let hackers run code remotely",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
     }
   ],
   "week": [
@@ -632,14 +647,14 @@
       "agency": null
     },
     {
-      "title": "Bitcoin Price Analysis: BTC’s 25% Rally Faces Its First Serious Threat",
-      "link": "https://cryptopotato.com/bitcoin-price-analysis-btcs-25-rally-faces-its-first-serious-threat/",
-      "published_at": "2026-08-22T16:55:22+00:00",
+      "title": "Ripple Price Analysis: Major Breakout Confirmed – How High Can XRP Go?",
+      "link": "https://cryptopotato.com/ripple-price-analysis-major-breakout-confirmed-how-high-can-xrp-go/",
+      "published_at": "2026-08-22T17:10:46+00:00",
       "source": "cryptopotato.com",
-      "score": 1,
-      "ntitle": "bitcoin price analysis btc s 25 rally faces first serious threat",
+      "score": 8,
+      "ntitle": "ripple price analysis major breakout confirmed how high can xrp go",
       "coins": [
-        "BTC"
+        "XRP"
       ],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -748,16 +763,14 @@
       "agency": "SEC"
     },
     {
-      "title": "Solana Activates 350-Millisecond Slots on Mainnet",
-      "link": "https://thedefiant.io/news/blockchains/solana-activates-350-millisecond-slots-on-mainnet",
-      "published_at": "2026-08-21T22:09:27+00:00",
+      "title": "The Sandbox Says It Contained Bridge Exploit That Minted Unbacked SAND on Base and BSC",
+      "link": "https://thedefiant.io/news/hacks/the-sandbox-says-it-contained-bridge-exploit-that-minted-unbacked-sand-on-base-and-bsc",
+      "published_at": "2026-08-22T17:08:34+00:00",
       "source": "thedefiant.io",
-      "score": 5,
-      "ntitle": "solana activates 350 millisecond slots mainnet",
-      "coins": [
-        "SOL"
-      ],
-      "sentiment": "neutral",
+      "score": 2,
+      "ntitle": "sandbox says it contained bridge exploit that minted unbacked sand base bsc",
+      "coins": [],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -1079,7 +1092,7 @@
   ],
   "clusters": [
     {
-      "id": 6,
+      "id": 7,
       "title": "Michael Saylor Defines Bitcoin’s ‘Most Profound Breakthrough’",
       "link": "https://news.bitcoin.com/featured/michael-saylor-defines-bitcoins-most-profound-breakthrough/",
       "source": "news.bitcoin.com",
@@ -1109,30 +1122,32 @@
       ]
     },
     {
-      "id": 26,
-      "title": "Another DeFi Hack: Term Labs Loses $8.5 Million in Governance Exploit",
-      "link": "https://beincrypto.com/term-labs-defi-exploit-vaults/",
-      "source": "beincrypto.com",
-      "published_at": "2026-08-23T12:35:36+00:00",
-      "sentiment": "bearish",
-      "coins": [],
+      "id": 15,
+      "title": "XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes",
+      "link": "https://www.coindesk.com/markets/2026/08/23/xrp-on-track-for-biggest-weekly-gain-in-21-months-as-treasury-buyback-spurs-curve-control-hopes",
+      "source": "coindesk.com",
+      "published_at": "2026-08-23T15:52:21+00:00",
+      "sentiment": "bullish",
+      "coins": [
+        "XRP"
+      ],
       "sources": [
-        "blockonomi.com",
-        "beincrypto.com"
+        "cryptobriefing.com",
+        "coindesk.com"
       ],
       "count": 2,
       "members": [
         {
-          "title": "Another DeFi Hack: Term Labs Loses $8.5 Million in Governance Exploit",
-          "link": "https://beincrypto.com/term-labs-defi-exploit-vaults/",
-          "source": "beincrypto.com",
-          "published_at": "2026-08-23T12:35:36+00:00"
+          "title": "XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes",
+          "link": "https://www.coindesk.com/markets/2026/08/23/xrp-on-track-for-biggest-weekly-gain-in-21-months-as-treasury-buyback-spurs-curve-control-hopes",
+          "source": "coindesk.com",
+          "published_at": "2026-08-23T15:52:21+00:00"
         },
         {
-          "title": "Term Labs Loses $8.5M in Governance Exploit as Vault Security Faces Scrutiny",
-          "link": "https://blockonomi.com/term-labs-loses-8-5m-in-governance-exploit-as-vault-security-faces-scrutiny/",
-          "source": "blockonomi.com",
-          "published_at": "2026-08-23T14:22:54+00:00"
+          "title": "XRP poised for biggest weekly gain in 21 months as Treasury buyback boosts sentiment",
+          "link": "https://cryptobriefing.com/xrp-weekly-gain-treasury-buyback/",
+          "source": "cryptobriefing.com",
+          "published_at": "2026-08-23T16:00:50+00:00"
         }
       ]
     }
@@ -1140,7 +1155,7 @@
   "trending": [
     {
       "tag": "#Ai",
-      "count": 75,
+      "count": 77,
       "type": "topic",
       "pct": 100
     },
@@ -1148,25 +1163,25 @@
       "tag": "#XRP",
       "count": 66,
       "type": "coin",
-      "pct": 88
+      "pct": 86
     },
     {
       "tag": "#Xrp",
       "count": 65,
       "type": "topic",
-      "pct": 87
+      "pct": 84
     },
     {
       "tag": "#Defi",
       "count": 31,
       "type": "topic",
-      "pct": 41
+      "pct": 40
     },
     {
       "tag": "#BTC",
       "count": 21,
       "type": "coin",
-      "pct": 28
+      "pct": 27
     },
     {
       "tag": "#Bitcoin",
@@ -1176,9 +1191,9 @@
     },
     {
       "tag": "#ETH",
-      "count": 15,
+      "count": 16,
       "type": "coin",
-      "pct": 20
+      "pct": 21
     },
     {
       "tag": "#Rwa",
@@ -1187,5 +1202,5 @@
       "pct": 16
     }
   ],
-  "generated_at": "2026-08-23T16:58:20.542451+00:00"
+  "generated_at": "2026-08-23T17:16:05.748734+00:00"
 }
