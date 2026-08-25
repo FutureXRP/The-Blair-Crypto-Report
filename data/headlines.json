@@ -2,30 +2,41 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "Dogecoin is up 33%, and somehow it’s not even the biggest winner!",
-      "link": "https://ambcrypto.com/dogecoin-is-up-33-and-somehow-its-not-even-the-biggest-winner/",
-      "published_at": "2026-08-25T03:35:47+00:00",
+      "title": "Litecoin’s price refuses to slow down DESPITE Binance’s latest delisting — Details",
+      "link": "https://ambcrypto.com/litecoins-price-refuses-to-slow-down-despite-binances-latest-delisting-details/",
+      "published_at": "2026-08-25T04:30:21+00:00",
       "source": "ambcrypto.com",
-      "score": 1,
-      "ntitle": "dogecoin up 33 somehow it s not even biggest winner",
+      "score": 4,
+      "ntitle": "litecoin s price refuses slow down despite binance s latest delisting details",
       "coins": [
-        "DOGE"
+        "BNB",
+        "LTC"
       ],
-      "sentiment": "bullish",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Bitcoin Tops $81,000 as Gold Notches Its Best Month Since 1999",
-      "link": "https://beincrypto.com/bitcoin-gold-best-month-since-1999/",
-      "published_at": "2026-08-25T03:33:32+00:00",
+      "title": "Kylie Jenner's X Account Reportedly Hacked to Push Meme Coin That Crashed 68%",
+      "link": "https://beincrypto.com/kylie-jenner-x-account-hack-meme-coin/",
+      "published_at": "2026-08-25T04:13:14+00:00",
       "source": "beincrypto.com",
       "score": 1,
-      "ntitle": "bitcoin tops 81 000 gold notches best month since 1999",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "neutral",
+      "ntitle": "kylie jenner s x account reportedly hacked push meme coin that crashed 68",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Xpeng shares sink as weak delivery forecast overshadows $6.3 billion robot unit valuation",
+      "link": "https://www.cnbc.com/2026/08/25/xpeng-shares-robot-valuation-china.html",
+      "published_at": "2026-08-25T04:49:18+00:00",
+      "source": "cnbc.com",
+      "score": 2,
+      "ntitle": "xpeng shares sink weak delivery forecast overshadows 6 3 billion robot unit valuation",
+      "coins": [],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -44,120 +55,90 @@
       "agency": null
     },
     {
-      "title": "Stablecoin ID rules should exclude P2P transfers: Blockchain Association",
-      "link": "https://crypto.news/stablecoin-id-rules-should-exclude-p2p-transfers/",
-      "published_at": "2026-08-25T04:07:30+00:00",
+      "title": "CFTC clashes with U.S. soldier over $400K Polymarket bet",
+      "link": "https://crypto.news/cftc-clashes-with-us-soldier-over-400k-polymarket-bet/",
+      "published_at": "2026-08-25T04:49:27+00:00",
       "source": "crypto.news",
       "score": 1,
-      "ntitle": "stablecoin id rules should exclude p2p transfers blockchain association",
+      "ntitle": "cftc clashes u s soldier over 400k polymarket bet",
       "coins": [],
       "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
+      "is_regulation": true,
+      "agency": "CFTC"
     },
     {
-      "title": "WikiHow sues OpenAI for scraping over 11,000 articles without permission",
-      "link": "https://cryptobriefing.com/wikihow-sues-openai-scraping-articles-copyright/",
-      "published_at": "2026-08-25T04:06:34+00:00",
+      "title": "BHP, Woodside Energy profits soar on high commodity prices",
+      "link": "https://cryptobriefing.com/bhp-woodside-energy-profits-soar-on-high-commodity-prices/",
+      "published_at": "2026-08-25T04:30:09+00:00",
       "source": "cryptobriefing.com",
-      "score": 3,
-      "ntitle": "wikihow sues openai scraping over 11 000 articles without permission",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "$5,000 Ethereum? Analyst Identifies the Levels That Could Decide ETH’s Next Move",
-      "link": "https://cryptopotato.com/5000-ethereum-analyst-identifies-the-levels-that-could-decide-eths-next-move/",
-      "published_at": "2026-08-25T03:47:22+00:00",
-      "source": "cryptopotato.com",
-      "score": 2,
-      "ntitle": "5 000 ethereum analyst identifies levels that could decide eth s next move",
-      "coins": [
-        "ETH"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Ethereum proposal would cut 33,800 ETH issuance and break every deployed Altair light client",
-      "link": "https://cryptoslate.com/ethereum-proposal-would-cut-33800-eth-issuance-and-break-every-deployed-altair-light-client/",
-      "published_at": "2026-08-25T03:40:43+00:00",
-      "source": "cryptoslate.com",
-      "score": 4,
-      "ntitle": "ethereum proposal would cut 33 800 eth issuance break every deployed altair light client",
-      "coins": [
-        "ETH"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Coinbase Tokenized Stocks Go Live for Eligible Non-US Users",
-      "link": "https://news.bitcoin.com/exchanges/coinbase-tokenized-stocks-go-live-for-eligible-non-us-users/",
-      "published_at": "2026-08-25T03:45:15+00:00",
-      "source": "news.bitcoin.com",
-      "score": 13,
-      "ntitle": "coinbase tokenized stocks go live eligible non us users",
+      "score": 1,
+      "ntitle": "bhp woodside energy profits soar high commodity prices",
       "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Bitwise’s Gordon Grant Says Treasury Volatility Is Fueling Bitcoin’s $80K Run",
-      "link": "https://unchainedcrypto.com/bitwises-gordon-grant-says-treasury-volatility-is-fueling-bitcoins-80k-run/",
-      "published_at": "2026-08-25T03:34:35+00:00",
-      "source": "unchainedcrypto.com",
-      "score": 3,
-      "ntitle": "bitwise s gordon grant says treasury volatility fueling bitcoin s 80k run",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Treasury"
-    },
-    {
-      "title": "Cosmos EVM chains told to halt after security incident",
-      "link": "https://crypto.news/cosmos-evm-chains-told-to-halt-after-security-incident/",
-      "published_at": "2026-08-25T03:48:16+00:00",
-      "source": "crypto.news",
+      "title": "Anthropic Co-Founder Ben Mann Says Elite Schools Matter Less in the AI Era",
+      "link": "https://news.bitcoin.com/technology/anthropic-co-founder-ben-mann-says-elite-schools-matter-less-in-the-ai-era-49201/",
+      "published_at": "2026-08-25T04:30:08+00:00",
+      "source": "news.bitcoin.com",
       "score": 1,
-      "ntitle": "cosmos evm chains told halt after security incident",
-      "coins": [
-        "ATOM"
-      ],
-      "sentiment": "neutral",
+      "ntitle": "anthropic co founder ben mann says elite schools matter less ai era",
+      "coins": [],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Trump targets Iran economy after destroying military, nuclear sites",
-      "link": "https://cryptobriefing.com/trump-targets-iran-economy-after-destroying-military-nuclear-sites/",
-      "published_at": "2026-08-25T03:59:07+00:00",
+      "title": "Bitcoin surges past $80,000 as crypto rally gathers pace",
+      "link": "https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html",
+      "published_at": "2026-08-25T04:38:30+00:00",
+      "source": "cnbc.com",
+      "score": 3,
+      "ntitle": "bitcoin surges past 80 000 crypto rally gathers pace",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Standard Chartered becomes first bank to offer HKDAP",
+      "link": "https://crypto.news/standard-chartered-becomes-first-bank-to-offer-hkdap/",
+      "published_at": "2026-08-25T04:15:29+00:00",
+      "source": "crypto.news",
+      "score": 7,
+      "ntitle": "standard chartered becomes first bank offer hkdap",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Ibrahima Konate records most touches in La Liga debut for Real Madrid",
+      "link": "https://cryptobriefing.com/konate-most-touches-la-liga-debut-real-madrid/",
+      "published_at": "2026-08-25T04:23:14+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "trump targets iran economy after destroying military nuclear sites",
+      "ntitle": "ibrahima konate records most touches la liga debut real madrid",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     }
   ],
   "day": [
     {
-      "title": "AAVE’s 11% rally meets $145.55 resistance – $180 breakout or rejection?",
-      "link": "https://ambcrypto.com/aaves-11-rally-meets-145-55-resistance-180-breakout-or-rejection/",
-      "published_at": "2026-08-25T03:00:51+00:00",
+      "title": "Dogecoin is up 33%, and somehow it’s not even the biggest winner!",
+      "link": "https://ambcrypto.com/dogecoin-is-up-33-and-somehow-its-not-even-the-biggest-winner/",
+      "published_at": "2026-08-25T03:35:47+00:00",
       "source": "ambcrypto.com",
       "score": 1,
-      "ntitle": "aave s 11 rally meets 145 55 resistance 180 breakout or rejection",
+      "ntitle": "dogecoin up 33 somehow it s not even biggest winner",
       "coins": [
-        "AAVE"
+        "DOGE"
       ],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -176,16 +157,16 @@
       "agency": null
     },
     {
-      "title": "Big Investors Admit Bitcoin Rally Signals Capital Fleeing an Overheated AI Trade",
-      "link": "https://beincrypto.com/bitcoin-rally-ai-trade-rotation/",
-      "published_at": "2026-08-25T03:05:00+00:00",
+      "title": "Bitcoin Tops $81,000 as Gold Notches Its Best Month Since 1999",
+      "link": "https://beincrypto.com/bitcoin-gold-best-month-since-1999/",
+      "published_at": "2026-08-25T03:33:32+00:00",
       "source": "beincrypto.com",
-      "score": 2,
-      "ntitle": "big investors admit bitcoin rally signals capital fleeing overheated ai trade",
+      "score": 1,
+      "ntitle": "bitcoin tops 81 000 gold notches best month since 1999",
       "coins": [
         "BTC"
       ],
-      "sentiment": "bullish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -230,16 +211,14 @@
       "agency": null
     },
     {
-      "title": "Bitcoin jumps 3%, closing in on $80,000 as rally gathers pace",
-      "link": "https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html",
-      "published_at": "2026-08-25T03:05:12+00:00",
+      "title": "Main Street Sports sues Comcast, Charter for underpaid licensing fees",
+      "link": "https://www.cnbc.com/2026/08/24/main-street-sports-comcast-charter-lawsuit-payments.html",
+      "published_at": "2026-08-24T23:48:50+00:00",
       "source": "cnbc.com",
-      "score": 3,
-      "ntitle": "bitcoin jumps 3 closing 80 000 rally gathers pace",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bullish",
+      "score": 1,
+      "ntitle": "main street sports sues comcast charter underpaid licensing fees",
+      "coins": [],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -311,54 +290,58 @@
       "agency": null
     },
     {
-      "title": "Super League secures $2.3M through first ATM offering",
-      "link": "https://crypto.news/super-league-secures-2-3m-through-first-atm-offering/",
-      "published_at": "2026-08-24T21:49:22+00:00",
+      "title": "Cosmos EVM chains told to halt after security incident",
+      "link": "https://crypto.news/cosmos-evm-chains-told-to-halt-after-security-incident/",
+      "published_at": "2026-08-25T03:48:16+00:00",
       "source": "crypto.news",
-      "score": 3,
-      "ntitle": "super league secures 2 3m through first atm offering",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Morgan Stanley and Schroders back $750M Blackbird fundraise tied to Canva’s $42B empire",
-      "link": "https://cryptobriefing.com/morgan-stanley-schroders-blackbird-750m-fundraise/",
-      "published_at": "2026-08-25T02:51:34+00:00",
-      "source": "cryptobriefing.com",
-      "score": 2,
-      "ntitle": "morgan stanley schroders back 750m blackbird fundraise tied canva s 42b empire",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Top Shiba Inu Price Predictions as SHIB Soars 22% in a Week",
-      "link": "https://cryptopotato.com/top-shiba-inu-price-predictions-as-shib-soars-22-in-a-week/",
-      "published_at": "2026-08-24T22:25:05+00:00",
-      "source": "cryptopotato.com",
       "score": 1,
-      "ntitle": "top shiba inu price predictions shib soars 22 week",
+      "ntitle": "cosmos evm chains told halt after security incident",
       "coins": [
-        "SHIB"
+        "ATOM"
       ],
-      "sentiment": "bullish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "FalconX asks SEC to bring single-stock perpetuals from DeFi under swap rules",
-      "link": "https://cryptoslate.com/falconx-asks-sec-to-bring-single-stock-perpetuals-from-defi-under-swap-rules/",
-      "published_at": "2026-08-25T02:30:17+00:00",
-      "source": "cryptoslate.com",
-      "score": 5,
-      "ntitle": "falconx asks sec bring single stock perpetuals defi under swap rules",
+      "title": "Pakistan reports “significant progress” in Tehran talks on US-Iran conflict",
+      "link": "https://cryptobriefing.com/pakistan-iran-conflict-talks-progress/",
+      "published_at": "2026-08-25T03:51:36+00:00",
+      "source": "cryptobriefing.com",
+      "score": 1,
+      "ntitle": "pakistan reports significant progress tehran talks us iran conflict",
       "coins": [],
       "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "SEC"
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "$5,000 Ethereum? Analyst Identifies the Levels That Could Decide ETH’s Next Move",
+      "link": "https://cryptopotato.com/5000-ethereum-analyst-identifies-the-levels-that-could-decide-eths-next-move/",
+      "published_at": "2026-08-25T03:47:22+00:00",
+      "source": "cryptopotato.com",
+      "score": 2,
+      "ntitle": "5 000 ethereum analyst identifies levels that could decide eth s next move",
+      "coins": [
+        "ETH"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Ethereum proposal would cut 33,800 ETH issuance and break every deployed Altair light client",
+      "link": "https://cryptoslate.com/ethereum-proposal-would-cut-33800-eth-issuance-and-break-every-deployed-altair-light-client/",
+      "published_at": "2026-08-25T03:40:43+00:00",
+      "source": "cryptoslate.com",
+      "score": 4,
+      "ntitle": "ethereum proposal would cut 33 800 eth issuance break every deployed altair light client",
+      "coins": [
+        "ETH"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "‘Operation Economic Outcast’: New Wave of White House Sanctions Against Iran Targets Crypto Assets, Tech, Gold, Aviation and Shipping",
@@ -413,14 +396,14 @@
       "agency": null
     },
     {
-      "title": "$40 Trillion US Debt Spiral Threatens Global Markets, CEO Warns",
-      "link": "https://news.bitcoin.com/featured/40-trillion-us-debt-spiral-threatens-global-markets-ceo-warns/",
-      "published_at": "2026-08-25T03:05:55+00:00",
+      "title": "Coinbase Tokenized Stocks Go Live for Eligible Non-US Users",
+      "link": "https://news.bitcoin.com/exchanges/coinbase-tokenized-stocks-go-live-for-eligible-non-us-users/",
+      "published_at": "2026-08-25T03:45:15+00:00",
       "source": "news.bitcoin.com",
-      "score": 1,
-      "ntitle": "40 trillion us debt spiral threatens global markets ceo warns",
+      "score": 13,
+      "ntitle": "coinbase tokenized stocks go live eligible non us users",
       "coins": [],
-      "sentiment": "bearish",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -479,28 +462,30 @@
       "agency": null
     },
     {
-      "title": "Coldcard’s New Firmware Forces Dice Rolls and Coin Flips After $114 Million Seed Failure",
-      "link": "https://unchainedcrypto.com/coldcards-new-firmware-forces-dice-rolls-and-coin-flips-after-114-million-seed-failure/",
-      "published_at": "2026-08-24T09:14:47+00:00",
+      "title": "Bitwise’s Gordon Grant Says Treasury Volatility Is Fueling Bitcoin’s $80K Run",
+      "link": "https://unchainedcrypto.com/bitwises-gordon-grant-says-treasury-volatility-is-fueling-bitcoins-80k-run/",
+      "published_at": "2026-08-25T03:34:35+00:00",
       "source": "unchainedcrypto.com",
-      "score": 2,
-      "ntitle": "coldcard s new firmware forces dice rolls coin flips after 114 million seed failure",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Binance Coin: Can a $8.5M whale position keep BNB above $700?",
-      "link": "https://ambcrypto.com/binance-coin-can-a-8-5m-whale-position-keep-bnb-above-700/",
-      "published_at": "2026-08-25T01:00:37+00:00",
-      "source": "ambcrypto.com",
-      "score": 1,
-      "ntitle": "binance coin can 8 5m whale position keep bnb above 700",
+      "score": 3,
+      "ntitle": "bitwise s gordon grant says treasury volatility fueling bitcoin s 80k run",
       "coins": [
-        "BNB"
+        "BTC"
       ],
       "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Treasury"
+    },
+    {
+      "title": "AAVE’s 11% rally meets $145.55 resistance – $180 breakout or rejection?",
+      "link": "https://ambcrypto.com/aaves-11-rally-meets-145-55-resistance-180-breakout-or-rejection/",
+      "published_at": "2026-08-25T03:00:51+00:00",
+      "source": "ambcrypto.com",
+      "score": 1,
+      "ntitle": "aave s 11 rally meets 145 55 resistance 180 breakout or rejection",
+      "coins": [
+        "AAVE"
+      ],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -519,14 +504,16 @@
       "agency": null
     },
     {
-      "title": "Banxa Wants to Make Stablecoin Payments Invisible",
-      "link": "https://beincrypto.com/banxa-stablecoin-payments-checkout-problem/",
-      "published_at": "2026-08-25T02:14:10+00:00",
+      "title": "Big Investors Admit Bitcoin Rally Signals Capital Fleeing an Overheated AI Trade",
+      "link": "https://beincrypto.com/bitcoin-rally-ai-trade-rotation/",
+      "published_at": "2026-08-25T03:05:00+00:00",
       "source": "beincrypto.com",
-      "score": 1,
-      "ntitle": "banxa wants make stablecoin payments invisible",
-      "coins": [],
-      "sentiment": "neutral",
+      "score": 2,
+      "ntitle": "big investors admit bitcoin rally signals capital fleeing overheated ai trade",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -613,16 +600,16 @@
       "agency": null
     },
     {
-      "title": "Regulation Crypto is here: State of Crypto",
-      "link": "https://www.coindesk.com/policy/2026/08/23/regulation-crypto-is-here-state-of-crypto",
-      "published_at": "2026-08-23T18:30:00+00:00",
+      "title": "Stablecoin neobank Fasset lands $1 billion valuation as SBI backs its payments push",
+      "link": "https://www.coindesk.com/business/2026/08/22/stablecoin-neobank-fasset-lands-usd1-billion-valuation-as-sbi-backs-its-payments-push",
+      "published_at": "2026-08-24T04:45:00+00:00",
       "source": "coindesk.com",
-      "score": 3,
-      "ntitle": "regulation crypto here state crypto",
+      "score": 4,
+      "ntitle": "stablecoin neobank fasset lands 1 billion valuation sbi backs payments push",
       "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Regulatory"
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Flowra launches Open Orderflow Auction for Solana blockspace",
@@ -848,18 +835,16 @@
       "agency": null
     },
     {
-      "title": "XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes",
-      "link": "https://www.coindesk.com/markets/2026/08/23/xrp-on-track-for-biggest-weekly-gain-in-21-months-as-treasury-buyback-spurs-curve-control-hopes",
-      "published_at": "2026-08-23T15:52:21+00:00",
+      "title": "Crypto holds big weekly rally as Warsh’s Jackson Hole debut comes into focus",
+      "link": "https://www.coindesk.com/markets/2026/08/24/crypto-holds-big-weekly-rally-as-warsh-s-jackson-hole-debut-comes-into-focus",
+      "published_at": "2026-08-24T04:41:28+00:00",
       "source": "coindesk.com",
-      "score": 9,
-      "ntitle": "xrp track biggest weekly gain 21 months treasury buyback spurs curve control hopes",
-      "coins": [
-        "XRP"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": true,
-      "agency": "Treasury"
+      "score": 1,
+      "ntitle": "crypto holds big weekly rally warsh s jackson hole debut comes into focus",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Pepe price rallies 25% as whale demand and futures interest surge",
@@ -1136,7 +1121,37 @@
   ],
   "clusters": [
     {
-      "id": 18,
+      "id": 7,
+      "title": "Bitcoin surges past $80,000 as crypto rally gathers pace",
+      "link": "https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html",
+      "source": "cnbc.com",
+      "published_at": "2026-08-25T04:38:30+00:00",
+      "sentiment": "bullish",
+      "coins": [
+        "BTC"
+      ],
+      "sources": [
+        "coindesk.com",
+        "cnbc.com"
+      ],
+      "count": 2,
+      "members": [
+        {
+          "title": "Bitcoin surges past $80,000 as crypto rally gathers pace",
+          "link": "https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html",
+          "source": "cnbc.com",
+          "published_at": "2026-08-25T04:38:30+00:00"
+        },
+        {
+          "title": "Bitcoin hits $80,000 for the first time since May as crypto recovery accelerates",
+          "link": "https://www.coindesk.com/markets/2026/08/24/bitcoin-hits-usd80-000-for-the-first-time-since-may-as-crypto-recovery-accelerates",
+          "source": "coindesk.com",
+          "published_at": "2026-08-25T00:55:32+00:00"
+        }
+      ]
+    },
+    {
+      "id": 17,
       "title": "Korean bank taps Ripple for payments, Pakistan opens crypto licensing: Asia Express",
       "link": "https://cointelegraph.com/magazine/korean-bank-to-use-ripple-payments-japans-first-exchange-in-4-years-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "cointelegraph.com",
@@ -1146,8 +1161,8 @@
         "XRP"
       ],
       "sources": [
-        "cointelegraph.com",
-        "coincodecap.com"
+        "coincodecap.com",
+        "cointelegraph.com"
       ],
       "count": 2,
       "members": [
@@ -1164,42 +1179,12 @@
           "published_at": "2026-08-25T02:03:55+00:00"
         }
       ]
-    },
-    {
-      "id": 19,
-      "title": "Bitcoin hits $80,000 for the first time since May as crypto recovery accelerates",
-      "link": "https://www.coindesk.com/markets/2026/08/24/bitcoin-hits-usd80-000-for-the-first-time-since-may-as-crypto-recovery-accelerates",
-      "source": "coindesk.com",
-      "published_at": "2026-08-25T00:55:32+00:00",
-      "sentiment": "bullish",
-      "coins": [
-        "BTC"
-      ],
-      "sources": [
-        "coindesk.com",
-        "investing.com"
-      ],
-      "count": 2,
-      "members": [
-        {
-          "title": "Bitcoin hits $80,000 for the first time since May as crypto recovery accelerates",
-          "link": "https://www.coindesk.com/markets/2026/08/24/bitcoin-hits-usd80-000-for-the-first-time-since-may-as-crypto-recovery-accelerates",
-          "source": "coindesk.com",
-          "published_at": "2026-08-25T00:55:32+00:00"
-        },
-        {
-          "title": "Bitcoin eyes $80k for first time since mid-May after best week in over three years",
-          "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-above-77k-after-regulatory-hopes-fuel-strong-rebound-4872711",
-          "source": "investing.com",
-          "published_at": "2026-08-24T21:49:10+00:00"
-        }
-      ]
     }
   ],
   "trending": [
     {
       "tag": "#Ai",
-      "count": 62,
+      "count": 63,
       "type": "topic",
       "pct": 100
     },
@@ -1207,19 +1192,19 @@
       "tag": "#XRP",
       "count": 52,
       "type": "coin",
-      "pct": 84
+      "pct": 83
     },
     {
       "tag": "#Xrp",
       "count": 50,
       "type": "topic",
-      "pct": 81
+      "pct": 79
     },
     {
       "tag": "#Defi",
       "count": 34,
       "type": "topic",
-      "pct": 55
+      "pct": 54
     },
     {
       "tag": "#Bitcoin",
@@ -1231,20 +1216,20 @@
       "tag": "#BTC",
       "count": 24,
       "type": "coin",
-      "pct": 39
+      "pct": 38
     },
     {
       "tag": "#ETH",
       "count": 14,
       "type": "coin",
-      "pct": 23
+      "pct": 22
     },
     {
       "tag": "#Rwa",
       "count": 14,
       "type": "topic",
-      "pct": 23
+      "pct": 22
     }
   ],
-  "generated_at": "2026-08-25T04:10:24.049723+00:00"
+  "generated_at": "2026-08-25T04:51:42.104059+00:00"
 }
