@@ -1,5 +1,23 @@
 [
   {
+    "title": "AI agent misreads hacker message, proposes DNS changes without approval",
+    "link": "https://cryptobriefing.com/ai-agent-ghostjacking-dns-attack/",
+    "source": "cryptobriefing.com",
+    "published_at": "2026-08-26T16:20:00+00:00",
+    "agency": "Regulatory",
+    "sentiment": "neutral",
+    "coins": []
+  },
+  {
+    "title": "SEC sends crypto custody rule overhaul to White House for review",
+    "link": "https://cointelegraph.com/news/sec-crypto-custody-rules-investment-firms-white-house?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "cointelegraph.com",
+    "published_at": "2026-08-26T16:19:09+00:00",
+    "agency": "SEC",
+    "sentiment": "neutral",
+    "coins": []
+  },
+  {
     "title": "Stablecoin compliance could decide institutional winners: Aquanow CEO",
     "link": "https://crypto.news/stablecoin-compliance-decide-institutional-winners/",
     "source": "crypto.news",
@@ -41,24 +59,6 @@
     "source": "coingape.com",
     "published_at": "2026-08-26T15:34:03+00:00",
     "agency": "SEC",
-    "sentiment": "neutral",
-    "coins": []
-  },
-  {
-    "title": "US seizes Chinese hacking tools after alleged Federal Reserve breach, DOJ announces",
-    "link": "https://cryptobriefing.com/us-chinese-hackers-federal-reserve-breach/",
-    "source": "cryptobriefing.com",
-    "published_at": "2026-08-26T15:28:12+00:00",
-    "agency": "Fed",
-    "sentiment": "bearish",
-    "coins": []
-  },
-  {
-    "title": "Treasury yields rise as data suggests potential Fed rate hike this year",
-    "link": "https://cryptobriefing.com/treasury-yields-rise-as-data-suggests-potential-fed-rate-hike-this-year/",
-    "source": "cryptobriefing.com",
-    "published_at": "2026-08-26T15:23:14+00:00",
-    "agency": "Fed",
     "sentiment": "neutral",
     "coins": []
   },
@@ -134,15 +134,6 @@
     ]
   },
   {
-    "title": "Bill Gates Wants Up to 40% of Jobs Reserved for Humans, Not AI",
-    "link": "https://beincrypto.com/bill-gates-human-reserved-jobs-ai/",
-    "source": "beincrypto.com",
-    "published_at": "2026-08-26T10:36:51+00:00",
-    "agency": "Regulatory",
-    "sentiment": "neutral",
-    "coins": []
-  },
-  {
     "title": "Ripple to Release More XRP? Intriguing Detail Found in New SEC Filing",
     "link": "https://u.today/ripple-to-release-more-xrp-intriguing-detail-found-in-new-sec-filing",
     "source": "u.today",
@@ -212,15 +203,6 @@
     "coins": []
   },
   {
-    "title": "Grayscale Launches First Zcash Spot ETF as ZEC Hits New Highs",
-    "link": "https://coingape.com/grayscale-launches-first-zcash-spot-etf-as-zec-hits-new-highs/",
-    "source": "coingape.com",
-    "published_at": "2026-08-25T13:39:38+00:00",
-    "agency": "Regulatory",
-    "sentiment": "bullish",
-    "coins": []
-  },
-  {
     "title": "OFAC Targets Ministry of Intelligence, Crypto-for-Oil Payments in Latest Iran Sanctions",
     "link": "https://www.chainalysis.com/blog/ofac-iran-oil-payments-august-2026/",
     "source": "chainalysis.com",
@@ -286,5 +268,27 @@
     "agency": "Treasury",
     "sentiment": "neutral",
     "coins": []
+  },
+  {
+    "title": "UK Banks Still Blocking Bitcoin, Policy Group Tells Parliament",
+    "link": "https://bitcoinmagazine.com/news/uk-banks-blocking-bitcoin",
+    "source": "bitcoinmagazine.com",
+    "published_at": "2026-08-24T19:56:45+00:00",
+    "agency": "Regulatory",
+    "sentiment": "neutral",
+    "coins": [
+      "BTC"
+    ]
+  },
+  {
+    "title": "CleanCore Dumps Dogecoin Treasury To Fund $100M AI Pivot",
+    "link": "https://www.newsbtc.com/news/cleancore-dumps-dogecoin-treasury-to-fund-100m-ai-pivot/",
+    "source": "newsbtc.com",
+    "published_at": "2026-08-24T19:45:00+00:00",
+    "agency": "Treasury",
+    "sentiment": "bearish",
+    "coins": [
+      "DOGE"
+    ]
   }
 ]
