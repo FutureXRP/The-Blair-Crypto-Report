@@ -1,21 +1,12 @@
 {
-  "score": 8,
-  "label": "Neutral",
-  "bullish": 32,
-  "bearish": 24,
+  "score": 10,
+  "label": "Optimistic",
+  "bullish": 33,
+  "bearish": 23,
   "neutral": 44,
-  "date": "2026-08-31",
-  "article_count": 889,
+  "date": "2026-09-01",
+  "article_count": 867,
   "history": [
-    {
-      "score": -2,
-      "label": "Neutral",
-      "bullish": 28,
-      "bearish": 30,
-      "neutral": 42,
-      "date": "2026-08-02",
-      "article_count": 887
-    },
     {
       "score": -2,
       "label": "Neutral",
@@ -276,6 +267,15 @@
       "neutral": 44,
       "date": "2026-08-31",
       "article_count": 889
+    },
+    {
+      "score": 10,
+      "label": "Optimistic",
+      "bullish": 33,
+      "bearish": 23,
+      "neutral": 44,
+      "date": "2026-09-01",
+      "article_count": 867
     }
   ]
 }
