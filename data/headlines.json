@@ -2,83 +2,92 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "Lisk Chain is winding down, but LSK explodes 344% in one day – Last hurrah?",
-      "link": "https://ambcrypto.com/lisk-chain-is-winding-down-but-lsk-explodes-344-in-one-day-last-hurrah/",
-      "published_at": "2026-09-13T19:00:03+00:00",
+      "title": "Crypto market’s weekly winners and losers – VVV, LSK, ARB, ENA",
+      "link": "https://ambcrypto.com/crypto-markets-weekly-winners-and-losers-vvv-lsk-arb-ena/",
+      "published_at": "2026-09-13T21:00:19+00:00",
       "source": "ambcrypto.com",
       "score": 1,
-      "ntitle": "lisk chain winding down but lsk explodes 344 one day last hurrah",
+      "ntitle": "crypto market s weekly winners losers vvv lsk arb ena",
+      "coins": [
+        "ARB",
+        "ENA"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Nvidia Gets the AI Hype. Dell Gets the Billionaire Fortune",
+      "link": "https://beincrypto.com/michael-dell-net-worth-passes-bezos/",
+      "published_at": "2026-09-13T21:00:00+00:00",
+      "source": "beincrypto.com",
+      "score": 1,
+      "ntitle": "nvidia gets ai hype dell gets billionaire fortune",
+      "coins": [
+        "HYPE"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "XRP Takes Back Seat As Ripple RLUSD Eyes $13 Trillion Market Amid CLARITY Act Vote",
+      "link": "https://coingape.com/xrp-takes-back-seat-as-ripple-rlusd-eyes-13-trillion-market-amid-clarity-act-vote/",
+      "published_at": "2026-09-13T21:18:15+00:00",
+      "source": "coingape.com",
+      "score": 9,
+      "ntitle": "xrp takes back seat ripple rlusd eyes 13 trillion market amid clarity act vote",
+      "coins": [
+        "XRP"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "Congress"
+    },
+    {
+      "title": "Insight Partners’ Devin Parekh explains why his $90B firm isn’t going all-in on any single AI bet",
+      "link": "https://cryptobriefing.com/insight-partners-ai-diversification-strategy/",
+      "published_at": "2026-09-13T21:35:13+00:00",
+      "source": "cryptobriefing.com",
+      "score": 2,
+      "ntitle": "insight partners devin parekh explains why his 90b firm isn t going all any single ai bet",
       "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "CRCL Stock Outlook Weighs Reserve Upside Against Fed Hike Risk",
-      "link": "https://blockonomi.com/crcl-stock-outlook-weighs-reserve-upside-against-fed-hike-risk/",
-      "published_at": "2026-09-13T19:42:18+00:00",
-      "source": "blockonomi.com",
-      "score": 1,
-      "ntitle": "crcl stock outlook weighs reserve upside against fed hike risk",
-      "coins": [],
+      "title": "Hackers mint trillions in fake Bitcoin, but 15 BTC bridge recovery leaves liquidity providers unpaid",
+      "link": "https://cryptoslate.com/hackers-mint-trillions-in-fake-bitcoin-but-15-btc-bridge-recovery-leaves-liquidity-providers-unpaid/",
+      "published_at": "2026-09-13T21:20:10+00:00",
+      "source": "cryptoslate.com",
+      "score": 2,
+      "ntitle": "hackers mint trillions fake bitcoin but 15 btc bridge recovery leaves liquidity providers unpaid",
+      "coins": [
+        "BTC"
+      ],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Analyst Predicts Ethereum Price Could Hit $3k This Week, Here’s Why",
-      "link": "https://coingape.com/markets/analyst-predicts-ethereum-price-could-hit-3k-this-week-heres-why/",
-      "published_at": "2026-09-13T19:18:19+00:00",
-      "source": "coingape.com",
-      "score": 12,
-      "ntitle": "analyst predicts ethereum price could hit 3k this week here s why",
+      "title": "Strategy’s Bitcoin Guide Makes the Case for a Global Reserve Asset",
+      "link": "https://news.bitcoin.com/featured/strategys-bitcoin-guide-makes-the-case-for-a-global-reserve-asset/",
+      "published_at": "2026-09-13T21:32:58+00:00",
+      "source": "news.bitcoin.com",
+      "score": 3,
+      "ntitle": "strategy s bitcoin guide makes case global reserve asset",
       "coins": [
-        "ETH"
+        "BTC"
       ],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Canada boosts Ukraine financial aid to strengthen EU ties: FT",
-      "link": "https://cryptobriefing.com/canada-boosts-ukraine-financial-aid-to-strengthen-eu-ties-ft/",
-      "published_at": "2026-09-13T19:27:38+00:00",
-      "source": "cryptobriefing.com",
-      "score": 3,
-      "ntitle": "canada boosts ukraine financial aid strengthen eu ties ft",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Coinbase gives community banks a stablecoin bridge while supplying infrastructure underneath",
-      "link": "https://cryptoslate.com/coinbase-gives-community-banks-a-stablecoin-bridge-while-supplying-infrastructure-underneath/",
-      "published_at": "2026-09-13T19:10:30+00:00",
-      "source": "cryptoslate.com",
-      "score": 8,
-      "ntitle": "coinbase gives community banks stablecoin bridge while supplying infrastructure underneath",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Schumer Calls Senate Caucus to Decide Fate of CLARITY Bill",
-      "link": "https://news.bitcoin.com/regulation-and-legal/schumer-calls-senate-caucus-to-decide-fate-of-clarity-bill/",
-      "published_at": "2026-09-13T19:24:45+00:00",
-      "source": "news.bitcoin.com",
-      "score": 1,
-      "ntitle": "schumer calls senate caucus decide fate clarity bill",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Congress"
-    },
-    {
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-      "published_at": "2026-09-13T19:45:28+00:00",
+      "published_at": "2026-09-13T21:44:33+00:00",
       "source": "thedefiant.io",
       "score": 3,
       "ntitle": "sec crypto custody rewrite enters white house review",
@@ -88,21 +97,21 @@
       "agency": null
     },
     {
-      "title": "Russian drone strikes Ukrainian train after Boris Johnson’s travel on same route",
-      "link": "https://cryptobriefing.com/russian-drone-strikes-ukrainian-train-after-boris-johnsons-travel-on-same-route/",
-      "published_at": "2026-09-13T19:22:13+00:00",
+      "title": "US diesel prices hit record $6.20/gallon, up 78% in nine months",
+      "link": "https://cryptobriefing.com/us-diesel-prices-hit-record-620gallon-up-78-in-nine-months/",
+      "published_at": "2026-09-13T21:17:19+00:00",
       "source": "cryptobriefing.com",
-      "score": 2,
-      "ntitle": "russian drone strikes ukrainian train after boris johnson s travel same route",
+      "score": 1,
+      "ntitle": "us diesel prices hit record 6 20 gallon up 78 nine months",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
       "title": "Brent Tops $106 And Hike Odds Reach 64% As Crypto Sells Off",
       "link": "https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026",
-      "published_at": "2026-09-13T19:45:28+00:00",
+      "published_at": "2026-09-13T21:44:33+00:00",
       "source": "thedefiant.io",
       "score": 3,
       "ntitle": "brent tops 106 hike odds reach 64 crypto sells off",
@@ -114,36 +123,38 @@
   ],
   "day": [
     {
-      "title": "XPR Network suffers $9M proton.swaps exploit – Can confidence recover?",
-      "link": "https://ambcrypto.com/xpr-network-suffers-9m-proton-swaps-exploit-can-confidence-recover/",
-      "published_at": "2026-09-13T17:00:30+00:00",
+      "title": "Pump.fun rallies as whales drive $40M capital inflows: Can PUMP sustain the run?",
+      "link": "https://ambcrypto.com/pump-fun-rallies-as-whales-drive-40m-capital-inflows-can-pump-sustain-the-run/",
+      "published_at": "2026-09-13T20:00:53+00:00",
       "source": "ambcrypto.com",
-      "score": 1,
-      "ntitle": "xpr network suffers 9m proton swaps exploit can confidence recover",
+      "score": 2,
+      "ntitle": "pump fun rallies whales drive 40m capital inflows can pump sustain run",
       "coins": [],
-      "sentiment": "bearish",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "New Tesla Roadster Uses SpaceX Tech. Will It Impact the Stock Price?",
-      "link": "https://beincrypto.com/tesla-roadster-reveal-tsla-stock/",
-      "published_at": "2026-09-13T17:16:40+00:00",
+      "title": "Kevin O'Leary's New Investment Is Not Bitcoin or Stocks",
+      "link": "https://beincrypto.com/kevin-oleary-sports-cards-bitcoin/",
+      "published_at": "2026-09-13T20:00:00+00:00",
       "source": "beincrypto.com",
       "score": 1,
-      "ntitle": "new tesla roadster uses spacex tech will it impact stock price",
-      "coins": [],
+      "ntitle": "kevin o leary s new investment not bitcoin or stocks",
+      "coins": [
+        "BTC"
+      ],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Fed Decision, Retail Data, and $100 Oil: Critical Week for Investors Ahead",
-      "link": "https://blockonomi.com/fed-decision-retail-data-and-100-oil-critical-week-for-investors-ahead/",
-      "published_at": "2026-09-13T18:10:40+00:00",
+      "title": "CRCL Stock Outlook Weighs Reserve Upside Against Fed Hike Risk",
+      "link": "https://blockonomi.com/crcl-stock-outlook-weighs-reserve-upside-against-fed-hike-risk/",
+      "published_at": "2026-09-13T19:42:18+00:00",
       "source": "blockonomi.com",
       "score": 1,
-      "ntitle": "fed decision retail data 100 oil critical week investors ahead",
+      "ntitle": "crcl stock outlook weighs reserve upside against fed hike risk",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -186,12 +197,12 @@
       "agency": null
     },
     {
-      "title": "CRCL Stock Outlook as Fed Odds Hit 86%: Bulls or Bears?",
-      "link": "https://coingape.com/markets/crcl-stock-outlook-as-fed-odds-hit-87-3-bulls-or-bears/",
-      "published_at": "2026-09-13T17:34:47+00:00",
+      "title": "How Could Protocol v27 Upgrade Impact Pi Network Price This Week?",
+      "link": "https://coingape.com/markets/how-could-protocol-v27-upgrade-impact-pi-network-price-this-week/",
+      "published_at": "2026-09-13T20:44:06+00:00",
       "source": "coingape.com",
-      "score": 6,
-      "ntitle": "crcl stock outlook fed odds hit 86 bulls or bears",
+      "score": 3,
+      "ntitle": "how could protocol v27 upgrade impact pi network price this week",
       "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -224,41 +235,39 @@
       "agency": null
     },
     {
-      "title": "David Crowley could become Wisconsin’s first Black governor in 2026 race",
-      "link": "https://cryptobriefing.com/david-crowley-could-become-wisconsins-first-black-governor-in-2026-race/",
-      "published_at": "2026-09-13T18:32:55+00:00",
+      "title": "Bitwise research finds 67% of wealth managers lack crypto allocation",
+      "link": "https://cryptobriefing.com/bitwise-wealth-managers-crypto-allocation/",
+      "published_at": "2026-09-13T20:33:56+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "david crowley could become wisconsin s first black governor 2026 race",
+      "ntitle": "bitwise research finds 67 wealth managers lack crypto allocation",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "What Happens to XRP if the CLARITY Act Vote Fails on September 15? AI Maps the Downside",
-      "link": "https://cryptopotato.com/what-happens-to-xrp-if-the-clarity-act-vote-fails-on-september-15-ai-maps-the-downside/",
-      "published_at": "2026-09-13T18:10:33+00:00",
+      "title": "Bitcoin Price Analysis: BTC Faces a Make-or-Break Week – What’s the Most Likely Scenario?",
+      "link": "https://cryptopotato.com/bitcoin-price-analysis-btc-faces-a-make-or-break-week-whats-the-most-likely-scenario/",
+      "published_at": "2026-09-13T19:36:50+00:00",
       "source": "cryptopotato.com",
-      "score": 7,
-      "ntitle": "what happens xrp if clarity act vote fails september 15 ai maps downside",
-      "coins": [
-        "XRP"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Congress"
-    },
-    {
-      "title": "Malicious bots are actively probing exposed Bitcoin payment servers to steal master administrative keys",
-      "link": "https://cryptoslate.com/malicious-bots-are-actively-probing-exposed-bitcoin-payment-servers-to-steal-master-administrative-keys/",
-      "published_at": "2026-09-13T18:30:17+00:00",
-      "source": "cryptoslate.com",
       "score": 2,
-      "ntitle": "malicious bots actively probing exposed bitcoin payment servers steal master administrative keys",
+      "ntitle": "bitcoin price analysis btc faces make or break week what s most likely scenario",
       "coins": [
         "BTC"
       ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Audited DeFi protocols lost $885M to attacks that occurred completely outside their audit scopes",
+      "link": "https://cryptoslate.com/audited-defi-protocols-lost-885m-to-attacks-that-occurred-completely-outside-their-audit-scopes/",
+      "published_at": "2026-09-13T20:15:08+00:00",
+      "source": "cryptoslate.com",
+      "score": 4,
+      "ntitle": "audited defi protocols lost 885m attacks that occurred completely outside their audit scopes",
+      "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
@@ -290,12 +299,12 @@
       "agency": null
     },
     {
-      "title": "Bitcoin slips below $77,000 as rate pressure clashes with diversification case",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-77200-as-rate-pressure-clashes-with-diversification-case-4898694",
-      "published_at": "2026-09-13T09:26:43+00:00",
+      "title": "Bitcoin stalls at $77,338 between key support and resistance: Live",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
+      "published_at": "2026-09-13T19:02:21+00:00",
       "source": "investing.com",
       "score": 1,
-      "ntitle": "bitcoin slips below 77 000 rate pressure clashes diversification case",
+      "ntitle": "bitcoin stalls 77 338 between key support resistance live",
       "coins": [
         "BTC"
       ],
@@ -304,70 +313,64 @@
       "agency": null
     },
     {
-      "title": "LAPTOP Enters Memecoin Frenzy, $245 Million Crypto Heist Sees Guilty Pleas, And More – Weekly Recap",
-      "link": "https://news.bitcoin.com/featured/laptop-enters-memecoin-frenzy-245-million-crypto-heist-sees-guilty-pleas-and-more-weekly-recap/",
-      "published_at": "2026-09-13T18:18:46+00:00",
+      "title": "Tom Lee Says a 2% Bitcoin Bet Quietly Became an 85% Portfolio",
+      "link": "https://news.bitcoin.com/crypto-news/tom-lee-says-a-2-bitcoin-bet-quietly-became-an-85-portfolio/",
+      "published_at": "2026-09-13T20:30:44+00:00",
       "source": "news.bitcoin.com",
-      "score": 6,
-      "ntitle": "laptop enters memecoin frenzy 245 million crypto heist sees guilty pleas more weekly recap",
-      "coins": [],
-      "sentiment": "bearish",
+      "score": 1,
+      "ntitle": "tom lee says 2 bitcoin bet quietly became 85 portfolio",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Bitcoin May Never Trade Below $65,000 Again",
-      "link": "https://u.today/bitcoin-may-never-trade-below-65000-again",
-      "published_at": "2026-09-13T16:22:15+00:00",
+      "title": "Senate Democrats Hold Last-Minute Meeting Ahead of Crucial Crypto Vote",
+      "link": "https://u.today/senate-democrats-hold-last-minute-meeting-ahead-of-crucial-crypto-vote",
+      "published_at": "2026-09-13T19:43:00+00:00",
       "source": "u.today",
       "score": 1,
-      "ntitle": "bitcoin may never trade below 65 000 again",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
+      "ntitle": "senate democrats hold last minute meeting ahead crucial crypto vote",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "Congress"
     },
     {
-      "title": "Bitcoin vs. Gold: Where would $10K perform better in the next macro shock?",
-      "link": "https://ambcrypto.com/bitcoin-vs-gold-where-would-10k-perform-better-in-the-next-macro-shock/",
-      "published_at": "2026-09-13T15:00:42+00:00",
+      "title": "Lisk Chain is winding down, but LSK explodes 344% in one day – Last hurrah?",
+      "link": "https://ambcrypto.com/lisk-chain-is-winding-down-but-lsk-explodes-344-in-one-day-last-hurrah/",
+      "published_at": "2026-09-13T19:00:03+00:00",
       "source": "ambcrypto.com",
-      "score": 3,
-      "ntitle": "bitcoin vs gold where would 10k perform better next macro shock",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "AI Safety Burden Falls on Chief Executives as Trump Prioritizes China Race",
-      "link": "https://beincrypto.com/ai-safety-burden-developers-trump-china/",
-      "published_at": "2026-09-13T17:10:18+00:00",
-      "source": "beincrypto.com",
-      "score": 3,
-      "ntitle": "ai safety burden falls chief executives trump prioritizes china race",
+      "score": 1,
+      "ntitle": "lisk chain winding down but lsk explodes 344 one day last hurrah",
       "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "XRP to Outperform Bitcoin and Ethereum? Analyst Maps 306% Wave 5 Rally",
-      "link": "https://blockonomi.com/xrp-to-outperform-bitcoin-and-ethereum-analyst-maps-306-wave-5-rally/",
-      "published_at": "2026-09-13T16:25:46+00:00",
+      "title": "New Tesla Roadster Uses SpaceX Tech. Will It Impact the Stock Price?",
+      "link": "https://beincrypto.com/tesla-roadster-reveal-tsla-stock/",
+      "published_at": "2026-09-13T17:16:40+00:00",
+      "source": "beincrypto.com",
+      "score": 1,
+      "ntitle": "new tesla roadster uses spacex tech will it impact stock price",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Fed Decision, Retail Data, and $100 Oil: Critical Week for Investors Ahead",
+      "link": "https://blockonomi.com/fed-decision-retail-data-and-100-oil-critical-week-for-investors-ahead/",
+      "published_at": "2026-09-13T18:10:40+00:00",
       "source": "blockonomi.com",
-      "score": 8,
-      "ntitle": "xrp outperform bitcoin ethereum analyst maps 306 wave 5 rally",
-      "coins": [
-        "BTC",
-        "ETH",
-        "XRP"
-      ],
-      "sentiment": "bullish",
+      "score": 1,
+      "ntitle": "fed decision retail data 100 oil critical week investors ahead",
+      "coins": [],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -384,18 +387,18 @@
       "agency": null
     },
     {
-      "title": "XRP Price Prediction After Trump Met Advisers Ahead of CLARITY Act Vote: What’s Next?",
-      "link": "https://coingape.com/markets/xrp-price-prediction-after-trump-met-advisers-ahead-of-clarity-act-vote-whats-next/",
-      "published_at": "2026-09-13T16:06:31+00:00",
+      "title": "Analyst Predicts Ethereum Price Could Hit $3k This Week, Here’s Why",
+      "link": "https://coingape.com/markets/analyst-predicts-ethereum-price-could-hit-3k-this-week-heres-why/",
+      "published_at": "2026-09-13T19:18:19+00:00",
       "source": "coingape.com",
-      "score": 7,
-      "ntitle": "xrp price prediction after trump met advisers ahead clarity act vote what s next",
+      "score": 12,
+      "ntitle": "analyst predicts ethereum price could hit 3k this week here s why",
       "coins": [
-        "XRP"
+        "ETH"
       ],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Congress"
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Anthropic chief urges slowdown in AI development to safer pace",
@@ -422,41 +425,39 @@
       "agency": null
     },
     {
-      "title": "Hashcats minting slows, reducing buyback support for HASH",
-      "link": "https://cryptobriefing.com/hashcats-minting-slows-hash-buyback/",
-      "published_at": "2026-09-13T18:26:46+00:00",
+      "title": "Chuck Schumer calls Sunday caucus on crypto bill ahead of critical Senate vote",
+      "link": "https://cryptobriefing.com/schumer-sunday-caucus-crypto-clarity-act/",
+      "published_at": "2026-09-13T20:17:57+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "hashcats minting slows reducing buyback support hash",
+      "ntitle": "chuck schumer calls sunday caucus crypto bill ahead critical senate vote",
       "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Congress"
     },
     {
-      "title": "US Bond Market Is Flashing a Major Warning: Is This the Setup Bitcoin Was Built For?",
-      "link": "https://cryptopotato.com/us-bond-market-is-flashing-a-major-warning-is-this-the-setup-bitcoin-was-built-for/",
-      "published_at": "2026-09-13T15:44:34+00:00",
+      "title": "What Happens to XRP if the CLARITY Act Vote Fails on September 15? AI Maps the Downside",
+      "link": "https://cryptopotato.com/what-happens-to-xrp-if-the-clarity-act-vote-fails-on-september-15-ai-maps-the-downside/",
+      "published_at": "2026-09-13T18:10:33+00:00",
       "source": "cryptopotato.com",
-      "score": 2,
-      "ntitle": "us bond market flashing major warning this setup bitcoin was built",
+      "score": 7,
+      "ntitle": "what happens xrp if clarity act vote fails september 15 ai maps downside",
       "coins": [
-        "BTC"
+        "XRP"
       ],
       "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
+      "is_regulation": true,
+      "agency": "Congress"
     },
     {
-      "title": "Cosmos is back online after outage, but Ledger users still can’t see or send their ATOM",
-      "link": "https://cryptoslate.com/cosmos-is-back-online-after-outage-but-ledger-users-still-cant-see-or-send-their-atom/",
-      "published_at": "2026-09-13T17:55:22+00:00",
+      "title": "Coinbase gives community banks a stablecoin bridge while supplying infrastructure underneath",
+      "link": "https://cryptoslate.com/coinbase-gives-community-banks-a-stablecoin-bridge-while-supplying-infrastructure-underneath/",
+      "published_at": "2026-09-13T19:10:30+00:00",
       "source": "cryptoslate.com",
-      "score": 2,
-      "ntitle": "cosmos back online after outage but ledger users still can t see or send their atom",
-      "coins": [
-        "ATOM"
-      ],
+      "score": 8,
+      "ntitle": "coinbase gives community banks stablecoin bridge while supplying infrastructure underneath",
+      "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
@@ -474,12 +475,12 @@
       "agency": null
     },
     {
-      "title": "Bitcoin squeezed between $76,400 and $79,000: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
-      "published_at": "2026-09-13T07:02:15+00:00",
+      "title": "Bitcoin slips below $77,000 as rate pressure clashes with diversification case",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-77200-as-rate-pressure-clashes-with-diversification-case-4898694",
+      "published_at": "2026-09-13T09:26:43+00:00",
       "source": "investing.com",
       "score": 1,
-      "ntitle": "bitcoin squeezed between 76 400 79 000 live levels",
+      "ntitle": "bitcoin slips below 77 000 rate pressure clashes diversification case",
       "coins": [
         "BTC"
       ],
@@ -488,18 +489,16 @@
       "agency": null
     },
     {
-      "title": "McGlone Warns SPX Pullback Could Send Bitcoin Price to $10K",
-      "link": "https://news.bitcoin.com/crypto-news/mcglone-warns-spx-pullback-could-send-bitcoin-price-to-10k/",
-      "published_at": "2026-09-13T17:15:14+00:00",
+      "title": "Schumer Calls Senate Caucus to Decide Fate of CLARITY Bill",
+      "link": "https://news.bitcoin.com/regulation-and-legal/schumer-calls-senate-caucus-to-decide-fate-of-clarity-bill/",
+      "published_at": "2026-09-13T19:24:45+00:00",
       "source": "news.bitcoin.com",
       "score": 1,
-      "ntitle": "mcglone warns spx pullback could send bitcoin price 10k",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
+      "ntitle": "schumer calls senate caucus decide fate clarity bill",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Congress"
     }
   ],
   "week": [
@@ -592,26 +591,28 @@
       "agency": null
     },
     {
-      "title": "Nigel Farage’s Reform UK lands $97 million donations from two crypto billionaires in 24 hours",
-      "link": "https://www.coindesk.com/business/2026/09/12/nigel-farage-s-reform-uk-lands-usd97-million-donations-from-two-crypto-billionaires-in-24-hours",
-      "published_at": "2026-09-12T18:51:04+00:00",
+      "title": "OpenAI IPO won't happen this year, says Sam Altman",
+      "link": "https://www.coindesk.com/markets/2026/09/12/openai-ipo-won-t-happen-this-year-says-sam-altman",
+      "published_at": "2026-09-12T21:09:31+00:00",
       "source": "coindesk.com",
-      "score": 2,
-      "ntitle": "nigel farage s reform uk lands 97 million donations two crypto billionaires 24 hours",
+      "score": 1,
+      "ntitle": "openai ipo won t happen this year says sam altman",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Chainlink Price Outlook Targets $15+ as Institutional Flows",
-      "link": "https://coingape.com/markets/chainlink-price-outlook-targets-15-as-institutional-flows/",
-      "published_at": "2026-09-12T19:24:55+00:00",
+      "title": "Bitcoin, ETH, XRP Rally Under Threat As September 16 Fed Rate Hike Odds Surge To 86%",
+      "link": "https://coingape.com/bitcoin-eth-xrp-rally-under-threat-as-september-16-fed-rate-hike-odds-surge-to-86/",
+      "published_at": "2026-09-12T21:44:38+00:00",
       "source": "coingape.com",
-      "score": 12,
-      "ntitle": "chainlink price outlook targets 15 institutional flows",
+      "score": 7,
+      "ntitle": "bitcoin eth xrp rally under threat september 16 fed rate hike odds surge 86",
       "coins": [
-        "LINK"
+        "BTC",
+        "ETH",
+        "XRP"
       ],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -656,16 +657,14 @@
       "agency": null
     },
     {
-      "title": "Why Ripple (XRP)? 21Shares Highlights 4 Reasons Investors Should Take Notice",
-      "link": "https://cryptopotato.com/why-ripple-xrp-21shares-highlights-4-reasons-investors-should-take-notice/",
-      "published_at": "2026-09-12T17:48:33+00:00",
+      "title": "India’s Demat 2.0 Could Change Bond Tokenization: Here’s How It Works",
+      "link": "https://cryptopotato.com/indias-demat-2-0-could-change-bond-tokenization-heres-how-it-works/",
+      "published_at": "2026-09-12T20:04:30+00:00",
       "source": "cryptopotato.com",
-      "score": 8,
-      "ntitle": "why ripple xrp 21shares highlights 4 reasons investors should take notice",
-      "coins": [
-        "XRP"
-      ],
-      "sentiment": "neutral",
+      "score": 11,
+      "ntitle": "india s demat 2 0 could change bond tokenization here s how it works",
+      "coins": [],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -1095,30 +1094,30 @@
   ],
   "clusters": [
     {
-      "id": 1,
-      "title": "CRCL Stock Outlook as Fed Odds Hit 86%: Bulls or Bears?",
-      "link": "https://coingape.com/markets/crcl-stock-outlook-as-fed-odds-hit-87-3-bulls-or-bears/",
-      "source": "coingape.com",
-      "published_at": "2026-09-13T17:34:47+00:00",
-      "sentiment": "bullish",
+      "id": 33,
+      "title": "Chuck Schumer calls Sunday caucus on crypto bill ahead of critical Senate vote",
+      "link": "https://cryptobriefing.com/schumer-sunday-caucus-crypto-clarity-act/",
+      "source": "cryptobriefing.com",
+      "published_at": "2026-09-13T20:17:57+00:00",
+      "sentiment": "neutral",
       "coins": [],
       "sources": [
-        "blockonomi.com",
-        "coingape.com"
+        "cryptobriefing.com",
+        "news.bitcoin.com"
       ],
       "count": 2,
       "members": [
         {
-          "title": "CRCL Stock Outlook Weighs Reserve Upside Against Fed Hike Risk",
-          "link": "https://blockonomi.com/crcl-stock-outlook-weighs-reserve-upside-against-fed-hike-risk/",
-          "source": "blockonomi.com",
-          "published_at": "2026-09-13T19:42:18+00:00"
+          "title": "Chuck Schumer calls Sunday caucus on crypto bill ahead of critical Senate vote",
+          "link": "https://cryptobriefing.com/schumer-sunday-caucus-crypto-clarity-act/",
+          "source": "cryptobriefing.com",
+          "published_at": "2026-09-13T20:17:57+00:00"
         },
         {
-          "title": "CRCL Stock Outlook as Fed Odds Hit 86%: Bulls or Bears?",
-          "link": "https://coingape.com/markets/crcl-stock-outlook-as-fed-odds-hit-87-3-bulls-or-bears/",
-          "source": "coingape.com",
-          "published_at": "2026-09-13T17:34:47+00:00"
+          "title": "Schumer Calls Senate Caucus to Decide Fate of CLARITY Bill",
+          "link": "https://news.bitcoin.com/regulation-and-legal/schumer-calls-senate-caucus-to-decide-fate-of-clarity-bill/",
+          "source": "news.bitcoin.com",
+          "published_at": "2026-09-13T19:24:45+00:00"
         }
       ]
     }
@@ -1126,7 +1125,7 @@
   "trending": [
     {
       "tag": "#Ai",
-      "count": 61,
+      "count": 59,
       "type": "topic",
       "pct": 100
     },
@@ -1134,31 +1133,25 @@
       "tag": "#XRP",
       "count": 56,
       "type": "coin",
-      "pct": 92
+      "pct": 95
     },
     {
       "tag": "#Xrp",
       "count": 54,
       "type": "topic",
-      "pct": 89
+      "pct": 92
     },
     {
       "tag": "#Defi",
-      "count": 37,
+      "count": 38,
       "type": "topic",
-      "pct": 61
+      "pct": 64
     },
     {
       "tag": "#Bitcoin",
-      "count": 18,
+      "count": 17,
       "type": "topic",
-      "pct": 30
-    },
-    {
-      "tag": "#BTC",
-      "count": 15,
-      "type": "coin",
-      "pct": 25
+      "pct": 29
     },
     {
       "tag": "#Stablecoin",
@@ -1167,11 +1160,17 @@
       "pct": 25
     },
     {
+      "tag": "#BTC",
+      "count": 14,
+      "type": "coin",
+      "pct": 24
+    },
+    {
       "tag": "#ETH",
       "count": 11,
       "type": "coin",
-      "pct": 18
+      "pct": 19
     }
   ],
-  "generated_at": "2026-09-13T19:45:51.282401+00:00"
+  "generated_at": "2026-09-13T21:44:57.980205+00:00"
 }
