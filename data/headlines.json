@@ -2,36 +2,60 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "Ethereum Price Breaks $2,560 as Binance ETH Withdrawals Hit 3-Year High",
-      "link": "https://blockonomi.com/ethereum-price-breaks-2560-as-binance-eth-withdrawals-hit-3-year-high/",
-      "published_at": "2026-09-20T23:20:29+00:00",
-      "source": "blockonomi.com",
-      "score": 5,
-      "ntitle": "ethereum price breaks 2 560 binance eth withdrawals hit 3 year high",
+      "title": "Strategy Founder Michael Saylor Argues Clarity Act Collapse Is a Win",
+      "link": "https://bitcoinmagazine.com/news/saylor-argues-clarity-act-failure-is-a-win",
+      "published_at": "2026-09-21T00:52:50+00:00",
+      "source": "bitcoinmagazine.com",
+      "score": 1,
+      "ntitle": "strategy founder michael saylor argues clarity act collapse win",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Congress"
+    },
+    {
+      "title": "Microsoft CEO Satya Nadella to attend White House dinner for Xi Jinping",
+      "link": "https://cryptobriefing.com/nadella-white-house-dinner-xi-jinping/",
+      "published_at": "2026-09-21T01:19:14+00:00",
+      "source": "cryptobriefing.com",
+      "score": 1,
+      "ntitle": "microsoft ceo satya nadella attend white house dinner xi jinping",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Weekly Wrap: Bitcoin Reclaims $81K as ZEC and HYPE Hit New Highs",
+      "link": "https://news.bitcoin.com/market-updates/weekly-wrap-bitcoin-reclaims-81k-as-zec-and-hype-hit-new-highs/",
+      "published_at": "2026-09-21T00:46:49+00:00",
+      "source": "news.bitcoin.com",
+      "score": 1,
+      "ntitle": "weekly wrap bitcoin reclaims 81k zec hype hit new highs",
       "coins": [
-        "BNB",
-        "ETH"
+        "BTC",
+        "HYPE"
       ],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "US stock futures edge higher as traders brace for high-stakes China talks",
-      "link": "https://cryptobriefing.com/us-stock-futures-rise-china-trade-talks/",
-      "published_at": "2026-09-20T23:14:39+00:00",
-      "source": "cryptobriefing.com",
+      "title": "S&P Global Agrees To Acquire Smart Contract Security Firm OpenZeppelin",
+      "link": "https://www.newsbtc.com/news/sp-global-agrees-to-acquire-smart-contract-security-firm-openzeppelin/",
+      "published_at": "2026-09-21T01:15:00+00:00",
+      "source": "newsbtc.com",
       "score": 1,
-      "ntitle": "us stock futures edge higher traders brace high stakes china talks",
+      "ntitle": "s p global agrees acquire smart contract security firm openzeppelin",
       "coins": [],
-      "sentiment": "bullish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
       "title": "SEC Clears Tokenized Stocks To Trade Onchain As CFTC Widens Software Relief",
       "link": "https://thedefiant.io/news/regulation/sec-innovation-exemption-tokenized-stocks-cftc-software-relief",
-      "published_at": "2026-09-20T23:28:44+00:00",
+      "published_at": "2026-09-21T01:21:16+00:00",
       "source": "thedefiant.io",
       "score": 7,
       "ntitle": "sec clears tokenized stocks trade onchain cftc widens software relief",
@@ -41,35 +65,33 @@
       "agency": "SEC"
     },
     {
-      "title": "144 Billion SHIB Netflow Sends Warning Amid 5% Price Rally",
-      "link": "https://u.today/144-billion-shib-netflow-sends-warning-amid-5-price-rally",
-      "published_at": "2026-09-20T22:30:00+00:00",
-      "source": "u.today",
-      "score": 3,
-      "ntitle": "144 billion shib netflow sends warning amid 5 price rally",
-      "coins": [
-        "SHIB"
-      ],
+      "title": "US Virtual Embassy urges American citizens to leave Iran immediately",
+      "link": "https://cryptobriefing.com/us-virtual-embassy-iran-leave-immediately/",
+      "published_at": "2026-09-21T01:10:05+00:00",
+      "source": "cryptobriefing.com",
+      "score": 1,
+      "ntitle": "us virtual embassy urges american citizens leave iran immediately",
+      "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Ukraine war disrupts grain shipments, fueling inflation risks as wheat prices surge 24%",
-      "link": "https://cryptobriefing.com/ukraine-war-grain-shipments-inflation/",
-      "published_at": "2026-09-20T23:08:49+00:00",
-      "source": "cryptobriefing.com",
-      "score": 2,
-      "ntitle": "ukraine war disrupts grain shipments fueling inflation risks wheat prices surge 24",
+      "title": "dtcpay Completes $25M Series A As SBI Group Joins Stablecoin Payments Push",
+      "link": "https://www.newsbtc.com/news/dtcpay-completes-25m-series-a-as-sbi-group-joins-stablecoin-payments-push/",
+      "published_at": "2026-09-21T00:30:00+00:00",
+      "source": "newsbtc.com",
+      "score": 1,
+      "ntitle": "dtcpay completes 25m series sbi group joins stablecoin payments push",
       "coins": [],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-      "published_at": "2026-09-20T23:28:44+00:00",
+      "published_at": "2026-09-21T01:21:16+00:00",
       "source": "thedefiant.io",
       "score": 3,
       "ntitle": "sec crypto custody rewrite enters white house review",
@@ -81,19 +103,18 @@
   ],
   "day": [
     {
-      "title": "Crypto market’s weekly winners and losers – ARB, NEAR, STABLE, PI",
-      "link": "https://ambcrypto.com/crypto-market-weekly-review-20-september/",
-      "published_at": "2026-09-20T22:00:37+00:00",
+      "title": "The Bitcoin treasury effect: How 845,000 BTC pumped MSTR’s stock by 16%",
+      "link": "https://ambcrypto.com/the-bitcoin-treasury-effect-how-845000-btc-pumped-mstr-stock-by-16/",
+      "published_at": "2026-09-21T00:00:50+00:00",
       "source": "ambcrypto.com",
-      "score": 1,
-      "ntitle": "crypto market s weekly winners losers arb near stable pi",
+      "score": 3,
+      "ntitle": "bitcoin treasury effect how 845 000 btc pumped mstr s stock 16",
       "coins": [
-        "ARB",
-        "NEAR"
+        "BTC"
       ],
       "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
+      "is_regulation": true,
+      "agency": "Treasury"
     },
     {
       "title": "AI Bubble Fears Grow, But Nvidia CEO Gives Bulls a New Argument Anyway",
@@ -148,14 +169,16 @@
       "agency": null
     },
     {
-      "title": "FET Price Tanks After SingularityNET Bridge Exploit Triggers Conversion Pause",
-      "link": "https://blockonomi.com/fet-price-tanks-after-singularitynet-bridge-exploit-triggers-conversion-pause/",
-      "published_at": "2026-09-20T19:29:49+00:00",
+      "title": "USD1 Stablecoin Tops $60B in Cumulative Trading Volume on Binance",
+      "link": "https://blockonomi.com/usd1-stablecoin-tops-60b-in-cumulative-trading-volume-on-binance/",
+      "published_at": "2026-09-20T23:59:35+00:00",
       "source": "blockonomi.com",
-      "score": 1,
-      "ntitle": "fet price tanks after singularitynet bridge exploit triggers conversion pause",
-      "coins": [],
-      "sentiment": "bearish",
+      "score": 5,
+      "ntitle": "usd1 stablecoin tops 60b cumulative trading volume binance",
+      "coins": [
+        "BNB"
+      ],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -196,13 +219,15 @@
       "agency": null
     },
     {
-      "title": "Trump says US will form ‘AI Force’ and appoint AI czar: Reports",
-      "link": "https://cointelegraph.com/news/trump-says-us-will-form-ai-force-and-appoint-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-09-20T12:00:52+00:00",
+      "title": "Who needs CLARITY anyway? ARB could see 70X increase: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/who-needs-clarity-anyway-arb-could-see-70x-increase-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-09-20T23:37:39+00:00",
       "source": "cointelegraph.com",
       "score": 3,
-      "ntitle": "trump says us will form ai force appoint ai czar reports",
-      "coins": [],
+      "ntitle": "who needs clarity anyway arb could see 70x increase hodler s digest",
+      "coins": [
+        "ARB"
+      ],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
@@ -220,14 +245,14 @@
       "agency": null
     },
     {
-      "title": "Perpetual futures open positions grow 13% across 15 venues in one week",
-      "link": "https://cryptobriefing.com/perpetual-futures-open-interest-grows-13-percent/",
-      "published_at": "2026-09-20T22:25:32+00:00",
+      "title": "Oracle’s Project Jupiter in New Mexico reportedly mothballed as $18B loan trades at steep discount",
+      "link": "https://cryptobriefing.com/oracle-project-jupiter-data-center-mothballed/",
+      "published_at": "2026-09-21T00:19:41+00:00",
       "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "perpetual futures open positions grow 13 across 15 venues one week",
+      "score": 2,
+      "ntitle": "oracle s project jupiter new mexico reportedly mothballed 18b loan trades steep discount",
       "coins": [],
-      "sentiment": "bullish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -298,53 +323,58 @@
       "agency": null
     },
     {
-      "title": "Four Armed Men Tie up Family in French Crypto Home Invasion",
-      "link": "https://news.bitcoin.com/crypto-news/four-armed-men-tie-up-family-in-french-crypto-home-invasion/",
-      "published_at": "2026-09-20T21:31:01+00:00",
+      "title": "One Attacker Hits Two Crypto Projects and Walks With $2 Million",
+      "link": "https://news.bitcoin.com/security/one-attacker-hits-two-crypto-projects-and-walks-with-2-million/",
+      "published_at": "2026-09-20T23:27:19+00:00",
       "source": "news.bitcoin.com",
       "score": 1,
-      "ntitle": "four armed men tie up family french crypto home invasion",
+      "ntitle": "one attacker hits two crypto projects walks 2 million",
       "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Binance Announces 24/7 FX Perpetuals With USD/BRL Contract Set For September 21",
+      "link": "https://www.newsbtc.com/news/binance-announces-247-fx-perpetuals-with-usdbrl-contract-set-for-september-21/",
+      "published_at": "2026-09-20T23:45:00+00:00",
+      "source": "newsbtc.com",
+      "score": 1,
+      "ntitle": "binance announces 24 7 fx perpetuals usd brl contract set september 21",
+      "coins": [
+        "BNB"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Zcash (ZEC), Hyperliquid (HYPE), Avalanche (AVAX) and Shiba Inu (SHIB) Price Analysis for September 21: Pivotal Moment for Bullish Market",
+      "link": "https://u.today/price-analysis/zcash-zec-hyperliquid-hype-avalanche-avax-and-shiba-inu-shib-price-analysis-for-september-21",
+      "published_at": "2026-09-21T00:01:00+00:00",
+      "source": "u.today",
+      "score": 3,
+      "ntitle": "zcash zec hyperliquid hype avalanche avax shiba inu shib price analysis september 21 pivotal moment bullish market",
+      "coins": [
+        "AVAX",
+        "HYPE",
+        "SHIB"
+      ],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "VanEck Flags Heavy Executive Dilution At Bitcoin Treasury Firm Metaplanet",
-      "link": "https://www.newsbtc.com/news/vaneck-flags-heavy-executive-dilution-at-bitcoin-treasury-firm-metaplanet/",
-      "published_at": "2026-09-20T21:30:00+00:00",
-      "source": "newsbtc.com",
-      "score": 3,
-      "ntitle": "vaneck flags heavy executive dilution bitcoin treasury firm metaplanet",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Treasury"
-    },
-    {
-      "title": "Shibarium Reorg Fixed as Shiba Inu Team Outlines Road Ahead",
-      "link": "https://u.today/shibarium-reorg-fixed-as-shiba-inu-team-outlines-road-ahead",
-      "published_at": "2026-09-20T21:49:00+00:00",
-      "source": "u.today",
-      "score": 1,
-      "ntitle": "shibarium reorg fixed shiba inu team outlines road ahead",
-      "coins": [
-        "SHIB"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Stacks crypto jumps 13% – Could STX bulls extend the price rally?",
-      "link": "https://ambcrypto.com/stacks-crypto-jumps-13-could-stx-bulls-extend-the-price-rally/",
-      "published_at": "2026-09-20T20:00:00+00:00",
+      "title": "Crypto market’s weekly winners and losers – ARB, NEAR, STABLE, PI",
+      "link": "https://ambcrypto.com/crypto-market-weekly-review-20-september/",
+      "published_at": "2026-09-20T22:00:37+00:00",
       "source": "ambcrypto.com",
       "score": 1,
-      "ntitle": "stacks crypto jumps 13 could stx bulls extend price rally",
-      "coins": [],
+      "ntitle": "crypto market s weekly winners losers arb near stable pi",
+      "coins": [
+        "ARB",
+        "NEAR"
+      ],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
@@ -402,16 +432,18 @@
       "agency": null
     },
     {
-      "title": "Crypto Kidnapping in France: Family Tied Up at Home, Four Suspects Flee",
-      "link": "https://blockonomi.com/crypto-kidnapping-in-france-family-tied-up-at-home-four-suspects-flee/",
-      "published_at": "2026-09-20T19:23:28+00:00",
+      "title": "Crypto Rules Move to Agencies: What the CLARITY Act Setback Means for BTC",
+      "link": "https://blockonomi.com/crypto-rules-move-to-agencies-what-the-clarity-act-setback-means-for-btc/",
+      "published_at": "2026-09-20T23:40:47+00:00",
       "source": "blockonomi.com",
       "score": 1,
-      "ntitle": "crypto kidnapping france family tied up home four suspects flee",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
+      "ntitle": "crypto rules move agencies what clarity act setback means btc",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "Congress"
     },
     {
       "title": "Caruso-Cabrera: The investing tailwinds for Latin America are the best in decades",
@@ -450,14 +482,14 @@
       "agency": null
     },
     {
-      "title": "Grayscale’s Zcash ETF files for 3-for-1 forward share split",
-      "link": "https://cointelegraph.com/news/grayscales-zcash-etf-files-for-3-for-1-forward-share-split?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-09-20T09:14:27+00:00",
+      "title": "Trump says US will form ‘AI Force’ and appoint AI czar: Reports",
+      "link": "https://cointelegraph.com/news/trump-says-us-will-form-ai-force-and-appoint-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-09-20T12:00:52+00:00",
       "source": "cointelegraph.com",
-      "score": 7,
-      "ntitle": "grayscale s zcash etf files 3 1 forward share split",
+      "score": 3,
+      "ntitle": "trump says us will form ai force appoint ai czar reports",
       "coins": [],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     }
@@ -476,13 +508,15 @@
       "agency": null
     },
     {
-      "title": "$1.5T and counting: Here’s how 2026’s ETFs beat 2025’s record flows",
-      "link": "https://ambcrypto.com/1-5t-and-counting-heres-how-2026s-etfs-beat-2025s-record-flows/",
-      "published_at": "2026-09-19T23:00:30+00:00",
+      "title": "NEAR hits new ‘all-time high’ on the TVL front, but what about its price?",
+      "link": "https://ambcrypto.com/near-hits-new-all-time-high-on-the-tvl-front-but-what-about-its-price/",
+      "published_at": "2026-09-20T01:00:21+00:00",
       "source": "ambcrypto.com",
-      "score": 3,
-      "ntitle": "1 5t counting here s how 2026 s etfs beat 2025 s record flows",
-      "coins": [],
+      "score": 1,
+      "ntitle": "near hits new all time high tvl front but what about price",
+      "coins": [
+        "NEAR"
+      ],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
@@ -500,14 +534,14 @@
       "agency": "Regulatory"
     },
     {
-      "title": "Lido DAO Votes On Contingent 7.5M LDO Market-Making Mandate",
-      "link": "https://bitcoinist.com/lido-dao-votes-on-contingent-7-5m-ldo-market-making-mandate/",
-      "published_at": "2026-09-19T22:45:00+00:00",
+      "title": "Lido Completes Wind-Down Of Simple DVT Module",
+      "link": "https://bitcoinist.com/lido-completes-wind-down-of-simple-dvt-module/",
+      "published_at": "2026-09-20T01:00:00+00:00",
       "source": "bitcoinist.com",
       "score": 1,
-      "ntitle": "lido dao votes contingent 7 5m ldo market making mandate",
+      "ntitle": "lido completes wind down simple dvt module",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -805,14 +839,16 @@
       "agency": null
     },
     {
-      "title": "Tezos up 30%, hits 4-month high after post-quantum code goes live — What next?",
-      "link": "https://ambcrypto.com/tezos-up-30-hits-4-month-high-after-post-quantum-code-goes-live-what-next/",
-      "published_at": "2026-09-19T22:00:20+00:00",
+      "title": "Is Bitcoin’s bull run back on track? 8% price hike says…",
+      "link": "https://ambcrypto.com/is-bitcoins-bull-run-back-on-track-8-price-hike-says/",
+      "published_at": "2026-09-20T00:00:45+00:00",
       "source": "ambcrypto.com",
       "score": 1,
-      "ntitle": "tezos up 30 hits 4 month high after post quantum code goes live what next",
-      "coins": [],
-      "sentiment": "neutral",
+      "ntitle": "bitcoin s bull run back track 8 price hike says",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -829,15 +865,14 @@
       "agency": "CFTC"
     },
     {
-      "title": "Aave Proposal Brings Anchorage-Custodied Bitcoin Into V4 Lending Model",
-      "link": "https://bitcoinist.com/aave-proposal-brings-anchorage-custodied-bitcoin-into-v4-lending-model/",
-      "published_at": "2026-09-19T22:00:00+00:00",
+      "title": "Uniswap Proposes Extending Protocol Fees To Arc",
+      "link": "https://bitcoinist.com/uniswap-proposes-extending-protocol-fees-to-arc/",
+      "published_at": "2026-09-20T00:15:00+00:00",
       "source": "bitcoinist.com",
       "score": 1,
-      "ntitle": "aave proposal brings anchorage custodied bitcoin into v4 lending model",
+      "ntitle": "uniswap proposes extending protocol fees arc",
       "coins": [
-        "AAVE",
-        "BTC"
+        "UNI"
       ],
       "sentiment": "neutral",
       "is_regulation": false,
@@ -1016,40 +1051,11 @@
       "agency": null
     }
   ],
-  "clusters": [
-    {
-      "id": 23,
-      "title": "Four Armed Men Tie up Family in French Crypto Home Invasion",
-      "link": "https://news.bitcoin.com/crypto-news/four-armed-men-tie-up-family-in-french-crypto-home-invasion/",
-      "source": "news.bitcoin.com",
-      "published_at": "2026-09-20T21:31:01+00:00",
-      "sentiment": "bullish",
-      "coins": [],
-      "sources": [
-        "blockonomi.com",
-        "news.bitcoin.com"
-      ],
-      "count": 2,
-      "members": [
-        {
-          "title": "Four Armed Men Tie up Family in French Crypto Home Invasion",
-          "link": "https://news.bitcoin.com/crypto-news/four-armed-men-tie-up-family-in-french-crypto-home-invasion/",
-          "source": "news.bitcoin.com",
-          "published_at": "2026-09-20T21:31:01+00:00"
-        },
-        {
-          "title": "Crypto Kidnapping in France: Family Tied Up at Home, Four Suspects Flee",
-          "link": "https://blockonomi.com/crypto-kidnapping-in-france-family-tied-up-at-home-four-suspects-flee/",
-          "source": "blockonomi.com",
-          "published_at": "2026-09-20T19:23:28+00:00"
-        }
-      ]
-    }
-  ],
+  "clusters": [],
   "trending": [
     {
       "tag": "#Ai",
-      "count": 64,
+      "count": 63,
       "type": "topic",
       "pct": 100
     },
@@ -1057,31 +1063,31 @@
       "tag": "#XRP",
       "count": 51,
       "type": "coin",
-      "pct": 80
+      "pct": 81
     },
     {
       "tag": "#Xrp",
       "count": 47,
       "type": "topic",
-      "pct": 73
+      "pct": 75
     },
     {
       "tag": "#Defi",
       "count": 36,
       "type": "topic",
-      "pct": 56
+      "pct": 57
     },
     {
       "tag": "#Bitcoin",
-      "count": 20,
+      "count": 18,
       "type": "topic",
-      "pct": 31
+      "pct": 29
     },
     {
       "tag": "#BTC",
-      "count": 18,
+      "count": 17,
       "type": "coin",
-      "pct": 28
+      "pct": 27
     },
     {
       "tag": "#XDC",
@@ -1096,5 +1102,5 @@
       "pct": 14
     }
   ],
-  "generated_at": "2026-09-20T23:29:08.517894+00:00"
+  "generated_at": "2026-09-21T01:21:44.508465+00:00"
 }
