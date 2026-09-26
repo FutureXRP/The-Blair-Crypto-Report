@@ -2,23 +2,61 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "‘Highly experimental!’ — Analysts split on new proposal for private Bitcoin transfers",
-      "link": "https://ambcrypto.com/highly-experimental-analysts-split-on-new-proposal-for-private-bitcoin-transfers/",
-      "published_at": "2026-09-26T05:00:45+00:00",
+      "title": "Aero goes live October 21 across 7 chains – What it means for Aerodrome",
+      "link": "https://ambcrypto.com/aero-goes-live-october-21-across-7-chains-what-it-means-for-aerodrome/",
+      "published_at": "2026-09-26T10:00:29+00:00",
       "source": "ambcrypto.com",
-      "score": 2,
-      "ntitle": "highly experimental analysts split new proposal private bitcoin transfers",
-      "coins": [
-        "BTC"
-      ],
+      "score": 3,
+      "ntitle": "aero goes live october 21 across 7 chains what it means aerodrome",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Tether Builds Self-Custodial Wallet Tools For AI Agents",
+      "link": "https://bitcoinist.com/tether-builds-self-custodial-wallet-tools-for-ai-agents/",
+      "published_at": "2026-09-26T09:30:00+00:00",
+      "source": "bitcoinist.com",
+      "score": 1,
+      "ntitle": "tether builds self custodial wallet tools ai agents",
+      "coins": [],
       "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "OP Price Prediction: Stalling at $0.15 — Short Squeeze or Bull Trap?",
+      "link": "https://Blockchain.News/news/20260926-price-prediction-op-stalling-at-015-short-squeeze-or",
+      "published_at": "2026-09-26T09:52:36+00:00",
+      "source": "blockchain.news",
+      "score": 1,
+      "ntitle": "op price prediction stalling 0 15 short squeeze or bull trap",
+      "coins": [
+        "OP"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "AlphaFi Shutdown: Sui Foundation Covers Bad Debt as AlphaLend Winds Down",
+      "link": "https://blockonomi.com/alphafi-shutdown-sui-foundation-covers-bad-debt-as-alphalend-winds-down/",
+      "published_at": "2026-09-26T09:39:24+00:00",
+      "source": "blockonomi.com",
+      "score": 3,
+      "ntitle": "alphafi shutdown sui foundation covers bad debt alphalend winds down",
+      "coins": [
+        "SUI"
+      ],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
       "title": "Liquid Review: Crypto, Stock and Pre-IPO Perps in One App",
       "link": "https://coincodecap.com/liquid-trade-review?utm_source=rss&utm_medium=rss&utm_campaign=liquid-trade-review",
-      "published_at": "2026-09-26T05:29:07.881856+00:00",
+      "published_at": "2026-09-26T10:04:10.190657+00:00",
       "source": "coincodecap.com",
       "score": 6,
       "ntitle": "liquid review crypto stock pre ipo perps one app",
@@ -28,12 +66,41 @@
       "agency": null
     },
     {
-      "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
-      "link": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
-      "published_at": "2026-09-26T05:00:00+00:00",
-      "source": "coindesk.com",
+      "title": "Bitget To Resume Crypto Withdrawals After $352M XRP, ETH Theft In Latest Hack",
+      "link": "https://coingape.com/bitget-to-resume-crypto-withdrawals-after-352m-xrp-eth-theft-in-latest-hack/",
+      "published_at": "2026-09-26T09:59:27+00:00",
+      "source": "coingape.com",
+      "score": 6,
+      "ntitle": "bitget resume crypto withdrawals after 352m xrp eth theft latest hack",
+      "coins": [
+        "ETH",
+        "XRP"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Quant, Ethena and Bitway lead weekly crypto gains, can they hold?",
+      "link": "https://crypto.news/quant-ethena-and-bitway-lead-weekly-crypto-gains/",
+      "published_at": "2026-09-26T09:41:59+00:00",
+      "source": "crypto.news",
+      "score": 3,
+      "ntitle": "quant ethena bitway lead weekly crypto gains can they hold",
+      "coins": [
+        "ENA"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "US spot Solana ETFs see record $80M inflow in one day",
+      "link": "https://cryptobriefing.com/solana-etf-record-80m-inflow/",
+      "published_at": "2026-09-26T09:26:03+00:00",
+      "source": "cryptobriefing.com",
       "score": 5,
-      "ntitle": "solana s 150 millisecond settlement upgrade reaches second public test network",
+      "ntitle": "us spot solana etfs see record 80m inflow one day",
       "coins": [
         "SOL"
       ],
@@ -42,45 +109,77 @@
       "agency": null
     },
     {
-      "title": "Fed’s Hammack: High inflation complicates economic planning",
-      "link": "https://cryptobriefing.com/feds-hammack-high-inflation-complicates-economic-planning/",
-      "published_at": "2026-09-26T05:24:00+00:00",
-      "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "fed s hammack high inflation complicates economic planning",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "EU faces September 30 clock to decide future of DeFi loans",
-      "link": "https://cryptoslate.com/eu-faces-september-30-clock-to-decide-future-of-defi-loans/",
-      "published_at": "2026-09-26T05:10:00+00:00",
+      "title": "Bitcoin posts on X can pay even when Bitcoin doesn’t",
+      "link": "https://cryptoslate.com/bitcoin-posts-on-x-can-pay-even-when-bitcoin-doesnt/",
+      "published_at": "2026-09-26T09:05:19+00:00",
       "source": "cryptoslate.com",
-      "score": 3,
-      "ntitle": "eu faces september 30 clock decide future defi loans",
-      "coins": [],
-      "sentiment": "neutral",
+      "score": 1,
+      "ntitle": "bitcoin posts x can pay even when bitcoin doesn t",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Cybercriminal Directed $2.6M Crypto Heist From Prison: Prosecutors",
-      "link": "https://news.bitcoin.com/regulation-and-legal/cybercriminal-directed-2-6m-crypto-heist-from-prison-prosecutors/",
-      "published_at": "2026-09-26T04:50:56+00:00",
+      "title": "Louisiana Woman Arrested After Using Fake Social Security Numbers To Collect $41,000+ in Casino Jackpots",
+      "link": "https://dailyhodl.com/2026/09/26/louisiana-woman-arrested-after-using-fake-social-security-numbers-to-collect-41000-in-casino-jackpots/",
+      "published_at": "2026-09-26T09:15:18+00:00",
+      "source": "dailyhodl.com",
+      "score": 4,
+      "ntitle": "louisiana woman arrested after using fake social security numbers collect 41 000 casino jackpots",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Bitget Saga: Hacker Just Refueled on Binance as Withdrawals Reopen Monday",
+      "link": "https://news.bitcoin.com/exchanges/bitget-hacker-binance-withdrawals-reopen-bitcoin-first/",
+      "published_at": "2026-09-26T09:30:38+00:00",
       "source": "news.bitcoin.com",
       "score": 1,
-      "ntitle": "cybercriminal directed 2 6m crypto heist prison prosecutors",
-      "coins": [],
-      "sentiment": "neutral",
+      "ntitle": "bitget saga hacker just refueled binance withdrawals reopen monday",
+      "coins": [
+        "BNB"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Ripple Pioneer Approves: Nik Bougalis Returns to Rewrite XRP Ledger Core",
+      "link": "https://u.today/ripple-pioneer-approves-nik-bougalis-returns-to-rewrite-xrp-ledger-core",
+      "published_at": "2026-09-26T09:41:05+00:00",
+      "source": "u.today",
+      "score": 8,
+      "ntitle": "ripple pioneer approves nik bougalis returns rewrite xrp ledger core",
+      "coins": [
+        "XRP"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "ARB Price Prediction: Coiled at $0.22 With Smart Money Loading — The $0.24 Wall Is Next",
+      "link": "https://Blockchain.News/news/20260926-price-prediction-arb-coiled-at-022-with-smart-money",
+      "published_at": "2026-09-26T09:43:36+00:00",
+      "source": "blockchain.news",
+      "score": 2,
+      "ntitle": "arb price prediction coiled 0 22 smart money loading 0 24 wall next",
+      "coins": [
+        "ARB"
+      ],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
       "title": "Tread.fi Review: Execution Algos Across CEXs and Perp DEXs",
       "link": "https://coincodecap.com/tread-fi-review?utm_source=rss&utm_medium=rss&utm_campaign=tread-fi-review",
-      "published_at": "2026-09-26T05:29:07.881576+00:00",
+      "published_at": "2026-09-26T10:04:10.190366+00:00",
       "source": "coincodecap.com",
       "score": 1,
       "ntitle": "tread fi review execution algos across cexs perp dexs",
@@ -90,42 +189,44 @@
       "agency": null
     },
     {
-      "title": "Bitwise, Franklin ETF clients acquire $23M in XRP, boosting institutional interest",
-      "link": "https://cryptobriefing.com/bitwise-franklin-etf-clients-acquire-23m-in-xrp-boosting-institutional-interest/",
-      "published_at": "2026-09-26T05:15:27+00:00",
-      "source": "cryptobriefing.com",
-      "score": 11,
-      "ntitle": "bitwise franklin etf clients acquire 23m xrp boosting institutional interest",
+      "title": "XRP Price Prediction After SEC Begins Crypto Clarity Push Following CLARITY Act Failure",
+      "link": "https://coingape.com/markets/xrp-price-prediction-after-sec-begins-crypto-clarity-push-following-clarity-act-failure/",
+      "published_at": "2026-09-26T09:46:50+00:00",
+      "source": "coingape.com",
+      "score": 7,
+      "ntitle": "xrp price prediction after sec begins crypto clarity push following clarity act failure",
       "coins": [
         "XRP"
       ],
       "sentiment": "bullish",
+      "is_regulation": true,
+      "agency": "SEC"
+    },
+    {
+      "title": "VoteVets spends millions to elect Democrats, shaping midterms",
+      "link": "https://cryptobriefing.com/votevets-spends-millions-to-elect-democrats-shaping-midterms/",
+      "published_at": "2026-09-26T09:08:10+00:00",
+      "source": "cryptobriefing.com",
+      "score": 1,
+      "ntitle": "votevets spends millions elect democrats shaping midterms",
+      "coins": [],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     }
   ],
   "day": [
     {
-      "title": "Best Crypto Trading Strategies for Beginners in 2026",
-      "link": "https://101blockchains.com/best-crypto-trading-strategies/",
-      "published_at": "2026-09-25T09:42:53+00:00",
-      "source": "101blockchains.com",
-      "score": 1,
-      "ntitle": "best crypto trading strategies beginners 2026",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Fed proposes new stablecoin rules under GENIUS Act — What to expect?",
-      "link": "https://ambcrypto.com/fed-proposes-new-stablecoin-rules-under-genius-act-what-to-expect/",
-      "published_at": "2026-09-26T04:00:59+00:00",
+      "title": "Bitcoin’s price should target THIS weekly close to cement multi-month trend shift",
+      "link": "https://ambcrypto.com/bitcoins-price-should-target-this-weekly-close-to-cement-multi-month-trend-shift/",
+      "published_at": "2026-09-26T08:00:03+00:00",
       "source": "ambcrypto.com",
-      "score": 3,
-      "ntitle": "fed proposes new stablecoin rules under genius act what expect",
-      "coins": [],
-      "sentiment": "bearish",
+      "score": 2,
+      "ntitle": "bitcoin s price should target this weekly close cement multi month trend shift",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -144,24 +245,24 @@
       "agency": null
     },
     {
-      "title": "Pentagon Wins Major Court Battle Against Anthropic",
-      "link": "https://beincrypto.com/anthropic-pentagon-blacklist-court-ruling/",
-      "published_at": "2026-09-26T00:08:02+00:00",
+      "title": "Grayscale Files Zcash ETF That Pays Every 2 Weeks: What's the Catch?",
+      "link": "https://beincrypto.com/grayscale-zcash-income-etf-biweekly-payouts/",
+      "published_at": "2026-09-26T07:47:42+00:00",
       "source": "beincrypto.com",
-      "score": 5,
-      "ntitle": "pentagon wins major court battle against anthropic",
+      "score": 3,
+      "ntitle": "grayscale files zcash etf that pays every 2 weeks what s catch",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Kamino Brings Sterling Lending Onchain With tGBP Market",
-      "link": "https://bitcoinist.com/kamino-brings-sterling-lending-onchain-with-tgbp-market/",
-      "published_at": "2026-09-25T18:30:00+00:00",
+      "title": "0G Wants To Turn AI Compute Into A Financial Asset",
+      "link": "https://bitcoinist.com/0g-wants-to-turn-ai-compute-into-a-financial-asset/",
+      "published_at": "2026-09-26T08:30:00+00:00",
       "source": "bitcoinist.com",
-      "score": 5,
-      "ntitle": "kamino brings sterling lending onchain tgbp market",
+      "score": 7,
+      "ntitle": "0g wants turn ai compute into financial asset",
       "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -216,26 +317,12 @@
       "agency": null
     },
     {
-      "title": "XRP Ledger’s Batch upgrade slips to Oct. 9 after validator support resets",
-      "link": "https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets",
-      "published_at": "2026-09-26T04:30:00+00:00",
+      "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
+      "link": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
+      "published_at": "2026-09-26T05:00:00+00:00",
       "source": "coindesk.com",
-      "score": 8,
-      "ntitle": "xrp ledger s batch upgrade slips oct 9 after validator support resets",
-      "coins": [
-        "XRP"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Where Is Solana Price Heading After Breaking Above $120?",
-      "link": "https://coingape.com/markets/where-is-solana-price-heading-after-breaking-above-120/",
-      "published_at": "2026-09-25T21:43:10+00:00",
-      "source": "coingape.com",
-      "score": 6,
-      "ntitle": "where solana price heading after breaking above 120",
+      "score": 5,
+      "ntitle": "solana s 150 millisecond settlement upgrade reaches second public test network",
       "coins": [
         "SOL"
       ],
@@ -244,88 +331,90 @@
       "agency": null
     },
     {
-      "title": "Uniswap price forecast: UNI risks 15% drop as long liquidations build",
-      "link": "https://coinjournal.net/news/uniswap-price-forecast-uni-risks-15-drop-as-long-liquidations-build/",
-      "published_at": "2026-09-25T08:50:56+00:00",
-      "source": "coinjournal.net",
+      "title": "Bitcoin Price Prediction as Trump Rejects Iran’s 7-day Ceasefire Proposal",
+      "link": "https://coingape.com/markets/bitcoin-price-prediction-as-trump-rejects-irans-7-day-ceasefire-proposal/",
+      "published_at": "2026-09-26T07:33:25+00:00",
+      "source": "coingape.com",
       "score": 1,
-      "ntitle": "uniswap price forecast uni risks 15 drop long liquidations build",
+      "ntitle": "bitcoin price prediction trump rejects iran s 7 day ceasefire proposal",
       "coins": [
-        "UNI"
+        "BTC"
       ],
-      "sentiment": "bearish",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "OG.com seeks CFTC approval for single-stock perpetual futures",
-      "link": "https://cointelegraph.com/news/og-com-seeks-cftc-approval-single-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-09-25T20:37:21+00:00",
+      "title": "SEC Commissioner Hester Peirce to leave post on Oct. 2",
+      "link": "https://cointelegraph.com/news/sec-commissioner-hester-peirce-to-leave-post-on-oct-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-09-26T09:02:22+00:00",
       "source": "cointelegraph.com",
-      "score": 3,
-      "ntitle": "og com seeks cftc approval single stock perpetual futures",
+      "score": 1,
+      "ntitle": "sec commissioner hester peirce leave post oct 2",
       "coins": [],
       "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "CFTC"
+      "is_regulation": false,
+      "agency": null
     },
     {
-      "title": "Google’s PageBreak finds over 500 XSS flaws in its web apps",
-      "link": "https://crypto.news/googles-pagebreak-finds-over-500-xss-flaws/",
-      "published_at": "2026-09-25T19:38:27+00:00",
+      "title": "Kalshi lost another appeals case. Can states regulate prediction markets as gambling?",
+      "link": "https://crypto.news/kalshi-lost-another-appeals-case-can-states-regulate-prediction-markets-as-gambling/",
+      "published_at": "2026-09-26T08:57:31+00:00",
       "source": "crypto.news",
-      "score": 3,
-      "ntitle": "google s pagebreak finds over 500 xss flaws web apps",
+      "score": 4,
+      "ntitle": "kalshi lost another appeals case can states regulate prediction markets gambling",
       "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Ethena ends token incentives for USDe after 85% decline in rewards",
+      "link": "https://cryptobriefing.com/ethena-ends-usde-token-incentives/",
+      "published_at": "2026-09-26T08:12:32+00:00",
+      "source": "cryptobriefing.com",
+      "score": 1,
+      "ntitle": "ethena ends token incentives usde after 85 decline rewards",
+      "coins": [
+        "ENA"
+      ],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Bitget hacker withdraws $1.23M from Binance, funnels funds to attacker-controlled wallet",
-      "link": "https://cryptobriefing.com/bitget-hacker-withdraws-binance-transfers/",
-      "published_at": "2026-09-26T04:22:26+00:00",
-      "source": "cryptobriefing.com",
-      "score": 2,
-      "ntitle": "bitget hacker withdraws 1 23m binance funnels funds attacker controlled wallet",
-      "coins": [
-        "BNB"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Fed Moves to Tighten Stablecoin Rules With Two New GENIUS Act Proposals",
-      "link": "https://cryptopotato.com/fed-moves-to-tighten-stablecoin-rules-with-two-new-genius-act-proposals/",
-      "published_at": "2026-09-26T03:55:33+00:00",
+      "title": "Trump-Xi Meeting: Everything You Need to Know About the AI Talks",
+      "link": "https://cryptopotato.com/trump-xi-meeting-everything-you-need-to-know-about-the-ai-talks/",
+      "published_at": "2026-09-26T08:25:42+00:00",
       "source": "cryptopotato.com",
       "score": 1,
-      "ntitle": "fed moves tighten stablecoin rules two new genius act proposals",
+      "ntitle": "trump xi meeting everything you need know about ai talks",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Swiss bank shields Bitget institutions while retail funds freeze",
-      "link": "https://cryptoslate.com/swiss-bank-shields-bitget-institutions-while-retail-funds-freeze/",
-      "published_at": "2026-09-26T02:30:16+00:00",
+      "title": "ARK partners with Securitize to put a venture fund on Ethereum, but leaves exit doors locked",
+      "link": "https://cryptoslate.com/ark-partners-with-securitize-to-put-venture-fund-on-ethereum-but-leaves-exit-doors-locked/",
+      "published_at": "2026-09-26T07:30:29+00:00",
       "source": "cryptoslate.com",
-      "score": 5,
-      "ntitle": "swiss bank shields bitget institutions while retail funds freeze",
-      "coins": [],
+      "score": 4,
+      "ntitle": "ark partners securitize put venture fund ethereum but leaves exit doors locked",
+      "coins": [
+        "ETH"
+      ],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "New York Woman Allegedly Impersonates Mother-in-Law for Nearly 17 Years, Defrauds $668,884 in Social Security and Pension Benefits",
-      "link": "https://dailyhodl.com/2026/09/25/new-york-woman-allegedly-impersonates-mother-in-law-for-nearly-17-years-defrauds-668884-in-social-security-and-pension-benefits/",
-      "published_at": "2026-09-25T16:55:41+00:00",
+      "title": "Alleged Fraudster Drains $800,000 From Iowa Firm in Business Email Scam, Feds Seize $372,583",
+      "link": "https://dailyhodl.com/2026/09/26/federal-court-orders-forfeiture-of-372583-transferred-to-wells-fargo-account-in-iowa-business-email-scam/",
+      "published_at": "2026-09-26T07:04:49+00:00",
       "source": "dailyhodl.com",
-      "score": 3,
-      "ntitle": "new york woman allegedly impersonates mother law nearly 17 years defrauds 668 884 social security pension benefits",
+      "score": 2,
+      "ntitle": "alleged fraudster drains 800 000 iowa firm business email scam feds seize 372 583",
       "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
@@ -356,28 +445,31 @@
       "agency": "Fed"
     },
     {
-      "title": "Bitcoin slips, but set for weekly gain as regulatory cheer offsets surging yields",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pauses-near-84k-with-focus-on-rate-jitters-bitget-hack-4916727",
-      "published_at": "2026-09-25T20:52:20+00:00",
+      "title": "Bitcoin holds near $84,000 as rising bond yields offset regulatory progress",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-near-84000-as-rising-bond-yields-offset-regulatory-progress-4918445",
+      "published_at": "2026-09-26T05:04:09+00:00",
       "source": "investing.com",
-      "score": 2,
-      "ntitle": "bitcoin slips but set weekly gain regulatory cheer offsets surging yields",
+      "score": 1,
+      "ntitle": "bitcoin holds near 84 000 rising bond yields offset regulatory progress",
       "coins": [
-        "BTC"
+        "BTC",
+        "NEAR"
       ],
-      "sentiment": "bullish",
+      "sentiment": "neutral",
       "is_regulation": true,
       "agency": "Regulatory"
     },
     {
-      "title": "Feds Charge Vietnamese National in $16M Pig Butchering Crypto Scheme",
-      "link": "https://news.bitcoin.com/regulation-and-legal/feds-charge-vietnamese-national-16m-pig-butchering-crypto-scheme/",
-      "published_at": "2026-09-26T04:10:46+00:00",
+      "title": "Kalshi Says XRP Price Can Hit $1.70 in September",
+      "link": "https://news.bitcoin.com/crypto-news/xrp-kalshi-odds-1-70-september-contract-32-percent/",
+      "published_at": "2026-09-26T08:00:17+00:00",
       "source": "news.bitcoin.com",
-      "score": 1,
-      "ntitle": "feds charge vietnamese national 16m pig butchering crypto scheme",
-      "coins": [],
-      "sentiment": "bearish",
+      "score": 6,
+      "ntitle": "kalshi says xrp price can hit 1 70 september",
+      "coins": [
+        "XRP"
+      ],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -446,16 +538,14 @@
       "agency": null
     },
     {
-      "title": "Polygon price rises 12% since 100M POL burn—can it hold above $0.11?",
-      "link": "https://ambcrypto.com/polygon-price-rises-12-since-100m-pol-burn-can-it-hold-above-0-11/",
-      "published_at": "2026-09-26T03:30:58+00:00",
+      "title": "Magic Eden stopped using THIS contract in 2024, and it’s still causing trouble!",
+      "link": "https://ambcrypto.com/magic-eden-stopped-using-this-contract-in-2024-and-its-still-causing-trouble/",
+      "published_at": "2026-09-26T07:00:51+00:00",
       "source": "ambcrypto.com",
       "score": 1,
-      "ntitle": "polygon price rises 12 since 100m pol burn can it hold above 0 11",
-      "coins": [
-        "MATIC"
-      ],
-      "sentiment": "neutral",
+      "ntitle": "magic eden stopped using this contract 2024 it s still causing trouble",
+      "coins": [],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -474,14 +564,42 @@
       "agency": null
     },
     {
-      "title": "FC Barcelona Bets on Cardano With New ‘Barça Fan Lab' Platform",
-      "link": "https://beincrypto.com/fc-barcelona-barca-fan-lab-cardano/",
-      "published_at": "2026-09-25T19:33:49+00:00",
+      "title": "SEC Clarifies New Rules For Staked Ethereum",
+      "link": "https://beincrypto.com/staked-eth-security-sec-staff-faqs/",
+      "published_at": "2026-09-26T06:25:16+00:00",
       "source": "beincrypto.com",
-      "score": 3,
-      "ntitle": "fc barcelona bets cardano new bar fan lab platform",
+      "score": 1,
+      "ntitle": "sec clarifies new rules staked ethereum",
       "coins": [
-        "ADA"
+        "ETH"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "OpenZeppelin Brings Audited Smart Contract Toolkit To TRON",
+      "link": "https://bitcoinist.com/openzeppelin-brings-audited-smart-contract-toolkit-to-tron/",
+      "published_at": "2026-09-26T07:30:00+00:00",
+      "source": "bitcoinist.com",
+      "score": 7,
+      "ntitle": "openzeppelin brings audited smart contract toolkit tron",
+      "coins": [
+        "TRX"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Bitcoin ETFs Extend Winning Streak With Nearly $3B in Inflows",
+      "link": "https://bitcoinmagazine.com/news/bitcoin-etfs-bring-in-nearly-3-billion",
+      "published_at": "2026-09-25T19:55:01+00:00",
+      "source": "bitcoinmagazine.com",
+      "score": 3,
+      "ntitle": "bitcoin etfs extend winning streak nearly 3b inflows",
+      "coins": [
+        "BTC"
       ],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -490,14 +608,14 @@
   ],
   "week": [
     {
-      "title": "Announcement – RWA Tokenization: Advanced Concepts & Applications Course Launched",
-      "link": "https://101blockchains.com/rwa-tokenization-advanced-course-launched/",
-      "published_at": "2026-09-24T07:56:24+00:00",
+      "title": "Best Crypto Trading Strategies for Beginners in 2026",
+      "link": "https://101blockchains.com/best-crypto-trading-strategies/",
+      "published_at": "2026-09-25T09:42:53+00:00",
       "source": "101blockchains.com",
-      "score": 14,
-      "ntitle": "announcement rwa tokenization advanced concepts applications course launched",
+      "score": 1,
+      "ntitle": "best crypto trading strategies beginners 2026",
       "coins": [],
-      "sentiment": "bullish",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -528,14 +646,16 @@
       "agency": null
     },
     {
-      "title": "Runway's Model Router Cuts Generative Media Costs by 66%",
-      "link": "https://Blockchain.News/news/runway-model-router-cost-quality",
-      "published_at": "2026-09-24T20:11:05+00:00",
+      "title": "SUI Price Prediction: The $1.08 Wall Will Define the Next 30 Days",
+      "link": "https://Blockchain.News/news/20260925-price-prediction-sui-the-108-wall-will-define-the",
+      "published_at": "2026-09-25T10:01:18+00:00",
       "source": "blockchain.news",
       "score": 3,
-      "ntitle": "runway s model router cuts generative media costs 66",
-      "coins": [],
-      "sentiment": "neutral",
+      "ntitle": "sui price prediction 1 08 wall will define next 30 days",
+      "coins": [
+        "SUI"
+      ],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -566,104 +686,97 @@
       "agency": null
     },
     {
-      "title": "Bitget's $352 million hack happened via spoofed transfers, not private keys, CEO Gracy Chen says",
-      "link": "https://www.coindesk.com/markets/2026/09/25/bitget-s-usd351-million-hack-happened-via-spoofed-transfers-not-private-keys-ceo-gray-chen-says",
-      "published_at": "2026-09-25T04:29:34+00:00",
+      "title": "Altcoins rally across the board as bitcoin consolidates near $84,000",
+      "link": "https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000",
+      "published_at": "2026-09-25T09:59:45+00:00",
       "source": "coindesk.com",
-      "score": 2,
-      "ntitle": "bitget s 352 million hack happened via spoofed transfers not private keys ceo gracy chen says",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Over $157M in XRP Stolen in Bitget Hack, North Korea’s Lazarus Group Suspected",
-      "link": "https://coingape.com/over-157m-in-xrp-stolen-in-bitget-hack-north-koreas-lazarus-group-suspected/",
-      "published_at": "2026-09-25T04:29:51+00:00",
-      "source": "coingape.com",
-      "score": 6,
-      "ntitle": "over 157m xrp stolen bitget hack north korea s lazarus group suspected",
+      "score": 1,
+      "ntitle": "altcoins rally across board bitcoin consolidates near 84 000",
       "coins": [
-        "XRP"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Hyperliquid (HYPE) targets $115 as tokenized asset trading gains momentum",
-      "link": "https://coinjournal.net/news/hyperliquid-hype-targets-115-as-tokenized-asset-trading-gains-momentum/",
-      "published_at": "2026-09-24T03:48:19+00:00",
-      "source": "coinjournal.net",
-      "score": 9,
-      "ntitle": "hyperliquid hype targets 115 tokenized asset trading gains momentum",
-      "coins": [
-        "HYPE"
+        "BTC",
+        "NEAR"
       ],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Australian PM warns of AI’s ‘furious pace’ after agent breached government site",
-      "link": "https://cointelegraph.com/news/australia-pm-warns-of-ais-furious-pace-after-agent-breached-government-site?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-09-25T05:06:22+00:00",
+      "title": "XRP Ledger Records 11,432 New Accounts, 320% Above Average as Price Jumps to $1.60",
+      "link": "https://coingape.com/xrp-ledger-records-11432-new-accounts-320-above-average-as-price-jumps-to-1-60/",
+      "published_at": "2026-09-25T09:19:51+00:00",
+      "source": "coingape.com",
+      "score": 9,
+      "ntitle": "xrp ledger records 11 432 new accounts 320 above average price jumps 1 60",
+      "coins": [
+        "XRP"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Magic Eden scare puts 3,832 NFTs in whitehat protective custody",
+      "link": "https://cointelegraph.com/news/magic-eden-nft-whitehat-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-09-25T09:48:53+00:00",
       "source": "cointelegraph.com",
-      "score": 1,
-      "ntitle": "australian pm warns ai s furious pace after agent breached government site",
+      "score": 3,
+      "ntitle": "magic eden scare puts 3 832 nfts whitehat protective custody",
       "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Jack Dorsey’s Block joins x402 with Lightning support",
-      "link": "https://crypto.news/block-joins-x402-with-lightning-support/",
-      "published_at": "2026-09-25T05:25:16+00:00",
+      "title": "Samourai co-founder faces new move after 30-day ordeal",
+      "link": "https://crypto.news/samourai-co-founder-faces-new-move-after-30-day-ordeal/",
+      "published_at": "2026-09-25T09:58:26+00:00",
       "source": "crypto.news",
       "score": 1,
-      "ntitle": "jack dorsey s block joins x402 lightning support",
+      "ntitle": "samourai co founder faces new move after 30 day ordeal",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Bitget Reports $351M Hot Wallet Breach, Says User Funds Are Covered",
-      "link": "https://cryptopotato.com/bitget-reports-351m-hot-wallet-breach-says-user-funds-are-covered/",
-      "published_at": "2026-09-25T04:44:11+00:00",
+      "title": "Ethereum Is Disappearing From Exchanges Fast: Here’s Where All the ETH Is Going",
+      "link": "https://cryptopotato.com/ethereum-is-disappearing-from-exchanges-fast-heres-where-all-the-eth-is-going/",
+      "published_at": "2026-09-25T08:57:51+00:00",
       "source": "cryptopotato.com",
       "score": 1,
-      "ntitle": "bitget reports 351m hot wallet breach says user funds covered",
-      "coins": [],
-      "sentiment": "bearish",
+      "ntitle": "ethereum disappearing exchanges fast here s where all eth going",
+      "coins": [
+        "ETH"
+      ],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Visa Says Bank-Level Fraud Protection and Deposit Insurance Could Unlock US Stablecoin Adoption",
-      "link": "https://dailyhodl.com/2026/09/24/visa-says-bank-level-fraud-protection-and-deposit-insurance-could-unlock-us-stablecoin-adoption/",
-      "published_at": "2026-09-24T14:30:50+00:00",
+      "title": "Stablecoin Cross-Border Flows Surge 78% to $220,300,000,000 Amid Crypto Bear Market",
+      "link": "https://dailyhodl.com/2026/09/25/stablecoin-cross-border-flows-surge-78-to-220300000000-amid-crypto-bear-market/",
+      "published_at": "2026-09-25T09:15:34+00:00",
       "source": "dailyhodl.com",
-      "score": 4,
-      "ntitle": "visa says bank level fraud protection deposit insurance could unlock us stablecoin adoption",
+      "score": 2,
+      "ntitle": "stablecoin cross border flows surge 78 220 300 000 000 amid crypto bear market",
       "coins": [],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Federal Reserve Unveils Stablecoin Rules on Reserves and Capital",
-      "link": "https://decrypt.co/379274/federal-reserve-unveils-stablecoin-rules-on-reserves-and-capital",
-      "published_at": "2026-09-24T21:56:03+00:00",
+      "title": "Researchers Publish 'Zcash-Style' Design for Private Bitcoin Transfers",
+      "link": "https://decrypt.co/379280/researchers-publish-zcash-style-design-for-private-bitcoin-transfers",
+      "published_at": "2026-09-25T09:50:01+00:00",
       "source": "decrypt.co",
-      "score": 3,
-      "ntitle": "federal reserve unveils stablecoin rules reserves capital",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Fed"
+      "score": 1,
+      "ntitle": "researchers publish zcash style design private bitcoin transfers",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
@@ -742,19 +855,28 @@
       "agency": null
     },
     {
-      "title": "XRP, Dogecoin (DOGE), Ethereum (ETH) and Stellar (XLM) Price Analysis For September 25: Bears Take Control",
-      "link": "https://u.today/price-analysis/xrp-dogecoin-doge-ethereum-eth-and-stellar-xlm-price-analysis-for-september-25-bears-take-control",
-      "published_at": "2026-09-25T00:01:00+00:00",
+      "title": "Chainlink (LINK) Open Interest Hits 25% in Last 24 Hours: Breakout Is Happening",
+      "link": "https://u.today/chainlink-link-open-interest-hits-25-in-last-24-hours-breakout-is-happening",
+      "published_at": "2026-09-25T10:00:00+00:00",
       "source": "u.today",
-      "score": 11,
-      "ntitle": "xrp dogecoin doge ethereum eth stellar xlm price analysis september 25 bears take control",
+      "score": 8,
+      "ntitle": "chainlink link open interest hits 25 last 24 hours breakout happening",
       "coins": [
-        "DOGE",
-        "ETH",
-        "XLM",
-        "XRP"
+        "LINK"
       ],
-      "sentiment": "neutral",
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Announcement – RWA Tokenization: Advanced Concepts & Applications Course Launched",
+      "link": "https://101blockchains.com/rwa-tokenization-advanced-course-launched/",
+      "published_at": "2026-09-24T07:56:24+00:00",
+      "source": "101blockchains.com",
+      "score": 14,
+      "ntitle": "announcement rwa tokenization advanced concepts applications course launched",
+      "coins": [],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -783,16 +905,16 @@
       "agency": null
     },
     {
-      "title": "Binance Expands to 7,000 Stocks, ETFs Alongside Crypto",
-      "link": "https://Blockchain.News/news/binance-adds-stocks-etfs",
-      "published_at": "2026-09-24T20:05:40+00:00",
+      "title": "OP Price Prediction: Pinned at Resistance — Will the 9% Surge Hold or Fade Fast?",
+      "link": "https://Blockchain.News/news/20260925-price-prediction-op-pinned-at-resistance-will-the-9",
+      "published_at": "2026-09-25T09:53:18+00:00",
       "source": "blockchain.news",
-      "score": 3,
-      "ntitle": "binance expands 7 000 stocks etfs alongside crypto",
+      "score": 2,
+      "ntitle": "op price prediction pinned resistance will 9 surge hold or fade fast",
       "coins": [
-        "BNB"
+        "OP"
       ],
-      "sentiment": "bullish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -821,50 +943,50 @@
       "agency": null
     },
     {
-      "title": "New York sues Polymarket, alleging it is running an illegal gambling operation",
-      "link": "https://www.coindesk.com/policy/2026/09/24/new-york-sues-polymarket-alleging-it-is-running-an-illegal-gambling-operation",
-      "published_at": "2026-09-24T22:41:44+00:00",
+      "title": "Bitcoin ETF flows turn positive for 2026 after erasing $5.8 billion deficit",
+      "link": "https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole",
+      "published_at": "2026-09-25T09:13:01+00:00",
       "source": "coindesk.com",
-      "score": 1,
-      "ntitle": "new york sues polymarket alleging it running illegal gambling operation",
-      "coins": [],
-      "sentiment": "neutral",
+      "score": 5,
+      "ntitle": "bitcoin etf flows turn positive 2026 after erasing 5 8 billion deficit",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Crypto Exchange Bitget Exploited for $351M as Hacker Swaps Funds for Ethereum",
-      "link": "https://coingape.com/crypto-exchange-bitget-exploited-for-350m-as-hacker-swaps-funds-for-ethereum/",
-      "published_at": "2026-09-24T22:49:02+00:00",
-      "source": "coingape.com",
+      "title": "KelpDAO sues LayerZero, CEO over $292M rsETH bridge exploit",
+      "link": "https://cointelegraph.com/news/kelpdao-layerzero-lawsuit-rseth-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-09-25T08:51:17+00:00",
+      "source": "cointelegraph.com",
       "score": 1,
-      "ntitle": "crypto exchange bitget exploited 351m hacker swaps funds ethereum",
-      "coins": [
-        "ETH"
-      ],
+      "ntitle": "kelpdao sues layerzero ceo over 292m rseth bridge exploit",
+      "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Nexo says 67% of affluent investors own crypto but few make it central to wealth plans",
-      "link": "https://coinjournal.net/news/nexo-says-67-of-affluent-investors-own-crypto-but-few-make-it-central-to-wealth-plans/",
-      "published_at": "2026-09-23T14:00:40+00:00",
-      "source": "coinjournal.net",
-      "score": 4,
-      "ntitle": "nexo says 67 affluent investors own crypto but few make it central wealth plans",
+      "title": "Toshiba joins 25 firms in Japan’s six month EJPY stablecoin trial",
+      "link": "https://crypto.news/toshiba-joins-25-firms-in-japans-six-month-ejpy-stablecoin-trial/",
+      "published_at": "2026-09-25T09:51:56+00:00",
+      "source": "crypto.news",
+      "score": 3,
+      "ntitle": "toshiba joins 25 firms japan s six month ejpy stablecoin trial",
       "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Researchers propose Zcash-style private Bitcoin transfers without a soft fork",
-      "link": "https://cointelegraph.com/news/shielded-bitcoin-zcash-style-privacy-no-soft-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-09-25T04:41:06+00:00",
-      "source": "cointelegraph.com",
+      "title": "How Will Crypto Markets Move After $16B in Bitcoin Options Expire Today?",
+      "link": "https://cryptopotato.com/how-will-crypto-markets-move-after-16b-in-bitcoin-options-expire-today/",
+      "published_at": "2026-09-25T06:51:35+00:00",
+      "source": "cryptopotato.com",
       "score": 1,
-      "ntitle": "researchers propose zcash style private bitcoin transfers without soft fork",
+      "ntitle": "how will crypto markets move after 16b bitcoin options expire today",
       "coins": [
         "BTC"
       ],
@@ -930,20 +1052,6 @@
       "score": 4,
       "ntitle": "celsius estate sues bitmex entities over alleged 490 million liquidation scheme",
       "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "XRP holds $1.30 as falling futures interest signals weak demand",
-      "link": "https://coinjournal.net/news/xrp-holds-1-30-as-falling-futures-interest-signals-weak-demand/",
-      "published_at": "2026-09-18T07:09:39+00:00",
-      "source": "coinjournal.net",
-      "score": 8,
-      "ntitle": "xrp holds 1 30 falling futures interest signals weak demand",
-      "coins": [
-        "XRP"
-      ],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
@@ -1061,20 +1169,6 @@
       "agency": null
     },
     {
-      "title": "XRP recovers but weak derivatives data limits bullish conviction",
-      "link": "https://coinjournal.net/news/xrp-recovers-but-weak-derivatives-data-limits-bullish-conviction/",
-      "published_at": "2026-09-17T09:36:13+00:00",
-      "source": "coinjournal.net",
-      "score": 6,
-      "ntitle": "xrp recovers but weak derivatives data limits bullish conviction",
-      "coins": [
-        "XRP"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
       "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
       "published_at": "2026-09-16T18:00:00+00:00",
@@ -1113,35 +1207,67 @@
   ],
   "clusters": [
     {
-      "id": 9,
-      "title": "Fed proposes new stablecoin rules under GENIUS Act — What to expect?",
-      "link": "https://ambcrypto.com/fed-proposes-new-stablecoin-rules-under-genius-act-what-to-expect/",
-      "source": "ambcrypto.com",
-      "published_at": "2026-09-26T04:00:59+00:00",
+      "id": 3,
+      "title": "AlphaFi Shutdown: Sui Foundation Covers Bad Debt as AlphaLend Winds Down",
+      "link": "https://blockonomi.com/alphafi-shutdown-sui-foundation-covers-bad-debt-as-alphalend-winds-down/",
+      "source": "blockonomi.com",
+      "published_at": "2026-09-26T09:39:24+00:00",
       "sentiment": "bearish",
-      "coins": [],
+      "coins": [
+        "SUI"
+      ],
       "sources": [
-        "ambcrypto.com",
-        "cryptopotato.com"
+        "blockonomi.com",
+        "thedefiant.io"
       ],
       "count": 2,
       "members": [
         {
-          "title": "Fed proposes new stablecoin rules under GENIUS Act — What to expect?",
-          "link": "https://ambcrypto.com/fed-proposes-new-stablecoin-rules-under-genius-act-what-to-expect/",
-          "source": "ambcrypto.com",
-          "published_at": "2026-09-26T04:00:59+00:00"
+          "title": "AlphaFi Shutdown: Sui Foundation Covers Bad Debt as AlphaLend Winds Down",
+          "link": "https://blockonomi.com/alphafi-shutdown-sui-foundation-covers-bad-debt-as-alphalend-winds-down/",
+          "source": "blockonomi.com",
+          "published_at": "2026-09-26T09:39:24+00:00"
         },
         {
-          "title": "Fed Moves to Tighten Stablecoin Rules With Two New GENIUS Act Proposals",
-          "link": "https://cryptopotato.com/fed-moves-to-tighten-stablecoin-rules-with-two-new-genius-act-proposals/",
-          "source": "cryptopotato.com",
-          "published_at": "2026-09-26T03:55:33+00:00"
+          "title": "AlphaFi Winds Down After Oracle Error, With Sui Foundation Support",
+          "link": "https://thedefiant.io/news/defi/alphafi-winds-down-after-oracle-error-with-sui-foundation-support",
+          "source": "thedefiant.io",
+          "published_at": "2026-09-26T00:27:19+00:00"
         }
       ]
     },
     {
-      "id": 10,
+      "id": 22,
+      "title": "SEC Staff Clarifies Token Buybacks and Liquid Staking in New FAQs",
+      "link": "https://blockonomi.com/sec-staff-clarifies-token-buybacks-and-liquid-staking-in-new-faqs/",
+      "source": "blockonomi.com",
+      "published_at": "2026-09-25T21:46:51+00:00",
+      "sentiment": "neutral",
+      "coins": [
+        "ETH"
+      ],
+      "sources": [
+        "beincrypto.com",
+        "blockonomi.com"
+      ],
+      "count": 2,
+      "members": [
+        {
+          "title": "SEC Staff Clarifies Token Buybacks and Liquid Staking in New FAQs",
+          "link": "https://blockonomi.com/sec-staff-clarifies-token-buybacks-and-liquid-staking-in-new-faqs/",
+          "source": "blockonomi.com",
+          "published_at": "2026-09-25T21:46:51+00:00"
+        },
+        {
+          "title": "SEC Clarifies New Rules For Staked Ethereum",
+          "link": "https://beincrypto.com/staked-eth-security-sec-staff-faqs/",
+          "source": "beincrypto.com",
+          "published_at": "2026-09-26T06:25:16+00:00"
+        }
+      ]
+    },
+    {
+      "id": 17,
       "title": "Inside IMD, Ethereum's New AI Swarm Experiment",
       "link": "https://www.bankless.com/read/inside-imd-ethereum-s-new-ai-swarm-experiment",
       "source": "bankless.com",
@@ -1173,52 +1299,52 @@
   "trending": [
     {
       "tag": "#Ai",
-      "count": 62,
+      "count": 65,
       "type": "topic",
       "pct": 100
     },
     {
       "tag": "#XRP",
-      "count": 54,
+      "count": 53,
       "type": "coin",
-      "pct": 87
+      "pct": 82
     },
     {
       "tag": "#Xrp",
-      "count": 53,
+      "count": 52,
       "type": "topic",
-      "pct": 85
+      "pct": 80
     },
     {
       "tag": "#Defi",
-      "count": 33,
+      "count": 44,
       "type": "topic",
-      "pct": 53
+      "pct": 68
     },
     {
       "tag": "#Bitcoin",
-      "count": 23,
+      "count": 19,
       "type": "topic",
-      "pct": 37
+      "pct": 29
     },
     {
       "tag": "#BTC",
-      "count": 21,
+      "count": 12,
       "type": "coin",
-      "pct": 34
+      "pct": 18
     },
     {
-      "tag": "#Etf",
-      "count": 13,
+      "tag": "#Stablecoin",
+      "count": 11,
       "type": "topic",
-      "pct": 21
+      "pct": 17
     },
     {
       "tag": "#XDC",
       "count": 9,
       "type": "coin",
-      "pct": 15
+      "pct": 14
     }
   ],
-  "generated_at": "2026-09-26T05:30:21.228717+00:00"
+  "generated_at": "2026-09-26T10:05:09.879518+00:00"
 }
