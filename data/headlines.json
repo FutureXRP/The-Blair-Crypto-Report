@@ -2,39 +2,51 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "Convex Finance is up 22% – THIS data says CVX’s rally is not done",
-      "link": "https://ambcrypto.com/convex-valuation-hits-260m-why-the-rally-may-not-be-over/",
-      "published_at": "2026-10-21T23:00:29+00:00",
+      "title": "Shiba Inu adds 150K holders – Why SHIB still faces downside risks",
+      "link": "https://ambcrypto.com/shiba-inu-adds-150k-holders-why-shib-still-faces-downside-risks/",
+      "published_at": "2026-10-22T01:00:01+00:00",
       "source": "ambcrypto.com",
       "score": 1,
-      "ntitle": "convex finance up 22 this data says cvx s rally not done",
+      "ntitle": "shiba inu adds 150k holders why shib still faces downside risks",
+      "coins": [
+        "SHIB"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Will Brent Jump 28% Again? US and Israel Draft Post-Midterm Iran Strike Plans",
+      "link": "https://beincrypto.com/iran-strike-plans-midterms-brent-oil/",
+      "published_at": "2026-10-22T01:00:00+00:00",
+      "source": "beincrypto.com",
+      "score": 1,
+      "ntitle": "will brent jump 28 again us israel draft post midterm iran strike plans",
       "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Netflix Stock Hits 26-Month Low, But Revenue Tells a Different Story",
-      "link": "https://beincrypto.com/netflix-stock-26-month-low-earnings/",
-      "published_at": "2026-10-21T23:10:03+00:00",
-      "source": "beincrypto.com",
+      "title": "Cloudflare says OpenAI models aid vulnerability discovery and fixes",
+      "link": "https://Blockchain.News/news/cloudflare-openai-daybreak-vulnerability-discovery-remediation",
+      "published_at": "2026-10-22T00:59:10+00:00",
+      "source": "blockchain.news",
       "score": 3,
-      "ntitle": "netflix stock hits 26 month low but revenue tells different story",
+      "ntitle": "cloudflare says openai models aid vulnerability discovery fixes",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Bitcoin swept to $80K and bids refilled as overhead supply built",
-      "link": "https://Blockchain.News/news/bitcoin-swept-to-80k-and-bids-refilled-as-overhead-supply-built",
-      "published_at": "2026-10-21T22:44:18+00:00",
-      "source": "blockchain.news",
-      "score": 5,
-      "ntitle": "bitcoin swept 80k bids refilled overhead supply built",
-      "coins": [
-        "BTC"
-      ],
+      "title": "Meta put out an ambitious roadmap to Muse monetization after strong quarter and guide",
+      "link": "https://www.cnbc.com/investingclub/2026/10/21/meta-put-out-an-ambitious-roadmap-to-muse-monetization-after-strong-quarter-and-guide.html",
+      "published_at": "2026-10-22T00:53:01+00:00",
+      "source": "cnbc.com",
+      "score": 2,
+      "ntitle": "meta put out ambitious roadmap muse monetization after strong quarter guide",
+      "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
@@ -42,7 +54,7 @@
     {
       "title": "TrendSpider Review: Pricing and TradingView Compared",
       "link": "https://coincodecap.com/trendspider-review?utm_source=rss&utm_medium=rss&utm_campaign=trendspider-review",
-      "published_at": "2026-10-21T23:12:11.649163+00:00",
+      "published_at": "2026-10-22T01:29:10.214759+00:00",
       "source": "coincodecap.com",
       "score": 6,
       "ntitle": "trendspider review pricing tradingview compared",
@@ -52,113 +64,101 @@
       "agency": null
     },
     {
-      "title": "Pump.fun’s Kimchi coin routes every creator fee to one address",
-      "link": "https://cryptobriefing.com/pump-fun-kimchi-coin-creator-fees/",
-      "published_at": "2026-10-21T23:05:41+00:00",
+      "title": "Bitget Targets Deeper RWA Liquidity With New Stock Transfer Service and Super Match",
+      "link": "https://coingape.com/bitget-targets-deeper-rwa-liquidity-with-new-stock-transfer-service-and-super-match/",
+      "published_at": "2026-10-22T01:08:47+00:00",
+      "source": "coingape.com",
+      "score": 12,
+      "ntitle": "bitget targets deeper rwa liquidity new stock transfer service super match",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "PHP Foundation admits ‘structural failure’ delayed critical security fix",
+      "link": "https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-10-22T00:44:00+00:00",
+      "source": "cointelegraph.com",
+      "score": 1,
+      "ntitle": "php foundation admits structural failure delayed critical security fix",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Three dead in attacks on Saudi oil field and airport",
+      "link": "https://cryptobriefing.com/three-dead-in-attacks-on-saudi-oil-field-and-airport/",
+      "published_at": "2026-10-22T00:52:33+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "pump fun s kimchi coin routes every creator fee one address",
+      "ntitle": "three dead attacks saudi oil field airport",
       "coins": [],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Irish drug lord’s lost Bitcoin fortune comes back to life as $41 million moves to Coinbase",
-      "link": "https://cryptoslate.com/irish-drug-lords-lost-bitcoin-fortune-comes-back-to-life-as-41-million-moves-to-coinbase/",
-      "published_at": "2026-10-21T23:10:19+00:00",
-      "source": "cryptoslate.com",
-      "score": -1,
-      "ntitle": "irish drug lord s lost bitcoin fortune comes back life 41 million moves coinbase",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "A Wallet Three Hours Old Minted Kimchi's Coin and Routed Every Fee to One Address",
-      "link": "https://thedefiant.io/news/tokens/kimchi-coin-minted-before-pump-fun-ad-fee-routing",
-      "published_at": "2026-10-21T22:45:11+00:00",
+      "title": "Aero Launches as Aerodrome and Velodrome Merge Across Seven Chains",
+      "link": "https://thedefiant.io/news/defi/aero-launches-aerodrome-velodrome-merge-seven-chains",
+      "published_at": "2026-10-22T01:25:39+00:00",
       "source": "thedefiant.io",
-      "score": 2,
-      "ntitle": "wallet three hours old minted kimchi s coin routed every fee one address",
+      "score": 3,
+      "ntitle": "aero launches aerodrome velodrome merge across seven chains",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Are You Already Using a Crypto Wallet Without Knowing It? Fireblocks Says Yes",
-      "link": "https://unchainedcrypto.com/are-you-already-using-a-crypto-wallet-without-knowing-it-fireblocks-says-yes/",
-      "published_at": "2026-10-21T22:30:23+00:00",
+      "title": "Fireblocks Executive Says Its Dynamic Wallets Likely Help Power Bank Transfers on Fiserv",
+      "link": "https://unchainedcrypto.com/fireblocks-executive-says-its-dynamic-wallets-likely-help-power-bank-transfers-on-fiserv/",
+      "published_at": "2026-10-22T01:00:00+00:00",
       "source": "unchainedcrypto.com",
-      "score": 1,
-      "ntitle": "you already using crypto wallet without knowing it fireblocks says yes",
+      "score": 4,
+      "ntitle": "fireblocks executive says dynamic wallets likely help power bank transfers fiserv",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Crypto Exchange Warning: Critical PHP Flaw Puts Payment Sites at Risk",
-      "link": "https://beincrypto.com/crypto-exchange-hack-alert-php2shell-risk/",
-      "published_at": "2026-10-21T22:42:38+00:00",
+      "title": "Fidelity’s Timmer Says AI Bubble Risk Is Not Stock Valuations, but Debt",
+      "link": "https://beincrypto.com/timmer-ai-bubble-debt-stock-valuations/",
+      "published_at": "2026-10-22T00:30:20+00:00",
       "source": "beincrypto.com",
       "score": 1,
-      "ntitle": "crypto exchange warning critical php flaw puts payment sites risk",
+      "ntitle": "fidelity s timmer says ai bubble risk not stock valuations but debt",
       "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Fireblocks urges action after eMudhra intermediate certificate compromise",
-      "link": "https://Blockchain.News/news/fireblocks-emudhra-intermediate-certificate-compromise",
-      "published_at": "2026-10-21T22:37:18+00:00",
-      "source": "blockchain.news",
-      "score": 1,
-      "ntitle": "fireblocks urges action after emudhra intermediate certificate compromise",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "$100k now deemed low income in some California counties amid rising costs",
-      "link": "https://cryptobriefing.com/100k-now-deemed-low-income-in-some-california-counties-amid-rising-costs/",
-      "published_at": "2026-10-21T23:03:58+00:00",
+      "title": "Wisconsin budget woes spotlighted in 2026 governor’s race",
+      "link": "https://cryptobriefing.com/wisconsin-budget-woes-spotlighted-in-2026-governors-race/",
+      "published_at": "2026-10-22T00:32:00+00:00",
       "source": "cryptobriefing.com",
       "score": 1,
-      "ntitle": "100k now deemed low income some california counties amid rising costs",
+      "ntitle": "wisconsin budget woes spotlighted 2026 governor s race",
       "coins": [],
       "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Obol Urges Immediate Charon Upgrade After CA Key Compromise",
-      "link": "https://thedefiant.io/news/security/obol-urges-immediate-charon-upgrade-after-ca-key-compromise",
-      "published_at": "2026-10-21T22:40:13+00:00",
-      "source": "thedefiant.io",
-      "score": 5,
-      "ntitle": "obol urges immediate charon upgrade after ca key compromise",
-      "coins": [],
-      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     }
   ],
   "day": [
     {
-      "title": "Venice Token ETP hits $1.45M AUM on first day – But VVV’s $34 push needs…",
-      "link": "https://ambcrypto.com/venice-token-etp-hits-1-45m-aum-on-first-day-but-vvvs-34-push-needs/",
-      "published_at": "2026-10-21T22:00:03+00:00",
+      "title": "Dogecoin price enters accumulation zone – Is DOGE nearing a rebound?",
+      "link": "https://ambcrypto.com/dogecoin-enters-accumulation-zone-is-doge-nearing-a-rebound/",
+      "published_at": "2026-10-22T00:00:48+00:00",
       "source": "ambcrypto.com",
       "score": 1,
-      "ntitle": "venice token etp hits 1 45m aum first day but vvv s 34 push needs",
-      "coins": [],
+      "ntitle": "dogecoin price enters accumulation zone doge nearing rebound",
+      "coins": [
+        "DOGE"
+      ],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
@@ -178,14 +178,14 @@
       "agency": null
     },
     {
-      "title": "Crypto Exchanges Want Your Next Stock Trade in 2027",
-      "link": "https://beincrypto.com/lbank-nvidia-stock-trading-crypto-exchange/",
-      "published_at": "2026-10-21T21:39:43+00:00",
+      "title": "Netflix Stock Hits 26-Month Low, But Revenue Tells a Different Story",
+      "link": "https://beincrypto.com/netflix-stock-26-month-low-earnings/",
+      "published_at": "2026-10-21T23:10:03+00:00",
       "source": "beincrypto.com",
-      "score": 5,
-      "ntitle": "crypto exchanges want your next stock trade 2027",
+      "score": 3,
+      "ntitle": "netflix stock hits 26 month low but revenue tells different story",
       "coins": [],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -202,13 +202,15 @@
       "agency": "SEC"
     },
     {
-      "title": "OpenAI outlines consistent safeguards for distributed access",
-      "link": "https://Blockchain.News/news/openai-outlines-consistent-safeguards-for-distributed-access",
-      "published_at": "2026-10-21T22:10:31+00:00",
+      "title": "Ripple (XRP) summary of BCG research says custody is becoming digital finance layer",
+      "link": "https://Blockchain.News/news/ripple-bcg-custody-digital-finance-layer",
+      "published_at": "2026-10-22T00:30:03+00:00",
       "source": "blockchain.news",
-      "score": 1,
-      "ntitle": "openai outlines consistent safeguards distributed access",
-      "coins": [],
+      "score": 17,
+      "ntitle": "ripple xrp summary bcg research says custody becoming digital finance layer",
+      "coins": [
+        "XRP"
+      ],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
@@ -289,16 +291,16 @@
       "agency": null
     },
     {
-      "title": "American Bankers Association criticizes OCC’s GENIUS rules on stablecoins",
-      "link": "https://cryptobriefing.com/aba-criticizes-occ-genius-stablecoin-rules/",
-      "published_at": "2026-10-21T22:03:53+00:00",
+      "title": "DSCC declares confidence in El-Sayed for Michigan Senate race",
+      "link": "https://cryptobriefing.com/dscc-declares-confidence-in-el-sayed-for-michigan-senate-race/",
+      "published_at": "2026-10-22T00:05:04+00:00",
       "source": "cryptobriefing.com",
-      "score": 5,
-      "ntitle": "american bankers association criticizes occ s genius rules stablecoins",
+      "score": 1,
+      "ntitle": "dscc declares confidence el sayed michigan senate race",
       "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
+      "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Congress"
     },
     {
       "title": "Coinbase and HTX Among Six Crypto Platforms Facing Restrictions in Kazakhstan",
@@ -313,16 +315,16 @@
       "agency": null
     },
     {
-      "title": "Why earning XRP yield through this wallet could actually cost you money",
-      "link": "https://cryptoslate.com/xaman-xrp-yield-fees/",
-      "published_at": "2026-10-21T22:00:04+00:00",
+      "title": "Irish drug lord’s lost Bitcoin fortune comes back to life as $41 million moves to Coinbase",
+      "link": "https://cryptoslate.com/irish-drug-lords-lost-bitcoin-fortune-comes-back-to-life-as-41-million-moves-to-coinbase/",
+      "published_at": "2026-10-21T23:10:19+00:00",
       "source": "cryptoslate.com",
-      "score": 6,
-      "ntitle": "why earning xrp yield through this wallet could actually cost you money",
+      "score": -1,
+      "ntitle": "irish drug lord s lost bitcoin fortune comes back life 41 million moves coinbase",
       "coins": [
-        "XRP"
+        "BTC"
       ],
-      "sentiment": "bullish",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -377,12 +379,12 @@
       "agency": null
     },
     {
-      "title": "Qubic Restarts Chain as Victims Seek $1.3 Million in Stolen QU",
-      "link": "https://news.bitcoin.com/crypto-news/qubic-restarts-chain-as-victims-seek-1-3-million-in-stolen-qu/",
-      "published_at": "2026-10-21T22:00:05+00:00",
+      "title": "Robert Kiyosaki Sees Major Economic Reset as AI Threatens Job Security",
+      "link": "https://news.bitcoin.com/featured/robert-kiyosaki-sees-major-economic-reset-as-ai-threatens-job-security/",
+      "published_at": "2026-10-22T00:30:13+00:00",
       "source": "news.bitcoin.com",
-      "score": 3,
-      "ntitle": "qubic restarts chain victims seek 1 3 million stolen qu",
+      "score": 1,
+      "ntitle": "robert kiyosaki sees major economic reset ai threatens job security",
       "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
@@ -413,50 +415,52 @@
       "agency": "Congress"
     },
     {
-      "title": "eMudhra's Weak Certificate Keys Prompt Emergency Trust Updates",
-      "link": "https://thedefiant.io/news/security/emudhra-s-weak-certificate-keys-prompt-emergency-trust-updates",
-      "published_at": "2026-10-21T21:24:58+00:00",
+      "title": "A Wallet Three Hours Old Minted Kimchi's Coin and Routed Every Fee to One Address",
+      "link": "https://thedefiant.io/news/tokens/kimchi-coin-minted-before-pump-fun-ad-fee-routing",
+      "published_at": "2026-10-21T22:45:11+00:00",
       "source": "thedefiant.io",
-      "score": 1,
-      "ntitle": "emudhra s weak certificate keys prompt emergency trust updates",
+      "score": 2,
+      "ntitle": "wallet three hours old minted kimchi s coin routed every fee one address",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Legendary Trader John Bollinger Spots Hidden Bitcoin Game",
-      "link": "https://u.today/legendary-trader-john-bollinger-spots-hidden-bitcoin-game",
-      "published_at": "2026-10-21T19:50:32+00:00",
+      "title": "Near Protocol (NEAR), Zcash (ZEC), Dogecoin (DOGE) and Ethereum (ETH) Price Analysis for October 22: Unexpected Wave of Bullishness",
+      "link": "https://u.today/price-analysis/near-protocol-near-zcash-zec-dogecoin-doge-and-ethereum-eth-price-analysis-for-october-22",
+      "published_at": "2026-10-22T00:01:00+00:00",
       "source": "u.today",
-      "score": 1,
-      "ntitle": "legendary trader john bollinger spots hidden bitcoin game",
+      "score": 3,
+      "ntitle": "near protocol near zcash zec dogecoin doge ethereum eth price analysis october 22 unexpected wave bullishness",
       "coins": [
-        "BTC"
+        "DOGE",
+        "ETH",
+        "NEAR"
       ],
-      "sentiment": "bearish",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Polymarket Takes Ohio to Federal Court, Citing New CFTC Rules After Kalshi’s Appeals Loss",
-      "link": "https://unchainedcrypto.com/polymarket-takes-ohio-to-federal-court-citing-new-cftc-rules-after-kalshis-appeals-loss/",
-      "published_at": "2026-10-21T21:42:00+00:00",
+      "title": "Coinbase’s Tokenized Stocks Are Seeing About $20 Million a Week, According to John D’Agostino",
+      "link": "https://unchainedcrypto.com/coinbases-tokenized-stocks-are-seeing-about-20-million-a-week-according-to-john-dagostino/",
+      "published_at": "2026-10-22T00:30:00+00:00",
       "source": "unchainedcrypto.com",
-      "score": 4,
-      "ntitle": "polymarket takes ohio federal court citing new cftc rules after kalshi s appeals loss",
+      "score": 10,
+      "ntitle": "coinbase s tokenized stocks seeing about 20 million week according john d agostino",
       "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "CFTC"
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     },
     {
-      "title": "Pi crypto value regains $0.08—Can buyers push past $0.082?",
-      "link": "https://ambcrypto.com/pi-crypto-value-regains-0-08-can-buyers-push-past-0-082/",
-      "published_at": "2026-10-21T21:30:40+00:00",
+      "title": "Convex Finance is up 22% – THIS data says CVX’s rally is not done",
+      "link": "https://ambcrypto.com/convex-valuation-hits-260m-why-the-rally-may-not-be-over/",
+      "published_at": "2026-10-21T23:00:29+00:00",
       "source": "ambcrypto.com",
       "score": 1,
-      "ntitle": "pi crypto value regains 0 08 can buyers push past 0 082",
+      "ntitle": "convex finance up 22 this data says cvx s rally not done",
       "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -477,14 +481,14 @@
       "agency": null
     },
     {
-      "title": "Grayscale Opens 10 Crypto ETFs to Investors, But There's a Catch",
-      "link": "https://beincrypto.com/grayscale-opens-10-crypto-etfs-in-kind-investing/",
-      "published_at": "2026-10-21T21:01:42+00:00",
+      "title": "Crypto Exchange Warning: Critical PHP Flaw Puts Payment Sites at Risk",
+      "link": "https://beincrypto.com/crypto-exchange-hack-alert-php2shell-risk/",
+      "published_at": "2026-10-21T22:42:38+00:00",
       "source": "beincrypto.com",
-      "score": 8,
-      "ntitle": "grayscale opens 10 crypto etfs investors but there s catch",
+      "score": 1,
+      "ntitle": "crypto exchange warning critical php flaw puts payment sites risk",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -501,14 +505,16 @@
       "agency": null
     },
     {
-      "title": "Harvey opens Connector Library for legal workflow integrations",
-      "link": "https://Blockchain.News/news/harvey-connector-library-generally-available-legal-workflow-integrations",
-      "published_at": "2026-10-21T20:38:47+00:00",
+      "title": "Bitcoin swept to $80K and bids refilled as overhead supply built",
+      "link": "https://Blockchain.News/news/bitcoin-swept-to-80k-and-bids-refilled-as-overhead-supply-built",
+      "published_at": "2026-10-21T22:44:18+00:00",
       "source": "blockchain.news",
       "score": 5,
-      "ntitle": "harvey opens connector library legal workflow integrations",
-      "coins": [],
-      "sentiment": "bullish",
+      "ntitle": "bitcoin swept 80k bids refilled overhead supply built",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -577,14 +583,14 @@
       "agency": null
     },
     {
-      "title": "Utah AG sues Kalshi, pursues profits from prediction market company",
-      "link": "https://cointelegraph.com/news/utah-lawsuit-kalshi-susquehanna-prediction-markets-illegal-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-10-20T21:19:15+00:00",
+      "title": "Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold",
+      "link": "https://cointelegraph.com/markets/musk-says-spacex-tesla-merger-a-good-idea-as-ai-revenue-jumps-ninefold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-10-21T01:19:14+00:00",
       "source": "cointelegraph.com",
       "score": 1,
-      "ntitle": "utah ag sues kalshi pursues profits prediction market company",
+      "ntitle": "musk says spacex tesla merger good idea ai revenue jumps ninefold",
       "coins": [],
-      "sentiment": "neutral",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -729,32 +735,35 @@
       "agency": "SEC"
     },
     {
-      "title": "NEAR Opens Vote to Cut Token Issuance to 1.6%",
-      "link": "https://thedefiant.io/news/blockchains/near-opens-vote-to-cut-token-issuance-to-1-6",
-      "published_at": "2026-10-20T21:38:18+00:00",
+      "title": "Pendle Daily Volume Hits $159 Million, Led by Ethereum",
+      "link": "https://thedefiant.io/news/defi/pendle-daily-volume-hits-159-million-led-by-ethereum",
+      "published_at": "2026-10-21T00:16:04+00:00",
       "source": "thedefiant.io",
-      "score": 3,
-      "ntitle": "near opens vote cut token issuance 1 6",
+      "score": 1,
+      "ntitle": "pendle daily volume hits 159 million led ethereum",
       "coins": [
-        "NEAR"
+        "ETH"
       ],
-      "sentiment": "bullish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "XRP Treasury Stock XRPN Now Available on Uphold",
-      "link": "https://u.today/xrp-treasury-stock-xrpn-now-available-on-uphold",
-      "published_at": "2026-10-20T20:56:00+00:00",
+      "title": "XRP, Shiba Inu (SHIB), Tron (TRX) and Solana (SOL) Price Analysis For October 21: When Do Headliners Pick Up Bullish Pace?",
+      "link": "https://u.today/price-analysis/xrp-shiba-inu-shib-tron-trx-and-solana-sol-price-analysis-for-october-21-when-do-headliners-pick-up",
+      "published_at": "2026-10-21T00:01:00+00:00",
       "source": "u.today",
       "score": 8,
-      "ntitle": "xrp treasury stock xrpn now available uphold",
+      "ntitle": "xrp shiba inu shib tron trx solana sol price analysis october 21 when do headliners pick up bullish pace",
       "coins": [
+        "SHIB",
+        "SOL",
+        "TRX",
         "XRP"
       ],
       "sentiment": "bullish",
-      "is_regulation": true,
-      "agency": "Treasury"
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "CFTC Tells Court CME Can't Challenge U.S. Perps",
@@ -805,18 +814,16 @@
       "agency": null
     },
     {
-      "title": "Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops",
-      "link": "https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-10-20T20:38:00+00:00",
+      "title": "Qubic restarts blockchain, opens recovery claims after $1.4M hack",
+      "link": "https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-10-20T23:26:02+00:00",
       "source": "cointelegraph.com",
       "score": 1,
-      "ntitle": "bitwise hyperliquid seek sec rule changes token trading airdrops",
-      "coins": [
-        "HYPE"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "SEC"
+      "ntitle": "qubic restarts blockchain opens recovery claims after 1 4m hack",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "Bitcoin rebounds with US stocks but stalls below $84,200 resistance",
@@ -1105,35 +1112,7 @@
   ],
   "clusters": [
     {
-      "id": 4,
-      "title": "A Wallet Three Hours Old Minted Kimchi's Coin and Routed Every Fee to One Address",
-      "link": "https://thedefiant.io/news/tokens/kimchi-coin-minted-before-pump-fun-ad-fee-routing",
-      "source": "thedefiant.io",
-      "published_at": "2026-10-21T22:45:11+00:00",
-      "sentiment": "neutral",
-      "coins": [],
-      "sources": [
-        "thedefiant.io",
-        "cryptobriefing.com"
-      ],
-      "count": 2,
-      "members": [
-        {
-          "title": "Pump.fun’s Kimchi coin routes every creator fee to one address",
-          "link": "https://cryptobriefing.com/pump-fun-kimchi-coin-creator-fees/",
-          "source": "cryptobriefing.com",
-          "published_at": "2026-10-21T23:05:41+00:00"
-        },
-        {
-          "title": "A Wallet Three Hours Old Minted Kimchi's Coin and Routed Every Fee to One Address",
-          "link": "https://thedefiant.io/news/tokens/kimchi-coin-minted-before-pump-fun-ad-fee-routing",
-          "source": "thedefiant.io",
-          "published_at": "2026-10-21T22:45:11+00:00"
-        }
-      ]
-    },
-    {
-      "id": 16,
+      "id": 17,
       "title": "SAP SE (SAP) Stock: Climbs as Q3 Revenue Tops €10 Billion and Cloud Growth Hits 26%",
       "link": "https://blockonomi.com/sap-se-sap-stock-climbs-as-q3-revenue-tops-e10-billion-and-cloud-growth-hits-26/",
       "source": "blockonomi.com",
@@ -1160,35 +1139,7 @@
       ]
     },
     {
-      "id": 20,
-      "title": "American Bankers Association criticizes OCC’s GENIUS rules on stablecoins",
-      "link": "https://cryptobriefing.com/aba-criticizes-occ-genius-stablecoin-rules/",
-      "source": "cryptobriefing.com",
-      "published_at": "2026-10-21T22:03:53+00:00",
-      "sentiment": "bearish",
-      "coins": [],
-      "sources": [
-        "cointelegraph.com",
-        "cryptobriefing.com"
-      ],
-      "count": 2,
-      "members": [
-        {
-          "title": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress",
-          "link": "https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "cointelegraph.com",
-          "published_at": "2026-10-21T21:53:48+00:00"
-        },
-        {
-          "title": "American Bankers Association criticizes OCC’s GENIUS rules on stablecoins",
-          "link": "https://cryptobriefing.com/aba-criticizes-occ-genius-stablecoin-rules/",
-          "source": "cryptobriefing.com",
-          "published_at": "2026-10-21T22:03:53+00:00"
-        }
-      ]
-    },
-    {
-      "id": 12,
+      "id": 13,
       "title": "Coinbase's Plan for a Quantum-Safe Bitcoin",
       "link": "https://www.bankless.com/read/coinbases-plan-for-a-quantum-safe-bitcoin",
       "source": "bankless.com",
@@ -1220,52 +1171,52 @@
   "trending": [
     {
       "tag": "#Ai",
-      "count": 72,
+      "count": 75,
       "type": "topic",
       "pct": 100
     },
     {
       "tag": "#XRP",
-      "count": 50,
+      "count": 51,
       "type": "coin",
-      "pct": 69
+      "pct": 68
     },
     {
       "tag": "#Xrp",
-      "count": 42,
+      "count": 43,
       "type": "topic",
-      "pct": 58
+      "pct": 57
     },
     {
       "tag": "#Defi",
-      "count": 27,
+      "count": 26,
       "type": "topic",
-      "pct": 38
+      "pct": 35
     },
     {
       "tag": "#Bitcoin",
-      "count": 23,
+      "count": 21,
       "type": "topic",
-      "pct": 32
+      "pct": 28
     },
     {
       "tag": "#BTC",
-      "count": 21,
+      "count": 16,
       "type": "coin",
-      "pct": 29
+      "pct": 21
     },
     {
       "tag": "#SOL",
-      "count": 16,
+      "count": 14,
       "type": "coin",
-      "pct": 22
+      "pct": 19
     },
     {
       "tag": "#ETH",
-      "count": 16,
+      "count": 13,
       "type": "coin",
-      "pct": 22
+      "pct": 17
     }
   ],
-  "generated_at": "2026-10-21T23:13:20.757569+00:00"
+  "generated_at": "2026-10-22T01:30:13.215769+00:00"
 }
