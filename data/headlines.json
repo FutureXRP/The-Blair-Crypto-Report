@@ -2,109 +2,70 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "OpenAI cites court briefs backing fair use for AI training",
-      "link": "https://Blockchain.News/news/openai-cites-court-briefs-backing-fair-use-for-ai-training",
-      "published_at": "2026-10-31T00:03:35+00:00",
-      "source": "blockchain.news",
+      "title": "Binance’s $6.3B breach, Fed rate pause, CFTC plans | Weekly recap",
+      "link": "https://crypto.news/binance-hack-fed-cftc-weekly-crypto-recap/",
+      "published_at": "2026-10-31T06:11:07+00:00",
+      "source": "crypto.news",
       "score": 1,
-      "ntitle": "openai cites court briefs backing fair use ai training",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
-      "link": "https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters",
-      "published_at": "2026-10-31T00:48:56+00:00",
-      "source": "coindesk.com",
-      "score": 1,
-      "ntitle": "openai reportedly cuts fundraising valuation targets amid ai jitters",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Houthi-launched drone intercepted and neutralized by Saudi-led coalition",
-      "link": "https://cryptobriefing.com/houthi-launched-drone-intercepted-and-neutralized-by-saudi-led-coalition/",
-      "published_at": "2026-10-31T00:53:55+00:00",
-      "source": "cryptobriefing.com",
-      "score": 3,
-      "ntitle": "houthi launched drone intercepted neutralized saudi led coalition",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Maple locks $280M in XRP collateral and upcoming maturity dates threaten liquidations",
-      "link": "https://cryptoslate.com/maple-locks-280m-in-xrp-collateral-and-upcoming-maturity-dates-threaten-liquidations/",
-      "published_at": "2026-10-31T00:10:43+00:00",
-      "source": "cryptoslate.com",
-      "score": 7,
-      "ntitle": "maple locks 280m xrp collateral upcoming maturity dates threaten liquidations",
-      "coins": [
-        "XRP"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Binance Coin (BNB), XRP, Bitcoin (BTC) and Ethereum (ETH) Price Analysis for October 31: Biggest Volatility Increase on Market in October",
-      "link": "https://u.today/price-analysis/binance-coin-bnb-xrp-bitcoin-btc-and-ethereum-eth-price-analysis-for-october-31-biggest-volatility",
-      "published_at": "2026-10-31T00:01:00+00:00",
-      "source": "u.today",
-      "score": 8,
-      "ntitle": "binance coin bnb xrp bitcoin btc ethereum eth price analysis october 31 biggest volatility increase market october",
-      "coins": [
-        "BNB",
-        "BTC",
-        "ETH",
-        "XRP"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Binance Turns Up in India’s $500 Million-Plus Crypto Probe as a Route for Foreign Payouts",
-      "link": "https://unchainedcrypto.com/binance-turns-up-in-indias-500-million-plus-crypto-probe-as-a-route-for-foreign-payouts/",
-      "published_at": "2026-10-31T00:45:00+00:00",
-      "source": "unchainedcrypto.com",
-      "score": 2,
-      "ntitle": "binance turns up india s 500 million plus crypto probe route foreign payouts",
+      "ntitle": "binance s 6 3b breach fed rate pause cftc plans weekly recap",
       "coins": [
         "BNB"
       ],
+      "sentiment": "bearish",
+      "is_regulation": true,
+      "agency": "CFTC"
+    },
+    {
+      "title": "Spot Bitcoin ETFs shed $643 million in a day as Ethereum funds lose $156 million",
+      "link": "https://cryptobriefing.com/spot-bitcoin-etfs-643-million-outflows/",
+      "published_at": "2026-10-31T05:46:28+00:00",
+      "source": "cryptobriefing.com",
+      "score": 4,
+      "ntitle": "spot bitcoin etfs shed 643 million day ethereum funds lose 156 million",
+      "coins": [
+        "BTC",
+        "ETH"
+      ],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Tether receives $223M USDT transfer from Bitfinex",
-      "link": "https://cryptobriefing.com/tether-receives-223m-usdt-from-bitfinex/",
-      "published_at": "2026-10-31T00:50:45+00:00",
-      "source": "cryptobriefing.com",
+      "title": "Bitcoin holds above $77,000 as Binance hack recovery takes shape",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-77000-as-binance-hack-recovery-takes-shape-4989115",
+      "published_at": "2026-10-31T05:35:10+00:00",
+      "source": "investing.com",
       "score": 1,
-      "ntitle": "tether receives 223m usdt transfer bitfinex",
+      "ntitle": "bitcoin holds above 77 000 binance hack recovery takes shape",
+      "coins": [
+        "BNB",
+        "BTC"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Curve Volume Halves to $425 Million as 3pool's USDT Tilt Eases",
+      "link": "https://thedefiant.io/news/defi/curve-volume-halves-to-425-million-as-3pool-s-usdt-tilt-eases",
+      "published_at": "2026-10-31T05:27:13+00:00",
+      "source": "thedefiant.io",
+      "score": 1,
+      "ntitle": "curve volume halves 425 million 3pool s usdt tilt eases",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Franklin Templeton’s Dividend-to-Bitcoin ETFs Open on Nasdaq With About $72,000 in Trades",
-      "link": "https://unchainedcrypto.com/franklin-templetons-dividend-to-bitcoin-etfs-open-on-nasdaq-with-about-72000-in-trades/",
-      "published_at": "2026-10-31T00:15:00+00:00",
-      "source": "unchainedcrypto.com",
-      "score": 4,
-      "ntitle": "franklin templeton s dividend bitcoin etfs open nasdaq about 72 000 trades",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bullish",
+      "title": "Monad’s Keone Hon pushes OpSec guide and AI security tool Ultrafuzz",
+      "link": "https://crypto.news/monad-keone-hon-opsec-guide-ultrafuzz/",
+      "published_at": "2026-10-31T05:55:17+00:00",
+      "source": "crypto.news",
+      "score": 1,
+      "ntitle": "monad s keone hon pushes opsec guide ai security tool ultrafuzz",
+      "coins": [],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     }
@@ -123,69 +84,50 @@
       "agency": null
     },
     {
-      "title": "Why AAVE crypto traders must watch $113 support after Binance hack",
-      "link": "https://ambcrypto.com/aave-crypto-loses-140-support-why-traders-should-stay-cautious/",
-      "published_at": "2026-10-30T23:00:13+00:00",
+      "title": "How Useless Coin’s 10% crash puts the $0.13 demand zone at risk",
+      "link": "https://ambcrypto.com/how-useless-coins-10-crash-puts-the-0-13-demand-zone-at-risk/",
+      "published_at": "2026-10-31T04:00:18+00:00",
       "source": "ambcrypto.com",
       "score": 1,
-      "ntitle": "why aave crypto traders must watch 113 support after binance hack",
-      "coins": [
-        "AAVE",
-        "BNB"
-      ],
+      "ntitle": "how useless coin s 10 crash puts 0 13 demand zone risk",
+      "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "🏴 Binance's Record Hack",
-      "link": "https://www.bankless.com/read/binances-record-hack",
-      "published_at": "2026-10-30T18:42:32+00:00",
-      "source": "bankless.com",
-      "score": 0,
-      "ntitle": "binance s record hack",
-      "coins": [
-        "BNB"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Why CFTC's Federal Option for Centralized Exchanges Just Got Harder to Ignore",
-      "link": "https://beincrypto.com/cftc-federal-option-centralized-exchanges/",
-      "published_at": "2026-10-30T23:00:00+00:00",
+      "title": "What If AI Agents Book You The Wrong Flight?",
+      "link": "https://beincrypto.com/ai-agent-payments-who-pays-for-mistakes/",
+      "published_at": "2026-10-31T04:50:13+00:00",
       "source": "beincrypto.com",
       "score": 1,
-      "ntitle": "why cftc s federal option centralized exchanges just got harder ignore",
+      "ntitle": "what if ai agents book you wrong flight",
       "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "CFTC"
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     },
     {
-      "title": "Coinbase (COIN) Misses Revenue Estimates as Users Fall, Armstrong Sets Up New Share Sales",
-      "link": "https://bitcoinmagazine.com/news/coinbase-falls-armstrong-sets-up-new-share",
-      "published_at": "2026-10-30T18:54:24+00:00",
+      "title": "MSTR Q3 2026 Earnings Call: Analyst Q&A",
+      "link": "https://bitcoinmagazine.com/videos/mstr-q3-2026-earnings-call-analyst-qa",
+      "published_at": "2026-10-31T01:08:31+00:00",
       "source": "bitcoinmagazine.com",
-      "score": 4,
-      "ntitle": "coinbase coin misses revenue estimates users fall armstrong sets up new share sales",
+      "score": 0,
+      "ntitle": "mstr q3 2026 earnings call analyst q",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Chainalysis links Binance exploit to North Korea’s TraderTraitor",
-      "link": "https://Blockchain.News/news/chainalysis-links-binance-exploit-to-north-koreas-tradertraitor",
-      "published_at": "2026-10-30T23:55:35+00:00",
+      "title": "OpenAI cites court briefs backing fair use for AI training",
+      "link": "https://Blockchain.News/news/openai-cites-court-briefs-backing-fair-use-for-ai-training",
+      "published_at": "2026-10-31T00:03:35+00:00",
       "source": "blockchain.news",
-      "score": 3,
-      "ntitle": "chainalysis links binance exploit north korea s tradertraitor",
-      "coins": [
-        "BNB"
-      ],
-      "sentiment": "bearish",
+      "score": 1,
+      "ntitle": "openai cites court briefs backing fair use ai training",
+      "coins": [],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -229,14 +171,15 @@
       "agency": "Congress"
     },
     {
-      "title": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
-      "link": "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter",
-      "published_at": "2026-10-30T19:55:00+00:00",
+      "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
+      "link": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
+      "published_at": "2026-10-31T05:01:32+00:00",
       "source": "coindesk.com",
       "score": 2,
-      "ntitle": "experts divided over binance hack asset freezes warn recovery another matter",
+      "ntitle": "bitcoin stolen binance tops tesla s holdings over twice el salvador s reserve",
       "coins": [
-        "BNB"
+        "BNB",
+        "BTC"
       ],
       "sentiment": "bearish",
       "is_regulation": false,
@@ -253,20 +196,6 @@
         "SOL"
       ],
       "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Bitcoin tests key support as BTC faces fourth weekly loss",
-      "link": "https://coinjournal.net/news/bitcoin-tests-key-support-as-btc-faces-fourth-weekly-loss/",
-      "published_at": "2026-10-30T08:09:49+00:00",
-      "source": "coinjournal.net",
-      "score": 6,
-      "ntitle": "bitcoin tests key support btc faces fourth weekly loss",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -299,42 +228,30 @@
       "agency": null
     },
     {
-      "title": "Trump, Moody claim largest middle-class tax cut amid Florida Senate race",
-      "link": "https://cryptobriefing.com/trump-moody-claim-largest-middle-class-tax-cut-amid-florida-senate-race/",
-      "published_at": "2026-10-30T23:55:58+00:00",
+      "title": "Crypto exchanges urge swift security upgrades after $6B Binance breach",
+      "link": "https://cryptobriefing.com/crypto-exchanges-urge-swift-security-upgrades-after-6b-binance-breach/",
+      "published_at": "2026-10-31T05:02:17+00:00",
       "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "trump moody claim largest middle class tax cut amid florida senate race",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Congress"
-    },
-    {
-      "title": "This Is What Binance Has Done Following $6.3B Hack",
-      "link": "https://cryptopotato.com/this-is-what-binance-has-done-following-6-3b-hack/",
-      "published_at": "2026-10-30T22:35:25+00:00",
-      "source": "cryptopotato.com",
-      "score": 1,
-      "ntitle": "this what binance has done following 6 3b hack",
+      "score": 7,
+      "ntitle": "crypto exchanges urge swift security upgrades after 6b binance breach",
       "coins": [
         "BNB"
       ],
-      "sentiment": "bearish",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "MetaMask adds Stellar integration, but cross-chain bridges require manual setup",
-      "link": "https://cryptoslate.com/metamask-adds-stellar-integration-but-cross-chain-bridges-require-manual-setup/",
-      "published_at": "2026-10-30T22:50:38+00:00",
+      "title": "Aave reopens frozen markets but blocks new collateral loans",
+      "link": "https://cryptoslate.com/aave-reopens-frozen-markets-but-blocks-new-collateral-loans/",
+      "published_at": "2026-10-31T03:40:43+00:00",
       "source": "cryptoslate.com",
-      "score": 5,
-      "ntitle": "metamask adds stellar integration but cross chain bridges require manual setup",
+      "score": 1,
+      "ntitle": "aave reopens frozen markets but blocks new collateral loans",
       "coins": [
-        "XLM"
+        "AAVE"
       ],
-      "sentiment": "neutral",
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -392,16 +309,14 @@
       "agency": null
     },
     {
-      "title": "Binance Prepares to Resume Withdrawals, Unveils $6.3B Hack Recovery Plan",
-      "link": "https://news.bitcoin.com/security/binance-prepares-to-resume-withdrawals-unveils-6-3b-hack-recovery-plan/",
-      "published_at": "2026-10-30T23:05:47+00:00",
+      "title": "Australia Casts Doubt on Retail Prediction Markets, Calls Them Bets",
+      "link": "https://news.bitcoin.com/igaming/australia-casts-doubt-retail-prediction-markets-calls-them-bets/",
+      "published_at": "2026-10-31T05:05:39+00:00",
       "source": "news.bitcoin.com",
-      "score": 3,
-      "ntitle": "binance prepares resume withdrawals unveils 6 3b hack recovery plan",
-      "coins": [
-        "BNB"
-      ],
-      "sentiment": "neutral",
+      "score": 1,
+      "ntitle": "australia casts doubt retail prediction markets calls them bets",
+      "coins": [],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -454,54 +369,94 @@
       "agency": null
     },
     {
-      "title": "Ledger CTO Sounds Alarm Over New Cryptographic Threats to Bitcoin",
-      "link": "https://u.today/ledger-cto-sounds-alarm-over-new-cryptographic-threats-to-bitcoin",
-      "published_at": "2026-10-30T21:00:17+00:00",
+      "title": "Why November's +80% History Is a Statistical Flaw for XRP Holders",
+      "link": "https://u.today/why-novembers-80-history-is-a-statistical-flaw-for-xrp-holders",
+      "published_at": "2026-10-31T04:00:00+00:00",
       "source": "u.today",
-      "score": 1,
-      "ntitle": "ledger cto sounds alarm over new cryptographic threats bitcoin",
+      "score": 6,
+      "ntitle": "why november s 80 history statistical flaw xrp holders",
       "coins": [
-        "BTC"
+        "XRP"
       ],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Canton Strategic Holdings Moves to Tokenize Its Own Shares Under the SEC’s New Exemption",
-      "link": "https://unchainedcrypto.com/canton-strategic-holdings-moves-to-tokenize-its-own-shares-under-the-secs-new-exemption/",
-      "published_at": "2026-10-30T23:45:00+00:00",
+      "title": "Binance Turns Up in India’s $500 Million-Plus Crypto Probe as a Route for Foreign Payouts",
+      "link": "https://unchainedcrypto.com/binance-turns-up-in-indias-500-million-plus-crypto-probe-as-a-route-for-foreign-payouts/",
+      "published_at": "2026-10-31T00:45:00+00:00",
       "source": "unchainedcrypto.com",
-      "score": 4,
-      "ntitle": "canton strategic holdings moves tokenize own shares under sec s new exemption",
-      "coins": [],
+      "score": 2,
+      "ntitle": "binance turns up india s 500 million plus crypto probe route foreign payouts",
+      "coins": [
+        "BNB"
+      ],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "RUNE up 15% after hackers use THORChain to launder stolen funds — What next?",
-      "link": "https://ambcrypto.com/rune-up-15-after-hackers-use-thorchain-to-launder-stolen-funds-what-next/",
-      "published_at": "2026-10-30T21:00:42+00:00",
+      "title": "‘Crypto moves forward regardless’ – Why Grayscale is looking past the U.S. midterms",
+      "link": "https://ambcrypto.com/u-s-midterms-loom-why-grayscale-remains-bullish-on-cryptos-future/",
+      "published_at": "2026-10-31T03:00:37+00:00",
       "source": "ambcrypto.com",
+      "score": 6,
+      "ntitle": "crypto moves forward regardless why grayscale looking past u s midterms",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Why Did the US Stock Market Crash? $2 Trillion Wiped Out",
+      "link": "https://beincrypto.com/us-stock-market-crash-ai-bubble-bursting/",
+      "published_at": "2026-10-31T03:44:08+00:00",
+      "source": "beincrypto.com",
       "score": 1,
-      "ntitle": "rune up 15 after hackers use thorchain launder stolen funds what next",
+      "ntitle": "why did us stock market crash 2 trillion wiped out",
       "coins": [],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Binance Just Suffered the Biggest Hack in Crypto History. What Now?",
-      "link": "https://www.bankless.com/read/binance-just-suffered-the-biggest-hack-in-crypto-history-what-now",
-      "published_at": "2026-10-30T18:29:07+00:00",
-      "source": "bankless.com",
+      "title": "Mike Flaum: MSTR Performance “Massively” to the Upside During Next BTC Bull Run",
+      "link": "https://bitcoinmagazine.com/videos/mike-flaum-mstr-performance-massively-to-the-upside-during-next-btc-bull-run",
+      "published_at": "2026-10-31T01:02:04+00:00",
+      "source": "bitcoinmagazine.com",
       "score": 1,
-      "ntitle": "binance just suffered biggest hack crypto history what now",
+      "ntitle": "mike flaum mstr performance massively upside during next btc bull run",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Chainalysis links Binance exploit to North Korea’s TraderTraitor",
+      "link": "https://Blockchain.News/news/chainalysis-links-binance-exploit-to-north-koreas-tradertraitor",
+      "published_at": "2026-10-30T23:55:35+00:00",
+      "source": "blockchain.news",
+      "score": 3,
+      "ntitle": "chainalysis links binance exploit north korea s tradertraitor",
       "coins": [
         "BNB"
       ],
       "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Amazon (AMZN) Stock: Falls as AI Spending Drives Record $42 Billion Cash Burn",
+      "link": "https://blockonomi.com/amazon-amzn-stock-falls-as-ai-spending-drives-record-42-billion-cash-burn/",
+      "published_at": "2026-10-30T19:27:52+00:00",
+      "source": "blockonomi.com",
+      "score": 3,
+      "ntitle": "amazon amzn stock falls ai spending drives record 42 billion cash burn",
+      "coins": [],
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     }
@@ -520,34 +475,6 @@
       "agency": null
     },
     {
-      "title": "Why Apps Keep Coming Home to Ethereum",
-      "link": "https://www.bankless.com/read/why-apps-keep-coming-home-to-ethereum",
-      "published_at": "2026-10-29T20:18:06+00:00",
-      "source": "bankless.com",
-      "score": 4,
-      "ntitle": "why apps keep coming home ethereum",
-      "coins": [
-        "ETH"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Strategy (MSTR) Posts Record Operating Income as Bitcoin Rebounds in Q3 2026",
-      "link": "https://bitcoinmagazine.com/news/strategy-posts-record-operating-income",
-      "published_at": "2026-10-29T23:18:27+00:00",
-      "source": "bitcoinmagazine.com",
-      "score": 1,
-      "ntitle": "strategy mstr posts record operating income bitcoin rebounds q3 2026",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
       "title": "South Africa Leads Sub-Saharan Africa’s 13.4% Crypto Growth",
       "link": "https://www.chainalysis.com/blog/sub-saharan-africa-crypto-adoption-2026/",
       "published_at": "2026-10-29T06:55:01+00:00",
@@ -560,38 +487,28 @@
       "agency": null
     },
     {
-      "title": "South Korea may delay Crypto Income Tax again: Report",
-      "link": "https://coincodecap.com/south-korea-may-delay-crypto-income-tax-again-report?utm_source=rss&utm_medium=rss&utm_campaign=south-korea-may-delay-crypto-income-tax-again-report",
-      "published_at": "2026-10-26T17:01:13+00:00",
-      "source": "coincodecap.com",
-      "score": 1,
-      "ntitle": "south korea may delay crypto income tax again report",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Binance hack drained wallets backing customer assets, reserve data shows",
-      "link": "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
-      "published_at": "2026-10-30T00:17:10+00:00",
+      "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
+      "link": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
+      "published_at": "2026-10-30T06:22:00+00:00",
       "source": "coindesk.com",
-      "score": 1,
-      "ntitle": "binance hack drained wallets backing customer assets reserve data shows",
+      "score": 6,
+      "ntitle": "bitcoin ether xrp selloff wipes out 1 5 billion leveraged crypto bets",
       "coins": [
-        "BNB"
+        "BTC",
+        "ETH",
+        "XRP"
       ],
-      "sentiment": "bearish",
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Binance Suspected of Suffering Over $5B Hack as Tether, Circle Freeze Assets",
-      "link": "https://coingape.com/binance-suspected-of-suffering-over-5b-hack-as-tether-circle-freeze-assets/",
-      "published_at": "2026-10-29T21:45:02+00:00",
+      "title": "Binance Completes Initial Investigation into $6.3B Hack, Here’s What Happened",
+      "link": "https://coingape.com/binance-completes-initial-investigation-into-6-3b-hack-heres-what-happened/",
+      "published_at": "2026-10-30T05:02:47+00:00",
       "source": "coingape.com",
       "score": 1,
-      "ntitle": "binance suspected suffering over 5b hack tether circle freeze assets",
+      "ntitle": "binance completes initial investigation into 6 3b hack here s what happened",
       "coins": [
         "BNB"
       ],
@@ -600,52 +517,30 @@
       "agency": null
     },
     {
-      "title": "Kyro launches AI-powered investing platform for retail investors",
-      "link": "https://coinjournal.net/news/kyro-launches-ai-powered-investing-platform-for-retail-investors/",
-      "published_at": "2026-10-29T12:37:09+00:00",
-      "source": "coinjournal.net",
-      "score": 3,
-      "ntitle": "kyro launches ai powered investing platform retail investors",
-      "coins": [],
+      "title": "Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity",
+      "link": "https://cointelegraph.com/news/strategy-30-billion-digital-credit-capacity-bitcoin-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-10-30T05:53:07+00:00",
+      "source": "cointelegraph.com",
+      "score": 1,
+      "ntitle": "strategy eyes more bitcoin buys saylor touts 30b credit capacity",
+      "coins": [
+        "BTC"
+      ],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Binance points to engineer’s hacked laptop in $6.3B breach",
-      "link": "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-10-30T00:11:26+00:00",
-      "source": "cointelegraph.com",
+      "title": "Elon Musk warns AI agents could exploit crypto after Binance hack",
+      "link": "https://crypto.news/elon-musk-warns-ai-agents-could-exploit-crypto-after-binance-hack/",
+      "published_at": "2026-10-30T05:52:48+00:00",
+      "source": "crypto.news",
       "score": 1,
-      "ntitle": "binance points engineer s hacked laptop 6 3b breach",
+      "ntitle": "elon musk warns ai agents could exploit crypto after binance hack",
       "coins": [
         "BNB"
       ],
       "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Grayscale puts US crypto activity at 15–20% ahead of midterms",
-      "link": "https://crypto.news/grayscale-us-crypto-activity-bitcoin-hashrate-midterms/",
-      "published_at": "2026-10-29T21:00:00+00:00",
-      "source": "crypto.news",
-      "score": 3,
-      "ntitle": "grayscale puts us crypto activity 15 20 ahead midterms",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Singapore Reports $3.5 Million in Losses From Tampered Ledger Crypto Wallets",
-      "link": "https://cryptopotato.com/singapore-reports-3-5-million-in-losses-from-tampered-ledger-crypto-wallets/",
-      "published_at": "2026-10-29T22:07:05+00:00",
-      "source": "cryptopotato.com",
-      "score": 1,
-      "ntitle": "singapore reports 3 5 million losses tampered ledger crypto wallets",
-      "coins": [],
-      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -716,14 +611,28 @@
       "agency": null
     },
     {
-      "title": "Litecoin Falls 10% In Rout",
-      "link": "https://www.investing.com/news/cryptocurrency-news/litecoin-falls-10-in-rout-4985641",
-      "published_at": "2026-10-30T00:25:01+00:00",
+      "title": "Binance Says Estimated Impact Of Security Incident At Around $6.3b",
+      "link": "https://www.investing.com/news/cryptocurrency-news/binance-says-estimated-impact-of-security-incident-at-around-63b-432SI-4985748",
+      "published_at": "2026-10-30T03:12:02+00:00",
       "source": "investing.com",
-      "score": 0,
-      "ntitle": "litecoin falls 10 rout",
+      "score": 1,
+      "ntitle": "binance says estimated impact security incident around 6 3b",
       "coins": [
-        "LTC"
+        "BNB"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Ethereum Client Updates Address Certificate Risk in Teku and Besu",
+      "link": "https://www.newsbtc.com/news/ethereum-client-updates-address-certificate-risk-in-teku-and-besu/",
+      "published_at": "2026-10-30T06:00:00+00:00",
+      "source": "newsbtc.com",
+      "score": 1,
+      "ntitle": "ethereum client updates address certificate risk teku besu",
+      "coins": [
+        "ETH"
       ],
       "sentiment": "bearish",
       "is_regulation": false,
@@ -756,57 +665,28 @@
       "agency": "SEC"
     },
     {
-      "title": "Binance Hack Explained: What Happened and Withdrawal Status",
-      "link": "https://thedefiant.io/news/hacks/binance-security-incident-withdrawal-status-timeline-and-faqs",
-      "published_at": "2026-10-29T23:32:17+00:00",
+      "title": "Hyperliquid Fees Hit 30-Day High as Perpetuals Volume Doubles",
+      "link": "https://thedefiant.io/news/defi/hyperliquid-fees-hit-30-day-high-as-perpetuals-volume-doubles",
+      "published_at": "2026-10-30T05:44:29+00:00",
       "source": "thedefiant.io",
       "score": 1,
-      "ntitle": "binance hack explained what happened withdrawal status",
+      "ntitle": "hyperliquid fees hit 30 day high perpetuals volume doubles",
       "coins": [
-        "BNB"
+        "HYPE"
       ],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Hyperliquid (HYPE), XRP, Cardano (ADA) and Zcash (ZEC) Price Analysis For October 30: Market Picture Is Distorted",
-      "link": "https://u.today/price-analysis/hyperliquid-hype-xrp-cardano-ada-and-zcash-zec-price-analysis-for-october-30-market-picture-is",
-      "published_at": "2026-10-30T00:01:00+00:00",
+      "title": "Binance Reveals When It Will Resume Withdrawals After Historic Hack",
+      "link": "https://u.today/binance-reveals-when-it-will-resume-withdrawals-after-historic-hack",
+      "published_at": "2026-10-30T05:08:44+00:00",
       "source": "u.today",
-      "score": 7,
-      "ntitle": "hyperliquid hype xrp cardano ada zcash zec price analysis october 30 market picture distorted",
+      "score": 3,
+      "ntitle": "binance reveals when it will resume withdrawals after historic hack",
       "coins": [
-        "ADA",
-        "HYPE",
-        "XRP"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Robinhood's New Chain Lifts Crypto Revenue Despite Q3 Profit Miss",
-      "link": "https://www.bankless.com/read/news/robinhoods-new-chain-lifts-crypto-revenue-despite-q3-profit-miss",
-      "published_at": "2026-10-28T18:54:08+00:00",
-      "source": "bankless.com",
-      "score": 1,
-      "ntitle": "robinhood s new chain lifts crypto revenue despite q3 profit miss",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Bitcoin Price Slides Below $79,000 as Binance Loses $5.8 Billion in Massive Hack",
-      "link": "https://bitcoinmagazine.com/news/bitcoin-price-slides-binance",
-      "published_at": "2026-10-29T23:06:37+00:00",
-      "source": "bitcoinmagazine.com",
-      "score": 2,
-      "ntitle": "bitcoin price slides below 79 000 binance loses 5 8 billion massive hack",
-      "coins": [
-        "BNB",
-        "BTC"
+        "BNB"
       ],
       "sentiment": "bearish",
       "is_regulation": false,
@@ -825,24 +705,26 @@
       "agency": "Treasury"
     },
     {
-      "title": "Telegram Trading Bots vs Instant Exchanges: Speed and Risk",
-      "link": "https://coincodecap.com/telegram-trading-bots-vs-instant-exchanges?utm_source=rss&utm_medium=rss&utm_campaign=telegram-trading-bots-vs-instant-exchanges",
-      "published_at": "2026-10-26T16:50:07+00:00",
-      "source": "coincodecap.com",
-      "score": 3,
-      "ntitle": "telegram trading bots vs instant exchanges speed risk",
-      "coins": [],
-      "sentiment": "bearish",
+      "title": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens",
+      "link": "https://www.coindesk.com/tech/2026/10/30/xrp-ledger-developers-tighten-the-rules-for-who-can-hold-restricted-tokens",
+      "published_at": "2026-10-30T05:45:27+00:00",
+      "source": "coindesk.com",
+      "score": 6,
+      "ntitle": "xrp ledger developers tighten rules who can hold restricted tokens",
+      "coins": [
+        "XRP"
+      ],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Binance loses over $6 billion in 'biggest crypto hack in history'",
-      "link": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
-      "published_at": "2026-10-29T21:12:45+00:00",
-      "source": "coindesk.com",
+      "title": "Binance Suspected of Suffering Over $5B Hack as Tether, Circle Freeze Assets",
+      "link": "https://coingape.com/binance-suspected-of-suffering-over-5b-hack-as-tether-circle-freeze-assets/",
+      "published_at": "2026-10-29T21:45:02+00:00",
+      "source": "coingape.com",
       "score": 1,
-      "ntitle": "binance loses over 6 billion biggest crypto hack history",
+      "ntitle": "binance suspected suffering over 5b hack tether circle freeze assets",
       "coins": [
         "BNB"
       ],
@@ -851,57 +733,137 @@
       "agency": null
     },
     {
-      "title": "HTX Ends UK Crypto Services as FCA Settles Lawsuit Over Marketing Rules",
-      "link": "https://coingape.com/htx-ends-uk-crypto-services-as-fca-settles-lawsuit-over-marketing-rules/",
-      "published_at": "2026-10-29T19:15:42+00:00",
-      "source": "coingape.com",
-      "score": 3,
-      "ntitle": "htx ends uk crypto services fca settles lawsuit over marketing rules",
-      "coins": [],
-      "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "Regulatory"
-    },
-    {
-      "title": "XRP dips below the $1.30 support amid bearish positioning",
-      "link": "https://coinjournal.net/news/xrp-dips-below-the-1-30-support-amid-bearish-positioning/",
-      "published_at": "2026-10-29T08:38:21+00:00",
-      "source": "coinjournal.net",
-      "score": 3,
-      "ntitle": "xrp dips below 1 30 support amid bearish positioning",
-      "coins": [
-        "XRP"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K",
-      "link": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-10-29T23:24:21+00:00",
+      "title": "North Korea’s TraderTraitor linked to $6.3B Binance hack",
+      "link": "https://cointelegraph.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-10-30T05:51:41+00:00",
       "source": "cointelegraph.com",
-      "score": 1,
-      "ntitle": "binance hack rattles markets bnb falls 8 bitcoin nears 77k",
+      "score": 3,
+      "ntitle": "north korea s tradertraitor linked 6 3b binance hack",
       "coins": [
-        "BNB",
-        "BTC"
+        "BNB"
       ],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Circle asks SEC for stablecoin cash treatment and a zero haircut",
-      "link": "https://crypto.news/circle-sec-stablecoin-cash-treatment-zero-haircut/",
-      "published_at": "2026-10-29T20:35:34+00:00",
+      "title": "Kraken restores trading after one-hour outage affects spot and derivatives",
+      "link": "https://crypto.news/kraken-trading-outage-resolved/",
+      "published_at": "2026-10-30T05:28:29+00:00",
       "source": "crypto.news",
       "score": 1,
-      "ntitle": "circle asks sec stablecoin cash treatment zero haircut",
+      "ntitle": "kraken restores trading after one hour outage affects spot derivatives",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "How CryptoVantage Reviews and Rates Crypto Platforms",
+      "link": "https://www.cryptovantage.com/news/how-cryptovantage-reviews-and-rates-crypto-platforms/",
+      "published_at": "2026-10-26T18:46:41+00:00",
+      "source": "cryptovantage.com",
+      "score": 1,
+      "ntitle": "how cryptovantage reviews rates crypto platforms",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Nigerian National Extradited from Africa, Arraigned in Georgia on $100,000,000 Identity Theft Tax Scheme",
+      "link": "https://dailyhodl.com/2026/10/29/nigerian-national-extradited-from-africa-arraigned-in-georgia-on-100000000-identity-theft-tax-scheme/",
+      "published_at": "2026-10-29T16:55:00+00:00",
+      "source": "dailyhodl.com",
+      "score": 4,
+      "ntitle": "nigerian national extradited africa arraigned georgia 100 000 000 identity theft tax scheme",
+      "coins": [],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Binance Drained of $5.5 Billion in Suspected Hack, Tether and Circle Freeze $1.8 Billion",
+      "link": "https://decrypt.co/382191/binance-suspected-hack-5-billion-tether-circle-freeze-crypto",
+      "published_at": "2026-10-29T21:36:24+00:00",
+      "source": "decrypt.co",
+      "score": 2,
+      "ntitle": "binance drained 5 5 billion suspected hack tether circle freeze 1 8 billion",
+      "coins": [
+        "BNB"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Federal Reserve issues FOMC statement",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+      "published_at": "2026-10-28T18:00:00+00:00",
+      "source": "federalreserve.gov",
+      "score": 0,
+      "ntitle": "federal reserve issues fomc statement",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": true,
-      "agency": "SEC"
+      "agency": "Fed"
+    },
+    {
+      "title": "Mirae Asset Issues Tokenized Dollar Notes on Solana for Professional Investors",
+      "link": "https://www.newsbtc.com/news/mirae-asset-issues-tokenized-dollar-notes-on-solana-for-professional-investors/",
+      "published_at": "2026-10-30T05:00:00+00:00",
+      "source": "newsbtc.com",
+      "score": 7,
+      "ntitle": "mirae asset issues tokenized dollar notes solana professional investors",
+      "coins": [
+        "SOL"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Can the pivot to AI save crypto miners?",
+      "link": "https://protos.com/can-the-pivot-to-ai-save-crypto-miners/",
+      "published_at": "2026-10-29T18:58:18+00:00",
+      "source": "protos.com",
+      "score": 0,
+      "ntitle": "can pivot ai save crypto miners",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Uniswap Volume Tops $5.97 Billion as Ethereum Trading Surges",
+      "link": "https://thedefiant.io/news/defi/uniswap-volume-tops-5-97-billion-as-ethereum-trading-surges",
+      "published_at": "2026-10-30T05:19:57+00:00",
+      "source": "thedefiant.io",
+      "score": 1,
+      "ntitle": "uniswap volume tops 5 97 billion ethereum trading surges",
+      "coins": [
+        "ETH",
+        "UNI"
+      ],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Hyperliquid (HYPE), XRP, Cardano (ADA) and Zcash (ZEC) Price Analysis For October 30: Market Picture Is Distorted",
+      "link": "https://u.today/price-analysis/hyperliquid-hype-xrp-cardano-ada-and-zcash-zec-price-analysis-for-october-30-market-picture-is",
+      "published_at": "2026-10-30T00:01:00+00:00",
+      "source": "u.today",
+      "score": 7,
+      "ntitle": "hyperliquid hype xrp cardano ada zcash zec price analysis october 30 market picture distorted",
+      "coins": [
+        "ADA",
+        "HYPE",
+        "XRP"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
     }
   ],
   "month": [
@@ -918,18 +880,6 @@
       "agency": null
     },
     {
-      "title": "Crypto's Two Answers to AI Bug Hunters",
-      "link": "https://www.bankless.com/read/crypto-s-two-answers-to-ai-bug-hunters",
-      "published_at": "2026-10-23T20:01:46+00:00",
-      "source": "bankless.com",
-      "score": 0,
-      "ntitle": "crypto s two answers ai bug hunters",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
       "title": "North America: Inside the Growth of Agentic Commerce",
       "link": "https://www.chainalysis.com/blog/north-america-crypto-adoption-2026/",
       "published_at": "2026-10-14T12:48:32+00:00",
@@ -937,33 +887,6 @@
       "score": 1,
       "ntitle": "north america inside growth agentic commerce",
       "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Crypto PAC backs California House Democrat with $362,000",
-      "link": "https://coincodecap.com/crypto-pac-backs-california-house-democrat-with-362000?utm_source=rss&utm_medium=rss&utm_campaign=crypto-pac-backs-california-house-democrat-with-362000",
-      "published_at": "2026-10-20T07:13:14+00:00",
-      "source": "coincodecap.com",
-      "score": 1,
-      "ntitle": "crypto pac backs california house democrat 362 000",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Bitcoin holds near $81,800 as BTC defends key support",
-      "link": "https://coinjournal.net/news/bitcoin-holds-near-81800-as-btc-defends-key-support/",
-      "published_at": "2026-10-23T08:14:05+00:00",
-      "source": "coinjournal.net",
-      "score": 6,
-      "ntitle": "bitcoin holds near 81 800 btc defends key support",
-      "coins": [
-        "BTC",
-        "NEAR"
-      ],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
@@ -1031,20 +954,6 @@
       "agency": null
     },
     {
-      "title": "Uniswap v4 Is Now an Aggregator",
-      "link": "https://www.bankless.com/read/news/uniswap-v4-is-now-an-aggregator",
-      "published_at": "2026-10-23T17:53:45+00:00",
-      "source": "bankless.com",
-      "score": 0,
-      "ntitle": "uniswap v4 now aggregator",
-      "coins": [
-        "UNI"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
       "title": "UK Targets Cryptomus, Heleket, TokenSpot in New Russian Sanctions",
       "link": "https://www.chainalysis.com/blog/uk-sanctions-cryptomus-heleket-tokenspot/",
       "published_at": "2026-10-09T01:14:08+00:00",
@@ -1055,20 +964,6 @@
       "sentiment": "bearish",
       "is_regulation": true,
       "agency": "Regulatory"
-    },
-    {
-      "title": "Cardano risks further losses as ADA drops below the $0.220 support",
-      "link": "https://coinjournal.net/news/cardano-risks-further-losses-as-ada-drops-below-the-0-220-support/",
-      "published_at": "2026-10-22T10:56:52+00:00",
-      "source": "coinjournal.net",
-      "score": 1,
-      "ntitle": "cardano risks further losses ada drops below 0 220 support",
-      "coins": [
-        "ADA"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
     },
     {
       "title": "Which US States Allow Online Sports Betting With Crypto in 2026?",
@@ -1107,87 +1002,56 @@
       "agency": "SEC"
     }
   ],
-  "clusters": [
-    {
-      "id": 23,
-      "title": "Binance Prepares to Resume Withdrawals, Unveils $6.3B Hack Recovery Plan",
-      "link": "https://news.bitcoin.com/security/binance-prepares-to-resume-withdrawals-unveils-6-3b-hack-recovery-plan/",
-      "source": "news.bitcoin.com",
-      "published_at": "2026-10-30T23:05:47+00:00",
-      "sentiment": "neutral",
-      "coins": [
-        "BNB"
-      ],
-      "sources": [
-        "cryptopotato.com",
-        "news.bitcoin.com"
-      ],
-      "count": 2,
-      "members": [
-        {
-          "title": "This Is What Binance Has Done Following $6.3B Hack",
-          "link": "https://cryptopotato.com/this-is-what-binance-has-done-following-6-3b-hack/",
-          "source": "cryptopotato.com",
-          "published_at": "2026-10-30T22:35:25+00:00"
-        },
-        {
-          "title": "Binance Prepares to Resume Withdrawals, Unveils $6.3B Hack Recovery Plan",
-          "link": "https://news.bitcoin.com/security/binance-prepares-to-resume-withdrawals-unveils-6-3b-hack-recovery-plan/",
-          "source": "news.bitcoin.com",
-          "published_at": "2026-10-30T23:05:47+00:00"
-        }
-      ]
-    }
-  ],
+  "clusters": [],
   "trending": [
     {
       "tag": "#Ai",
-      "count": 71,
+      "count": 67,
       "type": "topic",
       "pct": 100
     },
     {
       "tag": "#XRP",
-      "count": 45,
+      "count": 41,
       "type": "coin",
-      "pct": 63
+      "pct": 61
     },
     {
       "tag": "#Xrp",
-      "count": 37,
+      "count": 33,
       "type": "topic",
-      "pct": 52
+      "pct": 49
     },
     {
       "tag": "#Defi",
       "count": 25,
       "type": "topic",
-      "pct": 35
+      "pct": 37
     },
     {
       "tag": "#BTC",
       "count": 22,
       "type": "coin",
+      "pct": 33
+    },
+    {
+      "tag": "#BNB",
+      "count": 21,
+      "type": "coin",
       "pct": 31
     },
     {
       "tag": "#Bitcoin",
-      "count": 21,
+      "count": 20,
       "type": "topic",
       "pct": 30
     },
     {
-      "tag": "#BNB",
-      "count": 20,
-      "type": "coin",
-      "pct": 28
-    },
-    {
       "tag": "#Hack",
-      "count": 14,
+      "count": 13,
       "type": "topic",
-      "pct": 20
+      "pct": 19
     }
   ],
-  "generated_at": "2026-10-31T00:56:05.881124+00:00"
+  "generated_at": "2026-10-31T06:25:02.620429+00:00"
 }
