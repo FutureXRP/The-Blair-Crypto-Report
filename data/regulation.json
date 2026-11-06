@@ -1,27 +1,186 @@
 [
   {
-    "title": "Chainalysis Starts Reopening Compliance Tools Behind IP Allowlists in Sixth Breach Update",
-    "link": "https://unchainedcrypto.com/chainalysis-starts-reopening-compliance-tools-behind-ip-allowlists-in-sixth-breach-update/",
-    "source": "unchainedcrypto.com",
-    "published_at": "2026-11-06T17:05:00+00:00",
+    "title": "US Treasury Blacklists MEXC Over $16B in Alleged Illicit Crypto Activity",
+    "link": "https://news.bitcoin.com/regulation-and-legal/us-treasury-blacklists-mexc-16b-alleged-illicit-crypto-activity/",
+    "source": "news.bitcoin.com",
+    "published_at": "2026-11-06T21:50:56+00:00",
+    "agency": "Treasury",
+    "sentiment": "neutral",
+    "coins": []
+  },
+  {
+    "title": "US Treasury Bans MEXC Exchange Over Alleged $16B in Illicit Transactions",
+    "link": "https://beincrypto.com/us-bans-mexc-16-billion-illicit-transactions/",
+    "source": "beincrypto.com",
+    "published_at": "2026-11-06T21:34:53+00:00",
+    "agency": "Treasury",
+    "sentiment": "bearish",
+    "coins": []
+  },
+  {
+    "title": "U.S. Treasury Cuts Off MEXC From U.S. Financial System Over Alleged $16 Billion in Illicit Flows",
+    "link": "https://bitcoinmagazine.com/news/fincen-cuts-off-mexc-us-financial-system",
+    "source": "bitcoinmagazine.com",
+    "published_at": "2026-11-06T21:28:56+00:00",
+    "agency": "Treasury",
+    "sentiment": "neutral",
+    "coins": []
+  },
+  {
+    "title": "US Treasury cuts off MEXC from financial system over $16B in illicit transactions",
+    "link": "https://cryptobriefing.com/mexc-financial-sanctions-illicit-transactions/",
+    "source": "cryptobriefing.com",
+    "published_at": "2026-11-06T21:15:39+00:00",
+    "agency": "Treasury",
+    "sentiment": "bullish",
+    "coins": []
+  },
+  {
+    "title": "Treasury Cuts Crypto Exchange MEXC Off From US Financial System",
+    "link": "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system",
+    "source": "decrypt.co",
+    "published_at": "2026-11-06T21:06:03+00:00",
+    "agency": "Treasury",
+    "sentiment": "neutral",
+    "coins": []
+  },
+  {
+    "title": "US Treasury cuts off MEXC over alleged $16B in illicit transactions",
+    "link": "https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "cointelegraph.com",
+    "published_at": "2026-11-06T21:05:25+00:00",
+    "agency": "Treasury",
+    "sentiment": "neutral",
+    "coins": []
+  },
+  {
+    "title": "US Treasury may hit $41.1T debt cap by February: Bloomberg",
+    "link": "https://cryptobriefing.com/us-treasury-may-hit-411t-debt-cap-by-february-bloomberg/",
+    "source": "cryptobriefing.com",
+    "published_at": "2026-11-06T21:05:06+00:00",
+    "agency": "Treasury",
+    "sentiment": "neutral",
+    "coins": []
+  },
+  {
+    "title": "CFTC data shows speculators pile into 5-year Treasury shorts for week of November 3, 2026",
+    "link": "https://cryptobriefing.com/cftc-cot-report-5-year-treasury-shorts-bitcoin/",
+    "source": "cryptobriefing.com",
+    "published_at": "2026-11-06T20:47:30+00:00",
+    "agency": "CFTC",
+    "sentiment": "bullish",
+    "coins": []
+  },
+  {
+    "title": "Speculators increase short positions on five-year Treasury futures: CFTC data",
+    "link": "https://cryptobriefing.com/speculators-increase-short-positions-on-five-year-treasury-futures-cftc-data/",
+    "source": "cryptobriefing.com",
+    "published_at": "2026-11-06T20:45:53+00:00",
+    "agency": "CFTC",
+    "sentiment": "neutral",
+    "coins": []
+  },
+  {
+    "title": "US Treasury withdraws crypto surveillance proposal, easing market pressure",
+    "link": "https://cryptobriefing.com/us-treasury-withdraws-crypto-surveillance-proposal-easing-market-pressure/",
+    "source": "cryptobriefing.com",
+    "published_at": "2026-11-06T20:39:10+00:00",
+    "agency": "Treasury",
+    "sentiment": "neutral",
+    "coins": []
+  },
+  {
+    "title": "Frontier Model Forum releases a framework to rate AI cyber jailbreaks",
+    "link": "https://cryptobriefing.com/frontier-model-forum-jailbreak-rating-framework/",
+    "source": "cryptobriefing.com",
+    "published_at": "2026-11-06T20:02:52+00:00",
+    "agency": "Regulatory",
+    "sentiment": "bearish",
+    "coins": []
+  },
+  {
+    "title": "Why a Hyperliquid Treasury Firm Wants to Become a US Futures Broker",
+    "link": "https://decrypt.co/382754/why-hyperliquid-treasury-wants-us-futures-broker",
+    "source": "decrypt.co",
+    "published_at": "2026-11-06T19:46:03+00:00",
+    "agency": "Treasury",
+    "sentiment": "bullish",
+    "coins": [
+      "HYPE"
+    ]
+  },
+  {
+    "title": "Is crypto’s 2026 outlook at risk as regulatory FUD returns to Washington?",
+    "link": "https://ambcrypto.com/is-cryptos-2026-outlook-at-risk-as-regulatory-fud-returns-to-washington/",
+    "source": "ambcrypto.com",
+    "published_at": "2026-11-06T19:00:27+00:00",
+    "agency": "Regulatory",
+    "sentiment": "bearish",
+    "coins": []
+  },
+  {
+    "title": "Merkley-Raskin Bill Would Ban Election and Sports Contracts on US Exchanges",
+    "link": "https://thedefiant.io/news/regulation/merkley-raskin-bill-would-ban-election-and-sports-contracts-on-us-exchanges",
+    "source": "thedefiant.io",
+    "published_at": "2026-11-06T18:39:46+00:00",
+    "agency": "Regulatory",
+    "sentiment": "bearish",
+    "coins": []
+  },
+  {
+    "title": "US Treasury and Fed Abandon Plan to Track Smaller Bitcoin, Crypto Transfers",
+    "link": "https://news.bitcoin.com/regulation-and-legal/us-treasury-fed-abandon-plan-track-smaller-bitcoin-crypto-transfers/",
+    "source": "news.bitcoin.com",
+    "published_at": "2026-11-06T18:32:30+00:00",
+    "agency": "Fed",
+    "sentiment": "bearish",
+    "coins": [
+      "BTC"
+    ]
+  },
+  {
+    "title": "Strive buys 15,124 Bitcoin in October, closes in on top treasury holders",
+    "link": "https://cointelegraph.com/news/strive-buys-bitcoin-october-top-btc-corporate-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "cointelegraph.com",
+    "published_at": "2026-11-06T18:22:42+00:00",
+    "agency": "Treasury",
+    "sentiment": "neutral",
+    "coins": [
+      "BTC"
+    ]
+  },
+  {
+    "title": "US Sanctions 45 More Targets Linked to Prince Group",
+    "link": "https://thedefiant.io/news/regulation/us-sanctions-45-more-targets-linked-to-prince-group",
+    "source": "thedefiant.io",
+    "published_at": "2026-11-06T17:50:26+00:00",
     "agency": "Regulatory",
     "sentiment": "neutral",
     "coins": []
   },
   {
-    "title": "Democrats plan a wave of AI and data-center bills when they take Congress in January 2027",
-    "link": "https://cryptobriefing.com/democrats-plan-ai-legislation-congress-january/",
-    "source": "cryptobriefing.com",
-    "published_at": "2026-11-06T15:38:28+00:00",
-    "agency": "Congress",
+    "title": "US Sanctions 45 More Targets Tied to Alleged Crypto Scam Empire Prince Group",
+    "link": "https://decrypt.co/382730/us-sanctions-45-more-targets-tied-to-alleged-crypto-scam-empire-prince-group",
+    "source": "decrypt.co",
+    "published_at": "2026-11-06T17:42:31+00:00",
+    "agency": "Regulatory",
+    "sentiment": "bearish",
+    "coins": []
+  },
+  {
+    "title": "Thailand SEC Files Criminal Complaint Against Bitget Ahead of Dec. 5 Access Block",
+    "link": "https://bitcoinmagazine.com/news/thailand-sec-bitget-criminal-dec-5",
+    "source": "bitcoinmagazine.com",
+    "published_at": "2026-11-06T17:30:00+00:00",
+    "agency": "SEC",
     "sentiment": "bullish",
     "coins": []
   },
   {
-    "title": "Rep. Maxine Waters calls for stricter crypto regulations targeting Trump projects",
-    "link": "https://cryptobriefing.com/rep-maxine-waters-calls-for-stricter-crypto-regulations-targeting-trump-projects/",
-    "source": "cryptobriefing.com",
-    "published_at": "2026-11-06T14:50:22+00:00",
+    "title": "Chainalysis Starts Reopening Compliance Tools Behind IP Allowlists in Sixth Breach Update",
+    "link": "https://unchainedcrypto.com/chainalysis-starts-reopening-compliance-tools-behind-ip-allowlists-in-sixth-breach-update/",
+    "source": "unchainedcrypto.com",
+    "published_at": "2026-11-06T17:05:00+00:00",
     "agency": "Regulatory",
     "sentiment": "neutral",
     "coins": []
@@ -114,24 +273,6 @@
     "coins": []
   },
   {
-    "title": "Crypto’s Toughest Critic Elizabeth Warren Set to Run Senate Banking",
-    "link": "https://news.bitcoin.com/regulation-and-legal/elizabeth-warren-senate-banking-chair-crypto/",
-    "source": "news.bitcoin.com",
-    "published_at": "2026-11-06T10:30:12+00:00",
-    "agency": "Congress",
-    "sentiment": "bearish",
-    "coins": []
-  },
-  {
-    "title": "Paraguay Congress Impeaches President Over Bank Collapse",
-    "link": "https://news.bitcoin.com/finance/paraguay-congress-impeaches-president-over-bank-collapse/",
-    "source": "news.bitcoin.com",
-    "published_at": "2026-11-06T09:30:50+00:00",
-    "agency": "Congress",
-    "sentiment": "bearish",
-    "coins": []
-  },
-  {
     "title": "HYPE Price Prediction as Hyperliquid Strategies Seeks Approval For US-Regulated Futures Trading",
     "link": "https://coingape.com/markets/hype-price-prediction-as-hyperliquid-strategies-seeks-approval-for-us-futures-trading/",
     "source": "coingape.com",
@@ -141,144 +282,5 @@
     "coins": [
       "HYPE"
     ]
-  },
-  {
-    "title": "Crypto critic Elizabeth Warren expected to chair Senate Banking, likely to focus on crypto rules",
-    "link": "https://crypto.news/elizabeth-warren-senate-banking-crypto-regulation/",
-    "source": "crypto.news",
-    "published_at": "2026-11-06T06:05:03+00:00",
-    "agency": "Congress",
-    "sentiment": "bearish",
-    "coins": []
-  },
-  {
-    "title": "Crypto Industry Faces New Threat as Warren Eyes Powerful Senate Role",
-    "link": "https://u.today/crypto-industry-faces-new-threat-as-warren-eyes-powerful-senate-role",
-    "source": "u.today",
-    "published_at": "2026-11-06T05:57:14+00:00",
-    "agency": "Congress",
-    "sentiment": "bearish",
-    "coins": []
-  },
-  {
-    "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
-    "link": "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform",
-    "source": "coindesk.com",
-    "published_at": "2026-11-06T02:24:23+00:00",
-    "agency": "Treasury",
-    "sentiment": "neutral",
-    "coins": [
-      "HYPE"
-    ]
-  },
-  {
-    "title": "OpenAI Promises to Foot AI’s Power Bill After Voter Revolt. Who Enforces It?",
-    "link": "https://decrypt.co/382674/openai-promises-foot-ai-power-bill-after-voter-revolt",
-    "source": "decrypt.co",
-    "published_at": "2026-11-05T21:36:03+00:00",
-    "agency": "Regulatory",
-    "sentiment": "bullish",
-    "coins": []
-  },
-  {
-    "title": "Bitcoin’s $74.6m ETF rebound meets a tougher US regulatory outlook",
-    "link": "https://crypto.news/bitcoin-etf-inflows-us-crypto-legislation-delays/",
-    "source": "crypto.news",
-    "published_at": "2026-11-05T20:55:23+00:00",
-    "agency": "Regulatory",
-    "sentiment": "bullish",
-    "coins": [
-      "BTC"
-    ]
-  },
-  {
-    "title": "White House Reviews SEC Proposal to Ease Regulatory Requirements for Crypto Brokers",
-    "link": "https://coingape.com/white-house-reviews-sec-proposal-to-ease-regulatory-requirements-for-crypto-brokers/",
-    "source": "coingape.com",
-    "published_at": "2026-11-05T20:44:48+00:00",
-    "agency": "SEC",
-    "sentiment": "neutral",
-    "coins": []
-  },
-  {
-    "title": "Kalshi, Coinbase stock perps under threat ahead of CFTC deadline",
-    "link": "https://protos.com/kalshi-coinbase-stock-perps-under-threat-ahead-of-cftc-deadline/",
-    "source": "protos.com",
-    "published_at": "2026-11-05T19:37:33+00:00",
-    "agency": "CFTC",
-    "sentiment": "bearish",
-    "coins": []
-  },
-  {
-    "title": "Greece Approves 10% Crypto Capital Gains Tax as First Framework Lands Below Draft Rate",
-    "link": "https://bitcoinmagazine.com/news/greece-approves-10-crypto-gains-tax",
-    "source": "bitcoinmagazine.com",
-    "published_at": "2026-11-05T19:00:00+00:00",
-    "agency": "Regulatory",
-    "sentiment": "bullish",
-    "coins": []
-  },
-  {
-    "title": "Anchorage Digital Seeks CFTC Registration as Swap Activity Tops $8B",
-    "link": "https://coingape.com/anchorage-digital-seeks-cftc-registration-as-swap-activity-tops-8b/",
-    "source": "coingape.com",
-    "published_at": "2026-11-05T18:05:10+00:00",
-    "agency": "CFTC",
-    "sentiment": "bullish",
-    "coins": []
-  },
-  {
-    "title": "Hollywood Studios Quietly Ban Staff From Betting on Prediction Markets: Report",
-    "link": "https://decrypt.co/382626/hollywood-studios-quietly-ban-staff-from-betting-on-prediction-markets-report",
-    "source": "decrypt.co",
-    "published_at": "2026-11-05T17:31:10+00:00",
-    "agency": "Regulatory",
-    "sentiment": "bearish",
-    "coins": []
-  },
-  {
-    "title": "U.S. crypto regulation: What could Democrats change in 2027?",
-    "link": "https://crypto.news/us-crypto-regulation-2027-democratic-sweep/",
-    "source": "crypto.news",
-    "published_at": "2026-11-05T16:39:45+00:00",
-    "agency": "Regulatory",
-    "sentiment": "bullish",
-    "coins": []
-  },
-  {
-    "title": "Democrats to Push Broader Crypto Market Structure Bill After Sweeping US Midterms: Report",
-    "link": "https://decrypt.co/382602/democrats-to-push-broader-crypto-market-structure-bill-after-sweeping-us-midterms-report",
-    "source": "decrypt.co",
-    "published_at": "2026-11-05T16:37:20+00:00",
-    "agency": "Regulatory",
-    "sentiment": "bullish",
-    "coins": []
-  },
-  {
-    "title": "Anchorage Digital Applies for CFTC Swap Dealer Registration",
-    "link": "https://thedefiant.io/converge/regulation/anchorage-digital-applies-for-cftc-swap-dealer-registration",
-    "source": "thedefiant.io",
-    "published_at": "2026-11-05T16:09:07+00:00",
-    "agency": "CFTC",
-    "sentiment": "neutral",
-    "coins": []
-  },
-  {
-    "title": "Bitget Faces Dec 5 Thai Access Ban as Regulators Target Years of Unlicensed Local Promotion",
-    "link": "https://coingape.com/bitget-faces-dec-5-thai-access-ban-as-regulators-target-years-of-unlicensed-local-promotion/",
-    "source": "coingape.com",
-    "published_at": "2026-11-05T15:30:20+00:00",
-    "agency": "Regulatory",
-    "sentiment": "bearish",
-    "coins": []
-  },
-  {
-    "title": "Ukraine’s central bank rejects crypto bill over foreign token and monopoly risks",
-    "link": "https://crypto.news/ukraines-central-bank-rejects-crypto-bill-over-foreign-token-and-monopoly-risks/",
-    "source": "crypto.news",
-    "published_at": "2026-11-05T13:34:47+00:00",
-    "agency": "Regulatory",
-    "sentiment": "bearish",
-    "coins": []
   }
 ]
