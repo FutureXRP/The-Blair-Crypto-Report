@@ -1,5 +1,79 @@
 [
   {
+    "title": "SEC vs. CFTC: Who Regulates Crypto in the US?",
+    "link": "https://thedefiant.io/news/regulation/sec-vs-cftc-who-regulates-crypto-in-the-us",
+    "source": "thedefiant.io",
+    "published_at": "2026-11-07T18:14:51+00:00",
+    "agency": "SEC",
+    "sentiment": "bearish",
+    "coins": []
+  },
+  {
+    "title": "Rep. Don Beyer pushes for House Select Committee on AI with subpoena power",
+    "link": "https://cryptobriefing.com/don-beyer-house-select-committee-ai/",
+    "source": "cryptobriefing.com",
+    "published_at": "2026-11-07T18:08:43+00:00",
+    "agency": "Regulatory",
+    "sentiment": "neutral",
+    "coins": []
+  },
+  {
+    "title": "Democrats eye data center limits, AI legislation after electoral win",
+    "link": "https://cryptobriefing.com/democrats-eye-data-center-limits-ai-legislation-after-electoral-win/",
+    "source": "cryptobriefing.com",
+    "published_at": "2026-11-07T18:02:56+00:00",
+    "agency": "Regulatory",
+    "sentiment": "bearish",
+    "coins": []
+  },
+  {
+    "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
+    "link": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
+    "source": "coindesk.com",
+    "published_at": "2026-11-07T17:36:46+00:00",
+    "agency": "Treasury",
+    "sentiment": "neutral",
+    "coins": []
+  },
+  {
+    "title": "5-year Treasury yield for first time since 2007, impacting REITs",
+    "link": "https://cryptobriefing.com/5-year-treasury-yield-for-first-time-since-2007-impacting-reits/",
+    "source": "cryptobriefing.com",
+    "published_at": "2026-11-07T15:53:29+00:00",
+    "agency": "Treasury",
+    "sentiment": "bullish",
+    "coins": []
+  },
+  {
+    "title": "White House Reviews SEC Crypto Rules After Democratic Midterm Victory",
+    "link": "https://news.bitcoin.com/regulation-and-legal/white-house-reviews-sec-crypto-rules-after-democratic-midterm-victory/",
+    "source": "news.bitcoin.com",
+    "published_at": "2026-11-07T14:54:10+00:00",
+    "agency": "SEC",
+    "sentiment": "bullish",
+    "coins": []
+  },
+  {
+    "title": "OFAC’s sanctions search tool checks crypto wallets, but a clean result isn’t a clearance",
+    "link": "https://cryptobriefing.com/ofac-sanctions-search-crypto-wallet-addresses/",
+    "source": "cryptobriefing.com",
+    "published_at": "2026-11-07T14:21:32+00:00",
+    "agency": "Regulatory",
+    "sentiment": "neutral",
+    "coins": []
+  },
+  {
+    "title": "'Congratulations,' Peter Schiff Reacts as Saylor's Bitcoin Treasury Sits at Cost Basis",
+    "link": "https://u.today/congratulations-peter-schiff-reacts-as-saylors-bitcoin-treasury-sits-at-cost-basis",
+    "source": "u.today",
+    "published_at": "2026-11-07T14:19:36+00:00",
+    "agency": "Treasury",
+    "sentiment": "bearish",
+    "coins": [
+      "BTC"
+    ]
+  },
+  {
     "title": "Bitcoin withstands US regulatory pressures amid $1B ETF withdrawals",
     "link": "https://cryptobriefing.com/bitcoin-withstands-us-regulatory-pressures-amid-1b-etf-withdrawals/",
     "source": "cryptobriefing.com",
@@ -42,15 +116,6 @@
     "link": "https://thedefiant.io/converge/regulation/us-sanctions-eight-canadian-money-firms-over-alleged-iran-crypto-links",
     "source": "thedefiant.io",
     "published_at": "2026-11-07T11:27:05+00:00",
-    "agency": "Regulatory",
-    "sentiment": "bullish",
-    "coins": []
-  },
-  {
-    "title": "U.S. reportedly approved Nvidia chip sales to Chinese firms with empty offices",
-    "link": "https://cryptobriefing.com/us-reportedly-approved-nvidia-chip-sales-to-chinese-firms-with-empty-offices/",
-    "source": "cryptobriefing.com",
-    "published_at": "2026-11-07T11:25:26+00:00",
     "agency": "Regulatory",
     "sentiment": "bullish",
     "coins": []
@@ -115,17 +180,6 @@
     "coins": []
   },
   {
-    "title": "Bitcoin spot ETFs see $412 million in net outflows on November 6",
-    "link": "https://cryptobriefing.com/bitcoin-spot-etfs-412m-outflows-november-6/",
-    "source": "cryptobriefing.com",
-    "published_at": "2026-11-07T05:33:33+00:00",
-    "agency": "Regulatory",
-    "sentiment": "neutral",
-    "coins": [
-      "BTC"
-    ]
-  },
-  {
     "title": "US Sanctions 8 Canadian Crypto Firms Over Iran Links as MEXC Faces $16B Crackdown",
     "link": "https://blockonomi.com/us-sanctions-8-canadian-crypto-firms-over-iran-links-as-mexc-faces-16b-crackdown/",
     "source": "blockonomi.com",
@@ -135,22 +189,11 @@
     "coins": []
   },
   {
-    "title": "Binance Pulls Kevin O’Leary, Michael Lewis Into $1.76B FTX Clawback Lawsuit",
-    "link": "https://news.bitcoin.com/regulation-and-legal/binance-pulls-kevin-oleary-michael-lewis-1-76b-ftx-clawback-lawsuit/",
-    "source": "news.bitcoin.com",
-    "published_at": "2026-11-07T03:30:39+00:00",
-    "agency": "Regulatory",
-    "sentiment": "bearish",
-    "coins": [
-      "BNB"
-    ]
-  },
-  {
-    "title": "CFTC Tells Prediction Markets to Drop State Geoblocks Within 30 Days",
-    "link": "https://news.bitcoin.com/igaming/cftc-tells-prediction-markets-drop-state-geoblocks-within-30-days/",
-    "source": "news.bitcoin.com",
-    "published_at": "2026-11-07T00:15:33+00:00",
-    "agency": "CFTC",
+    "title": "Mississippi Senate: Colom increases lead over Hyde-Smith to nearly 2,500 votes",
+    "link": "https://www.cnbc.com/2026/11/05/mississippi-senate-election-scott-colom-hyde-smith.html",
+    "source": "cnbc.com",
+    "published_at": "2026-11-06T23:12:56+00:00",
+    "agency": "Congress",
     "sentiment": "neutral",
     "coins": []
   },
@@ -240,50 +283,5 @@
     "coins": [
       "BTC"
     ]
-  },
-  {
-    "title": "US Sanctions 45 More Targets Linked to Prince Group",
-    "link": "https://thedefiant.io/news/regulation/us-sanctions-45-more-targets-linked-to-prince-group",
-    "source": "thedefiant.io",
-    "published_at": "2026-11-06T17:50:26+00:00",
-    "agency": "Regulatory",
-    "sentiment": "neutral",
-    "coins": []
-  },
-  {
-    "title": "US Sanctions 45 More Targets Tied to Alleged Crypto Scam Empire Prince Group",
-    "link": "https://decrypt.co/382730/us-sanctions-45-more-targets-tied-to-alleged-crypto-scam-empire-prince-group",
-    "source": "decrypt.co",
-    "published_at": "2026-11-06T17:42:31+00:00",
-    "agency": "Regulatory",
-    "sentiment": "bearish",
-    "coins": []
-  },
-  {
-    "title": "Thailand SEC Files Criminal Complaint Against Bitget Ahead of Dec. 5 Access Block",
-    "link": "https://bitcoinmagazine.com/news/thailand-sec-bitget-criminal-dec-5",
-    "source": "bitcoinmagazine.com",
-    "published_at": "2026-11-06T17:30:00+00:00",
-    "agency": "SEC",
-    "sentiment": "bullish",
-    "coins": []
-  },
-  {
-    "title": "Chainalysis Starts Reopening Compliance Tools Behind IP Allowlists in Sixth Breach Update",
-    "link": "https://unchainedcrypto.com/chainalysis-starts-reopening-compliance-tools-behind-ip-allowlists-in-sixth-breach-update/",
-    "source": "unchainedcrypto.com",
-    "published_at": "2026-11-06T17:05:00+00:00",
-    "agency": "Regulatory",
-    "sentiment": "neutral",
-    "coins": []
-  },
-  {
-    "title": "US Treasury, Fed withdraw $250 crypto Travel Rule proposal. What does it mean?",
-    "link": "https://crypto.news/us-treasury-fed-withdraw-250-crypto-travel-rule-proposal-what-does-it-mean/",
-    "source": "crypto.news",
-    "published_at": "2026-11-06T14:39:43+00:00",
-    "agency": "Fed",
-    "sentiment": "bullish",
-    "coins": []
   }
 ]
