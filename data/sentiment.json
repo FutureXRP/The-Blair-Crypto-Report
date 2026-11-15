@@ -4,18 +4,9 @@
   "bullish": 22,
   "bearish": 37,
   "neutral": 41,
-  "date": "2026-11-14",
-  "article_count": 842,
+  "date": "2026-11-15",
+  "article_count": 833,
   "history": [
-    {
-      "score": 4,
-      "label": "Neutral",
-      "bullish": 30,
-      "bearish": 26,
-      "neutral": 44,
-      "date": "2026-10-16",
-      "article_count": 866
-    },
     {
       "score": -2,
       "label": "Neutral",
@@ -276,6 +267,15 @@
       "neutral": 41,
       "date": "2026-11-14",
       "article_count": 842
+    },
+    {
+      "score": -15,
+      "label": "Cautious",
+      "bullish": 22,
+      "bearish": 37,
+      "neutral": 41,
+      "date": "2026-11-15",
+      "article_count": 833
     }
   ]
 }
