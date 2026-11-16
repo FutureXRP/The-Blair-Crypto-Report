@@ -2,17 +2,95 @@
   "x_breaking": [],
   "breaking": [
     {
-      "title": "With Bitcoin near $65K, can history repeat BTC’s March 2023 comeback?",
-      "link": "https://ambcrypto.com/with-bitcoin-near-65k-can-history-repeat-btcs-march-2023-comeback/",
-      "published_at": "2026-11-15T21:00:43+00:00",
+      "title": "Will Aave’s $21M bet on Bitcoin’s lending potential restore DeFi liquidity or create new risk?",
+      "link": "https://ambcrypto.com/will-aaves-21m-bet-on-bitcoins-lending-potential-restore-defi-liquidity-or-create-new-risk/",
+      "published_at": "2026-11-16T01:00:07+00:00",
       "source": "ambcrypto.com",
-      "score": 3,
-      "ntitle": "bitcoin near 65k can history repeat btc s march 2023 comeback",
+      "score": 4,
+      "ntitle": "will aave s 21m bet bitcoin s lending potential restore defi liquidity or create new risk",
       "coins": [
-        "BTC",
-        "NEAR"
+        "AAVE",
+        "BTC"
       ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "AI Day Seoul Showcases Korea's Leadership in Physical and Agentic AI",
+      "link": "https://blockchain.news/news/ai-day-seoul-2026",
+      "published_at": "2026-11-16T00:21:58+00:00",
+      "source": "blockchain.news",
+      "score": 1,
+      "ntitle": "ai day seoul showcases korea s leadership physical agentic ai",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Crypto inflows to Sihanoukville casinos hit $1.07 billion despite sanctions and raids",
+      "link": "https://cryptobriefing.com/sihanoukville-casino-crypto-inflows-sanctions/",
+      "published_at": "2026-11-16T00:38:11+00:00",
+      "source": "cryptobriefing.com",
+      "score": 2,
+      "ntitle": "crypto inflows sihanoukville casinos hit 1 07 billion despite sanctions raids",
+      "coins": [],
       "sentiment": "neutral",
+      "is_regulation": true,
+      "agency": "Regulatory"
+    },
+    {
+      "title": "Ripple’s David Schwartz Once Held 26 Million XRP. Now Just 3 Million",
+      "link": "https://news.bitcoin.com/featured/ripples-david-schwartz-once-held-26-million-xrp-now-just-3-million/",
+      "published_at": "2026-11-16T00:05:26+00:00",
+      "source": "news.bitcoin.com",
+      "score": 8,
+      "ntitle": "ripple s david schwartz once held 26 million xrp now just 3 million",
+      "coins": [
+        "XRP"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Goldman Sachs says AI stocks have flipped to the short side of momentum",
+      "link": "https://cryptobriefing.com/goldman-sachs-momentum-basket-ai-stocks/",
+      "published_at": "2026-11-16T00:29:58+00:00",
+      "source": "cryptobriefing.com",
+      "score": 1,
+      "ntitle": "goldman sachs says ai stocks have flipped short side momentum",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    }
+  ],
+  "day": [
+    {
+      "title": "Why the ‘Blue Wave’ coming for Trump’s $1.5B crypto empire may be mostly good news",
+      "link": "https://ambcrypto.com/why-the-blue-wave-coming-for-trumps-1-5b-crypto-empire-may-be-mostly-good-news/",
+      "published_at": "2026-11-15T23:00:29+00:00",
+      "source": "ambcrypto.com",
+      "score": 2,
+      "ntitle": "why blue wave coming trump s 1 5b crypto empire may be mostly good news",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Saylor Highlights 4 Rare and Extreme Metrics Bitcoin Has Just Hit to Explain Price",
+      "link": "https://beincrypto.com/saylor-rare-extreme-bitcoin-metrics-price/",
+      "published_at": "2026-11-15T23:07:38+00:00",
+      "source": "beincrypto.com",
+      "score": 2,
+      "ntitle": "saylor highlights 4 rare extreme metrics bitcoin has just hit explain price",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
@@ -31,142 +109,12 @@
       "agency": null
     },
     {
-      "title": "Hedge funds fold on the AI trade as retail piles into Nvidia, says Morgan Stanley’s Savone",
-      "link": "https://cryptobriefing.com/hedge-funds-fold-retail-buys-nvidia/",
-      "published_at": "2026-11-15T21:09:47+00:00",
-      "source": "cryptobriefing.com",
-      "score": 2,
-      "ntitle": "hedge funds fold ai trade retail piles into nvidia says morgan stanley s savone",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Coinone Data Breach Exposes Passwords and Sensitive Customer Records",
-      "link": "https://news.bitcoin.com/security/coinone-data-breach-exposes-passwords-and-sensitive-customer-records/",
-      "published_at": "2026-11-15T20:30:40+00:00",
-      "source": "news.bitcoin.com",
-      "score": 3,
-      "ntitle": "coinone data breach exposes passwords sensitive customer records",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Ether ETFs Approach an Unwanted Record After Seven Weeks of Outflows",
-      "link": "https://www.newsbtc.com/ethereum-news/ether-etfs-seventh-week-outflows-398-million-november-2026/",
-      "published_at": "2026-11-15T21:00:00+00:00",
-      "source": "newsbtc.com",
-      "score": 3,
-      "ntitle": "ether etfs approach unwanted record after seven weeks outflows",
-      "coins": [
-        "ETH"
-      ],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Huang Weighs Nvidia Return as Allies Press Board: FT",
-      "link": "https://thedefiant.io/frontier/ai/huang-weighs-nvidia-return-as-allies-press-board-ft",
-      "published_at": "2026-11-15T20:17:54+00:00",
-      "source": "thedefiant.io",
-      "score": 1,
-      "ntitle": "huang weighs nvidia return allies press board ft",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Bitcoin Breaks Below $63K as Market Panic Intensifies",
-      "link": "https://bitcoinist.com/bitcoin-breaks-below-63k-as-market-panic-intensifies/",
-      "published_at": "2026-11-15T20:48:44+00:00",
-      "source": "bitcoinist.com",
-      "score": 3,
-      "ntitle": "bitcoin breaks below 63k market panic intensifies",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Retail investors boost Nvidia holdings as hedge funds pull back",
-      "link": "https://cryptobriefing.com/retail-investors-boost-nvidia-holdings-as-hedge-funds-pull-back/",
-      "published_at": "2026-11-15T21:08:26+00:00",
-      "source": "cryptobriefing.com",
-      "score": 1,
-      "ntitle": "retail investors boost nvidia holdings hedge funds pull back",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Luxor Pledges Full Compensation for Commander Hijack",
-      "link": "https://thedefiant.io/news/hacks/luxor-pledges-full-compensation-for-commander-hijack",
-      "published_at": "2026-11-15T20:16:40+00:00",
-      "source": "thedefiant.io",
-      "score": 1,
-      "ntitle": "luxor pledges full compensation commander hijack",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    }
-  ],
-  "day": [
-    {
-      "title": "‘Under pressure’ Dogecoin down by 40%, but is more downside ahead for memecoin?",
-      "link": "https://ambcrypto.com/under-pressure-dogecoin-down-by-40-but-is-more-downside-ahead-for-memecoin/",
-      "published_at": "2026-11-15T05:00:34+00:00",
-      "source": "ambcrypto.com",
-      "score": 3,
-      "ntitle": "under pressure dogecoin down 40 but more downside ahead memecoin",
-      "coins": [
-        "DOGE"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Goldman Sachs 2027 Economic Outlook For Investors",
-      "link": "https://beincrypto.com/goldman-sachs-2027-economic-outlook/",
-      "published_at": "2026-11-15T19:26:59+00:00",
-      "source": "beincrypto.com",
-      "score": 3,
-      "ntitle": "goldman sachs 2027 economic outlook investors",
-      "coins": [],
-      "sentiment": "bullish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Blockstream And Thales Launch Bitcoin Custody System",
-      "link": "https://bitcoinist.com/blockstream-and-thales-launch-bitcoin-custody-system/",
-      "published_at": "2026-11-15T09:40:40+00:00",
-      "source": "bitcoinist.com",
-      "score": 5,
-      "ntitle": "blockstream thales launch bitcoin custody system",
-      "coins": [
-        "BTC"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Open-Source AI Project Univer Gains 1,041 Stars in 24 Hours on GitHub",
-      "link": "https://blockchain.news/news/univer-ai-office-sdk-github-trending",
-      "published_at": "2026-11-15T17:54:15+00:00",
+      "title": "Physicist and GPT-6 Astra Propose Lattice Definition for the Standard Model",
+      "link": "https://blockchain.news/news/lattice-definition-standard-model-gpt6-astra",
+      "published_at": "2026-11-15T22:47:34+00:00",
       "source": "blockchain.news",
-      "score": 1,
-      "ntitle": "open source ai project univer gains 1 041 stars 24 hours github",
+      "score": 3,
+      "ntitle": "physicist gpt 6 astra propose lattice definition standard model",
       "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -239,12 +187,12 @@
       "agency": null
     },
     {
-      "title": "Enterprise blockchain is going to come back from the dead",
-      "link": "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-11-15T14:30:00+00:00",
+      "title": "Jensen Huang weighs Nvidia comeback days after shock exit: FT",
+      "link": "https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-11-15T23:47:45+00:00",
       "source": "cointelegraph.com",
-      "score": 3,
-      "ntitle": "enterprise blockchain going come back dead",
+      "score": 1,
+      "ntitle": "jensen huang weighs nvidia comeback days after shock exit ft",
       "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -263,25 +211,27 @@
       "agency": "CFTC"
     },
     {
-      "title": "Treasury Secretary Bessent gives Nvidia’s board 10 days to explain export-control failures",
-      "link": "https://cryptobriefing.com/bessent-nvidia-board-export-controls-deadline/",
-      "published_at": "2026-11-15T20:07:48+00:00",
+      "title": "Bharat Semi raises $24M seed round to build AI image sensors",
+      "link": "https://cryptobriefing.com/bharat-semi-24m-seed-ai-image-sensors/",
+      "published_at": "2026-11-15T23:34:36+00:00",
       "source": "cryptobriefing.com",
-      "score": 6,
-      "ntitle": "treasury secretary bessent gives nvidia s board 10 days explain export control failures",
+      "score": 3,
+      "ntitle": "bharat semi raises 24m seed round build ai image sensors",
       "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Treasury"
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
     },
     {
-      "title": "Robert Barr Jailed 8 Years for £2M Crypto Theft Plot Run by Phone From Prison",
-      "link": "https://cryptopotato.com/robert-barr-jailed-8-years-for-2m-crypto-theft-plot-run-by-phone-from-prison/",
-      "published_at": "2026-11-15T20:03:26+00:00",
+      "title": "DTCC Adds Solana to Wall Street Tokenization Plans, Targeting 2027",
+      "link": "https://cryptopotato.com/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027/",
+      "published_at": "2026-11-15T23:51:26+00:00",
       "source": "cryptopotato.com",
-      "score": 1,
-      "ntitle": "robert barr jailed 8 years 2m crypto theft plot run phone prison",
-      "coins": [],
+      "score": 9,
+      "ntitle": "dtcc adds solana wall street tokenization plans targeting 2027",
+      "coins": [
+        "SOL"
+      ],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
@@ -338,106 +288,106 @@
       "agency": null
     },
     {
-      "title": "Tom Lee Predicts Massive Crypto Supercycle Despite Market Crash",
-      "link": "https://news.bitcoin.com/crypto-news/tom-lee-predicts-massive-crypto-supercycle-despite-market-crash/",
-      "published_at": "2026-11-15T19:15:25+00:00",
+      "title": "Blumenthal Targets CFTC Over Alleged Ties to Kalshi",
+      "link": "https://news.bitcoin.com/regulation-and-legal/blumenthal-targets-cftc-over-alleged-ties-to-kalshi/",
+      "published_at": "2026-11-15T22:42:46+00:00",
       "source": "news.bitcoin.com",
+      "score": 3,
+      "ntitle": "blumenthal targets cftc over alleged ties kalshi",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": true,
+      "agency": "CFTC"
+    },
+    {
+      "title": "Kazakhstan Targets Tokenized Government Bonds After $22 Million Note Sale",
+      "link": "https://www.newsbtc.com/news/blockchain/kazakhstan-tokenized-government-bonds-q1-2027-notes/",
+      "published_at": "2026-11-16T00:00:00+00:00",
+      "source": "newsbtc.com",
+      "score": 9,
+      "ntitle": "kazakhstan targets tokenized government bonds after 22 million note sale",
+      "coins": [],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "OpenAI Details Astra's Role in Standard Model Lattice Proof",
+      "link": "https://thedefiant.io/frontier/ai/openai-details-astra-s-role-in-standard-model-lattice-proof",
+      "published_at": "2026-11-15T22:38:42+00:00",
+      "source": "thedefiant.io",
       "score": 1,
-      "ntitle": "tom lee predicts massive crypto supercycle despite market crash",
+      "ntitle": "openai details astra s role standard model lattice proof",
       "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Stablecoin Supply Shrinkage Raises a Bigger Question About Crypto Liquidity",
-      "link": "https://www.newsbtc.com/crypto-news/stablecoin-supply-contracts-crypto-liquidity-november-2026/",
-      "published_at": "2026-11-15T20:00:00+00:00",
-      "source": "newsbtc.com",
-      "score": 1,
-      "ntitle": "stablecoin supply shrinkage raises bigger question about crypto liquidity",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "AERO Falls 27% in a Week, Lagging Bitcoin and Ether",
-      "link": "https://thedefiant.io/news/markets/aero-falls-27-in-a-week-lagging-bitcoin-and-ether",
-      "published_at": "2026-11-15T17:43:21+00:00",
-      "source": "thedefiant.io",
-      "score": 1,
-      "ntitle": "aero falls 27 week lagging bitcoin ether",
-      "coins": [
-        "BTC",
-        "ETH"
-      ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Binance Warns About AI Scams",
-      "link": "https://u.today/binance-warns-about-ai-scams",
-      "published_at": "2026-11-15T18:36:45+00:00",
+      "title": "Shiba Inu (SHIB), Solana (SOL) and Zcash (ZEC) Price Analysis For November 16: Is This Finally the Recovery Point?",
+      "link": "https://u.today/price-analysis/shiba-inu-shib-solana-sol-and-zcash-zec-price-analysis-for-november-16-is-this-finally-the-recovery",
+      "published_at": "2026-11-16T00:01:00+00:00",
       "source": "u.today",
-      "score": 0,
-      "ntitle": "binance warns about ai scams",
-      "coins": [
-        "BNB"
-      ],
-      "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Why Binance’s ‘kill switch’ couldn’t stop hackers from draining $6.3B — Explained!",
-      "link": "https://ambcrypto.com/why-binances-kill-switch-couldnt-stop-hackers-from-draining-6-3b-explained/",
-      "published_at": "2026-11-15T02:00:22+00:00",
-      "source": "ambcrypto.com",
       "score": 2,
-      "ntitle": "why binance s kill switch couldn t stop hackers draining 6 3b explained",
+      "ntitle": "shiba inu shib solana sol zcash zec price analysis november 16 this finally recovery point",
       "coins": [
-        "BNB"
+        "SHIB",
+        "SOL"
       ],
-      "sentiment": "bearish",
+      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Jensen Huang Reportedly Wants Back In As Nvidia CEO. How Will Stock React?",
-      "link": "https://beincrypto.com/jensen-huang-nvidia-ceo-comeback-stock/",
-      "published_at": "2026-11-15T19:23:49+00:00",
-      "source": "beincrypto.com",
-      "score": 1,
-      "ntitle": "jensen huang reportedly wants back nvidia ceo how will stock react",
-      "coins": [],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "Are Whales Selling Bitcoin For The Anthropic IPO? The SpaceX Playbook Hints A Bottom Is Near",
-      "link": "https://bitcoinist.com/are-whales-selling-bitcoin-for-the-anthropic-ipo/",
-      "published_at": "2026-11-15T09:14:44+00:00",
-      "source": "bitcoinist.com",
-      "score": 8,
-      "ntitle": "whales selling bitcoin anthropic ipo spacex playbook hints bottom near",
+      "title": "With Bitcoin near $65K, can history repeat BTC’s March 2023 comeback?",
+      "link": "https://ambcrypto.com/with-bitcoin-near-65k-can-history-repeat-btcs-march-2023-comeback/",
+      "published_at": "2026-11-15T21:00:43+00:00",
+      "source": "ambcrypto.com",
+      "score": 3,
+      "ntitle": "bitcoin near 65k can history repeat btc s march 2023 comeback",
       "coins": [
         "BTC",
         "NEAR"
       ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Hoskinson and Cardano Foundation CEO Clash Over Accountability and Veridian Shares",
+      "link": "https://beincrypto.com/hoskinson-cardano-foundation-clash-veridian-shares/",
+      "published_at": "2026-11-15T22:44:06+00:00",
+      "source": "beincrypto.com",
+      "score": 2,
+      "ntitle": "hoskinson cardano foundation ceo clash over accountability veridian shares",
+      "coins": [
+        "ADA"
+      ],
+      "sentiment": "neutral",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Bitcoin Breaks Below $63K as Market Panic Intensifies",
+      "link": "https://bitcoinist.com/bitcoin-breaks-below-63k-as-market-panic-intensifies/",
+      "published_at": "2026-11-15T20:48:44+00:00",
+      "source": "bitcoinist.com",
+      "score": 3,
+      "ntitle": "bitcoin breaks below 63k market panic intensifies",
+      "coins": [
+        "BTC"
+      ],
       "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "Plannotator Gains 860 Stars in 24 Hours, Surges on GitHub Trending",
-      "link": "https://blockchain.news/news/plannotator-github-trending-surge",
-      "published_at": "2026-11-15T11:50:31+00:00",
+      "title": "Open-Source AI Project Univer Gains 1,041 Stars in 24 Hours on GitHub",
+      "link": "https://blockchain.news/news/univer-ai-office-sdk-github-trending",
+      "published_at": "2026-11-15T17:54:15+00:00",
       "source": "blockchain.news",
       "score": 1,
-      "ntitle": "plannotator gains 860 stars 24 hours surges github trending",
+      "ntitle": "open source ai project univer gains 1 041 stars 24 hours github",
       "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
@@ -453,18 +403,6 @@
       "coins": [
         "BTC"
       ],
-      "sentiment": "neutral",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "'Root cause’ of nationwide ground stop is unknown, FAA says",
-      "link": "https://www.cnbc.com/2026/11/14/root-cause-of-nationwide-ground-stop-is-unknown-faa-says.html",
-      "published_at": "2026-11-14T22:54:47+00:00",
-      "source": "cnbc.com",
-      "score": 3,
-      "ntitle": "root cause nationwide ground stop unknown faa says",
-      "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
@@ -496,30 +434,59 @@
       "agency": null
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published_at": "2026-11-15T11:18:48+00:00",
+      "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published_at": "2026-11-15T22:50:59+00:00",
       "source": "cointelegraph.com",
-      "score": 4,
-      "ntitle": "here s what happened crypto today",
-      "coins": [],
-      "sentiment": "neutral",
+      "score": 1,
+      "ntitle": "us sellers drive bitcoin crash jensen plots nvidia comeback hodler s digest",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "Solana co-founder responds to Ethereum critics as full node runs on tablet",
+      "link": "https://crypto.news/solana-co-founder-tablet-node-firedancer/",
+      "published_at": "2026-11-15T14:52:59+00:00",
+      "source": "crypto.news",
+      "score": 1,
+      "ntitle": "solana co founder responds ethereum critics full node runs tablet",
+      "coins": [
+        "ETH",
+        "SOL"
+      ],
+      "sentiment": "bearish",
       "is_regulation": false,
       "agency": null
     }
   ],
   "week": [
     {
-      "title": "XRP price prediction — These TWO factors can help altcoin reclaim $1.2-level",
-      "link": "https://ambcrypto.com/xrp-price-prediction-these-two-factors-can-help-altcoin-reclaim-1-2-level/",
-      "published_at": "2026-11-14T20:00:23+00:00",
-      "source": "ambcrypto.com",
-      "score": 8,
-      "ntitle": "xrp price prediction these two factors can help altcoin reclaim 1 2 level",
-      "coins": [
-        "XRP"
-      ],
+      "title": "Crypto Bull Run 2027: Major Trends and Insights",
+      "link": "https://101blockchains.com/crypto-bull-run-2027/",
+      "published_at": "2026-11-13T10:50:03+00:00",
+      "source": "101blockchains.com",
+      "score": 3,
+      "ntitle": "crypto bull run 2027 major trends insights",
+      "coins": [],
       "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
+      "title": "What’s keeping Bitcoin buyers away despite 2 leverage flushes in 5 days?",
+      "link": "https://ambcrypto.com/whats-keeping-bitcoin-buyers-away-despite-2-leverage-flushes-in-5-days/",
+      "published_at": "2026-11-15T00:00:39+00:00",
+      "source": "ambcrypto.com",
+      "score": 1,
+      "ntitle": "what s keeping bitcoin buyers away despite 2 leverage flushes 5 days",
+      "coins": [
+        "BTC"
+      ],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -534,18 +501,6 @@
         "ETH"
       ],
       "sentiment": "bearish",
-      "is_regulation": false,
-      "agency": null
-    },
-    {
-      "title": "AMD Just Had Its Biggest Run Against Nvidia Since 1999. Can It Survive Earnings?",
-      "link": "https://beincrypto.com/amd-stock-record-run-nvidia-earnings/",
-      "published_at": "2026-11-14T20:06:56+00:00",
-      "source": "beincrypto.com",
-      "score": 2,
-      "ntitle": "amd just had biggest run against nvidia since 1999 can it survive earnings",
-      "coins": [],
-      "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     },
@@ -614,16 +569,16 @@
       "agency": null
     },
     {
-      "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
-      "link": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
-      "published_at": "2026-11-14T15:50:43+00:00",
+      "title": "'Root cause’ of nationwide ground stop is unknown, FAA says",
+      "link": "https://www.cnbc.com/2026/11/14/root-cause-of-nationwide-ground-stop-is-unknown-faa-says.html",
+      "published_at": "2026-11-14T22:54:47+00:00",
       "source": "cnbc.com",
-      "score": 4,
-      "ntitle": "how nvidia turmoil democratic congress could reshape ai trade according etf experts",
+      "score": 3,
+      "ntitle": "root cause nationwide ground stop unknown faa says",
       "coins": [],
       "sentiment": "neutral",
-      "is_regulation": true,
-      "agency": "Congress"
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "How Does Crypto Prop Trading Work?",
@@ -704,16 +659,16 @@
       "agency": null
     },
     {
-      "title": "Trump Nominates 4 SEC and CFTC Picks, Including CLARITY Act Negotiators",
-      "link": "https://cryptopotato.com/trump-nominates-4-sec-and-cftc-picks-including-clarity-act-negotiators/",
-      "published_at": "2026-11-14T20:28:55+00:00",
+      "title": "Crypto Executives Targeted in $400M North Korea Hacking Scheme: FBI",
+      "link": "https://cryptopotato.com/crypto-executives-targeted-in-400m-north-korea-hacking-scheme-fbi/",
+      "published_at": "2026-11-14T22:41:58+00:00",
       "source": "cryptopotato.com",
       "score": 3,
-      "ntitle": "trump nominates 4 sec cftc picks including clarity act negotiators",
+      "ntitle": "crypto executives targeted 400m north korea hacking scheme fbi",
       "coins": [],
       "sentiment": "bearish",
-      "is_regulation": true,
-      "agency": "SEC"
+      "is_regulation": false,
+      "agency": null
     },
     {
       "title": "What Are Prediction Markets and How Do They Work?",
@@ -776,14 +731,14 @@
       "agency": null
     },
     {
-      "title": "Litecoin Falls 11% In Rout",
-      "link": "https://www.investing.com/news/cryptocurrency-news/litecoin-falls-11-in-rout-5027513",
-      "published_at": "2026-11-14T20:55:58+00:00",
+      "title": "Ethereum Falls 10% In Rout",
+      "link": "https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-rout-5027613",
+      "published_at": "2026-11-15T01:04:01+00:00",
       "source": "investing.com",
       "score": 0,
-      "ntitle": "litecoin falls 11 rout",
+      "ntitle": "ethereum falls 10 rout",
       "coins": [
-        "LTC"
+        "ETH"
       ],
       "sentiment": "bearish",
       "is_regulation": false,
@@ -842,26 +797,28 @@
       "agency": "SEC"
     },
     {
-      "title": "Who Sells Shares When a Stock Leaves a Market Index?",
-      "link": "https://thedefiant.io/news/markets/who-sells-shares-when-a-stock-leaves-a-market-index",
-      "published_at": "2026-11-14T18:14:23+00:00",
+      "title": "Telegram Restricts Bot Widgets Amid Security Dispute",
+      "link": "https://thedefiant.io/news/security/telegram-restricts-bot-widgets-amid-security-dispute",
+      "published_at": "2026-11-15T01:03:53+00:00",
       "source": "thedefiant.io",
-      "score": 3,
-      "ntitle": "who sells shares when stock leaves market index",
+      "score": 1,
+      "ntitle": "telegram restricts bot widgets amid security dispute",
       "coins": [],
       "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
     {
-      "title": "2027 Crypto Outlook: Bitwise CEO Highlights Wall Street Adoption",
-      "link": "https://u.today/2027-crypto-outlook-bitwise-ceo-highlights-wall-street-adoption",
-      "published_at": "2026-11-14T15:15:49+00:00",
+      "title": "XRP to $1.3? Kalshi Traders Make Weak November Bets",
+      "link": "https://u.today/xrp-to-13-kalshi-traders-make-weak-november-bets",
+      "published_at": "2026-11-15T00:01:00+00:00",
       "source": "u.today",
-      "score": 3,
-      "ntitle": "2027 crypto outlook bitwise ceo highlights wall street adoption",
-      "coins": [],
-      "sentiment": "bullish",
+      "score": 6,
+      "ntitle": "xrp 1 3 kalshi traders make weak november bets",
+      "coins": [
+        "XRP"
+      ],
+      "sentiment": "neutral",
       "is_regulation": false,
       "agency": null
     },
@@ -878,21 +835,33 @@
       "agency": null
     },
     {
-      "title": "Why isn’t Avalanche’s 295% DeFi deposit surge enough for AVAX’s price?",
-      "link": "https://ambcrypto.com/why-isnt-avalanches-295-defi-deposit-surge-enough-for-avaxs-price/",
-      "published_at": "2026-11-14T17:00:39+00:00",
+      "title": "2026 was supposed to be the year of altcoins – So what went wrong?",
+      "link": "https://ambcrypto.com/2026-was-supposed-to-be-the-year-of-altcoins-so-what-went-wrong/",
+      "published_at": "2026-11-14T22:00:42+00:00",
       "source": "ambcrypto.com",
-      "score": 3,
-      "ntitle": "why isn t avalanche s 295 defi deposit surge enough avax s price",
-      "coins": [
-        "AVAX"
-      ],
+      "score": 1,
+      "ntitle": "2026 was supposed be year altcoins so what went wrong",
+      "coins": [],
       "sentiment": "bullish",
       "is_regulation": false,
       "agency": null
     }
   ],
   "month": [
+    {
+      "title": "The $6.3 Billion Binance Hack: What Happened, How Binance Responded, and What It Means for Crypto",
+      "link": "https://101blockchains.com/binance-hack/",
+      "published_at": "2026-11-05T10:15:30+00:00",
+      "source": "101blockchains.com",
+      "score": 2,
+      "ntitle": "6 3 billion binance hack what happened how binance responded what it means crypto",
+      "coins": [
+        "BNB"
+      ],
+      "sentiment": "bearish",
+      "is_regulation": false,
+      "agency": null
+    },
     {
       "title": "🏴 PAID: Robinhood Chain's Hook Economy",
       "link": "https://www.bankless.com/read/paid-a-field-guide-to-robinhood-chains-hook-economy",
@@ -982,6 +951,18 @@
       "agency": "SEC"
     },
     {
+      "title": "Success Story: Aman Singh’s Learning Journey with 101 Blockchains",
+      "link": "https://101blockchains.com/aman-singh-success-story/",
+      "published_at": "2026-11-04T11:18:12+00:00",
+      "source": "101blockchains.com",
+      "score": 3,
+      "ntitle": "success story aman singh s learning journey 101 blockchains",
+      "coins": [],
+      "sentiment": "bullish",
+      "is_regulation": false,
+      "agency": null
+    },
+    {
       "title": "🏴 FREE: Robinhood Chain's Hook Economy",
       "link": "https://www.bankless.com/read/free-a-field-guide-to-robinhood-chains-hook-economy",
       "published_at": "2026-11-06T20:58:21+00:00",
@@ -1058,29 +1039,30 @@
   ],
   "clusters": [
     {
-      "id": 12,
-      "title": "Open-Source AI Project Univer Gains 1,041 Stars in 24 Hours on GitHub",
-      "link": "https://blockchain.news/news/univer-ai-office-sdk-github-trending",
+      "id": 8,
+      "title": "Physicist and GPT-6 Astra Propose Lattice Definition for the Standard Model",
+      "link": "https://blockchain.news/news/lattice-definition-standard-model-gpt6-astra",
       "source": "blockchain.news",
-      "published_at": "2026-11-15T17:54:15+00:00",
+      "published_at": "2026-11-15T22:47:34+00:00",
       "sentiment": "bullish",
       "coins": [],
       "sources": [
-        "blockchain.news"
+        "blockchain.news",
+        "thedefiant.io"
       ],
       "count": 2,
       "members": [
         {
-          "title": "Open-Source AI Project Univer Gains 1,041 Stars in 24 Hours on GitHub",
-          "link": "https://blockchain.news/news/univer-ai-office-sdk-github-trending",
+          "title": "Physicist and GPT-6 Astra Propose Lattice Definition for the Standard Model",
+          "link": "https://blockchain.news/news/lattice-definition-standard-model-gpt6-astra",
           "source": "blockchain.news",
-          "published_at": "2026-11-15T17:54:15+00:00"
+          "published_at": "2026-11-15T22:47:34+00:00"
         },
         {
-          "title": "Plannotator Gains 860 Stars in 24 Hours, Surges on GitHub Trending",
-          "link": "https://blockchain.news/news/plannotator-github-trending-surge",
-          "source": "blockchain.news",
-          "published_at": "2026-11-15T11:50:31+00:00"
+          "title": "OpenAI Details Astra's Role in Standard Model Lattice Proof",
+          "link": "https://thedefiant.io/frontier/ai/openai-details-astra-s-role-in-standard-model-lattice-proof",
+          "source": "thedefiant.io",
+          "published_at": "2026-11-15T22:38:42+00:00"
         }
       ]
     }
@@ -1088,52 +1070,52 @@
   "trending": [
     {
       "tag": "#Ai",
-      "count": 58,
+      "count": 61,
       "type": "topic",
       "pct": 100
     },
     {
       "tag": "#XRP",
-      "count": 57,
+      "count": 55,
       "type": "coin",
-      "pct": 98
+      "pct": 90
     },
     {
       "tag": "#Xrp",
-      "count": 54,
+      "count": 52,
       "type": "topic",
-      "pct": 93
+      "pct": 85
     },
     {
       "tag": "#Bitcoin",
-      "count": 33,
+      "count": 28,
       "type": "topic",
-      "pct": 57
+      "pct": 46
     },
     {
       "tag": "#BTC",
-      "count": 31,
+      "count": 25,
       "type": "coin",
-      "pct": 53
-    },
-    {
-      "tag": "#Etf",
-      "count": 20,
-      "type": "topic",
-      "pct": 34
+      "pct": 41
     },
     {
       "tag": "#Defi",
+      "count": 24,
+      "type": "topic",
+      "pct": 39
+    },
+    {
+      "tag": "#Etf",
       "count": 19,
       "type": "topic",
-      "pct": 33
+      "pct": 31
     },
     {
       "tag": "#ETH",
-      "count": 15,
+      "count": 12,
       "type": "coin",
-      "pct": 26
+      "pct": 20
     }
   ],
-  "generated_at": "2026-11-15T21:16:35.904061+00:00"
+  "generated_at": "2026-11-16T01:04:13.025841+00:00"
 }
