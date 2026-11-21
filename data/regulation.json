@@ -29,15 +29,6 @@
     "coins": []
   },
   {
-    "title": "Nvidia stock plunges 10% amid potential SEC probe, market selloff",
-    "link": "https://cryptobriefing.com/nvidia-stock-plunges-10-amid-potential-sec-probe-market-selloff/",
-    "source": "cryptobriefing.com",
-    "published_at": "2026-11-20T20:51:10+00:00",
-    "agency": "SEC",
-    "sentiment": "bearish",
-    "coins": []
-  },
-  {
     "title": "Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting",
     "link": "https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting",
     "source": "decrypt.co",
@@ -195,15 +186,6 @@
     ]
   },
   {
-    "title": "Senate Outlaws Betting on Death and War in Bipartisan Vote",
-    "link": "https://news.bitcoin.com/regulation-and-legal/senate-outlaws-betting-on-death-and-war-in-bipartisan-vote/",
-    "source": "news.bitcoin.com",
-    "published_at": "2026-11-20T11:30:41+00:00",
-    "agency": "Congress",
-    "sentiment": "bearish",
-    "coins": []
-  },
-  {
     "title": "Coinbase Asks CFTC to Keep Crypto Contracts in Play Under Prediction Market Swap Rule",
     "link": "https://unchainedcrypto.com/coinbase-asks-cftc-to-keep-crypto-contracts-in-play-under-prediction-market-swap-rule/",
     "source": "unchainedcrypto.com",
@@ -280,5 +262,27 @@
     "agency": "SEC",
     "sentiment": "neutral",
     "coins": []
+  },
+  {
+    "title": "Binance.US Says Perps Bid Clears CFTC Completeness Check",
+    "link": "https://thedefiant.io/news/regulation/binance-us-says-perps-bid-clears-cftc-completeness-check",
+    "source": "thedefiant.io",
+    "published_at": "2026-11-19T19:48:35+00:00",
+    "agency": "CFTC",
+    "sentiment": "bullish",
+    "coins": [
+      "BNB"
+    ]
+  },
+  {
+    "title": "OFAC Sanctions Comancheros Leader, Lists Tron Address",
+    "link": "https://thedefiant.io/news/regulation/ofac-sanctions-comancheros-leader-lists-tron-address",
+    "source": "thedefiant.io",
+    "published_at": "2026-11-19T19:20:32+00:00",
+    "agency": "Regulatory",
+    "sentiment": "neutral",
+    "coins": [
+      "TRX"
+    ]
   }
 ]
