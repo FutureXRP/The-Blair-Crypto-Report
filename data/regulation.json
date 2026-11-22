@@ -1,14 +1,5 @@
 [
   {
-    "title": "ARK withdraws two proposed CoinDesk 20 crypto ETFs from SEC consideration",
-    "link": "https://cryptobriefing.com/ark-withdraws-coindesk-20-crypto-etfs/",
-    "source": "cryptobriefing.com",
-    "published_at": "2026-11-21T22:33:58+00:00",
-    "agency": "SEC",
-    "sentiment": "bullish",
-    "coins": []
-  },
-  {
     "title": "Russia allows exchanges to launch crypto trading with Central Bank approval",
     "link": "https://cryptobriefing.com/russia-exchanges-crypto-trading-central-bank-approval/",
     "source": "cryptobriefing.com",
@@ -53,15 +44,6 @@
     "published_at": "2026-11-21T17:01:02+00:00",
     "agency": "SEC",
     "sentiment": "bearish",
-    "coins": []
-  },
-  {
-    "title": "Tether Treasury moves 165.9 million USDT to an unidentified wallet",
-    "link": "https://cryptobriefing.com/tether-treasury-transfers-166m-usdt-unknown-wallet/",
-    "source": "cryptobriefing.com",
-    "published_at": "2026-11-21T15:47:16+00:00",
-    "agency": "Treasury",
-    "sentiment": "neutral",
     "coins": []
   },
   {
@@ -111,15 +93,6 @@
     "source": "cryptopotato.com",
     "published_at": "2026-11-21T10:34:13+00:00",
     "agency": "Regulatory",
-    "sentiment": "bearish",
-    "coins": []
-  },
-  {
-    "title": "CFTC Investigated Trump’s TRUMP Memecoin but Dropped Probe: Here’s Why",
-    "link": "https://blockonomi.com/cftc-investigated-trumps-trump-memecoin-but-dropped-probe-heres-why/",
-    "source": "blockonomi.com",
-    "published_at": "2026-11-21T07:41:11+00:00",
-    "agency": "CFTC",
     "sentiment": "bearish",
     "coins": []
   },
@@ -281,5 +254,34 @@
     "agency": "SEC",
     "sentiment": "bearish",
     "coins": []
+  },
+  {
+    "title": "U.S. Senate passes bill to ban prediction market bets on war and death",
+    "link": "https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death",
+    "source": "coindesk.com",
+    "published_at": "2026-11-20T14:25:57+00:00",
+    "agency": "Congress",
+    "sentiment": "bearish",
+    "coins": []
+  },
+  {
+    "title": "Hong Kong publishes crypto licensing bill to regulate dealers, advisers, asset managers, custodians",
+    "link": "https://crypto.news/hong-kong-crypto-licensing-bill-virtual-asset-services/",
+    "source": "crypto.news",
+    "published_at": "2026-11-20T13:37:24+00:00",
+    "agency": "Regulatory",
+    "sentiment": "neutral",
+    "coins": []
+  },
+  {
+    "title": "CFTC chair outlines two paths for Hyperliquid’s US entry but rules out special exemptions",
+    "link": "https://crypto.news/cftc-hyperliquid-us-market-regulatory-pathways/",
+    "source": "crypto.news",
+    "published_at": "2026-11-20T12:07:19+00:00",
+    "agency": "CFTC",
+    "sentiment": "bullish",
+    "coins": [
+      "HYPE"
+    ]
   }
 ]
