@@ -1,5 +1,134 @@
 [
   {
+    "title": "Bitcoin retreats to $60k amid rate, regulatory jitters",
+    "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-hovers-around-60k-amid-little-relief-from-rate-regulatory-jitters-5047126",
+    "source": "investing.com",
+    "published_at": "2026-11-24T14:56:38+00:00",
+    "agency": "Regulatory",
+    "sentiment": "neutral",
+    "coins": [
+      "BTC"
+    ]
+  },
+  {
+    "title": "South Korea Unveils Crypto Bill Capping Exchange Ownership at 20%",
+    "link": "https://bitcoinmagazine.com/news/south-korea-crypto-bill-exchange-ownership-cap",
+    "source": "bitcoinmagazine.com",
+    "published_at": "2026-11-24T14:45:00+00:00",
+    "agency": "Regulatory",
+    "sentiment": "bearish",
+    "coins": []
+  },
+  {
+    "title": "South Korea proposes ending 2017 ICO ban to boost jobs and onshore crypto investment",
+    "link": "https://www.coindesk.com/policy/2026/11/24/south-korea-proposes-ending-2017-ico-ban-to-boost-jobs-and-onshore-crypto-investment",
+    "source": "coindesk.com",
+    "published_at": "2026-11-24T14:40:53+00:00",
+    "agency": "Regulatory",
+    "sentiment": "bearish",
+    "coins": []
+  },
+  {
+    "title": "Bitcoin drops as November spot ETF outflows increase to record $4.71 billion",
+    "link": "https://www.coindesk.com/daybook-us/2026/11/24/bitcoin-drops-as-november-spot-etf-outflows-increase-to-record-usd4-71-billion",
+    "source": "coindesk.com",
+    "published_at": "2026-11-24T12:36:28+00:00",
+    "agency": "Regulatory",
+    "sentiment": "neutral",
+    "coins": [
+      "BTC"
+    ]
+  },
+  {
+    "title": "Ethereum treasury firm BTCS sells over half its ETH to $43.8M in Aave debt",
+    "link": "https://crypto.news/btcs-sells-ethereum-43-million-aave-debt/",
+    "source": "crypto.news",
+    "published_at": "2026-11-24T12:26:58+00:00",
+    "agency": "Treasury",
+    "sentiment": "bearish",
+    "coins": [
+      "AAVE",
+      "ETH"
+    ]
+  },
+  {
+    "title": "Crypto Can Fill Up to Half of a Futures Exchange’s Reserve Under New CFTC Staff Advisory",
+    "link": "https://unchainedcrypto.com/crypto-can-fill-up-to-half-of-a-futures-exchanges-reserve-under-new-cftc-staff-advisory/",
+    "source": "unchainedcrypto.com",
+    "published_at": "2026-11-24T11:15:03+00:00",
+    "agency": "CFTC",
+    "sentiment": "bearish",
+    "coins": []
+  },
+  {
+    "title": "Prediction Market Exchanges Must Identify Traders Under New CFTC Rule",
+    "link": "https://unchainedcrypto.com/prediction-market-exchanges-must-identify-traders-under-new-cftc-rule/",
+    "source": "unchainedcrypto.com",
+    "published_at": "2026-11-24T10:45:41+00:00",
+    "agency": "CFTC",
+    "sentiment": "neutral",
+    "coins": []
+  },
+  {
+    "title": "South Korea unveils crypto bill to lift ICO ban and regulate stablecoins",
+    "link": "https://crypto.news/south-korea-crypto-bill-ico-ban-stablecoin-rules/",
+    "source": "crypto.news",
+    "published_at": "2026-11-24T09:30:10+00:00",
+    "agency": "Regulatory",
+    "sentiment": "bearish",
+    "coins": []
+  },
+  {
+    "title": "Justin Sun presses Hyperliquid to review its ban on HTX-linked wallets",
+    "link": "https://crypto.news/justin-sun-hyperliquid-htx-wallet-restrictions-mexc/",
+    "source": "crypto.news",
+    "published_at": "2026-11-24T08:43:51+00:00",
+    "agency": "Regulatory",
+    "sentiment": "bearish",
+    "coins": [
+      "HYPE"
+    ]
+  },
+  {
+    "title": "South Korea Unveils Digital Asset Bill Covering Crypto Exchanges, Won-Pegged Stablecoins and ICOs",
+    "link": "https://coingape.com/south-korea-unveils-digital-asset-bill-covering-crypto-exchanges-won-pegged-stablecoins-and-icos/",
+    "source": "coingape.com",
+    "published_at": "2026-11-24T07:49:00+00:00",
+    "agency": "Regulatory",
+    "sentiment": "neutral",
+    "coins": []
+  },
+  {
+    "title": "CFTC lets exchanges use Bitcoin, Ethereum, stablecoins as reserves",
+    "link": "https://crypto.news/cftc-bitcoin-ethereum-stablecoins-financial-reserves/",
+    "source": "crypto.news",
+    "published_at": "2026-11-24T06:49:03+00:00",
+    "agency": "CFTC",
+    "sentiment": "bearish",
+    "coins": [
+      "BTC",
+      "ETH"
+    ]
+  },
+  {
+    "title": "South Korea’s 28 registered crypto firms face new regulatory scrutiny",
+    "link": "https://crypto.news/south-koreas-28-registered-crypto-firms-face-new-regulatory-scrutiny/",
+    "source": "crypto.news",
+    "published_at": "2026-11-24T06:33:03+00:00",
+    "agency": "Regulatory",
+    "sentiment": "neutral",
+    "coins": []
+  },
+  {
+    "title": "CFTC Finalizes Reporting Rules for Event Contracts",
+    "link": "https://thedefiant.io/converge/regulation/cftc-finalizes-reporting-rules-for-event-contracts",
+    "source": "thedefiant.io",
+    "published_at": "2026-11-24T04:43:30+00:00",
+    "agency": "CFTC",
+    "sentiment": "neutral",
+    "coins": []
+  },
+  {
     "title": "CFTC Alleges Backward Hat Ran Forex Ponzi Using Crypto",
     "link": "https://thedefiant.io/news/regulation/cftc-alleges-backward-hat-ran-forex-ponzi-using-crypto",
     "source": "thedefiant.io",
@@ -67,45 +196,6 @@
     "coins": []
   },
   {
-    "title": "CFTC clears Bitcoin, Ether, and stablecoins for exchange capital buffers",
-    "link": "https://cryptobriefing.com/cftc-advisory-crypto-financial-resource-requirements/",
-    "source": "cryptobriefing.com",
-    "published_at": "2026-11-23T22:25:40+00:00",
-    "agency": "CFTC",
-    "sentiment": "bearish",
-    "coins": [
-      "BTC",
-      "ETH"
-    ]
-  },
-  {
-    "title": "CFTC proposes data reporting rule for event contracts",
-    "link": "https://cryptobriefing.com/cftc-final-rule-event-contracts-reporting/",
-    "source": "cryptobriefing.com",
-    "published_at": "2026-11-23T22:05:54+00:00",
-    "agency": "CFTC",
-    "sentiment": "neutral",
-    "coins": []
-  },
-  {
-    "title": "Anthropic launches Claude Ship to automate code reviews and approvals",
-    "link": "https://cryptobriefing.com/ai-code-review-automation/",
-    "source": "cryptobriefing.com",
-    "published_at": "2026-11-23T21:31:51+00:00",
-    "agency": "Regulatory",
-    "sentiment": "bullish",
-    "coins": []
-  },
-  {
-    "title": "NoPeWorld Framework Reduces Object Penetration in Video Models by 78%",
-    "link": "https://blockchain.news/news/nopeworld-framework-reduces-object-penetration",
-    "source": "blockchain.news",
-    "published_at": "2026-11-23T21:22:35+00:00",
-    "agency": "Regulatory",
-    "sentiment": "neutral",
-    "coins": []
-  },
-  {
     "title": "White House reviews final CFTC prediction market rule",
     "link": "https://crypto.news/cftc-prediction-market-rule-white-house-review/",
     "source": "crypto.news",
@@ -142,59 +232,6 @@
     "coins": []
   },
   {
-    "title": "Solana Treasury Hits 2.62M SOL as DeFi Development Extends Its Buying Streak",
-    "link": "https://blockonomi.com/solana-treasury-hits-2-62m-sol-as-defi-development-extends-its-buying-streak/",
-    "source": "blockonomi.com",
-    "published_at": "2026-11-23T16:04:49+00:00",
-    "agency": "Treasury",
-    "sentiment": "bullish",
-    "coins": [
-      "SOL"
-    ]
-  },
-  {
-    "title": "Strive Skips Bitcoin Buying and Stock Sales for a Week, Leaving Treasury at 43,404 BTC",
-    "link": "https://unchainedcrypto.com/strive-skips-bitcoin-buying-and-stock-sales-for-a-week-leaving-treasury-at-43404-btc/",
-    "source": "unchainedcrypto.com",
-    "published_at": "2026-11-23T15:30:57+00:00",
-    "agency": "Treasury",
-    "sentiment": "neutral",
-    "coins": [
-      "BTC"
-    ]
-  },
-  {
-    "title": "XRP Ledger lending upgrade just 5 votes away from approval",
-    "link": "https://crypto.news/xrp-ledger-lending-24-validator-votes-activation/",
-    "source": "crypto.news",
-    "published_at": "2026-11-23T09:58:55+00:00",
-    "agency": "Regulatory",
-    "sentiment": "bullish",
-    "coins": [
-      "XRP"
-    ]
-  },
-  {
-    "title": "This Swedish bitcoin treasury firm lost 30 BTC trading part of its own stack",
-    "link": "https://www.coindesk.com/markets/2026/11/23/this-swedish-bitcoin-treasury-firm-lost-30-btc-trading-part-of-its-own-stack",
-    "source": "coindesk.com",
-    "published_at": "2026-11-23T07:18:45+00:00",
-    "agency": "Treasury",
-    "sentiment": "neutral",
-    "coins": [
-      "BTC"
-    ]
-  },
-  {
-    "title": "Billionaire Bill Ackman warns Fed will make a rate ‘mistake’ in December",
-    "link": "https://cointelegraph.com/markets/billionaire-bill-ackman-warns-fed-rate-hikes-could-trigger-recession?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "cointelegraph.com",
-    "published_at": "2026-11-23T02:47:39+00:00",
-    "agency": "Fed",
-    "sentiment": "bearish",
-    "coins": []
-  },
-  {
     "title": "US Senate Passes DEATH BETS Act to Ban Prediction Market Contracts on War and Death",
     "link": "https://cryptopotato.com/us-senate-passes-death-bets-act-to-ban-prediction-market-contracts-on-war-and-death/",
     "source": "cryptopotato.com",
@@ -213,15 +250,6 @@
     "coins": [
       "BTC"
     ]
-  },
-  {
-    "title": "How to Find and Read a Company's Public SEC Records",
-    "link": "https://thedefiant.io/news/regulation/how-to-find-and-read-a-company-s-public-sec-records",
-    "source": "thedefiant.io",
-    "published_at": "2026-11-21T18:18:36+00:00",
-    "agency": "SEC",
-    "sentiment": "bullish",
-    "coins": []
   },
   {
     "title": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
@@ -257,33 +285,6 @@
     "published_at": "2026-11-20T18:03:24+00:00",
     "agency": "SEC",
     "sentiment": "neutral",
-    "coins": []
-  },
-  {
-    "title": "Senate Passes Bill Banning Prediction Market Bets on War, Terrorism and Death",
-    "link": "https://decrypt.co/383700/senate-passes-bill-banning-prediction-market-bets-on-war-terrorism-and-death",
-    "source": "decrypt.co",
-    "published_at": "2026-11-20T15:42:51+00:00",
-    "agency": "Congress",
-    "sentiment": "bearish",
-    "coins": []
-  },
-  {
-    "title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
-    "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
-    "source": "federalreserve.gov",
-    "published_at": "2026-11-20T15:00:00+00:00",
-    "agency": "Fed",
-    "sentiment": "bearish",
-    "coins": []
-  },
-  {
-    "title": "SEC Charges Indianapolis-Based Backward Hat Capital and Its Co-Founders With $560 Million Dollar Offering Fraud and Obtains Emergency Relief",
-    "link": "https://www.sec.gov/newsroom/press-releases/2026-116-sec-charges-indianapolis-based-backward-hat-capital-its-co-founders-560-million-dollar-offering",
-    "source": "sec.gov",
-    "published_at": "2026-11-20T14:28:28+00:00",
-    "agency": "SEC",
-    "sentiment": "bearish",
     "coins": []
   }
 ]
