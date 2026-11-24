@@ -1,22 +1,171 @@
 [
   {
-    "title": "Bitcoin retreats to $60k amid rate, regulatory jitters",
-    "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-hovers-around-60k-amid-little-relief-from-rate-regulatory-jitters-5047126",
-    "source": "investing.com",
-    "published_at": "2026-11-24T14:56:38+00:00",
+    "title": "USDC Treasury mints 250M USDC on Solana, liquidity impact eyed",
+    "link": "https://cryptobriefing.com/usdc-treasury-mints-250m-usdc-on-solana-liquidity-impact-eyed/",
+    "source": "cryptobriefing.com",
+    "published_at": "2026-11-24T23:38:18+00:00",
+    "agency": "Treasury",
+    "sentiment": "neutral",
+    "coins": [
+      "SOL"
+    ]
+  },
+  {
+    "title": "New York Enacts Five-Year Ban on AI Companion Toys",
+    "link": "https://thedefiant.io/frontier/regulation/new-york-enacts-five-year-ban-on-ai-companion-toys",
+    "source": "thedefiant.io",
+    "published_at": "2026-11-24T22:56:03+00:00",
+    "agency": "Regulatory",
+    "sentiment": "bearish",
+    "coins": []
+  },
+  {
+    "title": "CFTC Opens Door to Bitcoin, Ether and Stablecoins as Operating Reserves",
+    "link": "https://news.bitcoin.com/regulation-and-legal/cftc-opens-door-bitcoin-ether-stablecoins-operating-reserves/",
+    "source": "news.bitcoin.com",
+    "published_at": "2026-11-24T22:55:00+00:00",
+    "agency": "CFTC",
+    "sentiment": "bearish",
+    "coins": [
+      "BTC",
+      "ETH"
+    ]
+  },
+  {
+    "title": "Texas data center growth faces hurdles amid regulatory, power challenges",
+    "link": "https://cryptobriefing.com/texas-data-center-growth-faces-hurdles-amid-regulatory-power-challenges/",
+    "source": "cryptobriefing.com",
+    "published_at": "2026-11-24T21:02:12+00:00",
+    "agency": "Regulatory",
+    "sentiment": "bullish",
+    "coins": []
+  },
+  {
+    "title": "Ukraine delays review of crypto regulation and tax bill",
+    "link": "https://crypto.news/ukraine-delays-crypto-tax-bill/",
+    "source": "crypto.news",
+    "published_at": "2026-11-24T19:58:00+00:00",
+    "agency": "Regulatory",
+    "sentiment": "bullish",
+    "coins": []
+  },
+  {
+    "title": "Federal Reserve Releases Minutes of October 2026 Discount Rate Meetings",
+    "link": "https://blockchain.news/news/federal-reserve-october-2026-discount-rate-minutes",
+    "source": "blockchain.news",
+    "published_at": "2026-11-24T19:09:19+00:00",
+    "agency": "Fed",
+    "sentiment": "neutral",
+    "coins": []
+  },
+  {
+    "title": "Hong Kong wants banks to secure new approval before holding customers’ crypto",
+    "link": "https://cryptoslate.com/hong-kong-wants-banks-to-secure-new-approval-before-holding-customers-crypto/",
+    "source": "cryptoslate.com",
+    "published_at": "2026-11-24T19:00:30+00:00",
+    "agency": "Regulatory",
+    "sentiment": "bullish",
+    "coins": []
+  },
+  {
+    "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
+    "source": "federalreserve.gov",
+    "published_at": "2026-11-24T19:00:00+00:00",
+    "agency": "Fed",
+    "sentiment": "neutral",
+    "coins": []
+  },
+  {
+    "title": "What the CFTC’s New Crypto Reserves Guidance Actually Allows—And What It Doesn’t",
+    "link": "https://decrypt.co/383906/cftc-new-crypto-reserves-guidance-actually-allows-what-it-doesnt",
+    "source": "decrypt.co",
+    "published_at": "2026-11-24T18:55:27+00:00",
+    "agency": "CFTC",
+    "sentiment": "bearish",
+    "coins": []
+  },
+  {
+    "title": "CFTC approves permanent reporting rules for prediction markets",
+    "link": "https://cryptobriefing.com/cftc-permanent-reporting-rules-prediction-markets/",
+    "source": "cryptobriefing.com",
+    "published_at": "2026-11-24T18:43:29+00:00",
+    "agency": "CFTC",
+    "sentiment": "bullish",
+    "coins": []
+  },
+  {
+    "title": "South Korea Moves to Lift Its ICO Ban After Nearly a Decade",
+    "link": "https://decrypt.co/383905/south-korea-moves-lift-ico-ban-after-nearly-decade",
+    "source": "decrypt.co",
+    "published_at": "2026-11-24T18:36:03+00:00",
     "agency": "Regulatory",
     "sentiment": "neutral",
+    "coins": []
+  },
+  {
+    "title": "CFTC sets new prediction market rules as more firms seek US entry",
+    "link": "https://cointelegraph.com/news/cftc-new-prediction-market-rules-firms-seek-us-entry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "cointelegraph.com",
+    "published_at": "2026-11-24T18:31:42+00:00",
+    "agency": "CFTC",
+    "sentiment": "bullish",
+    "coins": []
+  },
+  {
+    "title": "South Korea’s Crypto Bill Would Force Bithumb’s Owner to Sell Most of Its Stake",
+    "link": "https://unchainedcrypto.com/south-koreas-crypto-bill-would-force-bithumbs-owner-to-sell-most-of-its-stake/",
+    "source": "unchainedcrypto.com",
+    "published_at": "2026-11-24T18:30:00+00:00",
+    "agency": "Regulatory",
+    "sentiment": "bullish",
+    "coins": []
+  },
+  {
+    "title": "SWEEP leads tokenized T-bill growth with $120.3 million weekly gain",
+    "link": "https://cryptobriefing.com/sweep-leads-tokenized-t-bill-growth/",
+    "source": "cryptobriefing.com",
+    "published_at": "2026-11-24T18:13:00+00:00",
+    "agency": "Regulatory",
+    "sentiment": "bullish",
+    "coins": []
+  },
+  {
+    "title": "US Treasury yields overtake Bitcoin futures yields after billions in liquidations",
+    "link": "https://cryptobriefing.com/treasury-yields-overtake-bitcoin-futures-basis/",
+    "source": "cryptobriefing.com",
+    "published_at": "2026-11-24T17:55:48+00:00",
+    "agency": "Treasury",
+    "sentiment": "bearish",
     "coins": [
       "BTC"
     ]
   },
   {
-    "title": "South Korea Unveils Crypto Bill Capping Exchange Ownership at 20%",
-    "link": "https://bitcoinmagazine.com/news/south-korea-crypto-bill-exchange-ownership-cap",
-    "source": "bitcoinmagazine.com",
-    "published_at": "2026-11-24T14:45:00+00:00",
+    "title": "Tidal to Ban Fully AI-Generated Music From December 9",
+    "link": "https://thedefiant.io/frontier/ai/tidal-to-ban-fully-ai-generated-music-from-december-9",
+    "source": "thedefiant.io",
+    "published_at": "2026-11-24T17:01:34+00:00",
     "agency": "Regulatory",
     "sentiment": "bearish",
+    "coins": []
+  },
+  {
+    "title": "No CLARITY Act? How CFTC moves ahead with new crypto guidance",
+    "link": "https://ambcrypto.com/no-clarity-act-how-cftc-moves-ahead-with-new-crypto-guidance/",
+    "source": "ambcrypto.com",
+    "published_at": "2026-11-24T16:00:42+00:00",
+    "agency": "CFTC",
+    "sentiment": "neutral",
+    "coins": []
+  },
+  {
+    "title": "Embo-Harness Framework Achieves Breakthrough in Robotic Policy Design",
+    "link": "https://blockchain.news/news/embo-harness-robotic-policy-design",
+    "source": "blockchain.news",
+    "published_at": "2026-11-24T15:40:47+00:00",
+    "agency": "Regulatory",
+    "sentiment": "neutral",
     "coins": []
   },
   {
@@ -66,7 +215,7 @@
     "source": "unchainedcrypto.com",
     "published_at": "2026-11-24T10:45:41+00:00",
     "agency": "CFTC",
-    "sentiment": "neutral",
+    "sentiment": "bearish",
     "coins": []
   },
   {
@@ -135,156 +284,6 @@
     "published_at": "2026-11-24T04:08:29+00:00",
     "agency": "CFTC",
     "sentiment": "bearish",
-    "coins": []
-  },
-  {
-    "title": "Hong Kong Gazettes Bill to Expand Crypto Licensing",
-    "link": "https://thedefiant.io/converge/regulation/hong-kong-gazettes-bill-to-expand-crypto-licensing",
-    "source": "thedefiant.io",
-    "published_at": "2026-11-24T03:16:10+00:00",
-    "agency": "Regulatory",
-    "sentiment": "bullish",
-    "coins": []
-  },
-  {
-    "title": "Senate Backs War and Death Bet Ban for Registered Markets",
-    "link": "https://thedefiant.io/news/regulation/senate-backs-war-and-death-bet-ban-for-registered-markets",
-    "source": "thedefiant.io",
-    "published_at": "2026-11-24T03:14:44+00:00",
-    "agency": "Congress",
-    "sentiment": "bearish",
-    "coins": []
-  },
-  {
-    "title": "Binance Says MEXC Deposits Will Face Compliance Holds",
-    "link": "https://thedefiant.io/news/cefi/binance-says-mexc-deposits-will-face-compliance-holds",
-    "source": "thedefiant.io",
-    "published_at": "2026-11-24T03:13:52+00:00",
-    "agency": "Regulatory",
-    "sentiment": "neutral",
-    "coins": [
-      "BNB"
-    ]
-  },
-  {
-    "title": "U.S. CFTC sets policies on event contract data, using crypto to check financial boxes",
-    "link": "https://www.coindesk.com/policy/2026/11/23/u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-boxes",
-    "source": "coindesk.com",
-    "published_at": "2026-11-24T00:25:04+00:00",
-    "agency": "CFTC",
-    "sentiment": "neutral",
-    "coins": []
-  },
-  {
-    "title": "CFTC staff say exchanges can count Bitcoin toward operating reserves",
-    "link": "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "source": "cointelegraph.com",
-    "published_at": "2026-11-23T23:43:34+00:00",
-    "agency": "CFTC",
-    "sentiment": "bearish",
-    "coins": [
-      "BTC"
-    ]
-  },
-  {
-    "title": "CFTC Staff Clarifies Crypto Use in Operating Reserves",
-    "link": "https://thedefiant.io/converge/regulation/cftc-staff-clarifies-crypto-use-in-operating-reserves",
-    "source": "thedefiant.io",
-    "published_at": "2026-11-23T22:45:30+00:00",
-    "agency": "CFTC",
-    "sentiment": "neutral",
-    "coins": []
-  },
-  {
-    "title": "White House reviews final CFTC prediction market rule",
-    "link": "https://crypto.news/cftc-prediction-market-rule-white-house-review/",
-    "source": "crypto.news",
-    "published_at": "2026-11-23T18:21:19+00:00",
-    "agency": "CFTC",
-    "sentiment": "bullish",
-    "coins": []
-  },
-  {
-    "title": "EU Proposes Fresh Crypto Curbs in Russia Sanctions Plan",
-    "link": "https://thedefiant.io/news/regulation/eu-proposes-fresh-crypto-curbs-in-russia-sanctions-plan",
-    "source": "thedefiant.io",
-    "published_at": "2026-11-23T18:18:27+00:00",
-    "agency": "EU",
-    "sentiment": "bearish",
-    "coins": []
-  },
-  {
-    "title": "Nvidia's Jensen Huang faces Senate scrutiny despite Trump-backed return as CEO",
-    "link": "https://www.coindesk.com/business/2026/11/23/nvidia-s-jensen-huang-faces-senate-scrutiny-despite-trump-backed-return-as-ceo",
-    "source": "coindesk.com",
-    "published_at": "2026-11-23T18:12:05+00:00",
-    "agency": "Congress",
-    "sentiment": "neutral",
-    "coins": []
-  },
-  {
-    "title": "CFTC Prediction-Market Rule Reaches White House Review",
-    "link": "https://thedefiant.io/news/regulation/cftc-prediction-market-rule-reaches-white-house-review",
-    "source": "thedefiant.io",
-    "published_at": "2026-11-23T16:59:26+00:00",
-    "agency": "CFTC",
-    "sentiment": "neutral",
-    "coins": []
-  },
-  {
-    "title": "US Senate Passes DEATH BETS Act to Ban Prediction Market Contracts on War and Death",
-    "link": "https://cryptopotato.com/us-senate-passes-death-bets-act-to-ban-prediction-market-contracts-on-war-and-death/",
-    "source": "cryptopotato.com",
-    "published_at": "2026-11-22T19:48:41+00:00",
-    "agency": "Congress",
-    "sentiment": "bearish",
-    "coins": []
-  },
-  {
-    "title": "Investor Bill Miller Says Bitcoin Is Easier to Value than AI",
-    "link": "https://u.today/investor-bill-miller-says-bitcoin-is-easier-to-value-than-ai",
-    "source": "u.today",
-    "published_at": "2026-11-22T19:21:25+00:00",
-    "agency": "Regulatory",
-    "sentiment": "neutral",
-    "coins": [
-      "BTC"
-    ]
-  },
-  {
-    "title": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
-    "link": "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
-    "source": "decrypt.co",
-    "published_at": "2026-11-21T17:01:02+00:00",
-    "agency": "SEC",
-    "sentiment": "bearish",
-    "coins": []
-  },
-  {
-    "title": "Federal Reserve announces College Fed Challenge winners",
-    "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
-    "source": "federalreserve.gov",
-    "published_at": "2026-11-20T21:15:00+00:00",
-    "agency": "Fed",
-    "sentiment": "neutral",
-    "coins": []
-  },
-  {
-    "title": "Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting",
-    "link": "https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting",
-    "source": "decrypt.co",
-    "published_at": "2026-11-20T20:36:54+00:00",
-    "agency": "SEC",
-    "sentiment": "bearish",
-    "coins": []
-  },
-  {
-    "title": "SEC Issues Proposal to Restructure the Consolidated Audit Trail",
-    "link": "https://www.sec.gov/newsroom/press-releases/2026-117-sec-issues-proposal-restructure-consolidated-audit-trail",
-    "source": "sec.gov",
-    "published_at": "2026-11-20T18:03:24+00:00",
-    "agency": "SEC",
-    "sentiment": "neutral",
     "coins": []
   }
 ]
