@@ -1,5 +1,76 @@
 [
   {
+    "title": "Unknown wallet sends 200M USDT back to Tether Treasury",
+    "link": "https://cryptobriefing.com/unknown-wallet-200m-usdt-tether-treasury/",
+    "source": "cryptobriefing.com",
+    "published_at": "2026-11-28T00:25:16+00:00",
+    "agency": "Treasury",
+    "sentiment": "bearish",
+    "coins": []
+  },
+  {
+    "title": "Vitalik Buterin’s Bitcoin Hardware Wallet Fix Wouldn’t Be Approved by Ledger CTO",
+    "link": "https://news.bitcoin.com/security/buterins-bitcoin-hardware-wallet-fix-wouldnt-approved-ledger-cto/",
+    "source": "news.bitcoin.com",
+    "published_at": "2026-11-28T00:05:32+00:00",
+    "agency": "Regulatory",
+    "sentiment": "neutral",
+    "coins": [
+      "BTC"
+    ]
+  },
+  {
+    "title": "Injective Urges SEC to Open Tokenized Stock Trading to Order Books",
+    "link": "https://news.bitcoin.com/regulation-and-legal/injective-urges-sec-open-tokenized-stock-trading-order-books/",
+    "source": "news.bitcoin.com",
+    "published_at": "2026-11-27T22:40:46+00:00",
+    "agency": "SEC",
+    "sentiment": "bullish",
+    "coins": [
+      "INJ"
+    ]
+  },
+  {
+    "title": "Breaking: Brazil’s Central Bank Grants Binance Its Third Regulatory License",
+    "link": "https://coingape.com/brazils-central-bank-grants-binance-its-third-regulatory-license/",
+    "source": "coingape.com",
+    "published_at": "2026-11-27T21:41:21+00:00",
+    "agency": "Regulatory",
+    "sentiment": "neutral",
+    "coins": [
+      "BNB"
+    ]
+  },
+  {
+    "title": "Bitcoin Treasury Titans Clash Over Whether BTC Is Money or Just Savings",
+    "link": "https://beincrypto.com/saylor-cole-tucker-bitcoin-money-savings/",
+    "source": "beincrypto.com",
+    "published_at": "2026-11-27T21:00:00+00:00",
+    "agency": "Treasury",
+    "sentiment": "neutral",
+    "coins": [
+      "BTC"
+    ]
+  },
+  {
+    "title": "ASEAN+3 announces new initiative to discuss digital asset regulations — Details",
+    "link": "https://ambcrypto.com/asean3-announces-new-initiative-to-discuss-digital-asset-regulations-details/",
+    "source": "ambcrypto.com",
+    "published_at": "2026-11-27T20:00:48+00:00",
+    "agency": "Regulatory",
+    "sentiment": "bearish",
+    "coins": []
+  },
+  {
+    "title": "Six Senators Ask Treasury to Protect State Stablecoin Issuers Under the GENIUS Act",
+    "link": "https://www.cryptovantage.com/news/senators-treasury-state-stablecoin-issuers-safe-harbor/",
+    "source": "cryptovantage.com",
+    "published_at": "2026-11-27T19:33:52+00:00",
+    "agency": "Treasury",
+    "sentiment": "neutral",
+    "coins": []
+  },
+  {
     "title": "China, Japan, South Korea and ASEAN Agree to Form Crypto Regulation Working Group",
     "link": "https://coingape.com/china-japan-south-korea-and-asean-agree-to-form-crypto-regulation-working-group/",
     "source": "coingape.com",
@@ -9,52 +80,12 @@
     "coins": []
   },
   {
-    "title": "Binance Plans Tokenized IPO Program Pending Regulatory Approval",
-    "link": "https://blockonomi.com/binance-plans-tokenized-ipo-program-pending-regulatory-approval/",
-    "source": "blockonomi.com",
-    "published_at": "2026-11-27T19:12:57+00:00",
-    "agency": "Regulatory",
-    "sentiment": "bullish",
-    "coins": [
-      "BNB"
-    ]
-  },
-  {
     "title": "Spain Moves to Freeze Crypto Accounts Without Need for Court Approval",
     "link": "https://news.bitcoin.com/regulation-and-legal/spain-moves-freeze-crypto-accounts-without-court-approval/",
     "source": "news.bitcoin.com",
     "published_at": "2026-11-27T18:45:33+00:00",
     "agency": "Regulatory",
     "sentiment": "bullish",
-    "coins": []
-  },
-  {
-    "title": "Malaysia Approves 1st Spot Bitcoin ETF, World’s First With Shariah Compliance",
-    "link": "https://blockonomi.com/malaysia-approves-1st-spot-bitcoin-etf-worlds-first-with-shariah-compliance/",
-    "source": "blockonomi.com",
-    "published_at": "2026-11-27T18:30:55+00:00",
-    "agency": "Regulatory",
-    "sentiment": "bullish",
-    "coins": [
-      "BTC"
-    ]
-  },
-  {
-    "title": "China, Japan, South Korea, ASEAN form crypto regulation working group",
-    "link": "https://cryptobriefing.com/china-japan-south-korea-asean-form-crypto-regulation-working-group/",
-    "source": "cryptobriefing.com",
-    "published_at": "2026-11-27T18:06:09+00:00",
-    "agency": "Regulatory",
-    "sentiment": "neutral",
-    "coins": []
-  },
-  {
-    "title": "China sets March 2027 rollout for blockchain identity regulations",
-    "link": "https://cryptobriefing.com/china-blockchain-identity-rules-march-2027/",
-    "source": "cryptobriefing.com",
-    "published_at": "2026-11-27T17:47:38+00:00",
-    "agency": "Regulatory",
-    "sentiment": "neutral",
     "coins": []
   },
   {
@@ -67,15 +98,6 @@
     "coins": []
   },
   {
-    "title": "Congress takes aim at ASML’s China service engineers as chip war heats up",
-    "link": "https://cryptobriefing.com/congress-targets-asml-china-servicing/",
-    "source": "cryptobriefing.com",
-    "published_at": "2026-11-27T17:12:05+00:00",
-    "agency": "Congress",
-    "sentiment": "bearish",
-    "coins": []
-  },
-  {
     "title": "Bitcoin Developer Warns Google Play Policy Could Lead to Home Invasions",
     "link": "https://u.today/bitcoin-developer-warns-google-play-policy-could-lead-to-home-invasions",
     "source": "u.today",
@@ -85,15 +107,6 @@
     "coins": [
       "BTC"
     ]
-  },
-  {
-    "title": "Nvidia faces congressional scrutiny over sales to Chinese-linked firms",
-    "link": "https://cryptobriefing.com/nvidia-congressional-scrutiny-chinese-linked-chip-sales/",
-    "source": "cryptobriefing.com",
-    "published_at": "2026-11-27T16:39:46+00:00",
-    "agency": "Congress",
-    "sentiment": "neutral",
-    "coins": []
   },
   {
     "title": "UAE Issues Its First Dirham-Denominated Digital Treasury Bonds via Euroclear",
@@ -111,24 +124,6 @@
     "published_at": "2026-11-27T16:05:13+00:00",
     "agency": "Regulatory",
     "sentiment": "bearish",
-    "coins": []
-  },
-  {
-    "title": "Canada’s budget deficit hits C$5B, may influence Bank of Canada policy",
-    "link": "https://cryptobriefing.com/canadas-budget-deficit-hits-c5b-may-influence-bank-of-canada-policy/",
-    "source": "cryptobriefing.com",
-    "published_at": "2026-11-27T16:02:52+00:00",
-    "agency": "Regulatory",
-    "sentiment": "bearish",
-    "coins": []
-  },
-  {
-    "title": "UK parliamentary committee asks for the unredacted METR report on Anthropic",
-    "link": "https://cryptobriefing.com/uk-parliament-unredacted-metr-report-anthropic/",
-    "source": "cryptobriefing.com",
-    "published_at": "2026-11-27T15:45:28+00:00",
-    "agency": "Regulatory",
-    "sentiment": "neutral",
     "coins": []
   },
   {
@@ -161,26 +156,6 @@
     "coins": [
       "BTC"
     ]
-  },
-  {
-    "title": "Bit Digital borrowed against Ethereum to fund AI, and now its crypto treasury is paying the price",
-    "link": "https://cryptoslate.com/bit-digital-borrowed-against-ethereum-to-fund-ai-and-now-its-crypto-treasury-is-paying-the-price/",
-    "source": "cryptoslate.com",
-    "published_at": "2026-11-27T12:40:54+00:00",
-    "agency": "Treasury",
-    "sentiment": "bullish",
-    "coins": [
-      "ETH"
-    ]
-  },
-  {
-    "title": "Gate And OneKey On Malicious Wallet Approvals And Address Poisoning",
-    "link": "https://beincrypto.com/gate-onekey-malicious-wallet-approvals-address-poisoning/",
-    "source": "beincrypto.com",
-    "published_at": "2026-11-27T11:15:17+00:00",
-    "agency": "Regulatory",
-    "sentiment": "neutral",
-    "coins": []
   },
   {
     "title": "Injective asks SEC to allow order books for tokenized stock trading",
@@ -288,12 +263,41 @@
     ]
   },
   {
-    "title": "US Strategic Bitcoin Reserve Bill Would Block BTC Sales for 20 Years",
-    "link": "https://bitcoinist.com/us-strategic-bitcoin-reserve-20-year-lockup/",
-    "source": "bitcoinist.com",
-    "published_at": "2026-11-26T17:20:43+00:00",
+    "title": "NovaTech Hit With $1.3 Billion Ruling in NY Attorney General Enforcement Case",
+    "link": "https://coingape.com/novatech-hit-with-1-3-billion-ruling-in-ny-attorney-general-enforcement-case/",
+    "source": "coingape.com",
+    "published_at": "2026-11-26T17:02:54+00:00",
     "agency": "Regulatory",
     "sentiment": "neutral",
+    "coins": []
+  },
+  {
+    "title": "Injective Pushes SEC to Extend Tokenized Stock Framework to On-chain Orderbooks",
+    "link": "https://coingape.com/injective-pushes-sec-to-extend-tokenized-stock-framework-to-on-chain-orderbooks/",
+    "source": "coingape.com",
+    "published_at": "2026-11-26T16:40:20+00:00",
+    "agency": "SEC",
+    "sentiment": "bullish",
+    "coins": [
+      "INJ"
+    ]
+  },
+  {
+    "title": "New York Attorney General wins $1.4 billion ruling against founders of crypto trading firm NovaTech",
+    "link": "https://www.coindesk.com/policy/2026/11/26/new-york-attorney-general-wins-usd1-4-billion-ruling-against-founders-of-crypto-trading-firm-novatech",
+    "source": "coindesk.com",
+    "published_at": "2026-11-26T10:40:33+00:00",
+    "agency": "Regulatory",
+    "sentiment": "bullish",
+    "coins": []
+  },
+  {
+    "title": "Washington’s Crypto Policy Showdown: 3 Battles to Watch, Including the Bitcoin Reserve Bill",
+    "link": "https://cryptopotato.com/washingtons-crypto-policy-showdown-3-battles-to-watch-including-the-bitcoin-reserve-bill/",
+    "source": "cryptopotato.com",
+    "published_at": "2026-11-26T08:05:56+00:00",
+    "agency": "Regulatory",
+    "sentiment": "bearish",
     "coins": [
       "BTC"
     ]
